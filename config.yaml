@@ -5,7 +5,7 @@ markup:
       
 # enableGitInfo: true
 disablePathToLower: true
-baseURL: https://unnus.com
+baseURL: https://vibrant-booth-ad4728.netlify.app
 languageCode: en-us
 title: 'unnus '
 params:
