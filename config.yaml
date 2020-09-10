@@ -1,0 +1,14 @@
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+# enableGitInfo: true
+disablePathToLower: true
+baseURL: https://unnus.com
+languageCode: en-us
+title: 'unnus '
+params:
+ socialThumbnail: /assets/images/default-card.png
+ twitterHandle: "unnus_"
+ author: Slimane M. Baghouri

@@ -1,0 +1,117 @@
+.header-press{
+	h2{
+		font-size:3.5em;
+	}
+
+	.container{
+		text-align: center;
+	}
+}
+.press-manifesto{
+	.container{
+		text-align: center;
+	}
+	.logotypes-unnus svg{
+		display: block;
+		margin:10% auto;
+		width: 100%;
+	}
+
+	.btn-s{
+		background:#000 !important;
+		overflow: hidden;
+		width:100%;
+		margin-top:15%;
+		margin-bottom:10%;
+		font-size:1.5em;
+		display: block;
+		text-align: center;
+		svg{right: 6%;bottom: 33%;}
+	}
+	.btn-s:hover svg{right:4%}
+}
+
+.press-holder{
+	background:#000;
+	.press-manifesto{
+		h2{
+			color:#FFF;
+			margin-top:10%;
+		}
+		p{
+			color:#ffffffc9;
+			&:last-child{
+				margin-bottom:12%;
+			}
+		}
+	}
+}
+
+
+.unnus-color-schemes .swatch {
+  background-color: #3c3b3d;
+  border-radius: 5px;
+  margin: 0 20px 20px 0;
+  overflow: hidden;
+  
+    
+  .swatch-color {
+    position: relative;
+    width: 100%;
+    padding: 6.5em 1em;
+    display: block;
+    
+    &:after {
+      position: absolute;
+      content: '';
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 50%;
+      background-color: rgba(0,0,0,.1);
+    }
+    
+    &.color-green {
+      background-color: $sc;
+    }
+
+    &.color-grey {
+      background-color: #f5f5f5;
+    }
+
+    &.color-green-light {
+      background-color: #ccc;
+    }
+    &.color-green-dark {
+      background-color: rgba(#000, .7);
+    }
+
+  }
+  
+  .swatch-info {
+    padding: 1em;
+    color: #FFF;
+    text-align: center;
+    
+    p {
+      font-size: 0.85rem;
+      margin-bottom: .75em;
+			color:rgba(#FFF, .78);      
+      &:first-child {
+        font-weight: 600;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        color: #fff;
+      }
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+.unnnus-colors-section{
+	margin-bottom:0 !important;	
+	padding-bottom: 0;
+}

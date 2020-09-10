@@ -1,0 +1,107 @@
+.header-course{
+	.header-text{
+    text-align: center;
+    margin-top: 2%;
+    height: 365px;
+    background: black;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+		position:relative;
+    background-color: #f22613;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23c21e0f' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%2391170b' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23610f08' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23300804' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23000000' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;	
+		.container{
+			z-index: 9;
+		}
+		h1{
+			font-size:3em;
+			width:800px;
+		}
+    &:after{
+	  	position: absolute;
+	  	content:'';
+	    top: 0;
+	    bottom: 0;
+	    width: 100%;
+	    height: 100%;
+	    background: rgba(0,0,0,0.7);
+    }
+	}
+}
+.course-check{
+
+	list-style: none;
+	padding:0;
+	svg{
+		width: 35px;
+    height: 29px;
+    position: absolute;
+    left: 26px;
+    top: 28px;
+    padding: 5px;
+    background: black;
+    path{
+    	fill:#FFF;
+    }
+	}
+	li{
+    line-height: 2;
+    padding-left: 15%;
+    box-shadow: 0 10px 50px rgba(25, 37, 52, 0.14), 0 2px 5px rgba(25, 37, 52, 0.03);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    padding-right: 14%;
+    position: relative;
+	}
+
+	li:nth-child(1){
+		p{
+			font-size:1em;
+			margin:0;
+			// padding:0;
+			// display: none;
+		}
+	}
+}
+
+.course-content{
+  background:#000; // fall back color
+  background: linear-gradient(351deg, #920c00 0%, black 96%);
+	padding-top: 80px;
+	padding-bottom: 80px;
+	margin-bottom:0;
+	h2{
+		text-align:center;
+		color:#FFF;
+	}
+
+	.module-holder{
+		display: flex;
+		flex-direction:column;
+	}
+
+	.row{
+		display: flex;
+		text-align: center;
+		margin-top:5%;
+		svg{
+			width:80px;
+			height:80px;
+			 path {
+			    stroke: #FFF;
+			    stroke-width: 0px;
+			}
+		}
+	}
+
+	.lesson {
+		h4{
+			color:#FFF;
+		}
+		p{padding: 0 30px 0 30px}
+	}
+
+}
