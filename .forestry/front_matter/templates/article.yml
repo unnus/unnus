@@ -3,53 +3,57 @@ label: 'Article '
 hide_body: false
 fields:
 - type: text
-  name: page
-  label: page
+  name: layout
+  label: layout
 - type: text
   name: title
   label: title
 - type: text
-  name: url
-  label: url
+  name: category
+  label: Category
 - type: text
   name: author
-  label: author
-- type: file
-  name: authorAvatarBottom
-  label: authorAvatarBottom
+  label: Author name
 - type: file
   name: authorAvatarTop
-  label: authorAvatarTop
-- type: text
-  name: twitterHandle
-  label: twitterHandle
-- type: text
-  name: linkedinHandle
-  label: linkedinHandle
+  label: Author avatar small for article top section (Small size 50x50/50x58)
+- type: file
+  name: authorAvatarBottom
+  label: Author bio avatar for article bottom section (Medium size 100x150 or larger)
 - type: textarea
   name: authorBio
-  label: authorBio
-- type: list
-  name: categories
-  label: categories
+  label: Author bio
+- type: text
+  name: twitterHandle
+  label: Author twitter handle (/yourTwitterHandle)
+- type: text
+  name: linkedinHandle
+  label: Author linkedin handle (/yourLinkedinHandle)
+- type: text
+  name: readingTime
+  label: Article reading time (put a number/in minutes/ example 6 or 7)
+- type: text
+  name: permalink
+  label: permalink (What url this article should be? blog/example)
 - type: datetime
   name: date
   label: date
-- type: text
-  name: description
-  label: description
 - type: file
   name: featImg
-  label: featImg
-- type: file
-  name: featImgThumb
-  label: featImgThumb
+  label: Featured image (1300x600) or larger
 - type: file
   name: socialThumbnail
-  label: socialThumbnail
-- type: text
-  name: readingTime
-  label: readingTime
-- type: list
-  name: table_of_content
-  label: table_of_content
+  label: Social Media Thumbnail (facebok/twitter)
+- type: file
+  name: featImgThumb (660x300)
+  label: Featured image thumbnail
+- type: textarea
+  name: description
+  label: Description (for meta tag)
+- name: table_of_content
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Table of content
