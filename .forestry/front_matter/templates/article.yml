@@ -60,3 +60,5 @@ fields:
     min: 
     max: 
   label: Table of content
+pages:
+- content/medical/social-media-in-healthcare.md
