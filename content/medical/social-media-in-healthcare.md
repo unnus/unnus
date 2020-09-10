@@ -1,7 +1,7 @@
 +++
 author = "Dany Alpha"
 authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/work/rodbell-thumbnail.jpg"
+authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
 authorBio = "This is the most boring bio you'll ever read, in fact stop reading it right now"
 category = "social"
 date = 2020-09-09T23:00:00Z
