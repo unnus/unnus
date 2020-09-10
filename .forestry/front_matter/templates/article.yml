@@ -2,9 +2,12 @@
 label: 'Article '
 hide_body: false
 fields:
-- type: text
-  name: layout
-  label: layout
+- name: page
+  type: text
+  config:
+    required: true
+  label: Article Template
+  default: medical/single.html
 - type: text
   name: title
   label: title
