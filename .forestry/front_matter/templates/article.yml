@@ -48,8 +48,8 @@ fields:
   name: socialThumbnail
   label: Social Media Thumbnail (facebok/twitter)
 - type: file
-  name: featImgThumb (660x300)
-  label: Featured image thumbnail
+  name: featImgThumb 
+  label: Featured image thumbnail (660x300)
 - type: textarea
   name: description
   label: Description (for meta tag)
