@@ -1,6 +1,6 @@
 ---
 page: privte/single.html
-title: know why
+title: Thank you for your trust
 which: acknowledgment
 description: unnus acknowledgment  
 ---
