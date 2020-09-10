@@ -12,3 +12,6 @@ params:
  socialThumbnail: /assets/images/default-card.png
  twitterHandle: "unnus_"
  author: Slimane M. Baghouri
+
+ minify:
+  disableSVG: true
