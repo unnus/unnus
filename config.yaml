@@ -14,4 +14,4 @@ params:
  author: Slimane M. Baghouri
 
  minify:
-  disableSVG: false
+  disableSVG: true
