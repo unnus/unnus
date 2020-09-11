@@ -5,11 +5,11 @@ markup:
       
 # enableGitInfo: true
 disablePathToLower: true
-baseURL: https://vibrant-booth-ad4728.netlify.app
+baseURL: https://unnus.com
 languageCode: en-us
 title: 'unnus '
 params:
- socialThumbnail: /assets/images/default-card.png
+ socialThumbnail: https://unnus.com/assets/images/default-card.png
  twitterHandle: "unnus_"
  author: Slimane M. Baghouri
 
