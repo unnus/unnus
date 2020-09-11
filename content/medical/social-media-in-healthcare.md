@@ -6,7 +6,6 @@ authorBio = "This is the most boring bio you'll ever read, in fact stop reading 
 category = "social"
 date = 2020-09-09T23:00:00Z
 description = "Healthcare social media is blooming, and we'll explore it in this article"
-draft = true
 featImg = "/assets/images/work/rodbell-thumbnail.jpg"
 featImgThumb = "/assets/images/work/rodbell-thumbnail.jpg"
 linkedinHandle = "/slimanebaghouri"
