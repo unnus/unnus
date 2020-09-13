@@ -8,20 +8,42 @@ description: unnus is a healthcare branding agency that helps medical businesses
 	<div class="container">
 		<div class="course-intro-holder">
 			<div class="text-content">
-				<h3>How effectively can you operate in an environment that has multiple care facilities competing for the same patients, providers and services?</h3>
-				<p>Today’s patients have a myriad of care options to choose from.</p>
-				<p>let me ask you this, If people can choose where they get healthcare, and they have a bunch of options, why should they choose you?</p>
-				<p>Why should family members want their loved ones treated at your facility?</p>
-				<p>why patients should<strong> choose you over the other providers? </strong></p>
+				<h3>How effectively can you operate in an environment that has multiple care facilities competing for the same patients and services?</h3>
+				<p>Giving the flood of “me too” care services, patients have wider options to pick and choose from</p>
+				<p>Ironically, when medical businesses are faced with competition from too many services, features, messages, meanings, or media, their first reaction is to <b>fight clutter with more clutter.</b></p>
+				<p>It's like trying to put out a fire with gasoline</p>
+				<p>And to this, patients deals with clutter the best way they can—by blocking most of it out.</p>
+				<p>If people can choose where they get healthcare, and they have a bunch of options:</p>
+				<p>why should they<strong> choose your medical business over others? </strong></p>
 				<p>Here's the usual statements</p>
-				<p><em>“Because we are the best at what we do”<br>“Cutting edge technologies”<br> “healthcare leaders”</em></p>
-				<p>Fair enough, however, will it be a wise idea to claim broadly-used statements like “We’re the best” or “health leaders”?</p>
-				<p>Probably not.</p>
-				<p>These parity statement alone is not enough; people know that not everybody can claim to be the “best” or “leaders”. Yet, everyday patients are still bombarded with the same  “we/us” messages.</p>
-				<p>So, does your messages, if any, <strong>create a flattering reflection of your patient’s own beliefs and values?</strong> Or is it yet another “we” messages?</p>
+				<p><em>“We are the best at what we do”<br/>“We provide cutting edge technologies”<br><em>“Data-driven healthcare”</em><br> “we're experts in the field”</em><br><em>“We offer transparent prices”</em><br><em>“We provide quality care”</em></p>
+				<p>The issue is that, when you probe for specifics, the discussions are typically fuzzy and full of sound bites that competitiors are —just as equally/easily— using to describe their care services.</p>
+				<p>This only adds clutter and leads to commoditization of your services</p>
+				<p>In addition, will it be a wise idea to claim broadly-used statements like “We’re the best” or “health leaders”?</p>
+				<p>Evidently not.</p>
+				<p>Yet, everyday patients are still bombarded with the same  “we/us” messages.</p>
+				<p>What patients want today are medical brands that matches their core characteristics</p>
+				<p>A trustworthy brands that pulls them like a magnet.</p>
+				<p>What they <em>don't</em> want is more intrusive ads, more empty claims—more of the same gobbledygook.</p>
+				<p>So, does your messages, if any, <strong>create a flattering reflection of your patient’s own beliefs and values?</strong> Or 
+				is it yet another “we” messages?</p>
 				<p>patients will <strong>favorably</strong> choose what resonates with them first. And By branding your healthcare services, you directly influence preference-based judgements, making a direct impact on the patient & referral decision-process.</p>
-				<p>We'll go on how you can leverage positioning strategies to your advantage by <strong>establishing your practice as the better alternative</strong></p>
-				<h3>This course will cover:</h3>
+				<h3>In a sea of sameness, crafting your authentic healthcare brand is your ticket to singularity </h3>
+				<!-- <h3>carve down your uniquness and stand out by crafting your healthcare brand </h3> -->
+				<!-- <h3>Your winning ticket to break from the pack is crafting your brand</h3> -->
+				<p><b>What's a brand?</b> Hint: It’s not your hospitl's logo or advertising. Those things are controlled by you.</p>
+				<p>Instead, a brand is a patient's gut feeling about your care services, or practice.</p>
+				<p>It's an authentic, non-generic, embodiment of your medical business philosophy </p>
+				<p>You create brands to bring order out of clutter. </p>
+				<p>And much like your reputation, your medical brand, lies outside
+				your control.</p>
+				<p><b>It’s not what YOU say it is—it’s what THEY say it is.</b></p>
+				<p>The best you can do is <b>influence</b> it. </p>
+				<p>In this series, we explore ways you can develop a differentation strategy that sets you apart from other institutions/practices</p>
+				<p>We'll also tackle how to develop your healthcare brand from scratch</p>
+				<p>Additionally, you'll see how to make patients evanglists that spread the gospel of your brand to others</p>
+				<p>You will also learn what are positioning strategies and how you can leverge them to your advantage by <strong>establishing your practice as the better alternative</strong></p>				
+				<h3>This series will cover:</h3>
 				<ul class="course-check">
 					<li>
 						<svg width="21" height="49" viewBox="0 0 21 49" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -70,7 +92,7 @@ description: unnus is a healthcare branding agency that helps medical businesses
 <!-- multi step -->
 
 <div class="form-quote">
-	<p>"The in-depth knowledge we got from this course alone has been instrumental to our success as a medical practice"</p>
+	<p>"The in-depth knowledge we got from these tactics alone has been instrumental to our success as a medical practice"</p>
 	<div class="mini-avatar-testimonial">
 			<div class="mini-avatar-image">
 			</div>

@@ -11,8 +11,16 @@ weight: 4
 	<div class="container">
 		<div class="course-intro-holder">
 			<div class="text-content">
-				<h3>Is your healthcare brand a “me-too” brand?</h3>
-				<p>Giving the increase in patient-choice, what are you providing <strong>besides the care services that everyone else is already offering?</strong></p>
+
+<h3>In the first part, I explain the danger of looking like everyone else in healthcare</h3>
+<p>And then I’ll go on how you can leverage positioning strategies to your advantage by establishing your care services as the <strong><em>better alternative</em></strong></p>
+<p>This course is meant to shift your medical business to a higher plane.</p>
+<p>You you’re not going to compete with other providers, <strong>you’re going to render the whole competition irrelevant. </strong></p>
+<p>More importantly,  we'll go over how you can <strong>establish a value beyond your care services</strong> that will generate you a high value patients, referrals and increase patient retention</p>
+<p>We’ll cover multiple evedince-based branding strategies that are meant to make your brand stand out.</p>
+
+<h3>Is your healthcare brand a “me-too” brand?</h3>
+<p>Giving the increase in patient-choice, what are you providing <strong>besides the care services that everyone else is already offering?</strong></p>
 
 <p>How effectively can you operate in an environment that has multiple care facilities competing for the same patients, providers and services? </p>
 <h3>Delivering quality care is no longer enough to remain competitive</h3>
@@ -20,12 +28,8 @@ weight: 4
 <p>Insurers are shifting from fee-per-service to a value-based reimbursement model. </p>
 <p>As a result, the focus on patient experience is of the highest importance.</p>
 <p>Given these changes and beyond the quality of care, <strong>what does your organization do that enhances patient experience?</strong></p>
-<h3>In the first lesson, I explain the danger of looking like everyone else in healthcare</h3>
-<p>And then I’ll go on how you can leverage positioning strategies to your advantage by establishing your care services as the <strong><em>better alternative</em></strong></p>
-<p>This course is meant to shift your medical business to a higher plane.</p>
-<p>You you’re not going to compete with other providers, <strong>you’re going to render the whole competition irrelevant. </strong></p>
-<p>More importantly,  we'll go over how you can <strong>establish a value beyond your care services</strong> that will generate you a high value patients, referrals and increase patient retention</p>
-<p>We’ll cover multiple evedince-based branding strategies that are meant to make your brand stand out.</p>
+
+<p>---</p>
 <p>By joining this free 6 day course, you’ll receive research-driven branding strategies which will cover:</p>
 
 <h3>This course will cover:</h3>
