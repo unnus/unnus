@@ -10,7 +10,7 @@ description: unnus is a healthcare branding agency that helps medical businesses
 			<div class="text-content">
 				<h3>How effectively can you operate in an environment that has multiple care facilities competing for the same patients and services?</h3>
 				<p>Giving the flood of “me too” care services, patients have wider options to pick and choose from</p>
-				<p>Ironically, when medical businesses are faced with competition from too many services, features, messages, meanings, or media, their first reaction is to <b>fight clutter with more clutter.</b></p>
+				<p>Ironically, when medical businesses are faced with competition from too many services, features, messages, meanings, or media, their first reaction is to fight clutter with more clutter.</p>
 				<p>It's like trying to put out a fire with gasoline</p>
 				<p>And to this, patients deals with clutter the best way they can—by blocking most of it out.</p>
 				<p>If people can choose where they get healthcare, and they have a bunch of options:</p>
@@ -37,7 +37,6 @@ description: unnus is a healthcare branding agency that helps medical businesses
 				<p>You create brands to bring order out of clutter. </p>
 				<p>And much like your reputation, your medical brand, lies outside
 				your control.</p>
-				<p><b>It’s not what YOU say it is—it’s what THEY say it is.</b></p>
 				<p>The best you can do is <b>influence</b> it. </p>
 				<p>In this series, we explore ways you can develop a differentation strategy that sets you apart from other institutions/practices</p>
 				<p>We'll also tackle how to develop your healthcare brand from scratch</p>
