@@ -11,25 +11,58 @@ weight: 4
 	<div class="container">
 		<div class="course-intro-holder">
 			<div class="text-content">
+<h2 style="margin-top:0">If you ever...</h2>
 
-<h3>In the first part, I explain the danger of looking like everyone else in healthcare</h3>
-<p>And then I’ll go on how you can leverage positioning strategies to your advantage by establishing your care services as the <strong><em>better alternative</em></strong></p>
-<p>This course is meant to shift your medical business to a higher plane.</p>
-<p>You you’re not going to compete with other providers, <strong>you’re going to render the whole competition irrelevant. </strong></p>
-<p>More importantly,  we'll go over how you can <strong>establish a value beyond your care services</strong> that will generate you a high value patients, referrals and increase patient retention</p>
-<p>We’ll cover multiple evedince-based branding strategies that are meant to make your brand stand out.</p>
+<p>Worked in or managed a medical business where “process” overshadows purpose; where colleagues don’t collaborate; where decisions seem disconnected; where expressions get lost in translation; where the spark of inspiration fizzles before it reaches your patients; or where it’s just no fun to come to the office, you’ve experienced the uncomfortable gap between the spreadsheet-driven past and the <b>brand-driven</b> future.</p>
 
-<h3>Is your healthcare brand a “me-too” brand?</h3>
-<p>Giving the increase in patient-choice, what are you providing <strong>besides the care services that everyone else is already offering?</strong></p>
+<p>Without a clearly drawn vision, it’s dangerous to empower people.</p>
+<p>Medical businesses routinely separate functions or hierarchical levels to achieve efficiencies.</p>
+<p>However, these divides lead to confusion, anxiety, and distrust as employees work at cross-purposes, taking refuge in functional silos instead of a collaborative ecosystem.</p>
 
-<p>How effectively can you operate in an environment that has multiple care facilities competing for the same patients, providers and services? </p>
-<h3>Delivering quality care is no longer enough to remain competitive</h3>
-<p>Healthcare reform brought major changes to the health industry. </p>
-<p>Insurers are shifting from fee-per-service to a value-based reimbursement model. </p>
-<p>As a result, the focus on patient experience is of the highest importance.</p>
-<p>Given these changes and beyond the quality of care, <strong>what does your organization do that enhances patient experience?</strong></p>
+<p>This makes your medical staff sub-optimizing when you need is all parts working together.</p>
 
-<p>---</p>
+<p>Employees go about directionless, without an understanding of their role in delivering the (non-existent) consistent experience for patients.</p>
+
+<p>And everyone pulls in a different direction.</p>
+
+<p>Even in smaller practices/clinics, without a concrete target, they grab at short-term gains while incurring the long-term loss of their identities.</p>
+
+
+<p>People lose a sense of mission, and your practice values dissolve as if they were never there.</p>
+
+<p>Rigid, “Data-driven approaches” eclipses your core philosophy, leaving your business without a concrete objective to aim at.</p>
+
+<p>There is no shared <b>vision/understanding</b> of the overarching goal that you are trying to accomplish</p>
+
+<p>The word “vision” is tossed around a lot in the healthcare field these days.</p>
+
+<p>And it’s usually used as a decoration rather than an actual plan that everyone needs to follow.</p>
+
+<p>Causing operational inefficiency across the whole organization/ practice...</p>
+
+<h2>Creating a cohisve and unified healthcare brand</h2>
+<p><b>What's a brand?</b> Hint: It’s not your hospitl's logo or advertising.</p>
+<p>A brand is the way your hospital or practice is perceived by those who experience it.</p>
+<p>It's an authentic, non-generic, embodiment of your medical business mission</p>
+<p>It differentiate your practice and give it a heading</p>
+<p>You create brands to bring order out of clutter.</p>
+<p>Building a brand for your medical business is the most transformative decision you can make</p>
+<p>Because it glues your whole practice/hospital behind a clearly articulated <b>purpose.</b></p>
+
+
+<!-- <p>Lists of core values that practices/hospitals publish to help them define their cultures.</p>
+
+<p>They appear to be selected from a short list of about 12 virtues.</p>
+<p><b>Our culture is (choose four):</b></p>
+
+<p>Innovative, data-driven, patient-focused, proactive, responsive, honest, trusted, quality-care, progressive, ethical, accountable, and optimistic.</p>
+
+<p>While virutes like the above are admirable, to stand apart requires you to define what makes you unique, not by what makes you admirable.</p>
+
+<p>Having culture in your medical business is critical</p>
+<p>However, copy and pasting values won't </p>
+
+ --><p>---</p>
 <p>By joining this free 6 day course, you’ll receive research-driven branding strategies which will cover:</p>
 
 <h3>This course will cover:</h3>
