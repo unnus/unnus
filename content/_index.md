@@ -8,46 +8,44 @@ description: unnus is a healthcare branding agency that helps medical businesses
 	<div class="container">
 		<div class="course-intro-holder">
 			<div class="text-content">
-				<h3>How effectively can you operate in an environment that has multiple care facilities competing for the same patients and services?</h3>
+				<h3 style="margin-top:0;">How effectively can you operate in an environment that has multiple care facilities competing for the same patients and services?</h3>
 				<p>Giving the flood of “me too” care services, patients have wider options to pick and choose from</p>
 				<p>Ironically, when medical businesses are faced with competition from too many services, features, messages, meanings, or media, their first reaction is to fight clutter with more clutter.</p>
 				<p>It's like trying to put out a fire with gasoline</p>
-				<p>And to this, patients deals with clutter the best way they can—by blocking most of it out.</p>
+				<p>And to this, patients deal with clutter the best way they can—by blocking most of it out.</p>
 				<p>If people can choose where they get healthcare, and they have a bunch of options:</p>
 				<p>why should they<strong> choose your medical business over others? </strong></p>
-				<p>Here's the usual statements</p>
+				<p>Here are the usual statements</p>
 				<p><em>“We are the best at what we do”<br/>“We provide cutting edge technologies”<br><em>“Data-driven healthcare”</em><br> “we're experts in the field”</em><br><em>“We offer transparent prices”</em><br><em>“We provide quality care”</em></p>
-				<p>The issue is that, when you probe for specifics, the discussions are typically fuzzy and full of sound bites that competitiors are —just as equally/easily— using to describe their care services.</p>
-				<p>This only adds clutter and leads to commoditization of your services</p>
-				<p>In addition, will it be a wise idea to claim broadly-used statements like “We’re the best” or “health leaders”?</p>
+				<p>The issue is that, when you probe for specifics, the discussions are typically fuzzy and full of sound bites that competitors are —just as equally/easily— using to describe their care services.</p>
+				<p>This only adds clutter and leads to the commoditization of your services</p>
+				<p>Besides, will it be a wise idea to claim broadly-used statements like “We’re the best” or “health leaders”?</p>
 				<p>Evidently not.</p>
-				<p>Yet, everyday patients are still bombarded with the same  “we/us” messages.</p>
-				<p>What patients want today are medical brands that matches their core characteristics</p>
-				<p>A trustworthy brands that pulls them like a magnet.</p>
+				<p>Yet, every day patients are still bombarded with the same  “we/us” messages.</p>
+				<p>What patients want today are medical brands that match their core characteristics</p>
+				<p>A trustworthy brand that pulls them like a magnet.</p>
 				<p>What they <em>don't</em> want is more intrusive ads, more empty claims—more of the same gobbledygook.</p>
-				<p>So, does your messages, if any, <strong>create a flattering reflection of your patient’s own beliefs and values?</strong> Or 
-				is it yet another “we” messages?</p>
-				<p>patients will <strong>favorably</strong> choose what resonates with them first. And By branding your healthcare services, you directly influence preference-based judgements, making a direct impact on the patient & referral decision-process.</p>
-				<h3>In a sea of sameness, crafting your authentic healthcare brand is your ticket to singularity </h3>
+				<p>So, do your messages, if any, <strong>create a flattering reflection of your patient’s own beliefs and values?</strong> Or 
+				is it yet another “we” message?</p>
+				<p>patients will <strong>favorably</strong> choose what resonates with them first.</p><p> And by branding your healthcare services, you directly influence preference-based judgments, making a direct impact on the patient & referral decision-process.</p>
+				<h3>In a sea of sameness, your authentic healthcare brand is your way to stand out </h3>
 				<!-- <h3>carve down your uniquness and stand out by crafting your healthcare brand </h3> -->
 				<!-- <h3>Your winning ticket to break from the pack is crafting your brand</h3> -->
-				<p><b>What's a brand?</b> Hint: It’s not your hospitl's logo or advertising. Those things are controlled by you.</p>
-				<p>Instead, a brand is a patient's gut feeling about your care services, or practice.</p>
-				<p>It's an authentic, non-generic, embodiment of your medical business philosophy </p>
-				<p>You create brands to bring order out of clutter. </p>
-				<p>And much like your reputation, your medical brand, lies outside
-				your control.</p>
-				<p>The best you can do is <b>influence</b> it. </p>
-				<p>In this series, we explore ways you can develop a differentation strategy that sets you apart from other institutions/practices</p>
+				<p><b>What's a brand?</b> Hint: It’s not your hospital's logo or advertising.</p>
+				<p>A brand is the way your hospital or practice is perceived by those who experience it.</p>
+				<p>It's an authentic, non-generic, embodiment of your medical business mission</p>
+				<p>It differentiates your practice and gives it a heading</p>
+				<p>You create brands to bring order out of the clutter.</p>
+				<p>In this series, we explore ways you can develop a differentiation strategy that sets you apart from other institutions/practices</p>
 				<p>We'll also tackle how to develop your healthcare brand from scratch</p>
-				<p>Additionally, you'll see how to make patients evanglists that spread the gospel of your brand to others</p>
-				<p>You will also learn what are positioning strategies and how you can leverge them to your advantage by <strong>establishing your practice as the better alternative</strong></p>				
+				<p>Additionally, you'll see how to make patients evangelists that spread the gospel of your brand to others</p>
+				<p>We'll see what are positioning strategies and how you can leverage them to your advantage by <strong>establishing your medical business as the better alternative</strong></p>				
 				<h3>This series will cover:</h3>
 				<ul class="course-check">
 					<li>
 						<svg width="21" height="49" viewBox="0 0 21 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 					<path d="M0.589844 49V46.1445H1.45312C2.22786 46.1445 2.94727 46.0892 3.61133 45.9785C4.29753 45.8678 4.89518 45.6465 5.4043 45.3145C5.91341 44.9603 6.31185 44.4622 6.59961 43.8203C6.88737 43.1784 7.03125 42.3262 7.03125 41.2637V8.19336C7.03125 7.13086 6.88737 6.27865 6.59961 5.63672C6.31185 4.99479 5.91341 4.50781 5.4043 4.17578C4.89518 3.82161 4.29753 3.58919 3.61133 3.47852C2.94727 3.36784 2.22786 3.3125 1.45312 3.3125H0.589844V0.457031H20.3789V3.3125H19.4824C18.7298 3.3125 18.0104 3.36784 17.3242 3.47852C16.638 3.58919 16.0404 3.82161 15.5312 4.17578C15.0443 4.50781 14.6458 4.99479 14.3359 5.63672C14.0482 6.27865 13.9043 7.13086 13.9043 8.19336V41.2637C13.9043 42.3262 14.0482 43.1784 14.3359 43.8203C14.6458 44.4622 15.0443 44.9603 15.5312 45.3145C16.0404 45.6465 16.638 45.8678 17.3242 45.9785C18.0104 46.0892 18.7298 46.1445 19.4824 46.1445H20.3789V49H0.589844Z" fill="black"/>
-					</svg> How by positioning your practice you attract high value patients</li>
+					</svg> How by positioning your practice you attract high-value patients</li>
  <li> 
 <svg width="46" height="49" viewBox="0 0 46 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.589844 49V46.1445H1.45312C2.22786 46.1445 2.94727 46.0892 3.61133 45.9785C4.29753 45.8678 4.89518 45.6465 5.4043 45.3145C5.91341 44.9603 6.31185 44.4622 6.59961 43.8203C6.88737 43.1784 7.03125 42.3262 7.03125 41.2637V8.19336C7.03125 7.13086 6.88737 6.27865 6.59961 5.63672C6.31185 4.99479 5.91341 4.50781 5.4043 4.17578C4.89518 3.82161 4.29753 3.58919 3.61133 3.47852C2.94727 3.36784 2.22786 3.3125 1.45312 3.3125H0.589844V0.457031H20.3789V3.3125H19.4824C18.7298 3.3125 18.0104 3.36784 17.3242 3.47852C16.638 3.58919 16.0404 3.82161 15.5312 4.17578C15.0443 4.50781 14.6458 4.99479 14.3359 5.63672C14.0482 6.27865 13.9043 7.13086 13.9043 8.19336V41.2637C13.9043 42.3262 14.0482 43.1784 14.3359 43.8203C14.6458 44.4622 15.0443 44.9603 15.5312 45.3145C16.0404 45.6465 16.638 45.8678 17.3242 45.9785C18.0104 46.0892 18.7298 46.1445 19.4824 46.1445H20.3789V49H0.589844ZM25.5586 49V46.1445H26.4219C27.1966 46.1445 27.916 46.0892 28.5801 45.9785C29.2663 45.8678 29.8639 45.6465 30.373 45.3145C30.8822 44.9603 31.2806 44.4622 31.5684 43.8203C31.8561 43.1784 32 42.3262 32 41.2637V8.19336C32 7.13086 31.8561 6.27865 31.5684 5.63672C31.2806 4.99479 30.8822 4.50781 30.373 4.17578C29.8639 3.82161 29.2663 3.58919 28.5801 3.47852C27.916 3.36784 27.1966 3.3125 26.4219 3.3125H25.5586V0.457031H45.3477V3.3125H44.4512C43.6986 3.3125 42.9792 3.36784 42.293 3.47852C41.6068 3.58919 41.0091 3.82161 40.5 4.17578C40.013 4.50781 39.6146 4.99479 39.3047 5.63672C39.0169 6.27865 38.873 7.13086 38.873 8.19336V41.2637C38.873 42.3262 39.0169 43.1784 39.3047 43.8203C39.6146 44.4622 40.013 44.9603 40.5 45.3145C41.0091 45.6465 41.6068 45.8678 42.293 45.9785C42.9792 46.0892 43.6986 46.1445 44.4512 46.1445H45.3477V49H25.5586Z" fill="black"/>
@@ -91,7 +89,7 @@ description: unnus is a healthcare branding agency that helps medical businesses
 <!-- multi step -->
 
 <div class="form-quote">
-	<p>"The in-depth knowledge we got from these tactics alone has been instrumental to our success as a medical practice"</p>
+	<p>"The in-depth knowledge we got from these strategies has been instrumental to our success as a medical practice"</p>
 	<div class="mini-avatar-testimonial">
 			<div class="mini-avatar-image">
 			</div>

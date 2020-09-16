@@ -15,12 +15,12 @@ description: case studies healthier
 				<div class="text-row reveal-text">
 					<p>After countless resources healthier spent on online ads and social media marketing, they faced the underlining problem: patients didn't like ads, they seemed intrusive and out of place.</p>
 					<p>50% of the clicked ads were unintentional which lead to less qualified patients and low conversion rate.</p>
-					<p>We took a different route to healthier's marketing  by implementing a strategic marketing approach focused on <strong>creating and distributing</strong> valuable content </p> 
-					<p>That alone attracted and retained a clearly defined audience — and, ultimately <strong>driving profitable</strong> patient actions.</p>
+					<p>We took a different route to healthier's marketing  by implementing a strategic marketing approach focused on creating and distributing valuable content </p> 
+					<p>That alone attracted and retained a clearly defined audience — and, ultimately driving profitable patient actions.</p>
 					<h3 class="light-headline underline">Work done</h3>
 					<ul>
 						<li>Re-branding</li>
-						<li>Marketing Strategy</li>
+						<li>Brand Strategy</li>
 						<li>Website</li>
 					</ul>
 				</div>
@@ -108,8 +108,8 @@ description: case studies healthier
 	<div class="container">
 			<h2 class="light reveal-text">Memorable patient experience, <br>from all devices.</h2>		
 			
-			<img loading="lazy" src="../../work/healthier/responsive.png" alt="healthier responsive design" />
-	</div>
+<img loading="lazy" src="../../work/healthier/responsive.png" alt="healthier responsive design" />
+</div>
 </section>
 
 <div class="printed-material">

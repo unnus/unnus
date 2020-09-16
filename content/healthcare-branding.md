@@ -13,11 +13,13 @@ weight: 4
 			<div class="text-content">
 <h2 style="margin-top:0">If you ever...</h2>
 
-<p>Worked in or managed a medical business where “process” overshadows purpose; where colleagues don’t collaborate; where decisions seem disconnected; where expressions get lost in translation; where the spark of inspiration fizzles before it reaches your patients; or where it’s just no fun to come to the office, you’ve experienced the uncomfortable gap between the spreadsheet-driven past and the <b>brand-driven</b> future.</p>
+<p>Worked-in / or run a medical business where “process” overshadows purpose; where staff don’t collaborate; where decisions seem disconnected; where communication gets lost in translation; where the spark of inspiration fizzles before it reaches your patients; or where it’s no fun to come to the office, you’ve experienced the uncomfortable gap between the spreadsheet-driven past and the <b>brand-driven</b> future.</p>
 
-<p>Without a clearly drawn vision, it’s dangerous to empower people.</p>
-<p>Medical businesses routinely separate functions or hierarchical levels to achieve efficiencies.</p>
-<p>However, these divides lead to confusion, anxiety, and distrust as employees work at cross-purposes, taking refuge in functional silos instead of a collaborative ecosystem.</p>
+<p>Without a clear-drawn vision, it’s dangerous to empower people.</p>
+
+<p>Medical businesses routinely separate functions or hierarchical levels to achieve efficiencies, However...</p>
+
+<p>These divides lead to confusion, anxiety, and distrust as employees work at cross-purposes, taking refuge in functional silos instead of a collaborative ecosystem.</p>
 
 <p>This makes your medical staff sub-optimizing when you need is all parts working together.</p>
 
@@ -32,46 +34,45 @@ weight: 4
 
 <p>Rigid, “Data-driven approaches” eclipses your core philosophy, leaving your business without a focused objective to aim at.</p>
 
-<p>There is no shared <b>vision/understanding</b> of the overarching goal that you are trying to accomplish</p>
+<p>There is no shared <b>vision/understanding</b> of the overarching goal that you are trying to accomplish.</p>
 
-<p>Now, I'm aware that the word “vision” is tossed around a lot in the healthcare industry these days.</p>
+<p>As you might have noticed, the word “vision” is tossed around a lot in the healthcare industry these days.</p>
 
 <p>And it’s usually used as a decoration rather than an actual plan that everyone needs to follow.</p>
 
-<h2>Creating a cohisve and unified healthcare brand</h2>
-<p><b>What's a brand?</b> Hint: It’s not your hospitl's logo or advertising.</p>
+<h2>Creating a cohesive and unified healthcare brand</h2>
+<p><b>What's a brand?</b> Hint: It’s not your hospital's logo or advertising.</p>
 <p>A brand is the way your hospital or practice is perceived by those who experience it.</p>
 <p>It's an authentic, non-generic, embodiment of your medical business mission</p>
-<p>It differentiate your practice and give it a heading</p>
-<p>You create brands to bring order out of clutter.</p>
+<p>It differentiates your practice and gives it a heading</p>
+<p>You create brands to bring order out of the clutter.</p>
 <p>Building a brand for your medical business is the most transformative decision you can make</p>
-<p>It glues your whole practice/hospital behind a clearly articulated purpose</p>
+<p>It glues your whole practice/hospital behind a well-articulated purpose</p>
 <p>In addition, having a grounded brand in place arms you with a <b>“decisional filter”</b> for all of your business's future decisions.</p>
 <p>By checking back against your statements and brand guidelines (which I'll cover in this series), you can quickly see whether any new decision will help or hurt, focus or unfocus, purify, or modify your brand. </p>
 
-<h3>The impact of having brand for your medical business</h3>
+<h3>The positive impact of having a brand for your medical business</h3>
 
 <b>#~First</b>, it ensures that you have a strategy in place, not merely a collection of tactics/sound bites that may make sense individually, but that doesn’t add up and may even be contradictory. 
 
-<b>#~second</b> Creates sense of order, making everyone vibrate on the same wavelength.
+<b>#~second</b> Creates a sense of order, making everyone vibrate at the same wavelength.
 
 <b>#~third</b> fosters engagement with your patients and staff, it’s a way to increase commitment from stakeholders. 
 
 <b>#~fourth</b> allows you to see beyond today’s performance numbers so you can identify whether you are strategically vulnerable and hence, act accordingly. 
 
-<b>#~fifth</b> Attracts high value patients and skyrocket patient retention. 
+<b>#~fifth</b> Attracts high-value patients and shot up patient retention. 
 
-<b>#~sixth</b> Renders your competition irrelevant, and singles you out of the other "me too" care services. 
+<b>#~sixth</b> Renders your competition irrelevant, and singles you out of the "me too" care services. 
 
-<p>Bottom line, <b>the result of having a brand is coherence; the result of aimless workflow is wasted resources.</b></p>
+<p>The Bottom line: <b>the result of having a brand is coherence; the result of aimless workflow is wasted resources.</b></p>
 
 <h2>In the first part, I explain the danger of looking like everyone else in healthcare</h2>
 <p>And then I'll tackle how to <b>develop your healthcare brand from scratch</b></p>
-<p>Building a concerte brand substance that ties your whole business to a well designed strategy</p>
-<p>You will have a grounded healthcare brand that function flowlessly with a tangible plan</p>
-<p>We will also explore ways you can develop a differentation strategy that sets you apart from other institutions/practices</p>
-<p>Additionally, you'll see how to make patients evanglists that spread the gospel of your brand to others</p>
-<p>You will learn what are positioning strategies and how you can leverge them to your advantage by <strong>establishing your practice as the better alternative</strong></p>				
+<p>Building a compact brand substance that ties your whole business to a well-crafted strategy</p>
+<p>You will have a grounded healthcare brand that functions flawlessly with a tangible plan</p>
+<p>We will also explore ways you can develop a differentiation strategy that sets you apart from other institutions/practices</p>
+<p>You'll learn what are positioning strategies and how you can leverage them to your advantage by <strong>establishing your practice as the better alternative</strong></p>				
 
 
 <!-- <p>Lists of core values that practices/hospitals publish to help them define their cultures.</p>
@@ -88,7 +89,7 @@ weight: 4
 
  -->
 
-<p>By joining this free 5 day part series, you’ll receive well researched branding strategies to create your own authentic brand</p>
+<p>By joining this free 5 day part series, you’ll receive well-researched strategies to create your authentic brand</p>
 
 <h3>This series will cover:</h3>
 <ul class="course-check">
@@ -96,12 +97,12 @@ weight: 4
 <path d="M0.589844 49V46.1445H1.45312C2.22786 46.1445 2.94727 46.0892 3.61133 45.9785C4.29753 45.8678 4.89518 45.6465 5.4043 45.3145C5.91341 44.9603 6.31185 44.4622 6.59961 43.8203C6.88737 43.1784 7.03125 42.3262 7.03125 41.2637V8.19336C7.03125 7.13086 6.88737 6.27865 6.59961 5.63672C6.31185 4.99479 5.91341 4.50781 5.4043 4.17578C4.89518 3.82161 4.29753 3.58919 3.61133 3.47852C2.94727 3.36784 2.22786 3.3125 1.45312 3.3125H0.589844V0.457031H20.3789V3.3125H19.4824C18.7298 3.3125 18.0104 3.36784 17.3242 3.47852C16.638 3.58919 16.0404 3.82161 15.5312 4.17578C15.0443 4.50781 14.6458 4.99479 14.3359 5.63672C14.0482 6.27865 13.9043 7.13086 13.9043 8.19336V41.2637C13.9043 42.3262 14.0482 43.1784 14.3359 43.8203C14.6458 44.4622 15.0443 44.9603 15.5312 45.3145C16.0404 45.6465 16.638 45.8678 17.3242 45.9785C18.0104 46.0892 18.7298 46.1445 19.4824 46.1445H20.3789V49H0.589844Z" fill="black"/>
 </svg>
 
-Get a firm grip on your medical vision strategy, and how to paint a united/shared picture for your brand</li>
+Get a firm grip on your vision strategy, and how to paint shared picture for your brand</li>
 <li> 
 <svg width="46" height="49" viewBox="0 0 46 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.589844 49V46.1445H1.45312C2.22786 46.1445 2.94727 46.0892 3.61133 45.9785C4.29753 45.8678 4.89518 45.6465 5.4043 45.3145C5.91341 44.9603 6.31185 44.4622 6.59961 43.8203C6.88737 43.1784 7.03125 42.3262 7.03125 41.2637V8.19336C7.03125 7.13086 6.88737 6.27865 6.59961 5.63672C6.31185 4.99479 5.91341 4.50781 5.4043 4.17578C4.89518 3.82161 4.29753 3.58919 3.61133 3.47852C2.94727 3.36784 2.22786 3.3125 1.45312 3.3125H0.589844V0.457031H20.3789V3.3125H19.4824C18.7298 3.3125 18.0104 3.36784 17.3242 3.47852C16.638 3.58919 16.0404 3.82161 15.5312 4.17578C15.0443 4.50781 14.6458 4.99479 14.3359 5.63672C14.0482 6.27865 13.9043 7.13086 13.9043 8.19336V41.2637C13.9043 42.3262 14.0482 43.1784 14.3359 43.8203C14.6458 44.4622 15.0443 44.9603 15.5312 45.3145C16.0404 45.6465 16.638 45.8678 17.3242 45.9785C18.0104 46.0892 18.7298 46.1445 19.4824 46.1445H20.3789V49H0.589844ZM25.5586 49V46.1445H26.4219C27.1966 46.1445 27.916 46.0892 28.5801 45.9785C29.2663 45.8678 29.8639 45.6465 30.373 45.3145C30.8822 44.9603 31.2806 44.4622 31.5684 43.8203C31.8561 43.1784 32 42.3262 32 41.2637V8.19336C32 7.13086 31.8561 6.27865 31.5684 5.63672C31.2806 4.99479 30.8822 4.50781 30.373 4.17578C29.8639 3.82161 29.2663 3.58919 28.5801 3.47852C27.916 3.36784 27.1966 3.3125 26.4219 3.3125H25.5586V0.457031H45.3477V3.3125H44.4512C43.6986 3.3125 42.9792 3.36784 42.293 3.47852C41.6068 3.58919 41.0091 3.82161 40.5 4.17578C40.013 4.50781 39.6146 4.99479 39.3047 5.63672C39.0169 6.27865 38.873 7.13086 38.873 8.19336V41.2637C38.873 42.3262 39.0169 43.1784 39.3047 43.8203C39.6146 44.4622 40.013 44.9603 40.5 45.3145C41.0091 45.6465 41.6068 45.8678 42.293 45.9785C42.9792 46.0892 43.6986 46.1445 44.4512 46.1445H45.3477V49H25.5586Z" fill="black"/>
 </svg>
-how to cut through the "me too" immitative care services and differentiate your practice</li>
+how to cut through the "me too" imitative care services and differentiate your practice</li>
 <li>
 <svg width="71" height="49" viewBox="0 0 71 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.589844 49V46.1445H1.45312C2.22786 46.1445 2.94727 46.0892 3.61133 45.9785C4.29753 45.8678 4.89518 45.6465 5.4043 45.3145C5.91341 44.9603 6.31185 44.4622 6.59961 43.8203C6.88737 43.1784 7.03125 42.3262 7.03125 41.2637V8.19336C7.03125 7.13086 6.88737 6.27865 6.59961 5.63672C6.31185 4.99479 5.91341 4.50781 5.4043 4.17578C4.89518 3.82161 4.29753 3.58919 3.61133 3.47852C2.94727 3.36784 2.22786 3.3125 1.45312 3.3125H0.589844V0.457031H20.3789V3.3125H19.4824C18.7298 3.3125 18.0104 3.36784 17.3242 3.47852C16.638 3.58919 16.0404 3.82161 15.5312 4.17578C15.0443 4.50781 14.6458 4.99479 14.3359 5.63672C14.0482 6.27865 13.9043 7.13086 13.9043 8.19336V41.2637C13.9043 42.3262 14.0482 43.1784 14.3359 43.8203C14.6458 44.4622 15.0443 44.9603 15.5312 45.3145C16.0404 45.6465 16.638 45.8678 17.3242 45.9785C18.0104 46.0892 18.7298 46.1445 19.4824 46.1445H20.3789V49H0.589844ZM25.5586 49V46.1445H26.4219C27.1966 46.1445 27.916 46.0892 28.5801 45.9785C29.2663 45.8678 29.8639 45.6465 30.373 45.3145C30.8822 44.9603 31.2806 44.4622 31.5684 43.8203C31.8561 43.1784 32 42.3262 32 41.2637V8.19336C32 7.13086 31.8561 6.27865 31.5684 5.63672C31.2806 4.99479 30.8822 4.50781 30.373 4.17578C29.8639 3.82161 29.2663 3.58919 28.5801 3.47852C27.916 3.36784 27.1966 3.3125 26.4219 3.3125H25.5586V0.457031H45.3477V3.3125H44.4512C43.6986 3.3125 42.9792 3.36784 42.293 3.47852C41.6068 3.58919 41.0091 3.82161 40.5 4.17578C40.013 4.50781 39.6146 4.99479 39.3047 5.63672C39.0169 6.27865 38.873 7.13086 38.873 8.19336V41.2637C38.873 42.3262 39.0169 43.1784 39.3047 43.8203C39.6146 44.4622 40.013 44.9603 40.5 45.3145C41.0091 45.6465 41.6068 45.8678 42.293 45.9785C42.9792 46.0892 43.6986 46.1445 44.4512 46.1445H45.3477V49H25.5586ZM50.5273 49V46.1445H51.3906C52.1654 46.1445 52.8848 46.0892 53.5488 45.9785C54.235 45.8678 54.8327 45.6465 55.3418 45.3145C55.8509 44.9603 56.2493 44.4622 56.5371 43.8203C56.8249 43.1784 56.9688 42.3262 56.9688 41.2637V8.19336C56.9688 7.13086 56.8249 6.27865 56.5371 5.63672C56.2493 4.99479 55.8509 4.50781 55.3418 4.17578C54.8327 3.82161 54.235 3.58919 53.5488 3.47852C52.8848 3.36784 52.1654 3.3125 51.3906 3.3125H50.5273V0.457031H70.3164V3.3125H69.4199C68.6673 3.3125 67.9479 3.36784 67.2617 3.47852C66.5755 3.58919 65.9779 3.82161 65.4688 4.17578C64.9818 4.50781 64.5833 4.99479 64.2734 5.63672C63.9857 6.27865 63.8418 7.13086 63.8418 8.19336V41.2637C63.8418 42.3262 63.9857 43.1784 64.2734 43.8203C64.5833 44.4622 64.9818 44.9603 65.4688 45.3145C65.9779 45.6465 66.5755 45.8678 67.2617 45.9785C67.9479 46.0892 68.6673 46.1445 69.4199 46.1445H70.3164V49H50.5273Z" fill="black"/>
@@ -141,7 +142,7 @@ Real-world cases of how other practices used these strategies to grow</li>
 <!-- multi step -->
 
 <div class="form-quote">
-	<p>"The in-depth knowledge we got from this course alone has been instrumental to our success as a medical practice"</p>
+	<p>"The in-depth knowledge we got from these strategies has been instrumental to our success as a medical practice"</p>
 	<div class="mini-avatar-testimonial">
 			<div class="mini-avatar-image">
 			</div>

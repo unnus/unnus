@@ -12,14 +12,13 @@ description: unnus manifesto
 					<h2 class="light reveal-text">Why compete if you can<br>create brand new market?</h2>
 				</div>
 				<div class="text-row reveal-text">
-					<p>We took a different route to healthier's marketing  by implementing a strategic marketing approach focused on <strong>creating and distributing</strong> valuable content </p> 
-					<p>That alone attracted and retained a clearly defined audience — and, ultimately <strong>driving profitable</strong>patient actions.</p>
+					<p>Despite the cutthroat market Rodbell found itself in, the team at unnus developed compact differentation strategy aimed to put rodbell in a brand new market space</p> 
+					<p>Rodbell radically shifted its positioning to more of a holistic way of branding itself in the pharma industry, resulting in building special attribuites, no competitor are able to imitate </p>
 					<h3 class="light-headline underline">Work done</h3>
 					<ul>
 						<li>Brand Awareness</li>
-						<li>Digital Advertising</li>
 						<li>Strategic planning</li>
-						<li>Website</li>
+						<li>Website and digital collaterals</li>
 					</ul>
 				</div>
 			</div>

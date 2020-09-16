@@ -3,7 +3,7 @@ type: static
 page: static/single.html
 title: Manifesto | unnus
 which: manifesto
-description: unnus is a healthcare branding agency aiming to establish medical brands that drive growth and build awareness  
+description: unnus is a healthcare branding agency aiming to establish medical brand that drive growth and build awareness  
 menu: main
 weight: 1
 ---
@@ -13,18 +13,17 @@ weight: 1
 <section class="manifesto">
 <div class="container">
 	<h2 class="reveal-text">Helping The Purveyors Of Modern Miracles</h2>
-	<p class="reveal-text">unnus is a healthcare branding agency aiming to establish medical brands that drive growth, build awareness and create advocacy for healthcare businesses through the industry know-how</p>
+	<p class="reveal-text">unnus is a healthcare branding agency aiming to set your medical brand for success and to drive growth, build awareness and create uniquness for your business, all through creative design thinking</p>
 	<div class="reveal-text">
 		<h2>Healthcare focused</h2>
 		<p>Unlike most ad agencies, our approach is healthcare-focused.</p>
-		<p>With a research-based processes, we establish healthcare brands & set them apart from the rest.</p>
-		<p>We strive to help healthcare providers create authentic brands that drive growth, attract patients and create advocacy for their business.</p>
+		<p>With strategic profiling, we establish your healthcare business and set it apart from the rest.</p>
+		<p>We strive to help you to find a "why" for your brand and create an authentic business plans that drive growth, attract high-value patients and create advocacy for your institution/practice.</p>
 		
 </div>
-<h2 class="reveal-text">We hate big claims; however...</h2>
+<h2 class="reveal-text">No other big claims here, that's all we do</h2>
 <div class="reveal-text">	
-	<p>We're working to transcending the approach to healthcare marketing, creating more personalized brands that cater specifically to its stakeholders.</p>
-	<p>By supporting the growth of healthcare brands, our goal is to have positive impact on the lives of the good people.</p>
+	<p>Thank you for your readership</p>
 </div>
 </div>
 </section>

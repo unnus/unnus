@@ -26,7 +26,7 @@ description: case studies caresect
 </section>
 <section class="logo-showcase">
 	<div class="container">
-		<h2 class="light reveal-text">Starting from the ground up.<br> <strong>Brand, Logotype, Typeface, Color, Mobile, Website.</strong></h2>
+		<h2 class="light reveal-text">Starting from the ground up.<br> <strong>Brand Strategy, Creative Design, Typeface, Color, Mobile, Website.</strong></h2>
 		<div class="showboard">
 				<img loading="lazy" class="skew" src="../../work/caresect/caresect-assets/caresect-logo.png" alt="caresect-logo" />
 				<svg viewBox="0 0 1212 217" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
