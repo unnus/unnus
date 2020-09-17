@@ -32,11 +32,24 @@ draft: false
 <p class="hookParagraph">People crazily attached to a certain brand over another. </p>
 <p class="hookParagraph">IOS vs Android / Microsoft vs Apple / Toyota vs Honda</p>
 <p class="hookParagraph">In branding, this is planned.</p>
+<p class="hookParagraph">So how applicable is this in healthcare? And how to achieve it?</p>
 
 
 
 <hr>
 
-And today, I’ll start with the first few tactics to achieve the same patient loyalty/retention to your practice.
+Today, I’ll start with the first few tactics to achieve the same patient loyalty/retention to your practice.
 
 In addition, you’ll render any competition—irrelevant.
+
+You’ll align your business with the selected people (ideal patients) who are more likely to choose your services.
+
+This “alignment” is what we call **Positioning**.
+
+
+<blockquote>
+	<p>“Positioning does not seek to beat the competition. Instead, it aims to make the competition irrelevant”</p>
+	<cite><p>― W. Chan Kim</p></cite>
+</blockquote>
+
+</section>
