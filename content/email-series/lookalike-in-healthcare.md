@@ -34,11 +34,17 @@ draft: false
 <p>
 	
 “There are only two ways to influence human behavior: you can manipulate it or you can inspire it.
-
+</p>
+<p>
+	
 Very few people or companies can clearly articulate WHY they do WHAT they do. By WHY I mean your purpose, cause or belief - WHY does your company exist? WHY do you get out of bed every morning? And WHY should anyone care?
+</p>
 
+<p>
+	
 People don’t buy WHAT you do, they buy WHY you do it.”
 </p>
+
    
 <cite>― Simon Sinek, Start with Why</cite>
 </blockquote>
