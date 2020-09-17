@@ -51,7 +51,7 @@ weight: 4
 <p>In addition, having a grounded brand in place arms you with a <b>“decisional filter”</b> for all of your business's future decisions.</p>
 <p>By checking back against your statements and brand guidelines (which I'll cover in this series), you can quickly see whether any new decision will help or hurt, focus or unfocus, purify, or modify your brand. </p>
 
-<h3>The positive impact of having a brand for your medical business</h3>
+<h3>The outcomes of having a brand for your medical business</h3>
 
 <b>#~First</b>, it ensures that you have a strategy in place, not merely a collection of tactics/sound bites that may make sense individually, but that doesn’t add up and may even be contradictory. 
 
@@ -67,7 +67,7 @@ weight: 4
 
 <p>The Bottom line: <b>the result of having a brand is coherence; the result of aimless workflow is wasted resources.</b></p>
 
-<h2>In the first part, I explain the danger of looking like everyone else in healthcare</h2>
+<h3>In the first part, I explain the danger of looking like everyone else in healthcare</h3>
 <p>And then I'll tackle how to <b>develop your healthcare brand from scratch</b></p>
 <p>Building a compact brand substance that ties your whole business to a well-crafted strategy</p>
 <p>You will have a grounded healthcare brand that functions flawlessly with a tangible plan</p>
