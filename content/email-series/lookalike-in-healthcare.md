@@ -47,7 +47,7 @@ People don’t buy WHAT you do, they buy WHY you do it.”
 </blockquote>
 
 <hr>
-<p> I'm sure you've seen this:</p>
+<p>Tell me if this sounds familiar:</p>
 
 <p> <em> “Providing you quality care” </em><br><em> “Cutting edge technology” </em><br><em> “Best in class”</em><br><em>“Data-driven approach”</em><br><em> “Innovative care services”</em></p>
 <p>
@@ -99,7 +99,7 @@ Everything looks the same you wonder if choosing a practice name creates disting
 </p>
 </section>
 <section id="DangerOfLookalikeHealthcareBrands">
-<h2>Danger of blending in</h2>
+<h2>The danger of blending in</h2>
 
 <p>
 	
