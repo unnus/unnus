@@ -242,12 +242,11 @@
 }
 
 
-.post-body section:first-child{
-	 p:first-child{
-	 	font-weight: bold;
+.post-body .hookParagraph{
+	 	font-weight: 900;
 	 	font-size: 1.45em;
-	}
 }
+
 .post-body{
 	flex:.55; 
 	section{
