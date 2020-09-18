@@ -28,12 +28,13 @@ draft: false
 ---
 
 <section id="Introduction">
-	
-<p class="hookParagraph">I'm sure you've seen it:</p>
-<p class="hookParagraph">People crazily attached to a certain brand over another. </p>
-<p class="hookParagraph">IOS vs Android / Microsoft vs Apple / Toyota vs Honda</p>
-<p class="hookParagraph">In branding, this is planned.</p>
-<p class="hookParagraph">So how applicable is this in healthcare? And how to achieve it?</p>
+<div class="hook">
+<p>I'm sure you've seen it:</p>
+<p>People crazily attached to a certain brand over another. </p>
+<p>IOS vs Android / Microsoft vs Apple / Toyota vs Honda</p>
+<p>In branding, this is planned.</p>
+<p>So how applicable is this in healthcare? And how to achieve it?</p>
+</div>
 
 
 

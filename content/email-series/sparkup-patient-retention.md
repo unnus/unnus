@@ -1,0 +1,94 @@
+---
+page: email-series/single.html
+title: Spark up your patient retention by forming a brand persona
+url: email-series/sparkup-patient-retention
+author: Sliman M. Baghouri
+authorAvatarBottom: "/assets/images/blog/authors/SlimanBaghouri.png"
+authorAvatarTop: "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
+twitterHandle: "@SlimanBaghouri"
+linkedinHandle: slimaneBaghouri
+authorBio: Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing
+  strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical
+  companies.
+categories:
+- research
+date: 2020-09-04T23:00:00Z
+description: Post description goes here
+featImg: "/assets/images/work/rodbell-thumbnail.jpg"
+featImgThumb: "/assets/images/work/rodbell-thumbnail.jpg"
+socialThumbnail: "/assets/images/work/rodbell-thumbnail.jpg"
+readingTime: "6"
+table_of_content:
+- Introduction
+- Research Phase
+- Creating patients persona
+- Differentiation strategy
+- Developing a positioning statement
+draft: false
+---
+
+<section id="Introduction">
+
+<div class="hook">
+<p>Picture this:</p>
+
+<p>Trust and loyalty to your brand is over the rooftops. </p>
+<p>And due to the consistent patient experience throughout your whole business...</p>
+<p>Patients perceive every single contact point with your medical business not as separate entities, but as a whole person.</p>
+<p>The patient experience from booking an appointment until the after-treatment is so damn unchanging that they think they only dealt with one person.</p>
+<p>And what is more, THAT person (your healthcare brand) is memorable. 
+<p>Memorable enough that, the next time you think of getting care, HE pops up to mind.</p>
+</div>
+
+<hr>
+<p>That's what creating brand persona is about</p>
+<p>It's all about collecting personality traits, attitudes, and values that your brand will showcase regularly</p>
+<p>All traits will be prominent in your patient's contact points with your brand. (think website/marketing/receptionist/doctor giving care...)</p>
+<p>This will tighten the connections your patient-segment has with you.</p>
+<p>A good persona is one that you can almost visualize as someone you know and could talk to.</p>
+<p>Your brand&rsquo;s attributes will perfectly adjust to what your patients associate with the most.</p>
+<p>Hence, creating patient loyalty and increasing their retention.</p>
+
+<blockquote>
+	<p>Brand Personality adds spirit and a soul to what would otherwise be a robotic, automated, generic price-value proposition.</p>
+	<p><cite>– David Aaker</cite></p>
+</blockquote>
+</section>
+
+<section>
+<h2>Creating Patient and Brand Personas</h2>
+<p>When creating a brand persona, you have to take into account what&rsquo;s the <strong>archetype</strong> of both your patient and medical brand.</p>
+<p>What&rsquo;s an archetype?</p>
+<p><strong>An archetype is a typical character that represents universal patterns of human nature.</strong></p>
+<p>Assigning this typical character to your medical brand guides your communication with patients.</p>
+<p>When you need to visualize your ideal patient, an archetype is irreplaceable.</p>
+<p><a target="_blank" href="#">According to Psychologist Carl Jung</a> who coined the term in the early 20th century there are twelve brand archetypes: <br><br> The Innocent, Everyman, Hero, Outlaw, Explorer, Creator, Ruler, Magician, Lover, Caregiver, Jester, and Sage.</p>
+<p>Interested in more details? <a target="_blank" href="#">I attached an Archetypes Cheat Sheet</a>.</p>
+<p>I&rsquo;ll spare you the details of each one</p>
+<p><strong>Instead, illustrate with an example:</strong></p>
+<p>let&rsquo;s say that your target patients are pregnant women and your hospital help deliver babies.</p>
+<p>Your patient (mothers-to-be) their archetype will be the caregiver <strong>(an archetype that is driven by the desire to protect and care for their children)</strong></p>
+<p>So, your brand <em>needs</em> to be a caregiver type: meaning, your communication channels are soft-spoken/reassuring.</p>
+<p>Your messaging will hit home with what they are currently experiencing.</p>
+<p>Identifying the characteristics and desires your patient they'll most align with, is critical.</p>
+<p>It arms you with a clear picture of what archetype your medical brand needs to be</p>
+</section>
+
+<section>
+<h2>Brand voice and tone/language</h2>
+<p>Brand voice is the personality and emotion infused into the language you use with your targeted patients, either online or offline.</p>
+<p>It encompasses everything your patients come in touch with.</p>
+<p>from the words and language, you use to the personality and image your marketing/copy aim to invoke.</p>
+<p>For example, on a web page about cancer, you will have the same voice about your medical brand, but you may be softer and more reassuring.</p>
+<p>On a web page about having a baby, the copy will be more excited and congratulatory.</p>
+<p>Let&rsquo;s take some examples:</p>
+<p>Arnold Palmer Hospital:</p>
+<img src="/assets/course-assets/example/brand-voice-1.png" alt="Brand voice example in healthcare" />
+<p>When defining your voice, you should know who you&rsquo;re talking to.</p>
+<p>That&rsquo;s what Arnold Palmer Hospital does throughout its website.</p>
+<p>it&rsquo;s talking to worried moms and dads.</p>
+<p>Their voice is reassuring and realistic.</p>
+<p>Dignity Health&rsquo;s:</p>
+<img src="/assets/course-assets/example/brand-voice-2.png" alt="Brand voice example 2 in healthcare" />
+
+</section>

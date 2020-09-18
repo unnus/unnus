@@ -28,7 +28,7 @@ nav{
     right: -50%;
     height: 100vh;
     background:#FFF; // fall back color
-    background: linear-gradient(351deg, rgba(242,38,19,1) 0%, rgba(0,0,0, 1) 96%);
+    background: #f22613;
     ul{
 			margin-top: 3%;
 	    margin-left: 5%;
@@ -65,7 +65,7 @@ nav{
     height: 50px;
     top: 0;
     left: -13.7%;
-    background:#000; // fall back color    
+    background:#f22613; // fall back color    
     box-shadow: -19px 9px 15px 3px rgba(0, 0, 0, 0.25);
     cursor:pointer;
     svg{

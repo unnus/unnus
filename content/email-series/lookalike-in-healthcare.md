@@ -27,8 +27,9 @@ draft: false
 ---
 
 <section id="Introduction">
-	
-<p class="hookParagraph">I’d like to share with you one of my favorite passages:</p>
+<div class="hook">
+<p>I’d like to share with you one of my favorite passages:</p>
+</div>		
 
 
 <blockquote>
