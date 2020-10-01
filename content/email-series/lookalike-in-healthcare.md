@@ -108,7 +108,7 @@ Now, I’m aware, the values/missions statement above are noble, undoubtedly so.
 </p>
 <p>
 	
-Healthcare <em>should</em> aim for them, and this, I vouch for.
+Healthcare <em>should</em> aim to achieve them.
 </p>
 <p>
 	
@@ -147,7 +147,7 @@ And by blending into what everyone is doing, you commoditize your care services
 </p>
 <p>
 	
-<b>In a crowded marketplace like healthcare, not standing out is the same as being invisible</b>.
+<b>In a busy industry like healthcare, not standing out is the same as being invisible</b>.
 </p>
 
 <p>
@@ -162,7 +162,7 @@ I’ll illustrate with a real-world example.
 </section>
 
 <section id="CaseStudy">
-	<h2>Case Study: Healthier, Safest hospital in town</h2>
+	<h2>Case Study: Healthier, The Safest Hospital In Town</h2>
 	<p>
 		
 <a target="_blank" href="/case-studies/healthier">Healthier</a>, a community hospital, based in Orlando.
@@ -182,7 +182,7 @@ They didn’t announce it to the world, <em>they became it</em>.
 
 <p>
 	
-All the touchpoints, nurses, physicians, web copy, receptionist, press, advertising, social media, all together—yelled <b>safety</b>.
+All the touchpoints, nurses, physicians, web copy, receptionist, press, advertising, social media, together—yelled <b>safety</b>.
 </p>
 <p>
 	
@@ -190,7 +190,7 @@ Without fail, every contact point emphasizes precautions, safety, protection, se
 </p>
 <p>
 	
-If you read their blog, they solely talk about lowering medical errors, preventing patient falls, reducing readmission rates, and leading a healthier lifestyle.
+If you read their blog, they <em>solely</em> talk about lowering medical errors, preventing patient falls, reducing readmission rates, and leading a healthier lifestyle.
 </p>
 <p>
 	
@@ -211,7 +211,7 @@ Laser-focusing on being healthy rather than treating patients with leading-edge 
 </p>
 <p>
 	
-If you ask patients about the hospital, the #1 thing they remember it for is, how risk-free the hospital was.
+If you ask patients about the hospital, the #1 thing they remember it for is, how <b>risk-free</b> the hospital was.
 </p>
 <p>
 	
@@ -282,7 +282,7 @@ Patients should see and feel your values, not skim through them.
 </p>
 <p>
 	
-Having a brand substance like mission/vision/value is crucial.
+Having a substance to your brand is crucial.
 </p>
 <p>
 	

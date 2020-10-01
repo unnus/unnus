@@ -94,7 +94,10 @@
     	}
     }
 
-
+  ul li{
+  		color:red; 
+  }
+  
 }
 
 .post-holder{
@@ -153,6 +156,11 @@
     	font-size: 1em;
 	    margin-bottom: 0;
     }
+  }
+  ul{
+  	li{
+  		margin-bottom: 4%
+  	}
   }
   // ScrollSpy active styles 
   .section-nav li.is-active > a {
@@ -308,7 +316,7 @@
 
 	  /*Borders - (Optional)*/
 	  border-left-style: solid;
-	  border-left-width: 15px;
+	  border-left-width: 4px;
 	  border-color:#000;
 	}
 
@@ -318,7 +326,7 @@
 	  /*Font*/
 	  font-family: 'Droid Serif';
 	  font-size: 60px;
-	  font-weight: bold;
+	  font-weight: 300;
 	  color: #000;
 	  
 	  /*Positioning*/

@@ -47,13 +47,14 @@ draft: false
 
 <blockquote>
 	<p>“Positioning does not seek to beat the competition. Instead, it aims to make the competition irrelevant”</p>
-	<cite><p>― W. Chan Kim</p></cite>
+	<cite><p>― Renée Mauborgne</p></cite>
 </blockquote>
 
 <p>Positioning is where your care service stands <strong>in relation to</strong> others offering similar services&nbsp;</p>
-<p>It&rsquo;s all about perception&mdash; how patients will perceive your medical brand.&nbsp;</p>
+<p>Think of it as the place that your brand occupies in the minds of your patients and how it is distinguished from the competitors</p>
+<p>It&rsquo;s about perception&mdash; how patients will perceive your medical brand.&nbsp;</p>
 <p>When you create the perception, you back it up by the service&rsquo;s real, demonstrable attributes.</p>
-<p>It&rsquo;s an unemotional, arms-length exercise.&nbsp;</p>
+<p>Positioning is an unemotional, arms-length exercise.&nbsp;</p>
 <p>Any positioning strategy consists of 4 main stages:&nbsp;</p>
 <ul>
 <li>Research</li>
@@ -75,7 +76,7 @@ draft: false
 <p>Example of S.W.O.T Analysis for a healthcare business:</p>
 <img src="/assets/course-assets/swot-analysis-in-healthcare.jpg" alt="S.W.O.T Analysis in healthcare" />
 <p><b>B) Market Research</b></p>
-<p>Think of market research as an organized effort to gather information about your target patients/audience.</p>
+<p>Think of market research as an organized effort to gather information about your target audience.</p>
 <p>Conducting market research gives you a bird&rsquo;s view of your market as a whole, including other providers.</p>
 <p>It solidifies your understanding of what is working and what is not.&nbsp;</p>
 <p><b>C) Competitor analysis&nbsp;</b></p>
@@ -95,6 +96,18 @@ draft: false
 <p>That&rsquo;s why attracting the right people to your business is crucial</p>
 <p>And patient persona is the immediate answer to this issue</p>
 <p>Personas are fictional profiles that represent groups of similar people in a target audience.</p>
+<p>Forget the stereotypical market segmentation exercises that tell you to select groups based on demographics, income levels, etc.</p>
+
+<p>It’s not the same in healthcare. Ask yourself the following questions to help identify your niches</p>
+<ul>
+	<li>What am I passionate about? Passion wins through every time, and in a field like healthcare services it matters to patients—a lot. Select the medical conditions where you believe you have unique insights and can make a real contribution, and focus on treating those</li> 
+	<li>
+		Who do I want to treat? We’re all human, and just because you studied to be a physician doesn’t mean you can’t be selective about your patients. Perhaps you have a particular empathy with young mothers, as opposed to stressed-out business people? There’s nothing wrong with that, but chances are good you’ll have more to offer a group you relate to more closely.
+	</li>
+	<li>
+		Who is my ideal patient? Once you’ve got the first two sorted, create a visualization of your perfect patient.
+	</li>
+</ul>
 <p>When you have a profound idea of who are your ideal patients, you&rsquo;ll be able to <strong>align your messaging</strong> (we'll go into this later) to what resonates with their core values&nbsp;</p>
 <p>After gathering enough data from your research, develop a real-life example of your ideal patient</p>
 <p><strong>Here&rsquo;s an example</strong>:&nbsp;</p>
@@ -112,7 +125,6 @@ draft: false
 <p>The lower the number, the wider the market gap</p>
 <p><strong>Example: </strong></p>
 <img src="/assets/course-assets/unmet-needs-and-gaps.jpg" alt="Healthcare market unmet needs table" />
-<p>You can use the&nbsp;<a href=" #" target="_blank">spreadsheet provided here</a>&nbsp;to organize your data</p>
 <p>Next, we start by developing a <strong>differentiator</strong>&nbsp;</p>
 <p>A differentiator is:&nbsp;</p>
 <ul>
@@ -124,7 +136,6 @@ draft: false
 <p>The higher the number, the greater the opportunities</p>
 <p><strong>Example</strong></p>
 <img src="/assets/course-assets/differentiator-table.jpg" alt="differentiator table tool" />
-<p>(Again, I attached worksheet that will make this quick and easy)</p>
 </section>
 
 <section id="Developingapositioningstatement">
@@ -133,9 +144,7 @@ draft: false
 <p>USP is a clear statement that describes the benefit of your care services.</p>
 <p>It announces how you solve your patient <strong>unmet needs</strong> differently.</p>
 <p>The goal here is to highlight your practice&rsquo;s most powerful attributes.</p>
-<p>Attributes no competitor can claim and that are valuable to your&nbsp;</p>
-<p>patients.</p>
-<p>Use the provided structure in the attached worksheet to create a USP statement&nbsp;</p>
+<p>Attributes no competitor can claim and that are valuable to your patients.</p>
 <p><strong>Here&rsquo;s the USP Template:</strong></p>
 <img src="/assets/course-assets/USP-Template.jpg" alt="USP Template" />
 <p><strong>And here’s the Positioning Statement template:</strong></p>
@@ -143,9 +152,6 @@ draft: false
 <p><strong>How About an example?</strong></p>
 <img src="/assets/course-assets/Positioning-Statement-Full-Example.jpg" alt="Positioning Statement Example" />
 <p><b>Important:</b> these positioning statements will not be available to the public or your patients. Expressing your positioning in a refined way to your audience will be the topic for the next lesson.</p>
-
-
-<p><a target="_blank" href="#">Click here to get access to all of today’s worksheets</a></p> 
 
 <p>-Sliman</p> 
 <p>P.S: I’m aware healthcare is a vast industry. If you’re not sure how to implement this in your particular field, send me a message at sliman@unnus.com and I’ll gladly help.</p>

@@ -17,7 +17,7 @@ description: unnus is a healthcare branding agency that helps medical businesses
 				<p>why should they<strong> choose your medical business over others? </strong></p>
 				<p>Here are the usual statements</p>
 				<p><em>“We are the best at what we do”<br/>“We provide cutting edge technologies”<br><em>“Data-driven healthcare”</em><br> “we're experts in the field”</em><br><em>“We offer transparent prices”</em><br><em>“We provide quality care”</em></p>
-				<p>The issue is that, when you probe for specifics, the discussions are typically fuzzy and full of sound bites that competitors are —just as equally/easily— using to describe their care services.</p>
+				<p>The issue is that, when you probe for specifics, the discussions are typically fuzzy and full of sound bites that competitors are <b>—just as equally/easily— </b>using to describe their care services.</p>
 				<p>This only adds clutter and leads to the commoditization of your services</p>
 				<p>Besides, will it be a wise idea to claim broadly-used statements like “We’re the best” or “health leaders”?</p>
 				<p>Evidently not.</p>
@@ -34,9 +34,9 @@ description: unnus is a healthcare branding agency that helps medical businesses
 				<p><b>What's a brand?</b> Hint: It’s not your hospital's logo or advertising.</p>
 				<p>A brand is the way your hospital or practice is perceived by those who experience it.</p>
 				<p>It's an authentic, non-generic, embodiment of your medical business mission</p>
-				<p>It differentiates your practice and gives it a heading</p>
+				<p>It differentiates your business and gives it a heading</p>
 				<p>You create brands to bring order out of the clutter.</p>
-				<p>In this series, we explore ways you can develop a differentiation strategy that sets you apart from other institutions/practices</p>
+				<p>In this series, we explore ways you can develop a differentiation strategy that sets you apart from other healthcare institutions/practices</p>
 				<p>We'll also tackle how to develop your healthcare brand from scratch</p>
 				<p>Additionally, you'll see how to make patients evangelists that spread the gospel of your brand to others</p>
 				<p>We'll see what are positioning strategies and how you can leverage them to your advantage by <strong>establishing your medical business as the better alternative</strong></p>				

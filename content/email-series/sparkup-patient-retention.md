@@ -20,10 +20,9 @@ socialThumbnail: "/assets/images/work/rodbell-thumbnail.jpg"
 readingTime: "6"
 table_of_content:
 - Introduction
-- Research Phase
-- Creating patients persona
-- Differentiation strategy
-- Developing a positioning statement
+- What is a brand persona
+- Creating brand persona
+- Developing brand voice for your practice
 draft: false
 ---
 
@@ -36,13 +35,13 @@ draft: false
 <p>And due to the consistent patient experience throughout your whole business...</p>
 <p>Patients perceive every single contact point with your medical business not as separate entities, but as a whole person.</p>
 <p>The patient experience from booking an appointment until the after-treatment is so damn unchanging that they think they only dealt with one person.</p>
-<p>And what is more, THAT person (your healthcare brand) is memorable. 
-<p>Memorable enough that, the next time you think of getting care, HE pops up to mind.</p>
+<p>And what is more, the experience they got from your healthcare brand is memorable enough that, the next time your patient thinks of getting care, your practice pop up to mind.</p>
 </div>
-
+</section>
 <hr>
-<p>That's what creating brand persona is about</p>
-<p>It's all about collecting personality traits, attitudes, and values that your brand will showcase regularly</p>
+<section id="Whatisabrandpersona">
+<h2>What is a brand persona?</h2>
+<p>Brand persona is the act of collecting personality traits, attitudes, and values that your brand will showcase regularly</p>
 <p>All traits will be prominent in your patient's contact points with your brand. (think website/marketing/receptionist/doctor giving care...)</p>
 <p>This will tighten the connections your patient-segment has with you.</p>
 <p>A good persona is one that you can almost visualize as someone you know and could talk to.</p>
@@ -55,7 +54,7 @@ draft: false
 </blockquote>
 </section>
 
-<section>
+<section id="Creatingbrandpersona">
 <h2>Creating Patient and Brand Personas</h2>
 <p>When creating a brand persona, you have to take into account what&rsquo;s the <strong>archetype</strong> of both your patient and medical brand.</p>
 <p>What&rsquo;s an archetype?</p>
@@ -65,7 +64,7 @@ draft: false
 <p><a target="_blank" href="#">According to Psychologist Carl Jung</a> who coined the term in the early 20th century there are twelve brand archetypes: <br><br> The Innocent, Everyman, Hero, Outlaw, Explorer, Creator, Ruler, Magician, Lover, Caregiver, Jester, and Sage.</p>
 <p>Interested in more details? <a target="_blank" href="#">I attached an Archetypes Cheat Sheet</a>.</p>
 <p>I&rsquo;ll spare you the details of each one</p>
-<p><strong>Instead, illustrate with an example:</strong></p>
+<p>Instead, I'll illustrate with an example:</p>
 <p>let&rsquo;s say that your target patients are pregnant women and your hospital help deliver babies.</p>
 <p>Your patient (mothers-to-be) their archetype will be the caregiver <strong>(an archetype that is driven by the desire to protect and care for their children)</strong></p>
 <p>So, your brand <em>needs</em> to be a caregiver type: meaning, your communication channels are soft-spoken/reassuring.</p>
@@ -74,7 +73,7 @@ draft: false
 <p>It arms you with a clear picture of what archetype your medical brand needs to be</p>
 </section>
 
-<section>
+<section id="Developingbrandvoiceforyourpractice">
 <h2>Brand voice and tone/language</h2>
 <p>Brand voice is the personality and emotion infused into the language you use with your targeted patients, either online or offline.</p>
 <p>It encompasses everything your patients come in touch with.</p>
@@ -90,5 +89,17 @@ draft: false
 <p>Their voice is reassuring and realistic.</p>
 <p>Dignity Health&rsquo;s:</p>
 <img src="/assets/course-assets/example/brand-voice-2.png" alt="Brand voice example 2 in healthcare" />
+<p>You forget you&rsquo;re looking at a hospital website when you read their heartwarming headline.</p>
+<p>A simplified process of brand voice development will look like this:</p>
+<img src="/assets/course-assets/brand-voice.jpg" alt="Brand voice example 2 in healthcare" />
+<p>Here at unnus, we like to go the extra mile with our clients and perform a technique we call <strong>brand interview</strong>.</p>
+<p>After we finished finalizing persona, we start by asking questions and answering them based on the brand persona of our clients</p>
+<p>Here's an example from one of our clients in the dental industry</p>
+<img src="/assets/course-assets/brand-interview.jpg" alt="Brand interview example in dental industry" />
 
+
+<p>This solidifies our understanding of the brand and how we voice it to our client&rsquo;s patients.</p>
+<p><strong>Next up:</strong> I'll go on about how to communicate everything we&rsquo;ve done so far (your positioning, brand persona, values) publicly to your ideal patients with a coherent framework.</p>
+<p>-Sliman</p>
+<p><strong><em>P.S:</em></strong><em> <a target="_blank" href="#">If you're not following unnus on Twitter yet</a>, I can highly recommend it. Not just for useful medical branding tips, but also for inspiration.</em></p>
 </section>
