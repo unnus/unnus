@@ -25,6 +25,7 @@ table_of_content:
 - Add meaning to your practice visuals with VP  
 - The truth about visuals  
 draft: false
+private: true
 ---
 
 <section id="Introduction">

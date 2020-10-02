@@ -24,6 +24,7 @@ table_of_content:
 - Case Study
 - Problem With Setting Broad Goals And Objectives
 draft: false
+private: true
 ---
 
 <section id="Introduction">

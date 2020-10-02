@@ -3,6 +3,7 @@ page: privte/single.html
 title: Brand your medical business
 which: brand-intensive
 description: unnus brand intensive service
+private: true
 ---
 
 <section class="manifesto-intensive">

@@ -25,6 +25,7 @@ table_of_content:
 - Differentiation strategy
 - Developing a positioning statement
 draft: false
+private: true
 ---
 
 <section id="Introduction">

@@ -24,6 +24,7 @@ table_of_content:
 - Creating brand persona
 - Developing brand voice for your practice
 draft: false
+private: true
 ---
 
 <section id="Introduction">

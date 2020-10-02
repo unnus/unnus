@@ -3,6 +3,7 @@ page: privte/single.html
 title: Thank you for your trust
 which: acknowledgment
 description: unnus acknowledgment  
+private: true
 ---
 
 

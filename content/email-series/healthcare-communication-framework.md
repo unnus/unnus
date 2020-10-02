@@ -26,6 +26,7 @@ table_of_content:
 - Hooks and pitches
 - Choosing a proper name
 draft: false
+private: true
 ---
 
 <section id="Introduction">
