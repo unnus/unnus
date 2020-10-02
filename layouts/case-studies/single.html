@@ -4,6 +4,9 @@
 
   <!-- use the same parent template but include different header to each static page -->
   <body>
+  {{if .Data.Terms }}
+  	<h1>BULLSHIT</h1>
+  {{end}}
 
 	{{ if eq $.Page.Params.which "caresect" }}
 	  {{ partial "case-studies/caresect-header.html" . }}

@@ -6,6 +6,9 @@
   <body>
   {{ partial "headers/medical-header.html" . }}
 
+  {{if .Data.Terms }}
+  	<h1>BULLSHIT</h1>
+  {{end}}
 
 		{{ .Content }}
 
