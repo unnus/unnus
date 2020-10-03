@@ -30,7 +30,7 @@ private: true
 <section id="Introduction">
 <div class="hook">
 <p>There are a ton of tropes and clichés about medicine and those who practice it.</p>
-<p>Which leads patients to an unintended, nonverbal bias in their interactions with your medical brand.</p>
+<p>Which leads patients to an unintended, nonverbal bias in their interactions with your medical brand</.p>
 <p>Today, we'll break the mold of these stereotypes.</p>
 </div>
 </section>

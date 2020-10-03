@@ -40,10 +40,12 @@ private: true
 	<h4>IV) Final step:</h4>
 	<p>At the end of the brand intensive presentation, we’ll put together a comprehensive & personalized report in great detail and send it directly to you.</p>
 </div>
-<button class="btn-s">
-	Schedule Free Consultation  <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg>
-</button>
+<a style="display: block;text-align: center;" href="https://calendly.com/unnus/free-call" class="btn-s">Schedule Free Consultation<svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg>
+</a>								
 
+<!-- <button class="btn-s">
+</button>
+ -->
 <div class="faq-intensive">
 	<h2>FAQ</h2>
 	<h4>I don’t have the time & I need someone to come in and do the work, and not just prescribe what to do. Can I hire you for both?</h4>
