@@ -1,7 +1,7 @@
 ---
 page: email-series/single.html
-title: Spark up your patient retention by forming a brand persona
-url: email-series/sparkup-patient-retention
+title: Healthcare → Break the mold by developing a brand persona
+url: email-series/healthcare-brand-persona
 author: Sliman M. Baghouri
 authorAvatarBottom: "/assets/images/blog/authors/SlimanBaghouri.png"
 authorAvatarTop: "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
@@ -28,22 +28,23 @@ private: true
 ---
 
 <section id="Introduction">
-
 <div class="hook">
-<p>Picture this:</p>
-
-<p>Trust and loyalty to your brand is over the rooftops. </p>
-<p>And due to the consistent patient experience throughout your whole business...</p>
-<p>Patients perceive every single contact point with your medical business not as separate entities, but as a whole person.</p>
-<p>The patient experience from booking an appointment until the after-treatment is so damn unchanging that they think they only dealt with one person.</p>
-<p>And what is more, the experience they got from your healthcare brand is memorable enough that, the next time your patient thinks of getting care, your practice pop up to mind.</p>
+<p>There are a ton of tropes and clichés about medicine and those who practice it.</p>
+<p>Which leads patients to an unintended, nonverbal bias in their interactions with your medical brand.</p>
+<p>Today, we'll break the mold of these stereotypes.</p>
 </div>
 </section>
 <hr>
 <section id="Whatisabrandpersona">
+<p>In this part you'll learn:</p>
+<ul>
+	<li>What is brand persona and how it benefit you</li>
+	<li>Infusing substance and emotions to your medical brand</li>
+	<li>Finding a "voice" that suits your brand</li>
+</ul>
 <h2>What is a brand persona?</h2>
 <p>Brand persona is the act of collecting personality traits, attitudes, and values that your brand will showcase regularly</p>
-<p>All traits will be prominent in your patient's contact points with your brand. (think website/marketing/receptionist/doctor giving care...)</p>
+<p>All traits will be prominent in your patient's contact points with your brand. (think website/marketing/nurses/doctor giving care...)</p>
 <p>This will tighten the connections your patient-segment has with you.</p>
 <p>A good persona is one that you can almost visualize as someone you know and could talk to.</p>
 <p>Your brand&rsquo;s attributes will perfectly adjust to what your patients associate with the most.</p>
