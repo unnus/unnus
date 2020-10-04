@@ -56,8 +56,8 @@
   "@type": "BlogPosting",
   "headline":"Healthcare Branding | unnus",
   "image": "https://unnus.com",
-  "datePublished": {{ .Date.Format "2006-01-02T15:04:05" | plainify }},
-  "dateModified": {{ .Date.Format "2006-01-02T15:04:05" | plainify }},
+  "datePublished": {{ .Date.Format "2006-01-02T15:04:05" | safeJS | htmlUnescape | plainify }},
+  "dateModified": {{ .Date.Format "2006-01-02T15:04:05" | safeJS | htmlUnescape | plainify }},
   "author": {
     "@type": "Person",
     "name": "Sliman M. Baghouri"
