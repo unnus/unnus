@@ -14,9 +14,9 @@ categories:
 - research
 date: 2020-09-04T23:00:00Z
 description: Post description goes here
-featImg: "/assets/images/work/healthier-thumbnail.jpg"
-featImgThumb: "/assets/images/work/healthier-thumbnail.jpg"
-socialThumbnail: "/assets/images/work/healthier-thumbnail.jpg"
+featImg: "/assets/images/blog/posts/lookalike.jpg"
+featImgThumb: "/assets/images/blog/posts/lookalike.jpg"
+socialThumbnail: "/assets/images/blog/posts/lookalike.jpg"
 readingTime: "6"
 table_of_content:
 - Introduction
@@ -105,7 +105,7 @@ Everything looks the same you wonder if choosing a practice name creates disting
 
 <p>
 	
-Now, I’m aware, the values/missions statement above are noble, undoubtedly so.
+Now, I’m aware, the statement above are admirable, undoubtedly so.
 </p>
 <p>
 	
@@ -121,7 +121,7 @@ It is a surefire way to submerge your practice in a sea of “lookalike” healt
 </p>
 <p>
 	
-Besides, these overused claims are bland, yawn-inducing, and not specific enough.
+Additionally, these overused claims are bland, yawn-inducing, and not specific enough.
 </p>
 
 <p>
@@ -131,7 +131,7 @@ Besides, these overused claims are bland, yawn-inducing, and not specific enough
 
 <p>
 	
-When your <b>“why”</b> or values are broadly defined, you run the risk of not having systematic steps to hit your business goals.
+When your <b>“why”</b> or values are broadly defined, you run the risk of not having systematic steps to hit your objectives.
 </p>
 
 <p>
@@ -153,7 +153,7 @@ And by blending into what everyone is doing, you commoditize your care services
 
 <p>
 	
-You can’t establish a strong foothold in the market or increase your profit margins if you don’t establish a position/differentiator.
+You can’t establish a strong foothold in the market if you don’t establish a position/differentiator.
 </p>
 <p>
 	
@@ -205,10 +205,6 @@ And combating that with preventative practices that can delay or reduce the like
 <p>
 	
 Even in the brand name, tone of voice, logo, website, color schemes, and marketing, all connote safety first.
-</p>
-<p>
-	
-Laser-focusing on being healthy rather than treating patients with leading-edge tech.
 </p>
 <p>
 	
@@ -305,4 +301,4 @@ It is a winning ticket to a successful healthcare brand and a cheat code breakth
 </p>
 
 
-<p>P.S. – If you find this lesson helpful, I’d appreciate it if you tweet about it so others can find it.  To do that, <a href="#">click here</a>.</p>
+<!-- <p>P.S. – If you find this lesson helpful, I’d appreciate it if you tweet about it so others can find it.  To do that, <a href="#">click here</a>.</p> -->
