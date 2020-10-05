@@ -151,7 +151,7 @@ description: case studies caresect
 <input type="hidden" name="meta_web_form_id" value="812149649" />
 <input type="hidden" name="meta_split_id" value="" />
 <input type="hidden" name="listname" value="awlist5746932" />
-<input type="hidden" name="redirect" value="https://www.unnus.com/privte/acknowledgment" id="redirect_8446ff3eca1bc3243a231d877a368cc9" />
+<input type="hidden" name="redirect" value="https://www.unnus.com/private/acknowledgment" id="redirect_8446ff3eca1bc3243a231d877a368cc9" />
 
 <input type="hidden" name="meta_adtracking" value="" />
 <input type="hidden" name="meta_message" value="1" />
