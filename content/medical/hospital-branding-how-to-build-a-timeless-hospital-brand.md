@@ -1,22 +1,22 @@
 +++
-author = ""
-authorAvatarBottom = ""
-authorAvatarTop = ""
-authorBio = ""
+author = "Sliman Baghouri"
+authorAvatarBottom = "/assets/images/120371939_345749750171835_8950812152203960568_n-jpg__nc_cat_107__nc_sid_ae9488__nc_ohc_keusa9vmawkax8moer4__nc_ht_scontent-mrs2-2__1_-removebg-preview-1.png"
+authorAvatarTop = "/assets/images/work/healthier-thumbnail.jpg"
+authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical  companies."
 category = "healthcare-branding"
-date = ""
-description = ""
+date = 2020-10-16T23:00:00Z
+description = "Forget anything you know about branding, in this article I lay down the fundamental components that makes up a great hospital brand"
 draft = true
-featImg = ""
-featImgThumb = ""
-linkedinHandle = ""
+featImg = "/assets/images/work/healthier-thumbnail.jpg"
+featImgThumb = "/assets/images/work/healthier-thumbnail.jpg"
+linkedinHandle = "/@slimaneBaghouri"
 page = "medical/single.html"
-permalink = ""
-readingTime = ""
-socialThumbnail = ""
-table_of_content = []
+permalink = "medical/hospital-branding"
+readingTime = "6"
+socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
+table_of_content = ["Intro"]
 title = "Hospital branding: How to build a timeless hospital brand"
-twitterHandle = ""
+twitterHandle = "/@SlimanBaghouri"
 
 +++
 <section  id="Intro">
