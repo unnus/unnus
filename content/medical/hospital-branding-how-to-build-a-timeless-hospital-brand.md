@@ -19,14 +19,8 @@ title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-<section  id="Intro">
-<div class="hook">
-<p>It’s terrifying research. 
-<a href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems will not exist in the next 10 years.</a> Meaning, mediocre hospitals will drop like flies in a few years.</p>
-<hr>
-</div>
-<p>You see, that’s not surprising in the slightest.</p>
-  
+<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. <a href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems</a> will not exist in the next 10 years.Meaning, mediocre hospitals will drop like flies in a few years.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
+
 <p>When the number of choices patients face keep growing; when your staff takes refuge in functional silos instead of a collaborative ecosystem; when you face the jagged transition to value-based care; when the market dynamics changes before you adapt; when patient retention dwindles down;or when your hospital is swimming in a sameness-sea of “me too” hospitals, it’s no surprise half of the current health systems will vanish.</p>
 
 <p>So, how will you cut through these hurdles?</p>
@@ -34,15 +28,15 @@ twitterHandle = "/@SlimanBaghouri"
 <!--more-->
 <p>What do I mean by that? </p>
 <p>Well, this is what I’ll share with you in this article.</p>
-<p>Well, this is what I’ll share with you in this article.</p> 
-<p>In this article, you’ll discover:</p> 
+<p>Well, this is what I’ll share with you in this article.</p>
+<p>In this article, you’ll discover:</p>
 <ul>
-  <li>What is a brand?</li>
-  <li>What is a hospital brand strategy?</li>
-  <li>Perks and advantages of branding your hospital </li>
-  <li>How can a brand strategy take your hospital to a new level?</li>
-  <li>Example of an established hospital brand</li>
- <li>Pivoting your hospital during this pandemic</li>
+<li>What is a brand?</li>
+<li>What is a hospital brand strategy?</li>
+<li>Perks and advantages of branding your hospital </li>
+<li>How can a brand strategy take your hospital to a new level?</li>
+<li>Example of an established hospital brand</li>
+<li>Pivoting your hospital during this pandemic</li>
 </ul>
 
 <p>
