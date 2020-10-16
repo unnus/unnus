@@ -1,7 +1,7 @@
 +++
 author = "Sliman Baghouri"
 authorAvatarBottom = "/assets/images/120371939_345749750171835_8950812152203960568_n-jpg__nc_cat_107__nc_sid_ae9488__nc_ohc_keusa9vmawkax8moer4__nc_ht_scontent-mrs2-2__1_-removebg-preview-1.png"
-authorAvatarTop = "/assets/images/work/healthier-thumbnail.jpg"
+authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-branding"
 date = 2020-10-16T23:00:00Z
