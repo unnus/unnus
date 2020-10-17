@@ -84,6 +84,7 @@ The gut feeling your customers has about your hospital is a direct result of the
   
 <p>Or does your hospital stand for something unique? If it does, are you vocal about it?
 </p>
+  </section>
 <section id="Whatisahospitalbrandingstrategy">
 <p>A hospital branding strategy is the management of the components that make your hospital unique.</p>
 <p>
