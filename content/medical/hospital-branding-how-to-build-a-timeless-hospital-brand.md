@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding an
 category = "healthcare-branding"
 date = 2020-10-16T23:00:00Z
 description = "Forget anything you know about branding, in this article I lay down the fundamental components that make up a great hospital brand"
-draft = true
 featImg = "/assets/images/hospital-branding.jpg"
 featImgThumb = "/assets/images/hospital-branding.jpg"
 linkedinHandle = "/slimaneBaghouri"
