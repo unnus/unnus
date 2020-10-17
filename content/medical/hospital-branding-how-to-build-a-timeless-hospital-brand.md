@@ -14,7 +14,7 @@ page = "medical/single.html"
 permalink = "medical/hospital-branding"
 readingTime = "6"
 socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
-table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand "]
+table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "casestudy"]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -79,9 +79,8 @@ The gut feeling your customers has about your hospital is a direct result of the
 <li>The reputation and trust you build during a period of time; And</li>
 <li>The culture you create inside your organization.</li>
  </ul>
-  
-<p>This is good research, however, <a href="#">defaults should be he states</a>.</p>
-<p> Is your hospital reliable or luxurious? industry-leading or Innovative ?</p>
+
+  <p> Is your hospital reliable or luxurious? industry-leading or Innovative ?</p>
   
 <p>Or does your hospital stand for something unique? If it does, are you vocal about it?
 </p>
@@ -138,7 +137,7 @@ Our brains are wired to notice what’s different. That’s because we need to m
 
 <p>
 
-Would-be patients encounter between <a href="#"> 6,000 to 10,000 ads every single day</a>. 
+Would-be patients encounter between <a href="#"> 6,000 to 10,000 ads</a> every single day. 
 
 </p>
 
@@ -160,36 +159,91 @@ Which means you’ll no longer need to compete on price, acquisitions, or volume
 
 <p>
 
-People don't buy what you do; they buy why you do it.
+  People don't buy what you do; they buy <b>why</b> you do it.
 <p><cite>—Simon Sinek, Start with the why</cite>
 </blockquote>
   
   <p>
 
-Yes, fraud possibly occurred but this also happened 1000x over in companies throughout history all over the world. This is again referring to one platform.
+You want loyal patients and to spark up their retention? Or Attract more of your ideal audience? State why you do what you do.
+</p>
+
+<p>
+
+Why are you in the business? Why would anyone care? 
+</p>
+  <p>
+That's why your hospital brand needs to stand for something. 
+</p>
+  <p>Standing for a philosophy or principle is what we value as humans. 
+</p>
+  <p>And people, by nature, seek meaning.</p>
+
+<p>
+Having a unique principle that your hospital fights for, gives it that <b>substantial flair</b>.
+</p>
+<p>Thus attracting loyal patients that carry the same values.</p>
+
+<p>If what your hospital stands for speaks to me on a deeper level, I’ll join your tribe. Not only that, I’ll convert more people to fight for your cause.</p>
+
+<h3>III) Branding your hospital is beneficial to an M&A transactions </h3>
+<p>Due to their large contribution to shareholder value, brands have a significant role in most M&A transactions. 
+</p>
+  <p>And to maximize the proceeds from such transactions, buyers and sellers look at the value of the brand assets. </p>
+  
+ <p>That’s because they want to see whether or not the brand can benefit from their position.
+ </p>
+ <p>For example, acquirers, their goal is defined by the extent to which it can retain customers from their target firms.</p>
+ <p>The best predictor of retention ties back to customer satisfaction (which is what branding aims to do). </p>
+  
+ <p>Whether your company is an acquirer or target firm in a potential M&A deal, having an established brand to your hospital is vital in the pursuit of growth and ROI. </p>
+<h3>IV) A brand culture skyrockets operational efficiency</h3>
+  <blockquote>
+
+<p>
+Brand culture is the culture that a company cultivates in order to powerfully and consistently deliver its brand to the market. It's how people work together to bring the brand alive for customers.
+<p><cite>—Mark Di Somma</cite>
+</blockquote>
+  
+<p>Medical businesses routinely separate functions or hierarchical levels to achieve efficiencies, However...</p> 
+<p>These divides lead to confusion, anxiety, and distrust.</p>
+
+  <p>And that’s because employees work at cross-purposes, taking refuge in functional silos instead of a collaborative ecosystem. 
+  </p>
+  
+  <p>This makes your medical staff sub-optimizing when you need all parts working together.
+  </p>
+  <p>
+  To combat that, having a brand culture in place creates a sense of order, making everyone vibrate at the same wavelength. 
+  </p>
+  
+  <p>
+  Therefore fostering engagement with your patients, staff and increasing commitment from stakeholders.
+
+  </p>
+  <p>
+  It creates a culture of resilience across your organization.
+  </p> 
+  
+<p><em>The Bottom line: the result of having a brand culture is coherence; the result of aimless workflow is wasted resources.
+  </em></p>
+  
+  </section>
+  
+
+<section id="casestudy">
+
+<h2>Case in point: Healthier, The risk-free hospital</h2>
+
+<p>
+
+<a href="#">Healthier</a>, a community hospital, based in Orlando.
 
 </p>
 
 <p>
 
-States unlike stocks you can invest in multiple companies, what is stopping you from investing in multiple platforms as I do?
-
-</p>
-</section>
-
-<section id="Howcanwedebunkthem">
-
-<h2>How can we debunk them</h2>
-
-<p>
-
-Taxes, while this is different in Australia and is less of a problem as our tax system does not discriminate based on income type like is such in America he still makes a good point.
-
-</p>
-
-<p>
-
-Lending Club does have a bad reputation, yes, However this brings me right back to point 6.
+After collaborative work with the leadership team, we decided on a rebrand for Healthier.
 
 </p>
 <blockquote>
@@ -208,35 +262,64 @@ Again, an investment not being liquid does not mean it is a bad investment.
 </p>
 
 <p>
-
-States the business has it better than consumer with fees, yes they do. They put in the work starting the business, same reason any business owner makes more than an employee.
-
-</p>
-
-<p>
-
-Again, defaults and fees should be calculated BEFORE investing.
+  Healthier is now positioned as <b>the safest hospital for its patients</b>. 
 
 </p>
 
 <p>
 
-States unlike stocks you can invest in multiple companies, what is stopping you from investing in multiple platforms as I do?
+They are laser-focus on being the risk-free choice in an age where patients dread insecure environments.
 
 </p>
 
-<div class="note">
-<p>When analyzing the top-ranking pages, make an effort to assess the overall quality and depth of the content 	optimization.</p>
-</div>
 <p>
 
-Yes, fraud possibly occurred but this also happened 1000x over in companies throughout history all over the world. This is again referring to one platform.
+The healthier rebrand consisted of 5 Phases. 
+
+</p>
+<ol>
+  <li>Brand DNA</li>
+  <li>Brand Positioning</li>
+  <li>Brand Persona</li>
+   <li>Communication Framework</li>
+   <li>Art Direction</li>
+</ol>
+  <p>If you want to see the step-by-step process of how we develop each phase, check this guide in <a href="#">healthcare branding.</a></p>
+<p>
+Their rebrand was not a mere “announcement”, they became it.
 
 </p>
 
-<p>States unlike stocks you can invest in multiple companies, what is stopping you from investing in multiple platforms as I do?</p>
+<p>All the touchpoints, nurses, physicians, websites, receptionist, press, advertising, social media, all together—yelled <b>safety</b>.</p>
 
-<p>You forget you’re looking at a hospital website when you read their heartwarming headline.</p>
-<p>A simplified process of brand voice development will look like this:</p>
+<p>If you read their blog, they solely talk about lowering medical errors, preventing patient falls, reducing readmission rates, and leading a healthier lifestyle.</p>
+<p>Even in the brand name, tone of voice, logo, website, color schemes, and marketing, all connote safety first.</p>
+<p>Laser-focusing on being healthy rather than treating patients with leading-edge tech.
+</p>
+  
+  <p>In other words, they stood for a cause: <b>safer healthcare</b>.</p>
+  
+<p>If you ask patients about Healthier, the #1 thing they remember it for is, how safe the hospital was.</p>
+  
+<p>And through the act of constant stress on leading a healthier life and being safe first, they are the safest option for their patients.</p>
+ 
+<p>The “why” / the purpose statement they developed, acted as a decision-guide to their actions.</p>
+  
+<p>And by being specific and focusing on one thing, they achieved a higher goal,quality care.</p>
+  
+<p>They own the “safest hospital” title.</p>
+
+<p>This happens when you maintain your “why”.</p>
+<p>Not only that, You need to manage your organization’s culture day-to-day.</p>
+  <p>If you do not actively work to keep clarity, discipline, and consistency in balance, then trust starts to break down.</p>
+  <p>
+At the simplest level, you want your medical business to be purpose-backed
+    </p>
+  <p>
+Your marketing channels, staff, and the doctor giving care, all need to be on the same page.</p>
+  <p>
+You need everyone to be on the same wavelength delivering a consistent patient experience </p>
+  <p>
+The garage guy needs to say something like “I work in the parking lot of a place that’s on this <b>mission</b>”.</p>
 
 </section>
