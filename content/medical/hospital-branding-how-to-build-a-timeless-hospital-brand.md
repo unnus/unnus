@@ -14,7 +14,7 @@ page = "medical/single.html"
 permalink = "medical/hospital-branding"
 readingTime = "6"
 socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
-table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during this pandemic ", "Whats next"]
+table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during a pandemic ", "Whats next"]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
