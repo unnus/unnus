@@ -239,7 +239,7 @@ Brand culture is the culture that a company cultivates in order to powerfully an
 
 <p>
 
-<a href="#">Healthier</a>, a community hospital, based in Orlando.
+<a target="_blank" href="https://www.unnus.com/case-studies/healthier" targ>Healthier</a>, a community hospital, based in Orlando.
 
 </p>
 
@@ -272,7 +272,7 @@ The healthier rebrand consisted of 5 Phases.
    <li>Communication Framework</li>
    <li>Art Direction</li>
 </ol>
-  <p>If you want to see the step-by-step process of how we develop each phase, check this guide in <a href="#">healthcare branding.</a></p>
+  <p>If you want to see the step-by-step process of how we develop each phase, check this series on <a target="_blank"  href="/healthcare-branding">healthcare branding.</a></p>
 <p>
 Their rebrand was not a mere “announcement”, they became it.
 
@@ -323,5 +323,5 @@ Branding is more relevant than ever, as healthcare organizations must build the 
 <h2>What’s next?</h2>
 <p>In the past year alone, we partnered up with multiple healthcare organizations, from private practices and  hospitals all the way to pharmaceutical systems.</p>
 
-  <p>If you’d like to build a healthcare system that is future-proof, <a href="#">we’re here to help you</a>.</p>
+  <p>If you’d like to build a healthcare system that is future-proof, <a href="/contact">we’re here to help you</a>.</p>
 </section>
