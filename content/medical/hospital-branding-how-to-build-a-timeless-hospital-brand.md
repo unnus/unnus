@@ -304,7 +304,7 @@ At the simplest level, you want your medical business to be purpose-backed
   <p>
 Your marketing channels, staff, and the doctor giving care, all need to be on the same page.</p>
   <p>
-You need everyone to be on the same wavelength delivering a consistent patient experience </p>
+You need everyone to be on the same page delivering a consistent patient experience </p>
   <p>
 The garage guy needs to say something like “I work in the parking lot of a place that’s on this <b>mission</b>”.</p>
   
