@@ -72,7 +72,7 @@ The gut feeling your customers has about your hospital is a direct result of the
 
 </p>
 <ul>
-<li>The perception they hold about your hospital in relation to your competitors</li>
+<li>The perception they hold about your hospital <em>in relation to your competitors</em></li>
 <li>What makes you different, RADICALLY different.</li>
 <li>The end-to-end experiences they have with your hospital.</li>  
 <li>The communications they receive from your brand.</li>
@@ -80,12 +80,13 @@ The gut feeling your customers has about your hospital is a direct result of the
 <li>The culture you create inside your organization.</li>
  </ul>
 
-  <p> Is your hospital reliable or luxurious? industry-leading or Innovative ?</p>
+  <p> Is your hospital reliable or luxurious? industry-leading or Innovative?</p>
   
 <p>Or does your hospital stand for something unique? If it does, are you vocal about it?
 </p>
   </section>
 <section id="Whatisahospitalbrandingstrategy">
+  <h2>What is a hospital brand strategy?</h2>
 <p>A hospital branding strategy is the management of the components that make your hospital unique.</p>
 <p>
 
@@ -279,9 +280,7 @@ Their rebrand was not a mere “announcement”, they became it.
 
 <p>All the touchpoints, nurses, physicians, websites, receptionist, press, advertising, social media, all together—yelled <b>safety</b>.</p>
 
-<p>If you read their blog, they solely talk about lowering medical errors, preventing patient falls, reducing readmission rates, and leading a healthier lifestyle.</p>
-<p>Even in the brand name, tone of voice, logo, website, color schemes, and marketing, all connote safety first.</p>
-<p>Laser-focusing on being healthy rather than treating patients with leading-edge tech.
+<p>If you read their blog, they solely talk about lowering medical errors, preventing patient falls, reducing readmission rates, and leading a healthier lifestyle.
 </p>
   
   <p>In other words, they stood for a cause: <b>safer healthcare</b>.</p>
