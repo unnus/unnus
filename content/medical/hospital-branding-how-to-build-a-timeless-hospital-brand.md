@@ -177,9 +177,9 @@ Why are you in the business? Why would anyone care?
   <p>
 That's why your hospital brand needs to stand for something. 
 </p>
-  <p>Standing for a philosophy or principle is what we value as humans. 
+  <p>Standing for a philosophy or a principle is what we value as humans. 
 </p>
-  <p>And people, by nature, seek meaning.</p>
+  <p>That's because people, by nature, seek meaning.</p>
 
 <p>
 Having a unique principle that your hospital fights for, gives it that <b>substantial flair</b>.
@@ -220,15 +220,15 @@ Brand culture is the culture that a company cultivates in order to powerfully an
   </p>
   
   <p>
-  Therefore fostering engagement with your patients, staff and increasing commitment from stakeholders.
+  Therefore, fostering engagement with your patients, staff and increasing commitment from stakeholders.
 
   </p>
   <p>
-  It creates a culture of resilience across your organization.
+  Doing this will lead to a culture of resilience across your organization.
   </p> 
   
-<p><em>The Bottom line: the result of having a brand culture is coherence; the result of aimless workflow is wasted resources.
-  </em></p>
+<p><em><b>The Bottom line: the result of having a brand culture is coherence; the result of aimless workflow is wasted resources.
+  </b></em></p>
   
   </section>
   
