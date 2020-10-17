@@ -6,20 +6,21 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding an
 category = "healthcare-branding"
 date = 2020-10-16T23:00:00Z
 description = "Forget anything you know about branding, in this article I lay down the fundamental components that make up a great hospital brand"
-draft = false
+draft = true
 featImg = "/assets/images/untitled.jpg"
 featImgThumb = "/assets/images/untitled.jpg"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
-slug = "hospital-branding"
+permalink = ""
 readingTime = "6"
+slug = "hospital-branding"
 socialThumbnail = "/assets/images/untitled.jpg"
 table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during a pandemic ", "Whats next"]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. </p><p><a href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems</a> will not exist in the next 10 years. Meaning, mediocre hospitals are to drop like flies in the following decade.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
+<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. </p><p><a  target="_blank" href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems</a> will not exist in the next 10 years. Meaning, mediocre hospitals are to drop like flies in the following decade.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
 
 <p>When the number of choices patients face keep growing; when your staff takes refuge in functional silos instead of a collaborative ecosystem; when you face the jagged transition to value-based care; when the market dynamics changes before you adapt; when patient retention dwindles down;or when your hospital is swimming in a sameness-sea of “me too” hospitals, it’s no surprise half of the current health systems will vanish.</p>
 
@@ -139,7 +140,7 @@ Our brains are wired to notice what’s different. That’s because we need to m
 
 <p>
 
-Would-be patients encounter between <a href="https://ppcprotect.com/how-many-ads-do-we-see-a-day/"> 6,000 to 10,000 ads</a> every single day. 
+Would-be patients encounter between <a   target="_blank" href="https://ppcprotect.com/how-many-ads-do-we-see-a-day/"> 6,000 to 10,000 ads</a> every single day. 
 
 </p>
 
