@@ -14,7 +14,7 @@ page = "medical/single.html"
 permalink = "medical/hospital-branding"
 readingTime = "6"
 socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
-table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study"]
+table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during this pandemic "]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -308,4 +308,20 @@ You need everyone to be on the same wavelength delivering a consistent patient e
   <p>
 The garage guy needs to say something like “I work in the parking lot of a place that’s on this <b>mission</b>”.</p>
 
+</section>
+<section id="Pivotingyourhospitalbrandduring a pandemic">
+<h2>Pivoting your hospital brand during this pandemic</h2>
+<p>
+Branding is more relevant than ever, as healthcare organizations must build the resilience required to serve their stakeholders in the midst of ongoing world-altering shifts, such as the COVID-19 global pandemic and its inevitable economic consequences. 
+</p>
+ <p>
+ A proven branding methodology is needed to bring clarity, focus and field-tested experience so organizations can continue to make progress, in good times and in bad. 
+ </p>
+</section>
+  
+<section id="Whatsnext">
+<h2>What’s next?</h2>
+<p>In the past year alone, we partnered up with multiple healthcare organizations, from private practices and  hospitals all the way to pharmaceutical systems.</p>
+
+  <p>If you’d like to build a healthcare system that is future-proof, <a href="#">we’re here to help you</a>.</p>
 </section>
