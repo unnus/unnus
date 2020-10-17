@@ -14,7 +14,7 @@ page = "medical/single.html"
 permalink = "medical/hospital-branding"
 readingTime = "6"
 socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
-table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "casestudy"]
+table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study"]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -244,20 +244,6 @@ Brand culture is the culture that a company cultivates in order to powerfully an
 <p>
 
 After collaborative work with the leadership team, we decided on a rebrand for Healthier.
-
-</p>
-<blockquote>
-
-<p>
-
-It is important to note as always, while all the information is provided in faith that it is accurate and reliable. It is to be noted I am not a financal adviser
-
-<p><cite>― Jean Paul Sartre</cite>
-</blockquote>
-
-<p>
-
-Again, an investment not being liquid does not mean it is a bad investment.
 
 </p>
 
