@@ -308,9 +308,9 @@ Your marketing channels, staff, and the doctor giving care, all need to be on th
 You need everyone to be on the same wavelength delivering a consistent patient experience </p>
   <p>
 The garage guy needs to say something like “I work in the parking lot of a place that’s on this <b>mission</b>”.</p>
-
+  
 </section>
-<section id="Pivotingyourhospitalbrandduring a pandemic">
+<section id="Pivotingyourhospitalbrandduringapandemic">
 <h2>Pivoting your hospital brand during this pandemic</h2>
 <p>
 Branding is more relevant than ever, as healthcare organizations must build the resilience required to serve their stakeholders in the midst of ongoing world-altering shifts, such as the COVID-19 global pandemic and its inevitable economic consequences. 
