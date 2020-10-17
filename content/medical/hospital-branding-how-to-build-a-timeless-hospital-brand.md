@@ -51,7 +51,7 @@ twitterHandle = "/@SlimanBaghouri"
 Some people say a “brand is a promise” there’s some truth in that, but that’s not what it is. 
 </p>
 </section>
-<section id="what is a hospital brand?">
+<section id="Whatisahospitalbrand?">
 
 <h2>So, what <em>is</em> a hospital brand?</h2>
 <p>
