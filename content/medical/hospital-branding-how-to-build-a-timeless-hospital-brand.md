@@ -1,19 +1,19 @@
 +++
 author = "Sliman Baghouri"
-authorAvatarBottom = "/assets/images/sliman.png"
+authorAvatarBottom = "/assets/images/rsz_2fax.png"
 authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-branding"
 date = 2020-10-16T23:00:00Z
 description = "Forget anything you know about branding, in this article I lay down the fundamental components that make up a great hospital brand"
 draft = true
-featImg = "/assets/images/work/healthier-thumbnail.jpg"
-featImgThumb = "/assets/images/work/healthier-thumbnail.jpg"
+featImg = "/assets/images/hospital-branding.jpg"
+featImgThumb = "/assets/images/hospital-branding.jpg"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 permalink = "medical/hospital-branding"
 readingTime = "6"
-socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
+socialThumbnail = "/assets/images/hospital-branding.jpg"
 table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during a pandemic ", "Whats next"]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
