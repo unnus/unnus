@@ -285,19 +285,19 @@ Their rebrand was not a mere “announcement”, they became it.
   
   <p>In other words, they stood for a cause: <b>safer healthcare</b>.</p>
   
-<p>If you ask patients about Healthier, the #1 thing they remember it for is, how safe the hospital was.</p>
+<p>If you ask patients about Healthier, the #1 thing they remember it for is how safe the hospital was.</p>
   
 <p>And through the act of constant stress on leading a healthier life and being safe first, they are the safest option for their patients.</p>
  
 <p>The “why” / the purpose statement they developed, acted as a decision-guide to their actions.</p>
   
-<p>And by being specific and focusing on one thing, they achieved a higher goal,quality care.</p>
+<p>And by being specific and focusing on one thing, they achieved a higher goal, quality care.</p>
   
 <p>They own the “safest hospital” title.</p>
 
 <p>This happens when you maintain your “why”.</p>
 <p>Not only that, You need to manage your organization’s culture day-to-day.</p>
-  <p>If you do not actively work to keep clarity, discipline, and consistency in balance, then trust starts to break down.</p>
+  <p>If you are not active on keeping clarity, discipline, and consistency in balance, then trust starts to break down.</p>
   <p>
 At the simplest level, you want your medical business to be purpose-backed
     </p>
