@@ -36,8 +36,8 @@ fields:
   name: readingTime
   label: Article reading time (put a number/in minutes/ example 6 or 7)
 - type: text
-  name: permalink
-  label: permalink (What url this article should be? blog/example)
+  name: slug
+  label: slug (What url this article should be? medical/your_Slug_Here)
 - type: datetime
   name: date
   label: date
