@@ -5,7 +5,7 @@ authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-branding"
 date = 2020-10-16T23:00:00Z
-description = "Forget anything you know about branding, in this article I lay down the fundamental components that makes up a great hospital brand"
+description = "Forget anything you know about branding, in this article I lay down the fundamental components that make up a great hospital brand"
 draft = true
 featImg = "/assets/images/work/healthier-thumbnail.jpg"
 featImgThumb = "/assets/images/work/healthier-thumbnail.jpg"
@@ -14,7 +14,7 @@ page = "medical/single.html"
 permalink = "medical/hospital-branding"
 readingTime = "6"
 socialThumbnail = "/assets/images/work/healthier-thumbnail.jpg"
-table_of_content = ["Intro"]
+table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand "]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -28,7 +28,6 @@ twitterHandle = "/@SlimanBaghouri"
 <!--more-->
 <p>What do I mean by that? </p>
 <p>Well, this is what I’ll share with you in this article.</p>
-<p>Well, this is what I’ll share with you in this article.</p>
 <p>In this article, you’ll discover:</p>
 <ul>
 <li>What is a brand?</li>
@@ -38,143 +37,134 @@ twitterHandle = "/@SlimanBaghouri"
 <li>Example of an established hospital brand</li>
 <li>Pivoting your hospital during this pandemic</li>
 </ul>
+<p>Let’s dive in.</p>
+</section>
+<section id="WhatHospitalbrandisnot">
 
+<h2>First, what hospital brand is not?</h2>
 <p>
-
-Graham certainly did some research but <strong>clearly not enough</strong>.
+  Let’s first define what brand and branding are not so we can leave room for the truth.
 </p>
 
-<p>Probably not.</p>
+<p>A brand is not your hospital logo, it’s not visual designs or ads. It’s not marketing effort, collateral, or business graphics and it is not a product.<p>
 <p>
-
-Nate O' Brian by far has the most fair and realistic review of P2P (Second to me of course!).
-
+Some people say a “brand is a promise” there’s some truth in that, but that’s not what it is. 
 </p>
 </section>
+<section id="what is a hospital brand?">
 
-<section id="Importanceofhowtodoit">
-
-<h2 class="bold">Importance of how to do it?</h2>
-
+<h2>So, what <em>is</em> a hospital brand?</h2>
 <p>
-
-Graham certainly did some research but <strong>clearly not enough</strong>.
-</p>
-
+A hospital brand is your customer GUT FEELING about your healthcare organization or care services.</p>
+<p>By customers I mean, patients, patients' families, and visitors referring physicians, doctors' offices, blood donors, staff, and third-party payers.</p>
 <p>
-If you look in his comment section you will actually see my behemoth of a comment.
-</p>
-<p>
-
-Graham certainly did some research but <strong>clearly not enough</strong>.
+It's a GUT FEELING because people are emotional, intuitive beings.
 </p>
 
 <p>
 
-Fees should be taken into account and most platforms show returns AFTER fees but Graham paints this as a horrible factor.
+And because we make decisions according to our trust in the care service.
 
 </p>
-
-<img loading="lazy" src="/assets/images/blog/posts/content/keyword.png" alt="Keyword Report" >
-
 <p>
 
-States that when someone defaults it is bad that only 12-13% of people pay back debt when collected by a third party.
+The gut feeling your customers has about your hospital is a direct result of the following:  
 
 </p>
-
+<ul>
+<li>The perception they hold about your hospital in relation to your competitors</li>
+<li>What makes you different, RADICALLY different.</li>
+<li>The end-to-end experiences they have with your hospital.</li>  
+<li>The communications they receive from your brand.</li>
+<li>The reputation and trust you build during a period of time; And</li>
+<li>The culture you create inside your organization.</li>
+ </ul>
+  
 <p>This is good research, however, <a href="#">defaults should be he states</a>.</p>
+<p> Is your hospital reliable or luxurious? industry-leading or Innovative ?</p>
+  
+<p>Or does your hospital stand for something unique? If it does, are you vocal about it?
+</p>
+<section id="Whatisahospitalbrandingstrategy">
+<p>A hospital branding strategy is the management of the components that make your hospital unique.</p>
 <p>
 
-Next he goes onto to state 7.8% default (fail to pay back the loan).
-</p>
-
-<p>Yes, across all quality loans...</p>
-
-<div class="takeaway">
-<h4># KEY TAKEAWAY</h4>
-<p>When analyzing the top-ranking pages, make an effort to assess the overall quality and depth of the content as opposed to looking for traditional indicators of poor optimization (e.g., keyword in the title, etc.). Your job is then to create a better page than those that already rank, not a “better optimized” one.</p>
-<p>Furthermore, don’t try to measure the relevance of page with any kind of “score”—whatever methodology or technology you’re using for that, Google almost certainly isn’t using it.
-</p>
-</div>
-
-<p>
-
-Liquidity, yes, he is right the loan  P2P as a whole a "BAD" investment instrument.
+Meaning, it’s about creating perceptions and fostering organization culture.
 
 </p>
 
 <p>
 
-I will be careful with this one Graham does use the words "most" and "potentially" so he is being honest of course, I just think he does not have a full understanding of how this all works
+And It’s about deciding on a communication strategy, building trust, and differentiating your hospital from the lookalike brands. 
 
 </p>
+
+<p>Branding your hospital is about bringing clarity and painting a vivid picture for the future. </p>
 
 <p>
-
-<b>BIGGEST ISSUE</b>, it seems his judgement of P2P Lending as a whole like many reviews (which we will get to soon), is based on only one platform, in this case Lending Club.
-
+It’s like developing a vaccine against: 
 </p>
-
-<p>
-
-Default rates will go up during a recession, yes, however large.
-
-</p>
+<ul>
+  <li>Unpredictable future challenges</li>
+  <li>Uncollaborative hospital environment</li>
+  <li>Market clutter and cutthroat competition</li>
+  <li>Financial pressure; And</li>
+  <li>Unsavory reputation</li>
+</ul>
 </section>
 
-<section id="Whataretheseproblems">
+<section id="Perksofhavinganestablishedhospitalbrand">
 
-<h2>What are these problems</h2>
+<h2>Perks of having an established hospital brand </h2>
 
 <p>
 
-Taxes, while this is different in Australia and is less of a problem as our tax system does not discriminate based on income type like is such in America he still makes a good point.
+There are immeasurable advantages to having a concrete brand in place. 
 
 </p>
 
 <p>
 
-Lending Club does have a bad reputation, yes, However this brings me right back to point 6.
+I’ll name a few for the sake of brevity.
 
 </p>
+<h3>I) Branding your hospital renders your competition irrelevant
+</h3>
+<p>
+
+Our brains are wired to notice what’s different. That’s because we need to maintain our sanity. 
+
+</p>
+
+<p>
+
+Would-be patients encounter between <a href="#"> 6,000 to 10,000 ads every single day</a>. 
+
+</p>
+
+<p>
+
+And for our brain to “filter out the clutter”, we skip past “look alikes” to pay attention to what’s unique. 
+
+</p>
+
+<p>
+
+Which means you’ll no longer need to compete on price, acquisitions, or volume. 
+
+</p>
+
+ <p>You are at the center of the stage.</p>
+<h3>II) Branding creates cult-like loyalty to your hospital</h3>
 <blockquote>
 
 <p>
 
-It is important to note as always, while all the information is provided in faith that it is accurate and reliable. It is to be noted I am not a financal adviser
-
-<p><cite>― Jean Paul Sartre</cite>
+People don't buy what you do; they buy why you do it.
+<p><cite>—Simon Sinek, Start with the why</cite>
 </blockquote>
-
-<p>
-
-Again, an investment not being liquid does not mean it is a bad investment.
-
-</p>
-
-<p>
-
-States the business has it better than consumer with fees, yes they do. They put in the work starting the business, same reason any business owner makes more than an employee.
-
-</p>
-
-<p>
-
-Again, defaults and fees should be calculated BEFORE investing.
-
-</p>
-
-<p>
-
-States unlike stocks you can invest in multiple companies, what is stopping you from investing in multiple platforms as I do?
-
-</p>
-
-<div class="note">
-<p>When analyzing the top-ranking pages, make an effort to assess the overall quality and depth of the content 	optimization.</p>
-</div>
-<p>
+  
+  <p>
 
 Yes, fraud possibly occurred but this also happened 1000x over in companies throughout history all over the world. This is again referring to one platform.
 
