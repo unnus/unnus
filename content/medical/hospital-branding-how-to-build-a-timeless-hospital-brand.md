@@ -138,7 +138,7 @@ Our brains are wired to notice what’s different. That’s because we need to m
 
 <p>
 
-Would-be patients encounter between <a href="#"> 6,000 to 10,000 ads</a> every single day. 
+Would-be patients encounter between <a href="https://ppcprotect.com/how-many-ads-do-we-see-a-day/"> 6,000 to 10,000 ads</a> every single day. 
 
 </p>
 
