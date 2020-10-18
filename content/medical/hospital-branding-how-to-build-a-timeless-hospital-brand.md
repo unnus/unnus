@@ -184,8 +184,8 @@ That's why your hospital brand needs to stand for something.
 <p>
 Having a unique principle that your hospital fights for, gives it that <b>substantial flair</b>.
 </p>
-<p>Thus attracting loyal patients that carry the same values.</p>
-
+<p>Thus attracting patients that carry the same values.</p>
+  <p><a target="_blank" href="https://www.fundera.com/resources/brand-loyalty-statistics#:~:text=Customers%20will%20stay%20loyal%20to,brands%20who%20share%20their%20values."> Recent study says that </a> 89% of customers stay loyal to brands who share their values.</p>
 <p>If what your hospital stands for speaks to me on a deeper level, I’ll join your tribe. Not only that, I’ll convert more people to fight for your cause.</p>
 
 <h3>III) Branding your hospital is beneficial to an M&A transactions </h3>
