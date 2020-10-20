@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-branding"
 date = 2020-10-19T23:00:00Z
 description = ""
-draft = true
 featImg = "/assets/images/dental-branding.jpg"
 featImgThumb = ""
 linkedinHandle = "slimaneBaghouri"
