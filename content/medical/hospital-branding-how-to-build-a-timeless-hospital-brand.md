@@ -157,18 +157,13 @@ Which means you’ll no longer need to compete on price, acquisitions, or volume
 
  <p>You are at the center of the stage.</p>
 <h3>II) Branding creates cult-like loyalty to your hospital</h3>
-<blockquote>
 
-<p>
+{{% blockquote %}}
+     People don't buy what you do; they buy <b>why</b> you do it.
+{{% /blockquote %}}
 
-  People don't buy what you do; they buy <b>why</b> you do it.
-<p><cite>—Simon Sinek, Start with the why</cite>
-</blockquote>
-  
-  <p>
 
 You want loyal patients and to spark up their retention? Or Attract more of your ideal audience? State why you do what you do.
-</p>
 
 <p>
 
