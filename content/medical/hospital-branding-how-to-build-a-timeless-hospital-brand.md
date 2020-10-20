@@ -6,20 +6,20 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding an
 category = "healthcare-branding"
 date = 2020-10-16T23:00:00Z
 description = "Forget anything you know about branding, in this article I lay down the fundamental components that make up a great hospital brand"
+draft = false
 featImg = "/assets/images/untitled.jpg"
 featImgThumb = "/assets/images/untitled.jpg"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
-permalink = ""
-readingTime = "6"
 slug = "hospital-branding"
+readingTime = "6"
 socialThumbnail = "/assets/images/untitled.jpg"
 table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during a pandemic ", "Whats next"]
 title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. </p><p><a  target="_blank" href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems</a> will not exist in the next 10 years. Meaning, mediocre hospitals are to drop like flies in the following decade.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
+<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. </p><p><a href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems</a> will not exist in the next 10 years. Meaning, mediocre hospitals are to drop like flies in the following decade.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
 
 <p>When the number of choices patients face keep growing; when your staff takes refuge in functional silos instead of a collaborative ecosystem; when you face the jagged transition to value-based care; when the market dynamics changes before you adapt; when patient retention dwindles down;or when your hospital is swimming in a sameness-sea of “me too” hospitals, it’s no surprise half of the current health systems will vanish.</p>
 
@@ -139,7 +139,7 @@ Our brains are wired to notice what’s different. That’s because we need to m
 
 <p>
 
-Would-be patients encounter between <a   target="_blank" href="https://ppcprotect.com/how-many-ads-do-we-see-a-day/"> 6,000 to 10,000 ads</a> every single day. 
+Would-be patients encounter between <a href="https://ppcprotect.com/how-many-ads-do-we-see-a-day/"> 6,000 to 10,000 ads</a> every single day. 
 
 </p>
 
@@ -158,12 +158,13 @@ Which means you’ll no longer need to compete on price, acquisitions, or volume
  <p>You are at the center of the stage.</p>
 <h3>II) Branding creates cult-like loyalty to your hospital</h3>
 
-
-{{% blockquote %}}
+{{< blockquote >}}
      People don't buy what you do; they buy <b>why</b> you do it.
-{{% /blockquote %}}
+{{</ blockquote >}}
+<p>
 
 You want loyal patients and to spark up their retention? Or Attract more of your ideal audience? State why you do what you do.
+</p>
 
 <p>
 
@@ -179,8 +180,8 @@ That's why your hospital brand needs to stand for something.
 <p>
 Having a unique principle that your hospital fights for, gives it that <b>substantial flair</b>.
 </p>
-<p>Thus attracting patients that carry the same values.</p>
-  <p><a target="_blank" href="https://www.fundera.com/resources/brand-loyalty-statistics#:~:text=Customers%20will%20stay%20loyal%20to,brands%20who%20share%20their%20values."> Recent study says that </a> 89% of customers stay loyal to brands who share their values.</p>
+<p>Thus attracting loyal patients that carry the same values.</p>
+
 <p>If what your hospital stands for speaks to me on a deeper level, I’ll join your tribe. Not only that, I’ll convert more people to fight for your cause.</p>
 
 <h3>III) Branding your hospital is beneficial to an M&A transactions </h3>
@@ -234,7 +235,7 @@ Brand culture is the culture that a company cultivates in order to powerfully an
 
 <p>
 
-<a target="_blank" href="https://www.unnus.com/case-studies/healthier" targ>Healthier</a>, a community hospital, based in Orlando.
+<a href="#">Healthier</a>, a community hospital, based in Orlando.
 
 </p>
 
@@ -267,7 +268,7 @@ The healthier rebrand consisted of 5 Phases.
    <li>Communication Framework</li>
    <li>Art Direction</li>
 </ol>
-  <p>If you want to see the step-by-step process of how we develop each phase, check this series on <a target="_blank"  href="/healthcare-branding">healthcare branding.</a></p>
+  <p>If you want to see the step-by-step process of how we develop each phase, check this guide in <a href="#">healthcare branding.</a></p>
 <p>
 Their rebrand was not a mere “announcement”, they became it.
 
@@ -318,5 +319,5 @@ Branding is more relevant than ever, as healthcare organizations must build the 
 <h2>What’s next?</h2>
 <p>In the past year alone, we partnered up with multiple healthcare organizations, from private practices and  hospitals all the way to pharmaceutical systems.</p>
 
-  <p>If you’d like to build a healthcare system that is future-proof, <a href="/contact">we’re here to help you</a>.</p>
+  <p>If you’d like to build a healthcare system that is future-proof, <a href="#">we’re here to help you</a>.</p>
 </section>
