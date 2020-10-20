@@ -20,7 +20,7 @@ twitterHandle = "SlimanBaghouri"
 +++
 {{% hook %}} **You want your patients to fall head-over-heels in love with your practice?**{{% /hook %}}
 
-{{% hook %}} **The answer is straightforward: build a charismatic dental brand.**{{% /hook %}}
+{{% hook %}} **If yes, the best way to go about it is: build a charismatic dental brand.**{{% /hook %}}
 
 ***
 
@@ -43,7 +43,7 @@ This article covers:
 * Quick techniques to know if your practice _is_ charismatic
 * And more…
 
-## Common misconceptions about dental branding 
+## Common misconceptions about dental branding
 
 First, Let’s discuss what we mean by a “brand”.
 
@@ -112,7 +112,7 @@ Why would a dentist choose to work at a rigid, spreadsheet-driven organization o
 To be purpose-driven means to act out your beliefs.
 
 And not to put them as a decoration for an “about us” section.  
- {{% /important%}}
+{{% /important%}}
 
 ### II) The trap of “me too” purposes.
 
@@ -131,7 +131,6 @@ Pick 4 values from the 12 virtue list.
 
 Post it on their website and they call it a day.
 
-  
 **_This is the fast lane to dissolve in the “lookalike dental brands” limbo_**
 
 While these values are noble, from a business standpoint, they are problematic.
@@ -153,7 +152,7 @@ _By being different **from** your competitors **in the eyes** of your potential 
 
 That’s what we call **positioning**.
 
-{{% note "CASE STUDY" %}} 
+{{% note "CASE STUDY" %}}
 
 Confidental™, a client of ours that provides cosmetic dentistry to its patients in napa valley, CA.
 
@@ -203,7 +202,7 @@ They can also tend to command the highest price premiums- up to 40% more than ge
 
 And, most importantly, they are the least likely to fall victim to commoditization.
 
-So let's explore what elements that form this kind of brand. 
+So let's explore what elements that form this kind of brand.
 
 ### I) Charismatic dental brands own a clear competitive stance
 
