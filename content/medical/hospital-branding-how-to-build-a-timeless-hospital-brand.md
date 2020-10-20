@@ -158,10 +158,6 @@ Which means you’ll no longer need to compete on price, acquisitions, or volume
 <h3>II) Branding creates cult-like loyalty to your hospital</h3>
 
 {{% blockquote "Simon Sinek" %}}People don't buy what you do; they buy **why** you do it. {{% /blockquote %}}
-
-{{< blockquote >}}
-
-{{</ blockquote >}}
 <p>
 
 You want loyal patients and to spark up their retention? Or Attract more of your ideal audience? State why you do what you do.
