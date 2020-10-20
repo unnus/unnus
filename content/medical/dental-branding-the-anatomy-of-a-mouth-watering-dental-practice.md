@@ -414,7 +414,7 @@ In the first blank you fill in the category you’re in (Orthodontist, cosmetic,
 
 And in the second blank, you put your **differentiator**.
 
-A differentiator is a competitive advantage that you own.
+A differentiator is a competitive advantage that you own, it's unique value proposition that makes you unique.
 
 Example of Confidental™'s onliness statement :
 
