@@ -255,9 +255,9 @@ var getSiblings = function (elem) {
 			});
 		});
 
-		// Track all sections that have an `id` applied
-		document.querySelectorAll('section[id]').forEach((section) => {
-			observer.observe(section);
+		// Track all h2s that have an `id` applied
+		document.querySelectorAll('h2[id]').forEach((h2) => {
+			observer.observe(h2);
 		});
 	}
 
