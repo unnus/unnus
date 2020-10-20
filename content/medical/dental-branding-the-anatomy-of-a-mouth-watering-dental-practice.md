@@ -48,7 +48,7 @@ This article covers:
 
 First, Let’s discuss what we mean by a “brand”.
 
-To do that, let’s wipe the slate clean and explaining what _is_ not a brand:
+To do that, let’s wipe the slate clean and explaining what is _not_ a brand:
 
 * It is not your practice logo or a name. The logo is a symbol or emblem that carries a visual representation of the business.
 * It is not a visual aspect of your business or its design identity.
