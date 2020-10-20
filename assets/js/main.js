@@ -256,7 +256,7 @@ var getSiblings = function (elem) {
 		});
 
 		// Track all sections that have an `id` applied
-		document.querySelectorAll('section[id]').forEach((section) => {
+		document.querySelectorAll('h2[id]').forEach((section) => {
 			observer.observe(section);
 		});
 	}
