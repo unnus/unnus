@@ -422,7 +422,7 @@ Example of Confidental™'s onliness statement :
 
 This positioning statement solidifies what you’re being perceived by the patients and how you’re different from others.
 
-## The truth about a charismatic dental brand
+## The truth about charismatic dental brands
 
 Establishing a dental brand for your practice is like developing a vaccination for mediocrity
 
