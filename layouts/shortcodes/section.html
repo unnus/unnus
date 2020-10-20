@@ -1,6 +1,6 @@
 {{- $title := cond (.IsNamedParams) (.Get "id") (.Get 0) -}}
 
-<section class="{{$title}}">
+<section class="{{replaceRE "(\\s)" "" $title}}">
   {{- with $title -}}
   <h4>{{ . }}</h4>
   {{- end -}}
