@@ -7,7 +7,7 @@ category = "healthcare-branding"
 date = 2020-10-19T23:00:00Z
 description = ""
 draft = true
-featImg = ""
+featImg = "/assets/images/blog/posts/plastic-pill.jpeg"
 featImgThumb = ""
 linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
@@ -19,9 +19,13 @@ title = "Dental Branding: The Anatomy Of A Mouth-Watering Dental Practice"
 twitterHandle = "SlimanBaghouri"
 
 +++
+{{% hook %}} 
+
 **You want your patients to fall head-over-heels in love with your practice?**
 
 **The answer is straightforward: build a charismatic dental brand.**
+
+ {{% /hook %}}
 
 ***
 
