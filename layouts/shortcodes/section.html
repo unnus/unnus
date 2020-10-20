@@ -1,0 +1,8 @@
+{{- $title := cond (.IsNamedParams) (.Get "id") (.Get 0) -}}
+
+<section class="{{$title}}">
+  {{- with $title -}}
+  <h4>{{ . }}</h4>
+  {{- end -}}
+ <p> {{ safeHTML .Inner }} </p>
+</section>
