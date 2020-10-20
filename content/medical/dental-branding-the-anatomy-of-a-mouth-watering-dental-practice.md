@@ -398,7 +398,7 @@ This exercise will force you to think through some of the key elements that make
 
 Here’s an example of this technique from our client Confidental™
 
-![](/assets/images/persona-obituary.jpg)
+![Healthcare Branding exercise ](/assets/images/persona-obituary.jpg "Healthcare Branding exercise  ")
 
 ### II) Onliness statement test
 
@@ -408,4 +408,10 @@ It’s simple but surprisingly hard to get right.
 
 Finish the next sentence:
 
-Our brand is the only ________ THAT ________ . 
+![Healthcare positioning statement](/assets/images/positioning-onliness-statement.jpg "Healthcare positioning statement")
+
+In the first blank you fill in the category you’re in (Orthodontist, general dentist...)
+
+And in the second blank, you put your **differentiator**.
+
+A differentiator is a competitive advantage that you own.
