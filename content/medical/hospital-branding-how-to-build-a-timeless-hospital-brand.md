@@ -231,7 +231,7 @@ Doing this will lead to a culture of resilience across your organization.
 
 <p>
 
-<a href="#">Healthier</a>, a community hospital, based in Orlando.
+<a target="_blank" href="/case-studies/healthier#">Healthier</a>, a community hospital, based in Orlando.
 
 </p>
 
@@ -315,5 +315,4 @@ A proven branding methodology is needed to bring clarity, focus and field-tested
 <h2>What’s next?</h2>
 <p>In the past year alone, we partnered up with multiple healthcare organizations, from private practices and  hospitals all the way to pharmaceutical systems.</p>
 
-<p>If you’d like to build a healthcare system that is future-proof, <a href="#">we’re here to help you</a>.</p>
-</section>
+<p>If you’d like to build a healthcare system that is future-proof, <a href="/contact">we’re here to help you</a>.</p> </section>
