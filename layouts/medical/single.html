@@ -63,7 +63,7 @@
 
 									 <ol>
 									  {{ range $headline := .Params.table_of_content}}
-									    <li> <a class="link-scroll" href="#{{ replaceRE "(\\s)" "" $headline }}"> {{ $headline }}</a></li>
+									    <li> <a class="link-scroll" href="#{{ replaceRE "(\\s)" "" $headline }}"> {{replaceRE "-" " " $headline }}</a></li>
 									  {{ end }}
 									</ol>
 
