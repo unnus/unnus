@@ -42,6 +42,7 @@ This article covers:
 * Advantages of having a charismatic dental brand.
 * Quick techniques to know if your practice _is_ charismatic
 * And more…
+<!--more-->
 
 ## Common misconceptions about dental branding
 
