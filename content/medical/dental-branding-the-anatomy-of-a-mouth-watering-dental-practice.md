@@ -320,7 +320,7 @@ You’ve seen how people describe themselves based on the tribes they’re in.
 
 That’s because these brands spoke to their souls. They know their audience and they built communities around a shared purpose.
 
-{{% blockquote "_Seth Godin, Tribes._" %}} _A tribe is a group of people connected to one another, connected to a leader, and connected to an idea. For millions of years, human beings have been part of one tribe or another. A group needs only two things to be a tribe: a shared interest and a way to communicate._{{% /blockquote %}}
+{{% blockquote "Seth Godin, Tribes" %}} _A tribe is a group of people connected to one another, connected to a leader, and connected to an idea. For millions of years, human beings have been part of one tribe or another. A group needs only two things to be a tribe: a shared interest and a way to communicate._{{% /blockquote %}}
 
 Seth Godin, a marketing guru, is hinting at the need for organizations to build communities around their brand.
 
