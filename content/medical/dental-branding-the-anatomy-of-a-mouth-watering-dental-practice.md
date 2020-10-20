@@ -20,7 +20,7 @@ twitterHandle = "SlimanBaghouri"
 +++
 {{% hook %}} **You want your patients to fall head-over-heels in love with your practice?**{{% /hook %}}
 
-{{% hook %}} **If yes, you have to build a charismatic dental brand.**{{% /hook %}}
+{{% hook %}} **If yes, read on.**{{% /hook %}}
 
 ***
 
