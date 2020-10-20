@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "11"
 slug = "dental-branding"
 socialThumbnail = ""
-table_of_content = []
+table_of_content = ["common-misconceptions-about-dental-branding", "so-what-is-dental-branding", "pitfalls-that-makes-your-dental-brand-bland", "what-makes-a-charismatic-dental-brand", "advantages-of-building-a-charismatic-dental-brand", "the-charismatic-brand-test", "the-truth-about-charismatic-dental-brands"]
 title = "Dental Branding: The Anatomy Of A Mouth-Watering Dental Practice"
 twitterHandle = "SlimanBaghouri"
 
