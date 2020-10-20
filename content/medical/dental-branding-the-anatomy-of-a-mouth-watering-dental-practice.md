@@ -410,7 +410,7 @@ Finish the next sentence:
 
 ![Healthcare positioning statement](/assets/images/positioning-onliness-statement.jpg "Healthcare positioning statement")
 
-In the first blank you fill in the category you’re in (Orthodontist, general dentist...)
+In the first blank you fill in the category you’re in (Orthodontist, cosmetic, general, etc...)
 
 And in the second blank, you put your **differentiator**.
 
