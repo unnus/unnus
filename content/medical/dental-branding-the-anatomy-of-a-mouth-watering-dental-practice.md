@@ -174,4 +174,238 @@ This is not to say you need to rehearse talks or engineer conversions.
 
 What you need to do is to be selective in the communication with the patients/would-be patients.
 
-### 
+Meaning, your channels (media, websites, referral pads, receptionist, doctor giving care, etc…) should **mirror your philosophy.**
+
+Does your staff project the same values of your brand when talking to patients?
+
+And is that way of communicating consistent with what your brand stands for?
+
+Do your blog posts discuss the same principles that will solidify your position in the market?
+
+One of our clients, [Healthier](/case-studies/healthier "Case study"), is positioned as the safest hospital in Orlando.
+
+In their communication with patients, they always stress on being safe and healthy first.
+
+In their ads, marketing, or even blog section, that’s all they talk about: being safe.
+
+When new patients come in, nurses emphasize the patient’s welfare.
+
+In other words, What will patients remember you for after they came in contact with your dental brand?
+
+Is there any framework that makes sure you are unique in the minds of patients?
+
+## What makes a charismatic dental brand?
+
+A charismatic dental brand can be defined as any oral care service for which patients believe there's no substitute.
+
+Not surprisingly, charismatic dental brands often claim the dominant position in their categories, with market shares of 50% or higher.
+
+They can also tend to command the highest price premiums- up to 40% more than generic care services.
+
+And, most importantly, they are the least likely to fall victim to commoditization.
+
+So let's explore what elements that form this kind of brand. 
+
+### I) Charismatic dental brands own a clear competitive stance
+
+One of the traits of a charismatic dental brand is having a competitive advantage.
+
+A competitive stance consists of multiple aspects.
+
+It can be an area of specialty your dental practice is known for, the unique personality infused in your communication, reputation, or even aesthetics.
+
+It can also be a special-purpose your practice fights for and is always vocal about it.
+
+There’s a differentiator that works as the gulf between a charismatic dental brand and the “lookalikes”.
+
+### II) They pose a high sense of purpose
+
+Charismatic dental brands KNOW their raison d'etre or a reason for being.
+
+In other words, they know their WHY.
+
+Let’s say you run a dental office, but why? What greater cause your practice fights for?
+
+To illustrate how important this is, I’ll show you two versions of a pitch for a dental practice
+
+**First (PRE WHY):**
+
+_“We’re Confidental, we provide the highest oral care services for our patients at an affordable price.”_
+
+It clearly states who they are, and what they do. Good.
+
+It also explains how this benefits patients (affordable prices)
+
+Let’s see how this will look when your “why” is well articulated.
+
+**SECOND (POST WHY)**
+
+_What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile._
+
+You see the difference? Confidental™ wants it’s patients to lead a stress-free lifestyle how? By empowering them with confidence in their dental appearance.
+
+This solidifies and differentiates them from the rest of the pack.
+
+### III) They are dedicated to aesthetics
+
+Why aesthetics? Because it’s the language of feeling, and, in a society that’s information-rich and time-poor, patients value feeling more than information.
+
+Aesthetics is so powerful that it can turn a commodity into a premium care service.
+
+Aesthetics consists of all elements that make up your visual identity.
+
+From referral pads, office interior design, signage, logotypes, typography, web graphics, color schemes, and design patterns.
+
+All elements need to reflect what your dental brand stands for and its message to patients.
+
+Great dental brands subtly convey their place in the market using visuals.
+
+### IV) They utilize a communication framework
+
+You know that no amount of brushing, flossing, x-rays, fillings, or cleaning is going to result in healthy mouths if you are not on the same page with your patient.
+
+When your communication comes through intact, crystal clear, and potent- it goes straight into the patient’s brains without distortion.
+
+It shrinks the "**psychic distance**" between you and your patient so that a relationship can begin to develop.
+
+And to achieve the same level of understanding, charismatic dental brands utilize communication frameworks.
+
+A **communication framework** is a branding strategy that allows you and your staff to convey consistent messaging to your patients AND would-be patients in a novel manner.
+
+Within this communication framework, we use techniques like Storytelling, Messaging, Main Narrative, etc...
+
+If you’d like to see how this unfolds in detail, check our free [healthcare branding series](/healthcare-branding "Healthcare branding series")
+
+## Advantages of building a charismatic dental brand
+
+Establishing a brand for your dental practice arms you with a bottomless source of perks.
+
+In an age where we’re seeing an overabundance of patient choice, branding is an integral part of success.
+
+Here are a few of these benefits that take your dental practice to a new arena
+
+### I) Established dental brands charge premiums and do not compete on price
+
+Since you built a brand that patients gather around and are loyal to, you don’t have to cut down prices.
+
+You skip past the hassle of having to negotiate prices because patients _already_ know your value.
+
+Your patients are aware of what makes your dental brand unique.
+
+They are aware of the fact that there is no substitute for the kind of experience you provide.
+
+They know your value because you proactively communicate it through your messaging with them before treatment.
+
+This is the power of branding: Being able to convey your message early on before the patient made the decision to see you.
+
+### II) skyrockets patient retention
+
+You know that patient retention is imperative to reliably grow your DSO’s practices.
+
+And using paid ads for acquiring patients is like using a tactic that comes with an expiration date.
+
+However, this is different when it comes to branding.
+
+Branding, at its core, creates long-term relationships with your patients.
+
+Building a grounded brand requires long-lasting bonds with patients.
+
+Therefore creating a cult-like loyalty and increasing their retention.
+
+### III) Charismatic Dental brands Enjoy Organic Prosperity
+
+You’ve seen how people describe themselves based on the tribes they’re in.
+
+“I’m an android fan” or “I’m a Jeep person”
+
+That’s because these brands spoke to their souls. They know their audience and they built communities around a shared purpose.
+
+{{% blockquote "_Seth Godin, Tribes._" %}} _A tribe is a group of people connected to one another, connected to a leader, and connected to an idea. For millions of years, human beings have been part of one tribe or another. A group needs only two things to be a tribe: a shared interest and a way to communicate._{{% /blockquote %}}
+
+Seth Godin, a marketing guru, is hinting at the need for organizations to build communities around their brand.
+
+Because it’s when you build a circle of people _around_ your dental brand, you gain the unmatched advantage of functioning like an organism rather than an organization.
+
+You see, when your dental brand starts to be the playground in which your patients meet and build a community around it, it becomes more of an ecosystem for them to live and thrive.
+
+And that’s what any good practice should be, a place where patients are empowered.
+
+What does that mean for your practice? Simple: Organic Prosperity.
+
+Your patients now are stakeholders and members of your tribe.
+
+They are true evangelists for this brand of which they believe there is no substitute.
+
+Patients will join the battlefield and recruit more patients around the same cause your brand fights for.
+
+A brand like this creates tribes and loyal followers that WANT to spread the word.
+
+Building a tribe around your dental brand is not some wishy-washy riffs.
+
+Here at unnus, we implement design-thinking strategies to achieve the same effect for our clients.
+
+If you’d like to dig deep into details of the “how”, again, we highly recommend checking out this free [5 part series on healthcare branding](/healthcare-branding "Healthcare branding series").
+
+### IV) It spark up operational efficiencies
+
+Without a concrete strategy for where your dental brand wants to be, you’ll work aimlessly towards no man’s brand.
+
+And building a brand forces you to squeeze your brain to imagine the future for your dental practice.
+
+Your FUTURE BRAND will be the binoculars from which you peek into tomorrow.
+
+This is important to all the stakeholders of your practice.
+
+When everyone has an objective to aim at, work becomes more enticing.
+
+This leads to your staff working together and providing better services to your patients.
+
+And thus, sparking up operational efficiencies.
+
+## The charismatic brand test
+
+In this section, I’ll share with you 2 creative exercises you can play with your team.
+
+These exercises are meant to help you paint the bigger picture for your dental practice and see if it can pass the test of time or not.
+
+### I) Brand Obituary Technique
+
+What will happen if your dental business closes its door tomorrow?
+
+Would journalists write headlines heralding your past achievements, or would their stories simply add you to a list of bygones?
+
+Would employees wonder how it could have ended, or would they have known it was inevitable?
+
+Would patients mourn your passing, or would the demise of your brand go unnoticed?
+
+Write down the obituary of your brand as if it were a person who just died yesterday.
+
+Think of yourself as the journalist who has to report on the accident
+
+Things you need to include in the obituary:
+
+What was the brand’s biggest achievement in life?
+
+* What will patients remember it for?
+* Who did the dental brand leave behind?
+* What did the dental brand leave unaccomplished?
+* Who will mourn or miss your brand, and why?
+* What lessons can be learned from the brand’s life?
+* What can be learned in the wake of its death?
+* Now that the brand is gone, what will take its place?
+
+This exercise will force you to think through some of the key elements that make up a charismatic brand.
+
+Here’s an example of this technique from our client Confidental™
+
+![](/assets/images/persona-obituary.jpg)
+
+### II) Onliness statement test
+
+The onliness statement exercise is a luminous test of how unique your dental practice is.
+
+It’s simple but surprisingly hard to get right.
+
+Finish the next sentence:
+
+Our brand is the only ________ THAT ________ . 
