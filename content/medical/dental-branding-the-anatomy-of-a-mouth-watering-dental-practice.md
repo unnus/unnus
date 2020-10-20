@@ -415,3 +415,19 @@ In the first blank you fill in the category you’re in (Orthodontist, general d
 And in the second blank, you put your **differentiator**.
 
 A differentiator is a competitive advantage that you own.
+
+Example of Confidental™'s onliness statement :
+
+![Healthcare branding example](/assets/images/positioning-onliness-statement-ex.jpg "Healthcare branding example")
+
+This positioning statement solidifies what you’re being perceived by the patients and how you’re different from others.
+
+## The truth about a charismatic dental brand
+
+Establishing a dental brand for your practice is like developing a vaccination for mediocrity
+
+It sets you up apart from being seen as a commodity.
+
+It is a sure-fire way to cut through the “me too” dental brands and establish a long-term growth strategy.
+
+If you’re aiming to develop a brand strategy for your practice and want an extra hand to help, [you can always reach us out](/contact "Contact us").
