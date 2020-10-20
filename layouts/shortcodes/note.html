@@ -1,0 +1,9 @@
+{{- $title := cond (.IsNamedParams) (.Get "title") (.Get 0) -}}
+
+<div class="takeaway">
+{{- with $title -}}
+	<h4># {{.}}</h4>
+{{- end -}}
+
+{{ safeHTML .Inner | markdownify }}
+</div>
