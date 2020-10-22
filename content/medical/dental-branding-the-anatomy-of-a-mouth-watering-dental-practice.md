@@ -42,7 +42,7 @@ This article covers:
 * Advantages of having a charismatic dental brand.
 * Quick techniques to know if your practice _is_ charismatic
 * And more…
-<!--more-->
+  <!--more-->
 
 ## Common misconceptions about dental branding
 
@@ -221,9 +221,15 @@ There’s a differentiator that works as the gulf between a charismatic dental b
 
 Charismatic dental brands KNOW their raison d'etre or a reason for being.
 
-In other words, they know their WHY.
+In other words, they know their **WHY**.
 
-Let’s say you run a dental office, but why? What greater cause your practice fights for?
+By WHY I mean the reason they get out of bed every morning. 
+
+And why you do what you do besides making a profit? 
+
+What's the meaningful substance behind your work? 
+
+And if you have one, are you well articulate about it? 
 
 To illustrate how important this is, I’ll show you two versions of a pitch for a dental practice
 
