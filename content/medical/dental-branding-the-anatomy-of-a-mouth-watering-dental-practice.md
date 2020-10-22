@@ -223,9 +223,9 @@ Charismatic dental brands KNOW their raison d'etre or a reason for being.
 
 In other words, they know their **WHY**.
 
-By WHY I mean the reason they get out of bed every morning. 
+By WHY I mean the reason you get out of bed every morning. 
 
-And why you do what you do besides making a profit? 
+Why you do what you do besides making a profit? 
 
 What's the meaningful substance behind your work? 
 
