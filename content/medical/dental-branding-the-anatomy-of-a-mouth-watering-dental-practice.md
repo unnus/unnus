@@ -223,13 +223,13 @@ Charismatic dental brands KNOW their raison d'etre or a reason for being.
 
 In other words, they know their **WHY**.
 
-By WHY I mean the reason you get out of bed every morning. 
+By WHY I mean the reason you get out of bed every morning.
 
-Why you do what you do besides making a profit? 
+Why you do what you do besides making a profit?
 
-What's the meaningful substance behind your work? 
+What's the meaningful substance behind your work?
 
-And if you have one, are you well articulate about it? 
+And if you have one, are you well articulate about it?
 
 To illustrate how important this is, I’ll show you two versions of a pitch for a dental practice
 
@@ -392,8 +392,8 @@ Things you need to include in the obituary:
 What was the brand’s biggest achievement in life?
 
 * What will patients remember it for?
-* Who did the dental brand leave behind?
-* What did the dental brand leave unaccomplished?
+* Who did your practice leave behind?
+* What did your brand leave unaccomplished?
 * Who will mourn or miss your brand, and why?
 * What lessons can be learned from the brand’s life?
 * What can be learned in the wake of its death?
