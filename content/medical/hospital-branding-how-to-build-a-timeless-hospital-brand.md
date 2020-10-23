@@ -1,5 +1,5 @@
 +++
-author = "Sliman Baghouri"
+author = "Sliman M. Baghouri"
 authorAvatarBottom = "/assets/images/rsz_2fax.png"
 authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
