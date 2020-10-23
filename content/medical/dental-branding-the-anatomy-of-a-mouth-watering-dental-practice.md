@@ -219,6 +219,8 @@ There’s a differentiator that works as the gulf between a charismatic dental b
 
 ### II) They pose a high sense of purpose
 
+{{% blockquote "Simon Sinek, Start with the why" %}} **People** don't **buy** what **you do**; they **buy why you do** it and what **you do** simply proves what **you** believe. {{% /blockquote %}}
+
 Charismatic dental brands KNOW their raison d'etre or a reason for being.
 
 In other words, they know their **WHY**.
