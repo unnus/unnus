@@ -18,11 +18,11 @@ title = "Unique Healthcare Mission Statement: 2020 guide [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-{{% hook %}} There’s no shortage of the same sounding mission statements. {{% /hook %}}
+{{% hook %}} **There’s no shortage of the same sounding mission statements.** {{% /hook %}}
 
-{{% hook %}} Healthcare brands use them as a “decoration”. {{% /hook %}}
+{{% hook %}} **Healthcare brands use them as a “decoration”.** {{% /hook %}}
 
-{{% hook %}} But a mission statement carries with them unexplored advantages. {{% /hook %}}
+{{% hook %}} **But a mission statement carries with them unexplored advantages.**{{% /hook %}}
 
 ***
 
