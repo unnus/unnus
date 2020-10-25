@@ -117,12 +117,12 @@ And not to put them as a decoration for an “about us” section.
 
 ### II) The trap of “me too” purposes.
 
-Have you ever skimmed through an about section of your competitors and seen the same damn thing repeated multiple times?
+Have you ever skimmed through an about section of your competitors and seen the same thing repeated multiple times?
 
 * We believe in a passionate care
 * We believe in providing the best oral care
 * Best dental equipment for patients
-* Accountability, Better Smile, Responsibility
+* Accountability, Responsibility...
 
 This is the trap most dental practices fall into when they try to be purpose-driven
 
