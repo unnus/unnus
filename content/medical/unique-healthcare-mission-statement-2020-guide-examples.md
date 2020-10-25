@@ -409,5 +409,60 @@ Confidental™, Dental practice
 
 **How We Do It (Mission Statement):** What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile.
 
-  
-\***
+***
+
+Odentia, Dental practice
+
+**Why We Exist (purpose Statement):** To provide a pain-free lifestyle for patients
+
+**How We Do It (Mission Statement):** Forget the dental horror show and step into a fantasy world of seamless dentistry. Odentia is committed to providing a painless patient experience. We do that by gently delivering our care service, seamless shots, and a magic touch.
+
+***
+
+Utile Teeth, Dental practice (ex)
+
+**Why We Exist (Purpose Statement):** To spread oral hygiene and facilitate its accessibility.
+
+**How We Do It (Mission Statement):** Most practices claim convenience, we live by it. We strive to make oral care as convenient as a light switch. We do that by improving our availability, increasing patient choice, and lowering wait time. We’re committed to investing in the latest technology for faster dentistry and same-day care for our patients.
+
+## Chiropractic mission statement
+
+Naturalis, Chiropractic practice (ex)
+
+**Why We Exist (Purpose Statement):** To help people live life without restrictions.
+
+**How We Do It (Mission Statement):** When your life is stifled by discomfort; We come to the rescue. We peel off the layers of physical restriction through a natural approach to healthcare and healthy lifestyle modifications.
+
+***
+
+The Joint Chiropractic
+
+**Why We Exist (Purpose Statement):** To improve the quality of life.
+
+**How We Do It (Mission Statement):** Our mission is to improve the quality of life through routine and affordable chiropractic care. We’re committed to our no-appointment policy, convenient hours and locations to make care more accessible.
+
+***
+
+Complete Wellness Chiropractic
+
+**Why We Exist (Purpose Statement):** We exist to radically re-energize the health of our community to restore the beauty in families.
+
+**How We Do It (Mission Statement):** To educate and adjust as many families as possible back toward optimal health through natural chiropractic care.
+
+## The truth about mission statements in healthcare
+
+Having a mission statement for your medical business is only one part of the puzzle to creating a successful healthcare brand.
+
+But it’s a critical piece.
+
+It’s a way to differentiate your practice from the rest.
+
+It gives your staff and patients a reason to believe in what you do.
+
+Mission-driven healthcare businesses are always on the frontier of their respective fields.
+
+Your mission, purpose, and vision are your map to navigate the future for your medical brand.
+
+If you’d like to build a concrete strategy for your brand DNA (a mission, vision, purpose) you can always reach us at unnus™.
+
+[We’re happy to help](/contact "Healthcare branding agency to help you create your medical brand").
