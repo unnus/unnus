@@ -126,8 +126,7 @@ Medical Businesses like this are missing the mark and hurting their reputation.
 
 We’ll go through common traps so you can mitigate the risk.
 
-  
-**I) Being unaware of what it means to have a mission**
+### I) Being unaware of what it means to have a mission
 
 Developing a mission statement is not a marketing tactic to enhance reputation.
 
