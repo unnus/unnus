@@ -224,10 +224,6 @@ It consists of 3 Stages Purpose, Vision, Mission.
 * What is our day-to-day commitment to achieve our vision?
 * How can we implement an action plan for our commitments?
 
-Here’s a visual representation of a grounded medical practice.
-
-\[INSERT IMAGE OF INTERSECTED CIRCLES \]
-
 Now we know the building blocks of an authentic medical brand, let’s build our way up until we reach a concrete mission statement.
 
 The steps are as follows:
