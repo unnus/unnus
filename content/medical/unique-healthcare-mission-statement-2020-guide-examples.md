@@ -177,7 +177,7 @@ Which makes it hard for anyone to take it seriously or act upon it.
 
 We’ll see actionable examples of mission statements in a minute.
 
-### III) They start backward and miss the critical pieces that form a mission statement.
+### IV) They start backward and miss the critical pieces that form a mission statement.
 
 You can’t have a mission statement without vision and a purpose.
 
