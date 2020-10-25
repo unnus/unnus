@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "12"
 slug = "/healthcare-mission-statement"
 socialThumbnail = "/assets/images/healthcare-mission-statement.jpg"
-table_of_content = []
+table_of_content = ["The-truth-about-mission-statements-in-healthcare", "Chiropractic-mission-statement", "Dental-mission-statement", "Hospital-Mission-Statement", "Healthcare-Mission-Statement-Examples", "Creating-a-healthcare-Vision-Statement-for-your-practice", "Creating-a-Mission-and-a-Purpose-Statement", "The-unmatched-advantage-of-a-purpose-statement", "Anatomy-of-a-great-healthcare-mission-statement:-Brand-DNA", "Deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "Why-would-you-need-a-mission-statement?", "What-is-a-mission-statement-in-healthcare?"]
 title = "Unique Healthcare Mission Statement: 2020 guide [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -82,7 +82,7 @@ Each step of the ladder gets you closer to your ultimate goal.
 
 This is why your mission statement should be actionable.
 
-## “Why would I need a mission statement”?
+## Why would you need a mission statement?
 
 Well, a mission statement is as good as its practical use.
 
@@ -194,8 +194,9 @@ So, to recap, for you to ensure that your mission statement is unique and well r
 
 And that’s exactly what we’ll go into next...
 
-## Anatomy of a great healthcare mission statement: Brand DNA  
-Now you’ve seen that a mission statement can’t be formed without a vision.
+## Anatomy of a great healthcare mission statement: Brand DNA
+
+Now you've seen that a mission statement can't be formed without a vision.
 
 And a vision can’t be genuine without a purpose or “reason to exist”.
 
@@ -238,7 +239,7 @@ The steps are as follows:
 
 But before we start with the #1 step, let’s stop a moment to talk about what advantages you get when you have a **purpose statement**.
 
-### I) The unmatched advantage of a purpose statement
+## The unmatched advantage of a purpose statement
 
 Communicating with a **why** is a huge competitive edge for your medical practice.
 
@@ -282,7 +283,7 @@ Do you see how different the two pitches are? That’s the power of having a pur
   
 ![Visual represantation of healthcare mission statement ](/assets/images/why-messaging-and-limbic-system.png "Visual represantation of healthcare mission statement")
 
-### II) Creating a Purpose and a Mission Statement
+## Creating a Mission and a Purpose Statement
 
 To craft a purpose and a mission statement, we’ll use the Golden Circle Model.
 
@@ -320,7 +321,7 @@ The **how** will be considered as a **Mission Statement**.
 
 Now that you have a mission and purpose statement, let’s back that up with a strategic vision for the future.
 
-### III) Creating a healthcare Vision Statement for your practice
+## Creating a healthcare Vision Statement for your practice
 
 Okay, you have a mission, but where does your mission lead you to?
 
