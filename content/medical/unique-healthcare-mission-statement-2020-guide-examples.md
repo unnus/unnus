@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "12"
 slug = "/healthcare-mission-statement"
 socialThumbnail = "/assets/images/healthcare-mission-statement.jpg"
-table_of_content = ["What-is-a-mission-statement-in-healthcare?", "Why-would-you-need-a-mission-statement?", "Deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "Anatomy-of-a-great-healthcare-mission-statement:-Brand-DNA", "The-unmatched-advantage-of-a-purpose-statement", "Creating-a-Mission-and-a-Purpose-Statement", "Creating-a-healthcare-Vision-Statement-for-your-practice", "Healthcare-Mission-Statement-Examples", "Hospital-Mission-Statement", "Dental-mission-statement", "Chiropractic-mission-statement", "The-truth-about-mission-statements-in-healthcare"]
+table_of_content = ["What-is-a-mission-statement-in-healthcare", "Why-would-you-need-a-mission-statement", "Deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "Anatomy-of-a-great-healthcare-mission-statement:-Brand-DNA", "The-unmatched-advantage-of-a-purpose-statement", "Creating-a-Mission-and-a-Purpose-Statement", "Creating-a-healthcare-Vision-Statement-for-your-practice", "Healthcare-Mission-Statement-Examples", "Hospital-Mission-Statement", "Dental-mission-statement", "Chiropractic-mission-statement", "The-truth-about-mission-statements-in-healthcare"]
 title = "Unique Healthcare Mission Statement: 2020 guide [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
