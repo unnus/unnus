@@ -142,6 +142,11 @@
     li{
     	margin-bottom:4%;
     	position: relative;
+    	font-size:1em;
+    	ul{
+	    font-size: 1em !important;
+	    margin-top: 4%;
+    	}
     }
     li:after{ 
     width: 20px;
@@ -164,7 +169,6 @@
   }
   ul{
   	li{
-  		margin-bottom: 4%
   	}
   }
   // ScrollSpy active styles 
