@@ -336,7 +336,7 @@ To form a concrete vision for your practice, we’ll use Future Brand Model™ a
 
 **# First Exercise, the Future Brand Model™**
 
-[![](/assets/images/future-brand.jpg)]( "Healthcare Brand Vision Exercise ")
+![Healthcare vision statement](/assets/images/future-brand.jpg "Healthcare vision statement")
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1bO-U_t6Cb7N4JDZAMd4_kpLe24FHHY-E/view?usp=sharing "Healthcare Brand Vision Exercise ")
 
