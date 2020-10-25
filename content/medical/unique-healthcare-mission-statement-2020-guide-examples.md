@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-branding"
 date = 2020-10-24T23:00:00Z
 description = "Looking for a unique healthcare mission statement? Look no further. this is the most comprehensive guide to creating mission statements. + we added templates, examples of inspiring mission statements for you to check out."
-draft = true
 featImg = "/assets/images/healthcare-mission-statement.jpg"
 featImgThumb = "/assets/images/healthcare-mission-statement.jpg"
 linkedinHandle = "slimaneBaghouri"
