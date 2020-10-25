@@ -18,7 +18,6 @@ title = "Unique Healthcare Mission Statement: 2020 guide [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-
 {{% hook %}} There’s no shortage of the same sounding mission statements. {{% /hook %}}
 
 {{% hook %}} Healthcare brands use them as a “decoration”. {{% /hook %}}
@@ -56,6 +55,8 @@ We’ll also go into how to develop one that stands out.
 You’ll craft a mission statement that is unique, memorable, and—authentic.
 
 More than that, we’ll see the practical use cases of a mission statement and how it will benefit your practice.
+
+<!--more-->
 
 This article covers:
 
@@ -273,15 +274,14 @@ _“We’re healthier, we offer the best healthcare services to our patients at 
 
 _“What good is a healthcare service if it’s not safe? Our hospital was founded based on safety. We believe in being safe first. Because we know that good health begins with safe communities. We’re Healthier™, we offer the safest healthcare services in town. Want to join in?”_
 
-Do you see how different the two pitches are? That’s the power of having a purpose or a “why”.  
-  
+Do you see how different the two pitches are? That’s the power of having a purpose or a “why”.
+
 ![Visual represantation of healthcare mission statement ](/assets/images/why-messaging-and-limbic-system.png "Visual represantation of healthcare mission statement")
 
 ## Creating a Mission and a Purpose Statement
 
 To craft a purpose and a mission statement, we’ll use the Golden Circle Model.
 
-  
 ![Healthcare mission statement exercise](/assets/images/xgolden-circle.jpg "Healthcare mission statement exercise")
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1n1LFoqO0Vbtwkf-f96lHe8XCHxV-D1OV/view?usp=sharing "Healthcare mission statement exercise link")
@@ -305,7 +305,7 @@ The **how** will be considered as a **Mission Statement**.
 5. Solidify your hospital or practice **what**, **how,** and **why**.
 6. Use your golden circle definitions to guide your healthcare brand, marketing messaging, and communication with patients.
 
-{{% note "EXAMPLE" %}} 
+{{% note "EXAMPLE" %}}
 
 **Why We Exist (Purpose Statement):** To create the safest community for our patients.
 
@@ -339,7 +339,6 @@ To form a concrete vision for your practice, we’ll use Future Brand Model™ a
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1bO-U_t6Cb7N4JDZAMd4_kpLe24FHHY-E/view?usp=sharing "Healthcare Brand Vision Exercise ")
 
-  
 **EXERCISE STEPS:**
 
 1. Take 15 minutes to move on through the timeline: (use sticky notes and pin your writings on the timeline. You can do this also online using [Miro’s ](https://miro.com/ "Virtual whiteboard")virtual whiteboard
@@ -352,10 +351,8 @@ To form a concrete vision for your practice, we’ll use Future Brand Model™ a
 
 Share and discuss the notes and the writing with your team and move on to the next exercise.
 
-  
 **# Second Exercise, The Brand Vision Statement**
 
-  
 ![](/assets/images/healthcare-brand-vision.jpg)
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1MhNB7JPoWumuH8awgygLK0SFPKOciBQ-/view?usp=sharing "Healthcare brand vision exercise")
@@ -382,7 +379,6 @@ Healthier, community hospital, Orlando
 
 ***
 
-  
 Caresect, Psychiatric Hospital
 
 **Why We Exist (Purpose Statement):** To rekindle our patient’s lost hope.
