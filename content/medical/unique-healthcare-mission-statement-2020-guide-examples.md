@@ -364,8 +364,7 @@ Share and discuss the notes and the writing with your team and move on to the ne
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1MhNB7JPoWumuH8awgygLK0SFPKOciBQ-/view?usp=sharing "Healthcare brand vision exercise")
 
-  
-**Healthcare Mission Statement Examples**
+## Healthcare Mission Statement Examples
 
 **A quick disclaimer**: As we started searching for mission statements to list here, we found that most of the statements are repetitive and sometimes uninspiring.
 
@@ -376,3 +375,39 @@ In addition to our work, we took the time to create fictional examples for other
 Fictitious examples will be marked with (ex)**.**
 
 So let’s start:
+
+## Hospital Mission Statement
+
+Healthier, community hospital, Orlando
+
+**Why We Exist (Purpose Statement):** To make our community safer.
+
+**How We Do It (Mission Statement):** In an age where malpractice threatens the lives of our community, we aim to create a safe environment by emphasizing precautions, safety, and welfare of our patients. We do that by striving to lower medical errors, reduce readmission rates, and educate our patients on how to live a healthy lifestyle.
+
+***
+
+  
+Caresect, Psychiatric Hospital
+
+**Why We Exist (Purpose Statement):** To rekindle our patient’s lost hope.
+
+**How We Do It (Mission Statement):** Because not all wounds are visible, we, Caresect, are dedicated to healing the unseen. We do that by helping our patients overcome mental health challenges. We’re committed to being confidential, sympathetic, and approachable in our communications and treatment.
+
+***
+
+Future’s Youth, Pediatric Hospital (ex)
+
+**Why We Exist (Purpose Statement):** To make a healthier future generation
+
+**How We Do It (Mission Statement):** They inspire us to be better, push us to fight harder, and drive us to bring our best. We treat your kids like our own. We do that by being family-focused in our treatment and assuring that they’re in a friendly and protected environment.
+
+## Dental mission statement
+
+Confidental™, Dental practice
+
+**Why We Exist (Purpose Statement):** To enable our patients to lead a stress-free lifestyle.
+
+**How We Do It (Mission Statement):** What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile.
+
+  
+\***
