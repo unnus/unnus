@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "12"
 slug = "pharma-branding"
 socialThumbnail = "/assets/images/pharma-branding.jpg"
-table_of_content = ["Threats-the-pharmaceutical-industry-is-facing", "What-is-pharmaceutical-branding", "Advantages-of-branding-in-the-pharmaceutical-industry", "The-5-stages-of-brand-strategy ", "The-truth-about-building-a-future-proof-pharmaceutical-brand"]
+table_of_content = ["threats-the-pharmaceutical-industry-is-facing", "what-is-pharmaceutical-branding", "advantages-of-branding-in-the-pharmaceutical-industry", "the-5-stages-of-brand-strategy ", "the-truth-about-building-a-future-proof-pharmaceutical-brand"]
 title = "Pharma Branding: Create A Market-Leading Company (2020)"
 twitterHandle = "/@SlimanBaghouri"
 
