@@ -37,6 +37,8 @@ By the end of this article, you’ll have a clear understanding of
 
 Without wasting time, let’s dive in.
 
+<!--more-->
+
 ## Threats the pharmaceutical industry is facing
 
 The pharma industry is experiencing a profound change in multiple aspects. From increased competition, constant change in regulation, lack of innovation, and the rapid price increase of the R&D to name a few.
