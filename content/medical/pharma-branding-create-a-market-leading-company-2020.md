@@ -57,12 +57,12 @@ With all these resources being thrown at the R&D, you’d expect a strong correl
 
 There are mainly 3 factors as to why:
 
-* **Blockbuster drugs no longer possess the advantage of _sales exclusivity_**: (the remaining period a drug will be protected from competition by its patent).
-  * With the ever-shrinking period of patents, blockbuster’s great impact on annual sales is diminishing.
-* **The stream of generic drugs**.
-  * The competition from generic drugs is fierce. Once a generic equivalent is approved and enters the market, they are sold at a lower price thus, hurting the overall sales of their branded counterparts.
-* **The numbers of failed experimental drugs in the clinical stage are climbing**
-  * In the clinical stage (when testing the drugs on people happens) the sheer amount of failed drugs is now staggeringly high at 93% record according to CRM international. This is not only disappointing but also disheartening to scientists who worked relentlessly on these products.
+1. **Blockbuster drugs no longer possess the advantage of _sales exclusivity_**: (the remaining period a drug will be protected from competition by its patent).
+   * With the ever-shrinking period of patents, blockbuster’s great impact on annual sales is diminishing.
+2. **The stream of generic drugs**.
+   * The competition from generic drugs is fierce. Once a generic equivalent is approved and enters the market, they are sold at a lower price thus, hurting the overall sales of their branded counterparts.
+3. **The numbers of failed experimental drugs in the clinical stage are climbing**
+   * In the clinical stage (when testing the drugs on people happens) the sheer amount of failed drugs is now staggeringly high at 93% record according to CRM international. This is not only disappointing but also disheartening to scientists who worked relentlessly on these products.
 
 ### II) Decreased in R&D innovation
 
@@ -242,12 +242,12 @@ In summary, although both Viagra and Cialis target the same audience, the same a
 This is the creative part of brand building. And it aims to inject humanized attributes into the brand at hand. This stage consists of 3 parts.
 
 1. **Audience Archetype**
-   1. In this stage, we take a deep look into the brand’s target audience and what kind of patients we are focusing on.
-   2. After that, we mark their archetype (A typical character that represents universal patterns of human nature). This will help us gain insight into the feelings, fears, and emotional buttons of your audience so we can easily align the brand towards them.
+   * In this stage, we take a deep look into the brand’s target audience and what kind of patients we are focusing on.
+   * After that, we mark their archetype (A typical character that represents universal patterns of human nature). This will help us gain insight into the feelings, fears, and emotional buttons of your audience so we can easily align the brand towards them.
 2. **Brand Persona**
-   1. In this phase, we “match” your brand’s values with your audience’s values. If your audience attributes and characteristics don't match with your brand’s, there will be a conflict and it will not resonate with them. An example would be how Porsche relates to its customers. Their brand is aimed at high C-suite and wealthy personnel, So their communication promotes exclusivity and an extravagant lifestyle. This way the brand lives up to the values of its customer.
+   * In this phase, we “match” your brand’s values with your audience’s values. If your audience attributes and characteristics don't match with your brand’s, there will be a conflict and it will not resonate with them. An example would be how Porsche relates to its customers. Their brand is aimed at high C-suite and wealthy personnel, So their communication promotes exclusivity and an extravagant lifestyle. This way the brand lives up to the values of its customer.
 3. **Tone Projection**
-   1. The Tone Projection phase is about creating guidelines for your brand’s marketing channels and how it vocalizes itself to the public. Does your brand communicate with a serious tone (think CNN) or is it authoritative (Think Rolex)? Playful (think GEICO) or classy? (think NYC).
+   * The Tone Projection phase is about creating guidelines for your brand’s marketing channels and how it vocalizes itself to the public. Does your brand communicate with a serious tone (think CNN) or is it authoritative (Think Rolex)? Playful (think GEICO) or classy? (think NYC).
 
 ### Stage 4: Brand Communication framework
 
