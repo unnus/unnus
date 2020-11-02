@@ -191,3 +191,98 @@ By which he means why would your company exist besides making a profit? Why woul
 Companies who can articulate —and are strategically vocal— about their **reason for being**, are the ones that dominate their market. They also tend to be the ones that have skyrocketed operational efficiency.
 
 The reason for this is, when you’re communicating you’re **why** and cultivating a culture around it, you’re embedding a sense of mission into the organization. Your company becomes the playground in which people are motivated by the vision and the purpose your company holds.
+
+## The 5 stages of brand strategy
+
+Now we’ve seen how branding can transform pharma brands to a higher arena, let’s see the make-up of a brand strategy and what each stage consists of.
+
+Any brand strategy consists of 5 stages that, when combined, form a future-proof pharma brand.
+
+### Stage 1: Brand DNA
+
+In this stage, we decide on what we call the **brand core** (its purpose, philosophy, and strategic vision)
+
+We bring the leadership team to discuss the future of the brand and how we can pivot any potential hurdles that the company might face.
+
+We also go into developing a purpose-driven approach to the company’s communication channels and cement the new philosophy that the brand will uphold.
+
+This stage will be the central point from which everything else will branch.
+
+![Branding In pharmaceutical Industry](/assets/images/brand-dna.jpg "Branding In pharmaceutical Industry")
+
+### Stage 2: Brand Positioning
+
+The positioning stage is all about focusing on the brand and initiating a differentiation strategy for the company. It’s about creating new perceptions in the eyes of your audience. This will carve the brand’s place in the market and render the competition irrelevant.
+
+Developing a differentiator for a product or an organization can be the deciding factor in its success. A differentiator is like a vaccine against the competition, once proven to be effective, it devours market share.
+
+An example of positioning is Pfizer’s Viagra vs Lilly’s Cialis.
+
+While Pfizer took the advantage of being the first mover into the erectile dysfunction field, Lilly’s powerful positioning of Cialis was enough to steal shares from Viagra.
+
+When Viagra first came out, it was positioned for male demographics raising the flag of “**_Go back to your former manhood_**”
+
+Viagra’s positioning was meant to empower man with impotence issues. The folk over Pfizer’s knew that what their target audience wanted was regained power, dominance, and competence.
+
+VIAGRA - the name is a suggestion of vitality, virility, and vigor and because it rhymes with Niagara, hinting at force and endurance. The name also was inspired by the Sanskrit word "vyaghra" which means tiger.
+
+![Viagra Brand Positioning Example](/assets/images/viagra.jpg "Viagra Brand Positioning Example")
+
+Cialis on the other hand needed to steal the market share from its competitor. To do so, the need for effective positioning is irreplaceable.
+
+Lilly took a different route when positioning its product. You see, unlike Viagra, Cialis lasts longer, making it useful if you have a more active and regular sex life.
+
+Cialis stripped the sense of “rush” Viagra had with its short timespan. And focused more on providing a happier and hurry-free sex life. In their ads, commercial, and marketing, they are more focused on romantic and passionate sex.
+
+The name Cialis comes from the root word “Ciel,” which is French and means “sky” and “heaven”. You can see already that the naming is intended to be more sentimental and fanciful.
+
+![Cialis Brand Positioning Example](/assets/images/cialis.jpg "Cialis Brand Positioning Example")  
+In summary, although both Viagra and Cialis target the same audience, the same audience **perceived** them differently, thanks to positioning.
+
+### Stage 3: Brand Persona
+
+This is the creative part of brand building. And it aims to inject humanized attributes into the brand at hand. This stage consists of 3 parts.
+
+1. **Audience Archetype**
+   1. In this stage, we take a deep look into the brand’s target audience and what kind of patients we are focusing on.
+   2. After that, we mark their archetype (A typical character that represents universal patterns of human nature). This will help us gain insight into the feelings, fears, and emotional buttons of your audience so we can easily align the brand towards them.
+2. **Brand Persona**
+   1. In this phase, we “match” your brand’s values with your audience’s values. If your audience attributes and characteristics don't match with your brand’s, there will be a conflict and it will not resonate with them. An example would be how Porsche relates to its customers. Their brand is aimed at high C-suite and wealthy personnel, So their communication promotes exclusivity and an extravagant lifestyle. This way the brand lives up to the values of its customer.
+3. **Tone Projection**
+   1. The Tone Projection phase is about creating guidelines for your brand’s marketing channels and how it vocalizes itself to the public. Does your brand communicate with a serious tone (think CNN) or is it authoritative (Think Rolex)? Playful (think GEICO) or classy? (think NYC).
+
+### Stage 4: Brand Communication framework
+
+In this stage, we will take all the internal properties of the brand that we developed in the Brand DNA (purpose, philosophy, and strategic vision) and then vocalize them strategically.
+
+This framework will act as a compass for every touchpoint your audience has with your brand. Its goal is to create consistency across all contact points of the brand.
+
+Techniques such as Storytelling, Core Messaging, True Lines will be used to facilitate the ability of your company to connect with a wide audience creatively.
+
+If you’d like to gain a deeper understanding of such strategies, you can check our free [healthcare branding series](https://www.unnus.com/healthcare-branding).
+
+### Stage 5: Brand Art Direction
+
+Great visuals have the power to turn a commodity into a premium. And in this stage, we leverage the power of visuals to convey the message we already crafted in past stages.
+
+Here’s what most companies fail to accomplish: they use the same color scheme, same design pattern, same overall aesthetics, and call that “consistent visual identity”.
+
+**_You can be consistent, but consistently meaningless. Your visual identity is as good as the meaning behind it._**
+
+If your visuals do not reflect your brand’s or the product’s promise to your consumer, it has not succeeded to do its mission.
+
+The good news is, your visuals will be based on your brand’s philosophy and purpose. The design aspect of the brand will mirror its values and what it stands for. Hence solidifying its market position and perception.
+
+## The truth about building a future-proof pharmaceutical brand
+
+The global pharma industry is experiencing profound change.
+
+It is evident that the competitive environment is more intense in the pharma industry. And branding represents a little-explored advantage.
+
+And to slice through the rushing stream of non-stopping market changes, it is essential to build a vision-oriented brand that caters to their audience.
+
+Innovation should be a predictable part of your company not accidental. And to achieve that you have to create a purposeful environment that facilitates such activities. Brand culture can catapult your R&D efforts to a fruitful landscape.
+
+Branding your company will single you out apart from the competition. Leading to higher annual revenues and profitable product launches. It is the only weapon to render the competition irrelevant.
+
+If you’d like to create a market-leading pharmaceutical brand, you can always [reach us out](https://www.unnus.com/contact).
