@@ -19,7 +19,6 @@ title = "Pharma Branding: Create A Market-Leading Company (2020)"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-
 {{% hook %}} **The rate at which competition is surging in Big Pharma is quickening.** {{% /hook %}}
 
 {{% hook %}}**How do you break through the noise and single your company out?** {{% /hook %}}
@@ -59,12 +58,12 @@ With all these resources being thrown at the R&D, you’d expect a strong correl
 
 There are mainly 3 factors as to why:
 
-1. **Blockbuster drugs no longer possess the advantage of _sales exclusivity_**: (the remaining period a drug will be protected from competition by its patent).
-   1. With the ever-shrinking period of patents, blockbuster’s great impact on annual sales is diminishing.
-2. **The stream of generic drugs**.
-   1. The competition from generic drugs is fierce. Once a generic equivalent is approved and enters the market, they are sold at a lower price thus, hurting the overall sales of their branded counterparts.
-3. **The numbers of failed experimental drugs in the clinical stage are climbing**
-   1. In the clinical stage (when testing the drugs on people happens) the sheer amount of failed drugs is now staggeringly high at 93% record according to CRM international. This is not only disappointing but also disheartening to scientists who worked relentlessly on these products.
+* **Blockbuster drugs no longer possess the advantage of _sales exclusivity_**: (the remaining period a drug will be protected from competition by its patent).
+  * With the ever-shrinking period of patents, blockbuster’s great impact on annual sales is diminishing.
+* **The stream of generic drugs**.
+  * The competition from generic drugs is fierce. Once a generic equivalent is approved and enters the market, they are sold at a lower price thus, hurting the overall sales of their branded counterparts.
+* **The numbers of failed experimental drugs in the clinical stage are climbing**
+  * In the clinical stage (when testing the drugs on people happens) the sheer amount of failed drugs is now staggeringly high at 93% record according to CRM international. This is not only disappointing but also disheartening to scientists who worked relentlessly on these products.
 
 ### II) Decreased in R&D innovation
 
@@ -156,7 +155,7 @@ By building a strong brand, you create a gulf between your product portfolio and
 
 Brand equity (the perceived worth of a brand in and of itself) plays a significant role when acquirers try to evaluate target firms. That’s because acquirers want to see whether or not the brand can benefit from their position.
 
-And with the [failure rate of M&A transactions is said to be between 70-90%](https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook) and that a poorly conceived or executed [M&A destroyed more than $200 billion in shareholder value](https://www.nber.org/digest/aug03/big-firms-lose-value-acquisitions) in 20 years, having brand guidelines as a “**decisional filter**” to check back against is critical.
+And with the failure rate of M&A transactions is said to be between [70-90%](https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook "M&A Failure rate") and that a poorly conceived or executed M&A destroyed more than [$200 billion](https://www.nber.org/digest/aug03/big-firms-lose-value-acquisitions "M&A finding ") in shareholder value in 20 years, having brand guidelines as a “**decisional filter**” to check back against is critical.
 
 Will this company solidifies our position in the market? Will it purify or defocus our mission? Do their values and our purpose match or do they contradict each other?
 
