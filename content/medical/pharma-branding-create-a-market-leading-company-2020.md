@@ -19,3 +19,22 @@ title = "Pharma Branding: Create A Market-Leading Company (2020)"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
+
+{{% hook %}} **The rate at which competition is surging in Big Pharma is quickening.** {{% /hook %}}
+
+{{% hook %}}**How do you break through the noise and single your company out?** {{% /hook %}}
+
+{{% hook %}} **How do you fuel your R&D efforts with an innovation power charge?** {{% /hook %}}
+
+***
+
+In this article, we’ll discuss fatal but easy-to-turn-a-blind-to issues in the pharmaceutical industry and how branding can solve these problems.
+
+By the end of this article, you’ll have a clear understanding of
+
+1. Threats that Big Pharma is facing
+2. What is branding in the pharmaceutical industry?
+3. The unmatched advantage of branding; And
+4. The 5 stages of developing a pharmaceutical brand strategy
+
+Without wasting time, let’s dive in.
