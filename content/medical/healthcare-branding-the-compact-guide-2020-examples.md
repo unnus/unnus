@@ -63,11 +63,13 @@ As much as we like to say “I base my buying decision on logic”, We don’t. 
 
 {{% note "QUICK TEST" %}}
 
-If you want to put your medical business to the test. Finish the following positioning statement exercise. A seemingly easy but surprisingly hard to finish sentence:
+If you want to put your medical business to the test, Finish the following positioning statement exercise. A seemingly easy but surprisingly hard to finish sentence:
 
 Our Medical Brand Is the only \[Category\] That \[Differentatior\].
 
-Template: Our ____is the only ____That ____.
+Template: Our ____Is The Only ____That ____.
+
+Example: Our practice is The Only Cosmetic Service That puts its patient's confidence a #1 Priority. 
 
 {{% /note %}}
 
