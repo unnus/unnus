@@ -168,3 +168,78 @@ Your stakeholders need to gather around a concrete mission. A mission that gives
 Having a mission-driven business is not about crafting the same sounding statements and expecting that to be the catalyst for a successful healthcare brand.
 
 Being mission-driven requires gaining external and internal buy-ins to your medical brand. It requires strategic planning and maintaining your core values year after year.
+
+## **The difference between healthcare branding and marketing.**
+
+Marketing is **inviting** somebody on a date; Branding is the **reason** they say yes.
+
+![](/assets/images/12bbc2245153651e50ffad04938b7c57.png)
+
+**Marketing without branding is a mere tactic that comes with an expiration date.**
+
+If your marketing efforts are not directed by the branding strategy and do not communicate your brand attributes, it will never cultivate your brand and build loyalty.
+
+Marketing should be focused on reaching and communicating the brand’s values to your audience.
+
+While branding is cultivating these attributes and directing your marketing channels so your messages and philosophies are communicated without distortion.
+
+Branding is hyper-focused on building loyalty, trust, and empowering your patients and stakeholders.
+
+## **The unmatched advantages of branding your healthcare business**
+
+Before getting into the processes of a brand strategy, let’s explore what benefits and perks branding can offer your business.
+
+### **#1) Branding cuts through the “me too” medical brands**
+
+With the overabundance of imitative care services, branding creates an unbreachable wall against the competition. By branding your medical business, you create new reasons for why patients should _favor_ your practice over the rest of the pack.
+
+Since branding renders the competition irrelevant, it works as a vaccine against market commoditization. It singles your brand out of the “me too” brands. Your medical business will drill its mark in the minds of your patients.
+
+### **#2) Increasing profitability and gaining higher market shares**
+
+An established healthcare brand often claims the dominant position in their respective fields, with market shares of 50% or higher.
+
+They also tend to command the highest price premiums- up to 40% more than generic services.
+
+This is because patients _know_ that your brand has no substitute. It is the only brand that can fulfill their care needs in its unique way.
+
+When your medical business is not cutting down prices for the sake of competing or “staying alive”, it can flourish and thrive.
+
+### **#3) Profitable and seamless M&A transactions**
+
+There are several benefits of a brand strategy when it comes to M&A transactions (mergers and acquisitions, the transactions in which the ownership of a business is transferred or consolidated with other entities).
+
+We’ll explore how branding can facilitate an M&A.
+
+**#\~First**, for target firms in an M&A transaction, Brand Equity (the perceived worth of a brand) is a significant role when acquirers evaluate target firms. To secure a higher ROI deal from an M&A, your brand is the most valuable asset to benefit from.
+
+**#\~Second**, for acquirers, having **brand guidelines** works as a “decisional filter” against target firms candidates.
+
+You need to target firms that will empower your brand portfolio. And to do this, you should ask questions like Will this hospital/practice solidify our position in the market? Will it purify or defocus our mission? Do their values and our purpose match or do they contradict each other?
+
+To find a clear answer to questions like these, you need to let your brand’s core attributes guide your decisions.
+
+**#\~Third**, the failure rate of M&A transactions is said to be between [70-90%](https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook) and that a poorly conceived or executed M&A destroyed more than [$200 billion](https://www.nber.org/digest/aug03/big-firms-lose-value-acquisitions) in shareholder value in 20 years.
+
+Some of the major reasons for this are manifold:
+
+* **Clash of personalities**
+  * When merging happens between healthcare businesses, clashes of values are bound to happen. This leads to internal conflict between key personnel and major disagreement hindering business processes.
+* **Cultural shock**
+  * When disregarding the corporate culture, mergers suffer the inevitable decrease in operational efficiency. If internal stakeholders are not on board with the new culture, a decrease in productivity is predictable.
+* **Poor communication**
+  * Often, in an M&A transaction, the target firm’s employees are wary of job losses and the acquirer’s staff adapt the “conqueror mentality”. This leads to unvoiced opinions and an uncollaborative environment for the whole team.
+
+This is where brand strategy comes into play.
+
+It unifies stakeholders under one umbrella. By using a **communication framework** and building a **brand culture**, you can mitigate the risk of a failed merger.
+
+### **#4) Innovation and productivity are predictable, not accidental**
+
+Your medical business’s performance starts with the internal dynamics of your brand. If your whole team is unified around one purpose and vision, it will also attract patients and engage them in a deep and meaningful relationship that transcends the traditional marketing goals of brand preference and loyalty.
+
+{{% blockquote "Mark Di Somma" %}}Brand culture is the culture that a company cultivates in order to powerfully and consistently deliver its brand to the market. It’s how people work together to bring the brand alive for customers.{{% /blockquote %}}
+
+When your medical business has a brand culture of its own, staff are encouraged, invested and operational efficiency will soar up. Work becomes more thrilling and meaningful. Conversely, if the brand lacks culture, it disengages staff leading to a decreased productivity and your business values fizzle out before reaching your patients.
+
+{{% note "STATS" %}}[94% of executives ](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf)believe that having a workplace culture is key to a thriving business.{{% /note %}}
