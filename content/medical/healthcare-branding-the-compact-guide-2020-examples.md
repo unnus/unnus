@@ -276,3 +276,291 @@ Without a concrete vision for your brand, it can never navigate future-storms or
 **#3) Brand Pillars**
 
 In this phase, we extract the guideline principles that direct your brand. These philosophies and attributes will be communicated later to your audience in a novel manner. Each decision will be vetted against your Brand Pillars, they will regulate any future commitments.
+
+### **Stage \~2) Brand Positioning**
+
+{{% blockquote "Renée Mauborgne" %}}Positioning does not seek to beat the competition. Instead, it aims to make the competition irrelevant{{% /blockquote %}}
+
+**Positioning** is where your care service stands **_in relation_** to others offering similar services.
+
+The positioning stage is all about focusing your brand on a specific audience and specific value offering. It’s about building perception and infusing **uniqueness** into your brand.
+
+To illustrate, I’ll use an example:
+
+[Healthier™](https://www.unnus.com/case-studies/healthier/), An Orlando Based hospital, is positioned as the safest hospital in town. Although it offers the same service lines, it’s focused on safety and welfare.
+
+Patients visit Healthier because it’s the risk-free choice. In their ads, visual identity, communication, everything emphasizes safety.
+
+**Here’s Healthier positioning statement:**
+
+![](/assets/images/positxioning.jpg)
+
+Another positioning example comes from Odontia, a dental practice based in Pasadena, CA. Odentia is positioned as the pain-free dental experience. They understand how patients are reluctant to visit the dentists because of the looming fear of a bad dental experience.
+
+Odentia is the only dentistry service that puts painless dental experience as its #1 Priority.
+
+**Odentia Positioning Statement:**
+
+![](/assets/images/statement-1.jpg)  
+Developing a **differentiator** or and a positioning for your medical business is the first key to break through the noise. The positioning of your brand must be prominent throughout all contact points your patient has with your brand, thus creating a consistent and unique experience.
+
+### **Stage \~3) Brand Persona**
+
+This stage is about infusing humanistic attributes into your brand’s communications. To make deeper connections, your messaging needs a dash of personality.
+
+We’ll develop a unique **voice** and a **persona** for your brand so it resonates perfectly with your target audience.
+
+This stage consists of 2 Phases, Brand Archetype, Brand Voice.
+
+**#1) Brand Archetype**
+
+As we are all different, our desires are different. When we consider that certain behaviors or personalities increase certain desires, we can understand why **some personalities appeal to us more than others.**
+
+An archetype is a typical character that represents universal patterns of human nature.
+
+They are the personification of our behaviors and provide a roadmap that enables you to more accurately appeal to a given audience with a specific personality.
+
+[According to Psychologist Carl Jung](https://en.wikipedia.org/wiki/Jungian_archetypes), there are twelve archetypes:
+
+The Innocent, Everyman, Hero, Outlaw, Explorer, Creator, Ruler, Magician, Lover, Caregiver, Jester, and Sage.
+
+Each archetype represents a collection of desires that make up their values.
+
+**For example:**
+
+The ruler archetype is driven by the desire **to control**, **lead, and power.**
+
+CEOs and other C-suite executives fall into the ruler archetype.
+
+On the other hand, an archetype like Caregiver is driven by a desire to **care for others, compassion, and safety.**
+
+In this case, Mothers-to-be can represent the caregiver archetype.
+
+This stage will identify your ideal audience personality, then align your brand with the archetype that would most appeal to their desire.
+
+**The trick here is to align your brand as tightly as possible** **to a single archetype** to allow your brand personality to feel all the more familiar to your audience and to communicate with the consistency and humanity of a real person.
+
+Let’s say your target audience is mothers-to-be and your hospital helps them deliver babies. (A caregiver archetype)
+
+Your brand should also embody the caregiver archetype, meaning, the communication will be soft-spoken, reassuring, and caring.
+
+  
+  
+![](/assets/images/persona-archetypes.jpg)
+
+**#2) Brand Voice**
+
+If your brand could talk, in what manner would it speak? This is exactly the aim of this phase. To define the personality of the target audience and THEN to craft a **voice or a manner of speak** that _fits_ your brand archetype.
+
+**Brand voice** is the tone and language used when communicating your brand’s message, ads, marketing, website copy, or when talking with your patient.
+
+The tone of voice should reflect the brand’s personality and should be appealing to your target customer. Is your brand’s voice formal or playful? Serious or authoritative? Your communication should be consistent throughout all contact points your patient has with your brand.
+
+**Here's a non-medical example of a brand’s voice.**
+
+A tongue-in-cheek billboard advert for The Economist in 1990 that sympathizes with their target audience: CEOs and company executives.
+
+![](/assets/images/voice-min.jpg)  
+Strip away the huge salary and the executive jet, and you find much solitary misery. Even chief executives are human.
+
+The economist’s tone of voice and the message connects deeply with their audience, creating stronger bonds and loyalty for the brand.
+
+**Another example from Arnold Palmer Hospital:**
+
+![](/assets/images/brand-vxoice-1.png)  
+When defining your voice, brands should know who their talking to.
+
+That’s what Arnold Palmer Hospital does throughout its marketing channels.
+
+It's talking to worried moms and dads.
+
+Their voice is reassuring and realistic.
+
+### **Stage \~4) Brand Communication Framework**
+
+All the above strategies will amount to very little if they are not well communicated to your audience. So, how do you go about sharing your positioning, personality, and philosophies to the market? This stage is the portal from which you’re going to send your messages to your patients.
+
+In the Brand Communication Framework process, we utilize techniques such as Storytelling, Main Narrative, and Secondary Messaging.
+
+We’ll dissect your positioning in the market to secondary messages and form small sets of stories out of them.
+
+These stories will then be distributed through all of your communication channels. Form of social media, press, website, blog articles, case studies, and ad campaigns.
+
+  
+![](/assets/images/cf-example-3.jpg)
+
+This way you can—asynchronously—feed your target audience your message and position in the market.
+
+This framework will act as a compass for every touchpoint your audience has with your brand. Its goal is to create consistency across all contact points while telling stories about the brand.
+
+### **Stage \~5) Brand Art Direction**
+
+No one gets a second impression. And so does your brand’s visuals.
+
+In healthcare, visuals are predictable. “blue/red/green” + “heart/plus or a teeth/smile symbol”. By far, this is the most underutilized aspect of branding in the industry.
+
+Your aesthetics are the first element your would-be patients encounter with your brand. So visuals should work as an “**optical communication**” for first impressions, conveying meaning, and your positioning to your patients.
+
+Your visual identity should inform and complement your brand’s values while at the same time **differentiating** your medical business from the competition.
+
+When done right, great aesthetics have the power to turn a commodity into a premium brand. And in this stage of the branding process, we start by visualizing the brand’s values and market position _based_ on its internal branding.
+
+**Here’s what most companies** **fail to accomplish**: they use the same color scheme, same design pattern, same overall aesthetics, and call that “consistent visual identity”.
+
+**_You can be consistent, but consistently meaningless. Your visual identity is as good as the meaning behind it._**
+
+If your visuals do not reflect your brand’s or the product’s promise to your patient, it has not succeeded to do its mission.
+
+The good news is, your visuals will be based on your brand’s positioning, philosophy, and purpose. The design aspect of the brand will mirror its values and what it stands for. Hence solidifying its market position and perception.
+
+**One Medical Visual Identity  **
+
+![](/assets/images/idenntity.jpg)  
+![](/assets/images/identity.jpg)
+
+## **How to measure branding success?**
+
+In the business world, often the focus is on yearly revenue or sales. Not only that, but marketers, in order to measure their marketing efforts, they need to _project_ the sales each quarter.
+
+And to accomplish they use a model called **purchase funnel**.
+
+This model tracks sales by tracking customers as they move from awareness (being aware of your business) to interest to consideration to intent to evaluation and, finally, to purchase your service.
+
+![](/assets/images/28.jpg)  
+  
+This model is only helpful if:
+
+Your main goal is to project revenue in the short term
+
+1. Patients move toward their purchase in predictable stages
+2. Current revenues are more important than brand- building
+3. Acquiring customers is more important than keeping them or;
+4. You have no use for non-customers.
+
+There are a lot of ifs here, most of which no longer pans out.
+
+Instead of stuffing patients into funnels and squeezing the profit out of them, healthcare brands should encourage, empower, and delight their patients so they can build the brand.
+
+**_This is not to say that monthly or quarterly revenues are not important. Just that monthly and quarterly revenues are more sizable, more profitable, and more dependable when you focus on long term relationships instead of short-term revenues_**_._
+
+### **Enters: The Brand Ladder**
+
+Because the objective of branding is to nurture and build relationships, it puts the emphasis where it belongs—on the customer (your patient).
+
+**The Brand Ladder** model aims to measure the success of the branding effort by tracking the patient attachment and loyalty to your brand. It offers a clear metric as to how your medical business is doing at each level.
+
+Each rung of the ladder represents a satisfactory state of your patient with your brand. From patient satisfaction to delight, to engagement, and finally to empowerment. The object is to get as many customers as possible up the ladder to the top.
+
+![](/assets/images/29.jpg)
+
+**Here’s how it works:**
+
+**#\~First,** The bottom rung represents patient satisfaction. This is where trust begins. The patient has tried your care service and found it to be as advertised.
+
+While satisfaction is a good sign, studies have shown that satisfaction alone is not a reliable predictor of repurchase behavior or patient loyalty.
+
+**#\~Second,** The next rung up is patient delight. Here’s where trust really catches fire. If you can surprise your patient with something more than baseline satisfaction, you’ll spark the kind of emotion that leads to loyalty.
+
+This is the realm of great patient experience because delight is the leading cause of a patient’s “willingness to recommend.”
+
+**#\~Third,** One level higher is patient engagement. When a patient is truly engaged with a brand, he or she enrolls in the tribe. With membership comes increasing loyalty, escalating repurchase habits, and an emotional attachment that goes far beyond patronage.
+
+This is where the brand becomes a building block in the patient’s identity, success, well-being, and even fulfillment.
+
+**#\~Fourth,** On the top rung is patient empowerment. This is the level at which patients incorporate your brand into the deepest part of their lives. They may depend on it for emotional support, social status, personal growth, or even business success.
+
+They would no more switch to another brand than swap their right leg for a wooden peg. If you suddenly pulled your brand out from under them, they would collapse in a heap.
+
+Empowered patients will move heaven and earth to ensure your success, happily attracting others to the tribe with their magnetic sense of commitment.
+
+### **Measuring Branding with the Brand Commitment Scale (BCS)**
+
+The Brand Commitment Scale is an easy-to-use survey that yields a single number from 20–100. This score represents your overall progress up the brand ladder, where empowerment is given four times the weight of satisfaction.
+
+If conducted annually, the BCS can highlight your gains (or losses), suggesting where you need more investment. It can also let you compare the scores at each rung of the ladder, and for each of the eight questions.
+
+![](/assets/images/30.jpg)
+
+The power of this survey lies in its simplicity. All it takes is a service like [Survey-Monkey ](https://www.surveymonkey.com/)and a little of your patient’s time. A sample of 1,000 surveys should be enough for most medical businesses to get a useful reading.
+
+## **Examples of branding in the healthcare industry**
+
+Healthcare is a vast industry. So to provide you with a wider set of examples of how these branding efforts play under different circumstances, I will lay down a list of resources of how branding will look like in some of the popular medical fields.
+
+### **Hospital branding**
+
+When your hospital staff takes refuge in functional silos instead of a collaborative ecosystem; when you face the jagged transition to value-based care; when the market dynamics changes before you adapt; when patient retention dwindles; or when your hospital is swimming in a sameness-sea of “me too” hospitals, it’s no surprise [half of the current health systems](https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html) will vanish.
+
+So, how will you cut through these hurdles?
+
+Well, this is what I’ll share with you in this article.
+
+In this article, you’ll discover:
+
+What is a hospital brand?
+
+* What is a hospital brand strategy?
+* Perks and advantages of branding your hospital
+* How can a brand strategy take your hospital to a new level?
+* Case study of an established hospital brand
+* Pivoting your hospital during this pandemic
+
+[> To read about hospital branding click here](https://www.unnus.com/medical/hospital-branding/)
+
+### **Dental branding**
+
+In this article, I’ll share with you what makes a charismatic dental brand, and how by branding your practice you can achieve patient loyalty to your practice.
+
+I’ll also share with you the 3 deadly sins dental practices make when trying to build an authentic brand.
+
+This article covers:
+
+* What is dental branding? What it is not, and other myths.
+* What makes up a drab, bland, and dull dental brand.
+* What makes up a charismatic dental brand.
+* Advantages of having a charismatic dental brand.
+* Quick techniques to know if your practice is charismatic
+
+[> To read about dental branding click here](https://www.unnus.com/medical/dental-branding/)
+
+### **Pharma Branding**
+
+In this article, we’ll discuss fatal but easy-to-turn-a-blind-to issues in the pharmaceutical industry and how branding can solve these problems.
+
+By the end of this article, you’ll have a clear understanding of
+
+* Threats that Big Pharma is facing
+* What is branding in the pharmaceutical industry?
+* The unmatched advantage of branding; And
+* The 5 stages of developing a pharmaceutical brand strategy
+
+[> To read about pharma branding click here](https://www.unnus.com/medical/pharma-branding/)
+
+### **Healthcare mission statements development + Examples**
+
+In this article, we’ll go into how to develop a mission statement for your medical business that stands out.
+
+You’ll craft a mission statement that is unique, memorable, and—authentic.
+
+Furthermore, we’ll see the practical use cases of a mission statement and how it will benefit your practice.
+
+This article covers:
+
+* What is a mission statement in healthcare?
+* Why most medical businesses fail to develop an authentic mission statement
+* The practical importance of a mission statement
+* What you need to do **BEFORE** forming a mission statement
+* How to develop a mission statement
+* Examples of mission statements in healthcare (Hospitals, dentists, chiropractic, etc..)
+* What to do and what NOT to do with your mission statement.
+
+[> To read about healthcare mission statements click here](https://www.unnus.com/medical/healthcare-mission-statement/)
+
+## **The truth about healthcare branding**
+
+  
+Healthcare branding brings new ways to reach patients. A way that is focused on building relationships and long-term success for your medical business.
+
+Building a brand can be the competitive edge that singles you out of the sea of “sameness”. It is a future-proof strategy for leaders to supercharge their business with.
+
+Here at unnus, we are dedicated to building healthcare brands that _matter._ Brands that have lasting impacts on its stakeholders and everyone who’s involved in it. If you’d like a competent team to help you build your brand, [you can always reach us out here](https://www.unnus.com/contact/).
