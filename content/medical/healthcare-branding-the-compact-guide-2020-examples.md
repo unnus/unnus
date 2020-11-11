@@ -224,11 +224,11 @@ To find a clear answer to questions like these, you need to let your brand’s c
 Some of the major reasons for this are manifold:
 
 * **Clash of personalities**
-  * When merging happens between healthcare businesses, clashes of values are bound to happen. This leads to internal conflict between key personnel and major disagreement hindering business processes.
+  1. When merging happens between healthcare businesses, clashes of values are bound to happen. This leads to internal conflict between key personnel and major disagreement hindering business processes.
 * **Cultural shock**
-  * When disregarding the corporate culture, mergers suffer the inevitable decrease in operational efficiency. If internal stakeholders are not on board with the new culture, a decrease in productivity is predictable.
+  1. When disregarding the corporate culture, mergers suffer the inevitable decrease in operational efficiency. If internal stakeholders are not on board with the new culture, a decrease in productivity is predictable.
 * **Poor communication**
-  * Often, in an M&A transaction, the target firm’s employees are wary of job losses and the acquirer’s staff adapt the “conqueror mentality”. This leads to unvoiced opinions and an uncollaborative environment for the whole team.
+  1. Often, in an M&A transaction, the target firm’s employees are wary of job losses and the acquirer’s staff adapt the “conqueror mentality”. This leads to unvoiced opinions and an uncollaborative environment for the whole team.
 
 This is where brand strategy comes into play.
 
