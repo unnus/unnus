@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-branding"
 date = 2020-11-10T23:00:00Z
 description = "Today, I'll share with you the components of a healthcare brand strategy so you can transform your medical business to a level where profitability is predictable."
-draft = true
 featImg = "/assets/images/healthcare-branding.jpg"
 featImgThumb = "/assets/images/healthcare-branding.jpg"
 linkedinHandle = "slimaneBaghouri"
