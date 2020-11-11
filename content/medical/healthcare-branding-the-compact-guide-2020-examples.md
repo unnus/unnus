@@ -19,8 +19,9 @@ title = "Healthcare Branding: The Compact Guide (2020) + [Examples]"
 twitterHandle = "@SlimanBaghouri"
 
 +++
-
 {{% hook %}}As the pace of healthcare quickens and the number of brands multiplies, it’s patients, not medical businesses, who decide which brands live and which ones die. {{% /hook %}}
+
+***
 
 An overabundance of look-alike medical brands and me-too services are forcing patients to search for something, anything, to help them separate the winners from the clutter.
 
@@ -60,7 +61,7 @@ As much as we like to say “I base my buying decision on logic”, We don’t. 
 
 **#\~1) A brand needs to be different**. If a brand is not differentiated, it is not a brand. It is a “me too” service or a product. If you claim to have a brand it needs to be unique in a way that **sets you radically apart**, **adds value**, and **enhances the experience** to your patient.
 
-{{% note "QUICK TEST" %}} 
+{{% note "QUICK TEST" %}}
 
 If you want to put your medical business to the test. Finish the following positioning statement exercise. A seemingly easy but surprisingly hard to finish sentence:
 
@@ -68,7 +69,7 @@ Our Medical Brand Is the only \[Category\] That \[Differentatior\].
 
 Template: Our ____is the only ____That ____.
 
- {{% /note %}}
+{{% /note %}}
 
 **#\~2) The brand has substance.** A brand without purpose is a soulless brand. If your healthcare brand is not purpose-driven people won’t join it. In addition, it should be heading towards a concrete objective or a vision. The word vision/mission is tossed around a lot but much of the so-called “mission/values/vision” are treated as decoration rather than a compass for the brand to follow. And rarely are maintained.
 
