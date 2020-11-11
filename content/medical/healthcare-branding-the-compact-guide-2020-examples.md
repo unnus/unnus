@@ -242,4 +242,24 @@ Your medical business’s performance starts with the internal dynamics of your 
 
 When your medical business has a brand culture of its own, staff are encouraged, invested and operational efficiency will soar up. Work becomes more thrilling and meaningful. Conversely, if the brand lacks culture, it disengages staff leading to a decreased productivity and your business values fizzle out before reaching your patients.
 
-{{% note "STATS" %}}[94% of executives ](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf)believe that having a workplace culture is key to a thriving business.{{% /note %}}
+{{% note "STATS" %}}[94% of executives ](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf) believe that having a workplace culture is key to a thriving business.{{% /note %}}
+
+### **#5) Creates “brand preference” and skyrockets patient retention**
+
+Unlike other means of patient acquisition, branding **pulls**. It aims to **entice** patients to favor your business, NOT push them into it.
+
+It creates relationships between your brand and the patient, forming a firm rope that links your patients and the brand. Since branding is a creative and a stirring way to attract patients, it shapes what we call “brand preference”.
+
+**Brand preference** is a cognitive judgment a patient makes regarding your brand. It measures to which extent purchasing decisions are made based on the attachment to your brand rather than the price, convenience, or regardless of the alternatives.
+
+In addition, Creating strong brand preferences boosts patient retention. When your patients perceive your practice to be the **only brand that speaks to them on an emotional level**, their attachment and loyalty to the brand get deeper.
+
+“Can you measure brand preference”? Yes. We’ll go into brand measurement in a few moments.
+
+## **The 5 processes of branding strategies**
+
+In this section, we’ll go into the 5 stages of a branding strategy and unfold how each stage creates an established brand for your medical business.
+
+### **Stage \~1) Brand DNA**
+
+In this part of the process, we build the DNA of your brand, the bedrock, and the values that will be the building blocks of your business.
