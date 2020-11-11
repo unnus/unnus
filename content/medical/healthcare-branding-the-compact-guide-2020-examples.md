@@ -100,15 +100,15 @@ The logic for why communicating your purpose is a competitive edge lies in our b
 
 To illustrate, I’ll use two pitches for a dental practice, one with a **why** message (or a purposeful message) and the other with a **what** message (a simple value offering).
 
-**First (WHAT MESSAGE):**
+**#\~First (WHAT MESSAGE):**
 
-“_We’re Confidental™, we provide the highest oral care services for our patients at an affordable price. Enjoy a brighter smile!_”
+**_We’re Confidental™, we provide the highest oral care services for our patients at an affordable price. Enjoy a brighter smile!_**
 
 It states who they are, and what they do. Good. It also explains how this benefits patients (affordable prices/brighter smile). Let’s see how this will look when your “why” is well articulated.
 
-**SECOND (WHY MESSAGE):**
+**#\~SECOND (WHY MESSAGE):**
 
-“_What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile._”
+**_What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile._**
 
 Being vocal about the **Why** in the second pitch does one thing that gains you a competitive edge. It influences preference-based judgments about your medical business.
 
