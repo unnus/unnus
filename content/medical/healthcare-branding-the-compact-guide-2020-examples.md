@@ -70,7 +70,7 @@ Our Medical Brand Is the only \[Category\] That \[Differentatior\].
 
 Template: Our ____Is The Only ____That ____.
 
-Example: Our practice is The Only Cosmetic Service That puts its patient's confidence a #1 Priority. 
+Example: Our practice is The Only Cosmetic Service That puts its patient's confidence a #1 Priority.
 
 {{% /note %}}
 
@@ -345,8 +345,6 @@ Let’s say your target audience is mothers-to-be and your hospital helps them d
 
 Your brand should also embody the caregiver archetype, meaning, the communication will be soft-spoken, reassuring, and caring.
 
-  
-  
 ![](/assets/images/persona-archetypes.jpg)
 
 **#2) Brand Voice**
@@ -387,7 +385,6 @@ We’ll dissect your positioning in the market to secondary messages and form sm
 
 These stories will then be distributed through all of your communication channels. Form of social media, press, website, blog articles, case studies, and ad campaigns.
 
-  
 ![](/assets/images/cf-example-3.jpg)
 
 This way you can—asynchronously—feed your target audience your message and position in the market.
@@ -414,7 +411,7 @@ If your visuals do not reflect your brand’s or the product’s promise to your
 
 The good news is, your visuals will be based on your brand’s positioning, philosophy, and purpose. The design aspect of the brand will mirror its values and what it stands for. Hence solidifying its market position and perception.
 
-**One Medical Visual Identity  **
+\**One Medical Visual Identity  **
 
 ![](/assets/images/idenntity.jpg)  
 ![](/assets/images/identity.jpg)
@@ -427,8 +424,8 @@ And to accomplish they use a model called **purchase funnel**.
 
 This model tracks sales by tracking customers as they move from awareness (being aware of your business) to interest to consideration to intent to evaluation and, finally, to purchase your service.
 
-![](/assets/images/28.jpg)  
-  
+![](/assets/images/28.jpg)
+
 This model is only helpful if:
 
 Your main goal is to project revenue in the short term
@@ -559,7 +556,6 @@ This article covers:
 
 ## **The truth about healthcare branding**
 
-  
 Healthcare branding brings new ways to reach patients. A way that is focused on building relationships and long-term success for your medical business.
 
 Building a brand can be the competitive edge that singles you out of the sea of “sameness”. It is a future-proof strategy for leaders to supercharge their business with.
