@@ -119,4 +119,52 @@ When your medical brand is purpose-driven, it attracts with meaningful messages 
 
 Being clear on your why create a bias towards your practice and patient will favor your brand no matter who the alternatives are.
 
-{{% note "TAKEAWAY" %}}If I can trust the maker, I can buy it now and worry about it later. The degree of trust I feel towards the service, rather than an assessment of its features and benefits, will determine whether I'll buy this service or that service.{{% /note %}}
+{{% note "TAKEAWAY" %}}"If I can trust the maker, I can buy it now and worry about it later. The degree of trust I feel towards the service, rather than an assessment of its features and benefits, will determine whether I'll buy this service or that service".{{% /note %}}
+
+## **The danger of not branding your healthcare business**
+
+With the never-ending rise of competition, if you do not possess a competition-proof healthcare brand, your business will be submerged in the sea of sameness.
+
+We’ll go through some of the issues that if left untreated can risk your business’s long-term success.
+
+### **#1) The looming shadow of healthcare commoditization**
+
+With the Affordable Care Act (ACA) and the shift from a Fee-for-service to a Fee-for-value, primary healthcare is increasingly becoming commoditized.
+
+We’re seeing companies provide direct-to-consumer services that can be ordered online and fulfilled from a single remote location. An example of that is the rise of DIY dentistry, why go to a board-certified orthodontist when you can get braces in the mail?
+
+Roman also offers online doctors who you can see right in your home, diagnose and prescribe you with prescriptions that get delivered right to your address.
+
+The insurance and corporate entities are encouraging and promoting this trend. This is disheartening to solo-practitioners and medical business owners.
+
+Big Pharma also suffers from the cutthroat competition by the generic “me too” drugs that flood the market once the patent expires for their branded counterparts.
+
+The need for differentiation is acute.
+
+### **#2) The rapid rise of competition in healthcare**
+
+The increased competition in the healthcare industry gives patients a wide range of choices to pick from. Patients are pickier than ever with high expectations for your care quality and lower prices demands. Resulting in a price-cutting race to the bottom. A race no one wishes to win.
+
+The same medical facilities offering the same care services and competing for the same patient.
+
+Some medical businesses try to “avoid” this risk by offering better equipment or advanced tech stack. But this differentiation is not radical. It is a mere attempt to gain a foothold. To be different means to claim competitive attributes that are _unique_ to you and _irreplaceable_ to your patients.
+
+### **#3) Grabbing short-term gains while incurring the long-term losses.**
+
+Most healthcare patient acquisition “strategies” target the wrong aspect of marketing. The advertising campaign, social media marketing, referrals, or word-of-mouth, all focus on one thing: **acquiring**.
+
+The catch here is that acquiring a new customer is [5 to 25 times more expensive ](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)than retaining an existing one. Meaning medical businesses are focusing on the more expensive ways to generate cash flow. Instead, the main focus should be rerouted to **retaining**.
+
+However, the issue with the current patient retaining “strategies” like “build trust”, “leverage personalization”, “communication with passion”... is that they are mere techniques and not cohesive enough. Retaining a patient should be planned, strategized, and measured for the long run. We’ll see how brand strategy offers such capabilities in the next few sections.
+
+### **#4) Dwindled productivity and the rise of internal silos**
+
+When your staff starts feeling like “a cog in the machine”; when processes overshadow purpose; when decisions seem disconnected or when patients are uncollaborative, you experienced the gradual emergence of functional silos.
+
+When people work at cross-purpose, they start losing the high sense of mission and everyone starts pulling in a different direction. Creating an inconsistent patient experience and hurting the work productivity of your practice.
+
+Your stakeholders need to gather around a concrete mission. A mission that gives meaning to the role they play. It is your job as the leader to supercharge your business with mission-driven strategies. And I’m not talking about the hidden mission statement that no one reads or the “message from our CEO” video.
+
+Having a mission-driven business is not about crafting the same sounding statements and expecting that to be the catalyst for a successful healthcare brand.
+
+Being mission-driven requires gaining external and internal buy-ins to your medical brand. It requires strategic planning and maintaining your core values year after year.
