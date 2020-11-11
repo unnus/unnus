@@ -156,7 +156,7 @@ Most healthcare patient acquisition “strategies” target the wrong aspect of 
 
 The catch here is that acquiring a new customer is [5 to 25 times more expensive ](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)than retaining an existing one. Meaning medical businesses are focusing on the more expensive ways to generate cash flow. Instead, the main focus should be rerouted to **retaining**.
 
-However, the issue with the current patient retaining “strategies” like “build trust”, “leverage personalization”, “communication with passion”... is that they are mere techniques and not cohesive enough. Retaining a patient should be planned, strategized, and measured for the long run. We’ll see how brand strategy offers such capabilities in the next few sections.
+However, the issue with the current patient retaining “strategies” like  “leverage personalization”, “communication with passion”... is that they are mere techniques and not cohesive enough. Retaining a patient should be planned, strategized, and measured for the long run. We’ll see how brand strategy offers such capabilities in the next few sections.
 
 ### **#4) Dwindled productivity and the rise of internal silos**
 
