@@ -263,3 +263,16 @@ In this section, we’ll go into the 5 stages of a branding strategy and unfold 
 ### **Stage \~1) Brand DNA**
 
 In this part of the process, we build the DNA of your brand, the bedrock, and the values that will be the building blocks of your business.
+
+![](/assets/images/capture.PNG)  
+**#1) Brand Essence**
+
+To build meaningful relationships, your brand must carry a purpose behind it. This is why digging deep and extracting the essence of the brand is critical. In this phase, we uncover the story and the **“why”** behind your medical business and how it impacts your audience.
+
+**#2) Future Brand**
+
+Without a concrete vision for your brand, it can never navigate future-storms or thrill and challenge your stakeholders. The Future Brand phase focuses on crafting a visionary path for your brand that will act as the brand’s true north.
+
+**#3) Brand Pillars**
+
+In this phase, we extract the guideline principles that direct your brand. These philosophies and attributes will be communicated later to your audience in a novel manner. Each decision will be vetted against your Brand Pillars, they will regulate any future commitments.
