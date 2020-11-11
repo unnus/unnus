@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "19"
 slug = "/healthcare-branding"
 socialThumbnail = "/assets/images/healthcare-branding.jpg"
-table_of_content = []
+table_of_content = ["what-is-healthcare-branding", "patient-cognitive-bias-and-why-we-favor-a-medical-brand-over-another", "the-danger-of-not-branding-your-healthcare-business", "the-difference-between-healthcare-branding-and-marketing", "the-unmatched-advantages-of-branding-your-healthcare-business", "the-5-processes-of-branding-strategies", "how-to-measure-branding-success", "examples-of-branding-in-the-healthcare-industry", "the-truth-about-healthcare-branding"]
 title = "Healthcare Branding: The Compact Guide (2020) + [Examples]"
 twitterHandle = "@SlimanBaghouri"
 
@@ -485,7 +485,7 @@ The power of this survey lies in its simplicity. All it takes is a service like 
 
 ## **Examples of branding in the healthcare industry**
 
-Healthcare is a vast industry. So to provide you with a wider set of examples of how these branding efforts play under different circumstances, I will lay down a list of resources of how branding will look like in some of the popular medical fields.
+Healthcare is a vast industry. So to provide you with a wider set of examples of how these branding efforts play under different circumstances, I will lay down a list of articles on how branding will look like in some of the popular medical fields.
 
 ### **Hospital branding**
 
