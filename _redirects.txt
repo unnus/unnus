@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://vibrant-booth-ad4728.netlify.app/* https://www.unnus.com/:splat 301!
