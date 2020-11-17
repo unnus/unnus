@@ -140,6 +140,10 @@ We're _______ But We're Not ________.
 
 You can access [the tone projection template](https://drive.google.com/file/d/1gdpQe2URo4I2IPpUu_SIYKDIJGTUmNDh/view?usp=sharing) here
 
+Here's a simplified description of what a brand voice will look like
+
+![](/assets/images/brand-voice.jpg)
+
 After defining a brand voice for your brand or social page, you can then **add a dash of** personality to your posts using a unique way of communicating.
 
 To illustrate let’s see some examples:
