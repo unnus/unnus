@@ -227,7 +227,7 @@ A visualized version of this will look like this:
 
 ![](/assets/images/orthodontic-marketing-and-branding.jpg)
 
-### Google Adwords
+### fucking
 
 This is the power of storytelling, it—asynchronously— feeds your potential patients with small sets of stories that make up your bigger core message.
 
