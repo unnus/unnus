@@ -35,6 +35,8 @@ This article covers:
 6. Ridiculously cheap digital advertising platforms.
 7. The secret to marketing your orthodontic practice.
 
+<!--more-->
+
 ## **The risk of not being seen in the dental industry**
 
 With the ever-increasing competition from Primary Care Dentists (PCDs) and the rise of DIY dentistry, there’s high pressure on orthodontists to run profitable medical businesses.
@@ -117,12 +119,11 @@ Their voice in social media is **frisky**, **humorous**, and **unsolicited**
 
 Their voice in social media is **relaxed**, **casual**, and **uplifting**
 
-  
 ![](/assets/images/orthodontic-marketing-example-social-media-1.jpg)
 
 ![](/assets/images/chiro3.jpg)
 
-Their Brand Voice is consistent in their Facebook page 
+Their Brand Voice is consistent in their Facebook page
 
 ![](/assets/images/orthodontic-marketing-facebook.jpg)
 
@@ -157,7 +158,6 @@ First, We’ll go into different content marketing channels, and then we’ll se
 
 ### **Create educational blog for your medical practice**
 
-  
 Considering [83% of adult internet users](https://www.pewresearch.org/internet/2009/06/11/the-social-life-of-health-information/) search online for health information, creating a blog where you share tips and tricks to maintain oral hygiene can be a competitive edge for your business.
 
 **#\~First**, it attracts potential patients to your website, which can lead to them booking an appointment with you.
@@ -169,7 +169,7 @@ Considering [83% of adult internet users](https://www.pewresearch.org/internet/2
 Here’s an example of topics and orthodontic blog posts:
 
 ![](/assets/images/blogposts.jpg)  
-**Iorthosd, San Diego-based Orthodontic Practice blog**  
+**Iorthosd, San Diego-based Orthodontic Practice blog**
 
 ![](/assets/images/orthodontic-marketing-blog-posts.jpg)
 
@@ -178,7 +178,6 @@ Another great example is Dr. Charles Gemmi from Orthodontics Limited, He regular
 ![](/assets/images/orthodontic-marketing-blog-writing.jpg)  
 As a result, His practice website, gain massive amounts of traffic each month from Google.
 
-  
 ![](/assets/images/orthodontic-marketing-seo.jpg)
 
 That’s roughly 113,000 monthly visitors and potential patients.
