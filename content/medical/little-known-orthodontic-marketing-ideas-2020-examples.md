@@ -176,7 +176,7 @@ Here’s an example of topics and orthodontic blog posts:
 Another great example is Dr. Charles Gemmi from Orthodontics Limited, He regularly writes about all things orthodontic.
 
 ![](/assets/images/orthodontic-marketing-blog-writing.jpg)  
-As a result, Orthodontics’ limited websites gain massive amounts of traffic each month.
+As a result, His practice website, gain massive amounts of traffic each month from Google.
 
   
 ![](/assets/images/orthodontic-marketing-seo.jpg)
@@ -191,4 +191,6 @@ Be it How-to Videos, Flossing tutorial, or orthodontic-focused videos, content m
 
 Video is a great way to narrate stories, persuade would-be patients, impress your local community, and take your medical business to the next level.
 
-Here’s an example of how Nance Orthodontic is using youtube:
+Here’s an example of how Nance Orthodontic is using YouTube:
+
+{{< youtube Si-AHFioQz4 >}}
