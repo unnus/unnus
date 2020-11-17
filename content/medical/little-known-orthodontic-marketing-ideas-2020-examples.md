@@ -311,4 +311,4 @@ Taking time to develop a differentiator for your practice and cultivating a bran
 
 If you’d like to go deep into how to strategically put that into practice, check our free [healthcare branding series](https://unnus.com/healthcare-branding/).
 
-Or if you’d like help building your orthodontic brand, [Say hello to us ](https://unnus.com/contact)and we’ll gladly help.
+Or if you’d like help building your orthodontic brand, [Say hello to us ](https://unnus.com/contact/)and we’ll gladly help.

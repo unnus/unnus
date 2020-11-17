@@ -259,7 +259,7 @@ This framework will act as a compass for every touchpoint your audience has with
 
 Techniques such as Storytelling, Core Messaging, True Lines will be used to facilitate the ability of your company to connect with a wide audience creatively.
 
-If you’d like to gain a deeper understanding of such strategies, you can check our free [healthcare branding series](https://www.unnus.com/healthcare-branding).
+If you’d like to gain a deeper understanding of such strategies, you can check our free [healthcare branding series](https://www.unnus.com/healthcare-branding/).
 
 ### Stage 5: Brand Art Direction
 
@@ -285,4 +285,4 @@ Innovation should be a predictable part of your company not accidental. And to a
 
 Branding your company will single you out apart from the competition. Leading to higher annual revenues and profitable product launches. It is the only weapon to render the competition irrelevant.
 
-If you’d like to create a market-leading pharmaceutical brand, you can always [reach us out](https://www.unnus.com/contact).
+If you’d like to create a market-leading pharmaceutical brand, you can always [reach us out](https://www.unnus.com/contact/).
