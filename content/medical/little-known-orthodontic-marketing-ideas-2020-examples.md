@@ -194,3 +194,84 @@ Video is a great way to narrate stories, persuade would-be patients, impress you
 Here’s an example of how Nance Orthodontic is using YouTube:
 
 {{< youtube Si-AHFioQz4 >}}
+
+### **How to use Brand Storytelling with your content marketing**
+
+Now you have an idea of what and how content marketing can attract patients to your practice, let’s go over how to supercharge your marketing efforts using storytelling.
+
+**Brand Storytelling** means using a narrative to communicate a message. The aim is to make your target patients feel something – enough that it'll inspire them to take action.
+
+To use the storytelling strategy, you need to define two key components: **Core Message** and **Secondary messages**.
+
+Put simply, a Core Message is the main message you want your patient to know about your practice or about your marketing campaign.
+
+Secondary Messages are the Core Message but dissected to pieces.
+
+You want to take a big idea or message and chop it off into smaller messages that you can make stories out of.
+
+**For example:**
+
+A Core Message for a campaign targeted towards mothers-to-be can be the following:
+
+**“Shape your own birth experience”**
+
+This message carries multiple ideas, such:
+
+1. Empowerment of pregnant women
+2. Personalized birth experience
+3. Staying in charge and be in the know of your situation
+
+You then take these secondary messages and make marketing campaigns for each one of them.
+
+A visualized version of this will look like this:
+
+![](/assets/images/orthodontic-marketing-and-branding.jpg)  
+This is the power of storytelling, it—asynchronously— feeds your potential patients with small sets of stories that make up your bigger core message.
+
+## **Online paid advertising for your orthodontic practice**
+
+Digital advertising is not only more **effective** than traditional advertising, but it’s ridiculously **cheaper**. Today’s patients are on social media, surfing the internet for dental advice, and looking at dentist reviews to book appointments.
+
+And in this section, we’ll go into 2 profitable advertising platforms for your practice to start acquiring more patients almost instantly.
+
+### **Google Adwords**
+
+According to a recent study, more than 60% of patients start their search online for doctors. This means the probability of someone looking for dental service on google search is high.
+
+Imagine someone searching for “Orthodontist near me” or a similar search, and your website booking page appears on the top results along with directions to your office?
+
+That’s exactly what Google Adwords is for.
+
+It’s an auction-based platform where advertisers bid on their website to appear **#1** in the search result. And when someone clicks on your website, you pay some amount of $ for that click.
+
+The good news is that it’s cheap compared to other means of advertising. For example, if you offer braces dental service for $3500 per patient. And you spend $500 a month on Google Adwords to get 2 patients, your profit will be **$6500**, that’s **1300% ROI**.
+
+**Alpan Orthodontics**, CA-based Facebook, orthodontic practice using Google Adwords to acquire more patients.
+
+![](/assets/images/orthodontic-advertising.png)
+
+### **Facebook Ads**
+
+Facebook advertising is an important way to connect with your patients on the world’s largest social network.
+
+You create a Facebook post and then promote it using Facebook’s Advertising Platform. That post can be a link or a picture that leads to your website where patients can book an appointment with you.
+
+Unlike Google AdWords, Facebook helps users find businesses based on the things they’re interested in and how they behave online.
+
+When it comes to the difference between Google AdWords and Facebook Ads, you can think of it this way: Adwords helps you find new patients, while Facebook helps new patients find you.
+
+**Example of orthodontic Facebook ads**
+
+![](/assets/images/facebook-retargeting-campaign-1.png)
+
+![](/assets/images/dentist-facebook-ad-example-1.png)
+
+## **The “secret” to orthodontic marketing**
+
+Your marketing efforts are as good as the brand behind it. If you have an orthodontic brand that is **differentiated**, **purpose-driven,** and **unique**, your marketing will have double the effect.
+
+Taking time to develop a differentiator for your practice and cultivating a brand that is set for success is critical before marketing. You don’t want to market a soulless brand. Marketing should be empowered by your branding not weakened by it.
+
+If you’d like to go deep into how to strategically put that into practice, check our free [healthcare branding series](https://unnus.com/healthcare-branding/).
+
+Or if you’d like help building your orthodontic brand, [Say hello to us ](https://unnus.com/contact)and we’ll gladly help.
