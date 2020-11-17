@@ -234,7 +234,7 @@ Digital advertising is not only more **effective** than traditional advertising,
 
 And in this section, we’ll go into 2 profitable advertising platforms for your practice to start acquiring more patients almost instantly.
 
-### Google AdWords
+## Google AdWords
 
 **Imagine someone searching for “Orthodontist near me” or a similar search, and your website booking page appears on the top results along with directions to your office?**
 
