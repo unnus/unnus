@@ -353,7 +353,7 @@ Share and discuss the notes and the writing with your team and move on to the ne
 
 **# Second Exercise, The Brand Vision Statement**
 
-![](/assets/images/healthcare-brand-vision.jpg)
+![Healthcare vision statement example](/assets/images/healthcare-brand-vision.jpg "Healthcare vision statement example")
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1MhNB7JPoWumuH8awgygLK0SFPKOciBQ-/view?usp=sharing "Healthcare brand vision exercise")
 
