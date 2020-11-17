@@ -19,7 +19,6 @@ title = "Little-known Orthodontic Marketing Ideas 2020 (+Examples)"
 twitterHandle = "@SlimanBaghouri"
 
 +++
-
 {{% hook %}}If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative marketing tips on how to create a profitable and future-proof orthodontic brand. {{% /hook %}}
 
 ***
@@ -110,4 +109,8 @@ To illustrate let’s see some examples:
 
 Their voice in social media is **frisky**, **humorous**, and **unsolicited**
 
-![](/assets/images/orthodontic-marketing-social-media-example.jpg)![](/assets/images/orthodontic-marketing-social-media-example.jpg)![](/assets/images/orthodontic-marketing-social-media-example.jpg)![](/assets/images/orthodontic-marketing-social-media-example.jpg)
+![](/assets/images/orthodontic-marketing-social-media-example.jpg)
+
+![](/assets/images/orthodontic-marketing-examples.png)
+
+**#The Joint Chiropractic,** providing convenient and affordable chiropractic care and solutions for back pain, neck pain, and more...
