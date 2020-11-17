@@ -45,7 +45,7 @@ Furthermore, the explosion of Dental Support Organizations (DSOs) adds insult to
 
 This results in PCDs overprescribing Invisalign and orthodontists feel pressure to agree to Invisalign treatment out of fear of losing the patient to the PCD.
 
-As an orthodontist, you must increase awareness of the differences between what value you provide and what is being advertised by these companies. You need to educate and communicate with patients **_directly _**rather than relying on the referral chain.
+As an orthodontist, you must increase awareness of the differences between what value you provide and what is being advertised by these companies. You need to educate and communicate with patients _directly_ rather than relying on the referral chain.
 
 And what better way to communicate your values than marketing? Well, marketing works. It increases your “sphere of influence” and **attracts** new patients to you. It can educate your patients on what you have to offer and why they should choose you over others.
 
@@ -114,3 +114,30 @@ Their voice in social media is **frisky**, **humorous**, and **unsolicited**
 ![](/assets/images/orthodontic-marketing-examples.png)
 
 **#The Joint Chiropractic,** providing convenient and affordable chiropractic care and solutions for back pain, neck pain, and more...
+
+Their voice in social media is **relaxed**, **casual**, and **uplifting**
+
+  
+![](/assets/images/orthodontic-marketing-example-social-media-1.jpg)
+
+![](/assets/images/chiro3.jpg)
+
+Their Brand Voice is consistent in their Facebook page 
+
+![](/assets/images/2020-11-16-12_04_58-affinity-designer_auto_x1_auto_x1_colored_toned.jpg)
+
+![](/assets/images/2020-11-16-12_04_29-affinity-designer_auto_x1.jpg)
+
+**#One medical,** membership-based primary care practice on a mission to make getting quality care more accessible, and enjoyable.
+
+Their voice in social media is **caring**, **warm**, and **thoughtful**
+
+![](/assets/images/orthodontic-marketing-social-media-example-23.png)
+
+![](/assets/images/orthodontic-marketing-social-media-example-three.jpg)
+
+### **Share your practice’s culture on, social media**
+
+Sharing your practice’s culture and work environment in social media adds transparency and builds rapport between you and your potential patients. It’s a great way to attract patients without being too sales-y.
+
+Tulsa Braces regularly share picture’s of their team on Facebook as a way of introducing themselves to patients
