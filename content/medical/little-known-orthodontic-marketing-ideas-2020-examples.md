@@ -225,7 +225,10 @@ You then take these secondary messages and make marketing campaigns for each one
 
 A visualized version of this will look like this:
 
-![](/assets/images/orthodontic-marketing-and-branding.jpg)  
+![](/assets/images/orthodontic-marketing-and-branding.jpg)
+
+### Google Adwords
+
 This is the power of storytelling, it—asynchronously— feeds your potential patients with small sets of stories that make up your bigger core message.
 
 ## **Online paid advertising for your orthodontic practice**
@@ -234,7 +237,7 @@ Digital advertising is not only more **effective** than traditional advertising,
 
 And in this section, we’ll go into 2 profitable advertising platforms for your practice to start acquiring more patients almost instantly.
 
-## Google AdWords
+**1) Google Adwords**
 
 **Imagine someone searching for “Orthodontist near me” or a similar search, and your website booking page appears on the top results along with directions to your office?**
 
