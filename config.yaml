@@ -1,6 +1,7 @@
 # the 2 lines below are bad practice and might introduce issues, might want to use disableKind instead. 
-taxonomies:
-  category: "categories" 
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
 
 # permalinks:
 #   posts: "/:title/"

@@ -54,7 +54,7 @@ So how do you define a brand?
 
 **A brand is** your customer’s feeling towards your brand. It is what makes you unique in the eyes of people. It is a feeling because our judgments and buying decisions are based on trust, not rationality.
 
-As much as we like to say “I base my buying decision on logic”, We don’t. Buying decisions are made by our [limbic system](https://www.forbes.com/sites/forbescoachescouncil/2017/05/02/create-loyal-customers-for-life-making-limbic-connections-with-experiential-branding). The part of the brain that is responsible for decision-making.
+As much as we like to say “I base my buying decision on logic”, We don’t. Buying decisions are made by our [limbic system](https://www.forbes.com/sites/forbescoachescouncil/2017/05/02/create-loyal-customers-for-life-making-limbic-connections-with-experiential-branding/?sh=714970876c48). The part of the brain that is responsible for decision-making.
 
 {{% blockquote "Marty Neumeier" %}}Trust creation is a fundamental goal of brand design....Trust is the ultimate shortcut to a buying decision and the bedrock of modern branding.{{% /blockquote %}}
 

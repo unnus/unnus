@@ -175,7 +175,7 @@ description: case studies healthier
 
 </div>
 <div class="footer-black">
-<h1>Get closer to us</h1>
+			<h2 class="h1-clone">Get closer to us</h2>
 				<div class="lists-holder">
 						<ul>
 							<li>Free Content</li>
