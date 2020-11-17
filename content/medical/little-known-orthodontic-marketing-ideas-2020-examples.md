@@ -124,9 +124,9 @@ Their voice in social media is **relaxed**, **casual**, and **uplifting**
 
 Their Brand Voice is consistent in their Facebook page 
 
-![](/assets/images/2020-11-16-12_04_58-affinity-designer_auto_x1_auto_x1_colored_toned.jpg)
+![](/assets/images/orthodontic-marketing-facebook.jpg)
 
-![](/assets/images/2020-11-16-12_04_29-affinity-designer_auto_x1.jpg)
+![](/assets/images/orthodontic-marketing-facebook-example.jpg)
 
 **#One medical,** membership-based primary care practice on a mission to make getting quality care more accessible, and enjoyable.
 
