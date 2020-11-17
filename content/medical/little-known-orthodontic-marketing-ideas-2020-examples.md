@@ -140,4 +140,55 @@ Their voice in social media is **caring**, **warm**, and **thoughtful**
 
 Sharing your practice’s culture and work environment in social media adds transparency and builds rapport between you and your potential patients. It’s a great way to attract patients without being too sales-y.
 
-Tulsa Braces regularly share picture’s of their team on Facebook as a way of introducing themselves to patients
+Tulsa Braces regularly share pictures of their team on Facebook as a way of introducing themselves to patients
+
+![](/assets/images/social-media-marketing-orthodontic.jpg)  
+![](/assets/images/social-media-marketing-orthodontic-1.jpg)
+
+## **Utilize Brand Storytelling Strategy with content marketing**
+
+Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant content to attract and retain an audience — and, ultimately, to drive profitable patient action.
+
+Content marketing can be in the form of creating blog articles, YouTube videos, social media posts, mail newsletters, booklets, or handing out informational brochures.
+
+The goal here is to educate patients and build authority for your medical brand using various marketing channels, which leads to increased exposure for your practice and increased awareness.
+
+First, We’ll go into different content marketing channels, and then we’ll see how we can integrate a **Brand Storytelling** for greater results.
+
+### **Create educational blog for your medical practice**
+
+  
+Considering [83% of adult internet users](https://www.pewresearch.org/internet/2009/06/11/the-social-life-of-health-information/) search online for health information, creating a blog where you share tips and tricks to maintain oral hygiene can be a competitive edge for your business.
+
+**#\~First**, it attracts potential patients to your website, which can lead to them booking an appointment with you.
+
+**#\~Second**, building authentic healthcare blog posts are a powerful way of demonstrating knowledge and building trust as an expert.
+
+**#\~Third**, It develops relationships with potential and existing patients before even meeting you.
+
+Here’s an example of topics and orthodontic blog posts:
+
+![](/assets/images/blogposts.jpg)  
+**Iorthosd, San Diego-based Orthodontic Practice blog**  
+
+![](/assets/images/orthodontic-marketing-blog-posts.jpg)
+
+Another great example is Dr. Charles Gemmi from Orthodontics Limited, He regularly writes about all things orthodontic.
+
+![](/assets/images/orthodontic-marketing-blog-writing.jpg)  
+As a result, Orthodontics’ limited websites gain massive amounts of traffic each month.
+
+  
+![](/assets/images/orthodontic-marketing-seo.jpg)
+
+That’s roughly 113,000 monthly visitors and potential patients.
+
+### **Create engaging videos**
+
+Videos are huge, and by now you might already know it. Many medical brands are already using YouTube as a channel for their branding efforts to attract patients.
+
+Be it How-to Videos, Flossing tutorial, or orthodontic-focused videos, content marketing has never been the same again with video.
+
+Video is a great way to narrate stories, persuade would-be patients, impress your local community, and take your medical business to the next level.
+
+Here’s an example of how Nance Orthodontic is using youtube:
