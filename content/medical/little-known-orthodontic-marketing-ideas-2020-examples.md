@@ -14,12 +14,12 @@ page = "medical/single.html"
 readingTime = "7"
 slug = "/orthodontic-marketing"
 socialThumbnail = "/assets/images/orthodontic-marketing.jpg"
-table_of_content = []
+table_of_content = ["the-risk-of-not-being-seen-in-the-dental-industry", "this-is-why-most-orthodontic-marketing-efforts-fail", "orthodontic-marketing-ideas", "leverage-social-media-i-know-but-hear-me-out", "utilize-brand-storytelling-strategy-with-content-marketing", "online-paid-advertising-for-your-orthodontic-practice", "the-secret-to-orthodontic-marketing"]
 title = "Little-known Orthodontic Marketing Ideas 2020 (+Examples)"
 twitterHandle = "@SlimanBaghouri"
 
 +++
-{{% hook %}}If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative marketing tips on how to create a profitable and future-proof orthodontic brand. {{% /hook %}}
+{{% hook %}}**If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative marketing tips on how to create a profitable and future-proof orthodontic brand**. {{% /hook %}}
 
 ***
 
