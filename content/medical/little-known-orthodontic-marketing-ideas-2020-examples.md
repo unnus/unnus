@@ -146,7 +146,7 @@ Here's a simplified description of what a brand voice will look like
 
 After defining a brand voice for your brand or social page, you can then **add a dash of** personality to your posts using a unique way of communicating.
 
-To illustrate let’s see some examples:
+### Examples of a dazzling Brand Voices in social media
 
 **#Fridababy,** providing parents tools they need to easily care for their babies.
 
