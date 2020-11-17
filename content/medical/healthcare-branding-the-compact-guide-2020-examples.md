@@ -114,7 +114,7 @@ Being vocal about the **Why** in the second pitch does one thing that gains you 
 
 When you use a purposeful message, your communication is perceived by the limbic system, the part of the brain that is responsible for emotions and decision-making.
 
-![](/assets/images/why-messaging-and-limbic-system.png)
+![The effect of healthcare branding on the brain](/assets/images/why-messaging-and-limbic-system.png "The effect of healthcare branding on the brain")
 
 When your medical brand is purpose-driven, it attracts with meaningful messages rather than pushes with uninspiring marketing.
 
@@ -174,7 +174,7 @@ Being mission-driven requires gaining external and internal buy-ins to your medi
 
 Marketing is **inviting** somebody on a date; Branding is the **reason** they say yes.
 
-![](/assets/images/12bbc2245153651e50ffad04938b7c57.png)
+![Difference between healthcare branding and healthcare marketing](/assets/images/12bbc2245153651e50ffad04938b7c57.png "Difference between healthcare branding and healthcare marketing")
 
 **Marketing without branding is a mere tactic that comes with an expiration date.**
 
@@ -265,7 +265,7 @@ In this section, we’ll go into the 5 stages of a branding strategy and unfold 
 
 In this part of the process, we build the DNA of your brand, the bedrock, and the values that will be the building blocks of your business.
 
-![](/assets/images/capture.PNG)  
+![Healthcare branding DNA illustration](/assets/images/capture.PNG "Healthcare branding DNA illustration")  
 **#1) Brand Essence**
 
 To build meaningful relationships, your brand must carry a purpose behind it. This is why digging deep and extracting the essence of the brand is critical. In this phase, we uncover the story and the **“why”** behind your medical business and how it impacts your audience.
@@ -294,7 +294,7 @@ Patients visit Healthier because it’s the risk-free choice. In their ads, visu
 
 **Here’s Healthier positioning statement:**
 
-![](/assets/images/positxioning.jpg)
+![Healthcare positioning statement ](/assets/images/positxioning.jpg "Healthcare positioning statement ")
 
 Another positioning example comes from Odontia, a dental practice based in Pasadena, CA. Odentia is positioned as the pain-free dental experience. They understand how patients are reluctant to visit the dentists because of the looming fear of a bad dental experience.
 
@@ -302,7 +302,7 @@ Odentia is the only dentistry service that puts painless dental experience as it
 
 **Odentia Positioning Statement:**
 
-![](/assets/images/statement-1.jpg)  
+![Healthcare positioning statement ](/assets/images/statement-1.jpg "Healthcare positioning statement ")  
 Developing a **differentiator** or and a positioning for your medical business is the first key to break through the noise. The positioning of your brand must be prominent throughout all contact points your patient has with your brand, thus creating a consistent and unique experience.
 
 ### **Stage \~3) Brand Persona**
@@ -345,7 +345,7 @@ Let’s say your target audience is mothers-to-be and your hospital helps them d
 
 Your brand should also embody the caregiver archetype, meaning, the communication will be soft-spoken, reassuring, and caring.
 
-![](/assets/images/persona-archetypes.jpg)
+![Archetypes in healthcare](/assets/images/persona-archetypes.jpg "Archetypes in healthcare")
 
 **#2) Brand Voice**
 
@@ -359,14 +359,14 @@ The tone of voice should reflect the brand’s personality and should be appeali
 
 A tongue-in-cheek billboard advert for The Economist in 1990 that sympathizes with their target audience: CEOs and company executives.
 
-![](/assets/images/voice-min.jpg)  
+![Brand Voice Example](/assets/images/voice-min.jpg "Brand Voice Example")  
 Strip away the huge salary and the executive jet, and you find much solitary misery. Even chief executives are human.
 
 The economist’s tone of voice and the message connects deeply with their audience, creating stronger bonds and loyalty for the brand.
 
 **Another example from Arnold Palmer Hospital:**
 
-![](/assets/images/brand-vxoice-1.png)  
+![Brand Voice Example in healthcare](/assets/images/brand-vxoice-1.png "Brand Voice Example in healthcare")  
 When defining your voice, brands should know who their talking to.
 
 That’s what Arnold Palmer Hospital does throughout its marketing channels.
@@ -385,7 +385,7 @@ We’ll dissect your positioning in the market to secondary messages and form sm
 
 These stories will then be distributed through all of your communication channels. Form of social media, press, website, blog articles, case studies, and ad campaigns.
 
-![](/assets/images/cf-example-3.jpg)
+![Storytelling in healthcare](/assets/images/cf-example-3.jpg "Storytelling in healthcare")
 
 This way you can—asynchronously—feed your target audience your message and position in the market.
 
@@ -413,8 +413,8 @@ The good news is, your visuals will be based on your brand’s positioning, phil
 
 \**One Medical Visual Identity  **
 
-![](/assets/images/idenntity.jpg)  
-![](/assets/images/identity.jpg)
+![Branding in healthcare ](/assets/images/idenntity.jpg "Branding in healthcare ")  
+![Branding in healthcare ](/assets/images/identity.jpg "Branding in healthcare ")
 
 ## **How to measure branding success?**
 
@@ -424,7 +424,7 @@ And to accomplish they use a model called **purchase funnel**.
 
 This model tracks sales by tracking customers as they move from awareness (being aware of your business) to interest to consideration to intent to evaluation and, finally, to purchase your service.
 
-![](/assets/images/28.jpg)
+![Branding ROI in healthcare](/assets/images/28.jpg "Branding ROI in healthcare")
 
 This model is only helpful if:
 
@@ -449,7 +449,7 @@ Because the objective of branding is to nurture and build relationships, it puts
 
 Each rung of the ladder represents a satisfactory state of your patient with your brand. From patient satisfaction to delight, to engagement, and finally to empowerment. The object is to get as many customers as possible up the ladder to the top.
 
-![](/assets/images/29.jpg)
+![Measuring branding with brand ladder](/assets/images/29.jpg "Measuring branding with brand ladder")
 
 **Here’s how it works:**
 
@@ -477,7 +477,7 @@ The Brand Commitment Scale is an easy-to-use survey that yields a single number 
 
 If conducted annually, the BCS can highlight your gains (or losses), suggesting where you need more investment. It can also let you compare the scores at each rung of the ladder, and for each of the eight questions.
 
-![](/assets/images/30.jpg)
+![Branding ROI in healthcare](/assets/images/30.jpg "Branding ROI in healthcare")
 
 The power of this survey lies in its simplicity. All it takes is a service like [Survey-Monkey ](https://www.surveymonkey.com/)and a little of your patient’s time. A sample of 1,000 surveys should be enough for most medical businesses to get a useful reading.
 
