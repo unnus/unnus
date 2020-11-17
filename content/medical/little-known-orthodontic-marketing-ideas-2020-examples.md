@@ -236,7 +236,7 @@ And in this section, we’ll go into 2 profitable advertising platforms for your
 
 ### **Google Adwords**
 
-According to a recent study, more than 60% of patients start their search online for doctors. This means the probability of someone looking for dental service on google search is high.
+According to a recent study, [more than 60% of patients](https://www.nbcnews.com/id/wbna3077086 "Patient Behaviour online") start their search online for doctors. This means the probability of someone looking for dental service on google search is high.
 
 Imagine someone searching for “Orthodontist near me” or a similar search, and your website booking page appears on the top results along with directions to your office?
 
