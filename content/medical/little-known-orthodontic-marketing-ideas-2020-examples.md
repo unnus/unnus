@@ -101,7 +101,44 @@ The digital landscape is crowded. It’s filled with chatter from brands and ind
 
 A **Brand voice** is an individual style, tone, and language behind all of a brand's communication and messaging. It's a unique way that you communicate who you are, what you do, and who you serve.
 
-The tone of voice should reflect your medical brand’s personality and should be appealing to your target patient. Is your brand’s voice formal or playful? Serious or authoritative? Your communication should be consistent throughout all social media pages.
+The tone of voice should reflect your medical brand’s personality and should be appealing to your target patient. 
+
+### Brand Voice Development Process
+
+To define a brand voice for your social media posts, we'll use two creative branding exercises: **Brand voice** and **Brand Tone Projection**
+
+**1) Brand Voice**
+
+Using the Brand Voice Template, plot down the manner in which your brand should speak. 
+
+Is your brand’s voice formal or playful? Serious or authoritative? Your communication should be consistent throughout all social media pages.
+
+![](/assets/images/brand-voice-orthodontic.jpg)
+
+You can access the [Brand Voice template](https://drive.google.com/file/d/1aLt2RU7thCXC6O_v7kVxR412a8BGTSbp/view?usp=sharing) here
+
+**2) Brand Tone Projection** 
+
+To solidify the voice of your brand, we'll use Tone Projection exercise to drill down on the tone you chose for the brand.
+
+We'll project the voice of the brand across 4 dimension of speaking: humor, formality, respectfulness and enthusiasm.
+
+The goal of this exercise is to answer the following questions 
+
+1. How humorous your communication on social media will be 
+2. How formal is your brand when talking
+3. Level of respectfulness infused in the speaking manner, and; 
+4. How enthusiastically the voice should be
+
+The formula for this exercise is as follows:
+
+We're _______ But We're Not ________. 
+
+**Here's an example of Tone Projection**  
+
+![](/assets/images/orthodontic-branding.jpg)
+
+You can access [the tone projection template](https://drive.google.com/file/d/1gdpQe2URo4I2IPpUu_SIYKDIJGTUmNDh/view?usp=sharing) here
 
 After defining a brand voice for your brand or social page, you can then **add a dash of** personality to your posts using a unique way of communicating.
 
