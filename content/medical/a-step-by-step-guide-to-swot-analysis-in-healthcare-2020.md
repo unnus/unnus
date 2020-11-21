@@ -273,4 +273,4 @@ Effective SWOT Analysis must be carried with great execution. The tool might be 
 
 Risk assessment and marketing research is not something you can do half-assedly. It takes an experienced team and professional facilitators to pull off a result-oriented healthcare SWOT analysis.
 
-If you’d like to run your own SWOT, [we’re happy to chat with you about it](https://unnus.com/contact).
+If you’d like to run your own SWOT, we’re happy to [chat with you about it](https://unnus.com/contact).
