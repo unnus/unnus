@@ -83,3 +83,27 @@ We know that SWOT stands for Strengths, Weaknesses, Opportunities, and Threats �
 ![Strengths in healthcare swot analysis](/assets/images/swot-strengths.png "Strengths in healthcare swot analysis")
 
 This element is focused on the strong attribute of your business. Be it a great service line portfolio, unique medical skills, or a convenient location. It is worth noting that your strengths can be intangibles like brand loyalty or an established brand name in the market.
+
+### **2) Weaknesses**
+
+![swot weaknesses examples in healthcare](/assets/images/swot-weaknesses.png "swot weaknesses examples in healthcare")
+
+From our work with our clients, we noticed a common pattern when dealing with CEOs and medical business owners. Medical business owners are somewhat aware of the weak parts of their business lack, **but the problem is that the assessment of _how weak_ those parts are is most often inaccurate**.
+
+An example would be when we ask founders about their brand, they think that just because they have a logo or a design identity, they have a brand. But they lack critical parts of what makes up a profitable brand like unique positioning, brand culture, and communication frameworks. (if you’d like to learn more, check our [healthcare branding guide](https://unnus.com/medical/healthcare-branding)).
+
+### **3) Opportunities**
+
+![opportunities examples in healthcare swot analysis](/assets/images/swot-opportunities.png "opportunities examples in healthcare swot analysis")  
+  
+In this part of the process, we dig deep to find the unmet needs of your patients. Needs that if you manage to fulfill, you gain their trust and skyrocket your patient retention. Looking for market gaps in your respective field is a gold mine for business success.
+
+You’d be surprised by how beneficial yet-easy-turn-a-blind-eye on opportunities you can take advantage of.
+
+### **4) Threats**
+
+![Threats examples in healthcare swot analysis](/assets/images/swot-threats.png "Threats examples in healthcare swot analysis")
+
+Threats are everything that poses a risk to either your brand itself or its likelihood of success or growth. This could include things like emerging competitors, changes in healthcare regulations, financial pressures, and all else that could jeopardize the future of your medical business.
+
+Assessing threats is the proactive part of the process and it’s a great way to step out of the “reactive” mode business owners always get caught up in.
