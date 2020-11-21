@@ -182,3 +182,96 @@ SWOT Analysis is insufficient alone to measure the success of your efforts or re
 That’s why our team at unnus developed the SWOT Strategy Canvas™ (SSC), a visual representation graph of the impact SWOT has on your healthcare brand. The SSC could be conducted every 6 months to track the efficiency and the effort of SWOT.
 
 SSC graph tracks the **Impact Rate** of each element of the SWOT (strengths, weaknesses, opportunities, and threats). The goal is to witness a low Impact Rate of **weakness** and **threats** and a high Impact Rate of **Strengths** and **Opportunities**.
+
+### **How to develop a SWOT Strategy Canvas™**
+
+**#\~First**, When drawing the SSC graph, you need to split the SWOT elements into two separate lines.
+
+The first line being **Weaknesses-Strengths** and will take the color blue, the second line on the graph is **Opportunities-Threats** and will take the color red.
+
+You do that so you can better visualize their impact, more on this in a minute.
+
+After that, you start drawing the x-axis and putting all of the data gathered from S.W.O.T in the following order:
+
+**1) Opportunities** ➜ **2) Weaknesses** ➜ **3) Strengths** ➜ **4) Threats**.
+
+The x-axis will look like this:
+
+![Strategt Canvas X-axies order](/assets/images/strategt-canvas-x-axies-order.jpg "Strategt Canvas X-axies order")  
+**#\~Second**, on the y-axis, is the Impact Rate. it ranges from zero to one, 0.5 being medium impact, 1 being high impact and 0 is none.
+
+Here’s a good objective you should focus on:
+
+1. For the Weaknesses and Threats, you should aim for 0.2 rates or below.
+2. For the Opportunities, you should aim for 0.5 or above.
+3. For the Strengths, you should aim for 0.8 or above.
+4. 
+
+After you finish drawing your graph, your SSC graph should look like this:
+
+![SWOT STRATEGY CANVAS CHART](/assets/images/swot-strategy-canvas-chart.jpg "SWOT STRATEGY CANVAS CHART")  
+**#\~Third**, let’s assume that you just finished conducting SWOT Analysis and you want to plot the current state of your company on SSC.
+
+Before you use the SSC, you need to understand why we split elements into two lines (Weaknesses-Strengths and Opportunities-Threats) and why we gave each line a different color.
+
+**The reason for that order is simple**: we want to see a divergence between the two lines (Weaknesses-Strengths line and Opportunities-Threats line). When the two lines diverge, it means that you managed to lower the impact of your business’s weaknesses and further improved your strengths. 
+
+It also means that the impact of the threats dwindled and got mitigated while opportunities have risen way up. (I’ll give example in a second)
+
+This divergence is what you need to achieve. At first, the lines won’t diverge because you just got started. But after a year or two, you should start seeing a divergence between the two lines, signifying the success of your SWOT efforts.
+
+**#\~Fourth,** after filling the SSC graph with the data, you start by plotting and projecting the **current** impact of each S.W.O.T element of your business.
+
+For each element ask yourself:
+
+1. If it’s a **weakness**: How much impact this weakness is having on hindering our medical business growth?
+2. If it’s an **opportunity**: What impact could this opportunity have on our business if we manage to take advantage of it?
+3. If it’s a **Strength**: How can we further improve on this competitive edge and what impact would we gain after this improvement?
+4. If it’s a **threat**: what’s the potential impact this threat would have on our business should we ignore it?
+
+You don’t need an exact number, just rough estimates to help you gauge the current situation of your medical business.
+
+**Here’s an example of the SCC graph _just_ after conducting a SWOT Analysis.**
+
+![SWOT Strategy Canvas Initial State](/assets/images/swot-strategy-canvas-initial-state.jpg "SWOT Strategy Canvas Initial State")  
+As you can see, Weaknesses and Strengths have a high impact by default since they are the **current** state of your business.
+
+Opportunities-Threats are there but the impact of the threats should be lowered and the opportunities impact (or the potential impact in the case) should be higher.
+
+**And here’s an example of the SCC graph _after_ acting out on the SWOT analysis (1 year after):**
+
+![SWOT Strategy Canvas After State](/assets/images/swot-strategy-canvas-after-state.jpg "SWOT Strategy Canvas After State")  
+You can see that the lines are diverged signifying lower weaknesses and higher strengths, at the same time, reduced threats, and higher opportunities.
+
+This is the power of the SSC, it gives a clear overview of the current SWOT effort and helps you see whether or not you’re on the right track.
+
+## **Examples of SWOT analysis in healthcare**
+
+Now I’m going to share with you some of the best SWOT analyses across the healthcare industry so you can take some inspiration.
+
+For the privacy’s sake of our clients, we won’t be sharing the names of their brands.
+
+## **Hospital SWOT Analysis example**
+
+An example of a SWOT analysis for a hospital will look like this:
+
+![Hospital SWOT Analysis example](/assets/images/hospital-swot-analysis-example.jpg "Hospital SWOT Analysis example")
+
+Another example from one of our client:
+
+![Hospital SWOT ANALYSIS EXAMPLE ](/assets/images/hospital-swot-analysis-example.jpg "Hospital SWOT ANALYSIS EXAMPLE ")
+
+## **SWOT analysis for nurses example**
+
+The following S.W.O.T Analysis was conducted for a nurse-led clinic, an outpatient clinic that is managed by registered nurses.
+
+  
+![SWOT Analysis for nurses](/assets/images/swot-analysis-for-nurses.jpg "SWOT Analysis for nurses")
+
+## **The ‘secret’ to a battle-proven healthcare SWOT analysis**
+
+Effective SWOT Analysis must be carried with great execution. The tool might be easy to understand conceptually, but the devil lies in the details.
+
+Risk assessment and marketing research is not something you can do half-assedly. It takes an experienced team and professional facilitators to pull off a result-oriented healthcare SWOT analysis.
+
+If you’d like to run your own SWOT, [we’re happy to chat with you about it](https://unnus.com/contact).
