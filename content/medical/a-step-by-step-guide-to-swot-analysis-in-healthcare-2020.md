@@ -35,6 +35,8 @@ Topics that I’ll cover are:
 
 We’ll go deep into each one of them so without wasting your time.
 
+<!--more-->
+
 ## **What is SWOT analysis in healthcare?**
 
 While it might sound like you’re calling on a hostage-rescue law enforcement team, S.W.O.T is a strategic planning technique.
@@ -93,8 +95,8 @@ An example would be when we ask founders about their brand, they think that just
 
 ### **3) Opportunities**
 
-![opportunities examples in healthcare swot analysis](/assets/images/swot-opportunities.png "opportunities examples in healthcare swot analysis")  
-  
+![opportunities examples in healthcare swot analysis](/assets/images/swot-opportunities.png "opportunities examples in healthcare swot analysis")
+
 In this part of the process, we dig deep to find the unmet needs of your patients. Needs that if you manage to fulfill, you gain their trust and skyrocket your patient retention. Looking for market gaps in your respective field is a gold mine for business success.
 
 You’d be surprised by how beneficial yet-easy-turn-a-blind-eye on opportunities you can take advantage of.
@@ -117,7 +119,6 @@ Each quadrant represents each element of the SWOT Analysis. This provides you wi
 
 A simple example of a SWOT grid should be like this:
 
-  
 ![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.jpg "Healthcare SWOT Analysis template")
 
 You can use our free [healthcare SWOT Analysis Template](https://docs.google.com/document/d/1Rq4eoinKL6EBWbMroFnvTHMsENQCD7H0HBCMtJG1ELo/edit#)
@@ -175,7 +176,6 @@ Some possible questions you could ask to identify potential opportunities might 
 
 ![](/assets/images/swot-strategy-canvas-graph.jpg)
 
-  
 SWOT Analysis is insufficient alone to measure the success of your efforts or represent them visually.
 
 That’s why our team at unnus developed the SWOT Strategy Canvas™ (SSC), a visual representation graph of the impact SWOT has on your healthcare brand. The SSC could be conducted every 6 months to track the efficiency and the effort of SWOT.
@@ -212,7 +212,7 @@ After you finish drawing your graph, your SSC graph should look like this:
 
 Before you use the SSC, you need to understand why we split elements into two lines (Weaknesses-Strengths and Opportunities-Threats) and why we gave each line a different color.
 
-**The reason for that order is simple**: we want to see a divergence between the two lines (Weaknesses-Strengths line and Opportunities-Threats line). When the two lines diverge, it means that you managed to lower the impact of your business’s weaknesses and further improved your strengths. 
+**The reason for that order is simple**: we want to see a divergence between the two lines (Weaknesses-Strengths line and Opportunities-Threats line). When the two lines diverge, it means that you managed to lower the impact of your business’s weaknesses and further improved your strengths.
 
 It also means that the impact of the threats dwindled and got mitigated while opportunities have risen way up. (I’ll give example in a second)
 
@@ -263,7 +263,6 @@ Another example from one of our client:
 
 The following S.W.O.T Analysis was conducted for a nurse-led clinic, an outpatient clinic that is managed by registered nurses.
 
-  
 ![SWOT Analysis for nurses](/assets/images/swot-analysis-for-nurses.jpg "SWOT Analysis for nurses")
 
 ## **The ‘secret’ to a battle-proven healthcare SWOT analysis**
