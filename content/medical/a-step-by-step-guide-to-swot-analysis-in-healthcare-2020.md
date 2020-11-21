@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2020-11-20T23:00:00Z
 description = "If you're looking for examples and guides on healthcare SWOT Analysis? Look no further. This article shares with you a battle-proven way to implement SWOT "
-draft = true
 featImg = "/assets/images/healthcare-swot-analysis.jpg"
 featImgThumb = "/assets/images/healthcare-swot-analysis.jpg"
 linkedinHandle = "/slimaneBaghouri"
