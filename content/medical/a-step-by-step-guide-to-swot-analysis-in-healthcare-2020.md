@@ -121,7 +121,7 @@ A simple example of a SWOT grid should be like this:
   
 ![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.jpg "Healthcare SWOT Analysis template")
 
-You can use our free [healthcare SWOT Analysis Template](https://drive.google.com/file/d/1LgZj5L5N3rI13n21JRdP1Nyb3qgn2tTh/view?usp=sharing "Free Healthcare SWOT Analysis Template ")
+You can use our free [healthcare SWOT Analysis Template](https://docs.google.com/document/d/1Rq4eoinKL6EBWbMroFnvTHMsENQCD7H0HBCMtJG1ELo/edit#)
 
 ### **Gather the information**
 
@@ -205,7 +205,6 @@ Here’s a good objective you should focus on:
 1. For the Weaknesses and Threats, you should aim for 0.2 rates or below.
 2. For the Opportunities, you should aim for 0.5 or above.
 3. For the Strengths, you should aim for 0.8 or above.
-4. 
 
 After you finish drawing your graph, your SSC graph should look like this:
 
