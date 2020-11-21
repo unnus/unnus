@@ -5,7 +5,7 @@ authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2020-11-20T23:00:00Z
-description = ""
+description = "If you're looking for examples and guides on healthcare SWOT Analysis? Look no further. This article shares with you a battle-proven way to implement SWOT "
 draft = true
 featImg = "/assets/images/healthcare-swot-analysis.jpg"
 featImgThumb = "/assets/images/healthcare-swot-analysis.jpg"
@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "8"
 slug = "/healthcare-swot-analysis"
 socialThumbnail = "/assets/images/healthcare-swot-analysis.jpg"
-table_of_content = []
+table_of_content = ["what-is-swot-analysis-in-healthcare", "benefits-of-swot-analysis-in-healthcare", "the-4-swot-analysis-process", "how-to-conduct-swot-analysis-in-healthcare", "introducing-the-swot-strategy-canvas-a-visual-representation-to-measure-your-success", "examples-of-swot-analysis-in-healthcare", "hospital-swot-analysis-example", "swot-analysis-for-nurses-example", "the-secret-to-a-battle-proven-healthcare-swot-analysis"]
 title = "A Step-By-Step Guide To SWOT Analysis In Healthcare [2020]"
 twitterHandle = "/@SlimanBaghouri"
 
