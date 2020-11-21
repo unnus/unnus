@@ -33,7 +33,7 @@ Topics that I’ll cover are:
 5. What is the SWOT Strategy Canvas™ tool, and how to use it to track your medical business success?
 6. Examples of SWOT Analysis across the healthcare sector
 
-We’ll go deep into each one of them so without wasting your time.
+Without wasting too much time, let's dig in.
 
 <!--more-->
 
