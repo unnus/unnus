@@ -121,7 +121,7 @@ A simple example of a SWOT grid should be like this:
   
 ![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.jpg "Healthcare SWOT Analysis template")
 
-You can use our free [healthcare SWOT Analysis Template](https://docs.google.com/document/d/1Rq4eoinKL6EBWbMroFnvTHMsENQCD7H0HBCMtJG1ELo/edit#)
+You can use our free [healthcare SWOT Analysis Template](https://drive.google.com/file/d/1LgZj5L5N3rI13n21JRdP1Nyb3qgn2tTh/view?usp=sharing "Free Healthcare SWOT Analysis Template ")
 
 ### **Gather the information**
 
