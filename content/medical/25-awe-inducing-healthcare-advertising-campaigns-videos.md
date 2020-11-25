@@ -45,4 +45,14 @@ Let’s start.
 
 ## Hospital adverts examples
 
-### **1)**“**You’re freaking us out” by One Medical**
+### 1)“You’re freaking us out” by One Medical
+
+![healthcare-commercial-examples-1](/assets/images/medical-advert-1.jpg "healthcare-commercial-examples-1")
+
+**The video:** 
+
+{{< youtube TmQnuuqqZN4 >}}
+
+**What’s great about it:** Instead of the usual advice “Masks are good for your safety”, One Medical took a different approach to raise the importance of wearing masks against Covid-19. This depicts a “seemingly menacing” lumberjack chasing the “seemingly normal” person. The plot twist is that the lumberjack was the one who was running _from_ the normal person. It is a brilliant idea that conveys **even the scariest people are afraid of the unintentional harm a person without a mask can cause**.
+
+**Its Brand Voice:** Playful, Clever, and truthful.
