@@ -189,7 +189,7 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 ### 10) “Changing the outcome together” by Cincinnati Children Hospital
 
-![](/assets/images/medical-advert-10.jpg)
+![healthcare commercial examples 10](/assets/images/medical-advert-10.jpg "healthcare commercial examples 10")
 
 **What’s great about it:** in this commercial, Cincinnati Children’s convey what they stand for **Togetherness**. The pediatric hospital's new rebranding underlines its brand purpose of unification and collaboration. Their new tagline “Changing the outcome together” was inspired by the collaborative spirit of the hospital. In addition to that, the overlapping colors and shapes in the new logo represent teamwork that makes a difference in patients’ lives. The multiple colors and shapes personify the diverse employee and patient base at Cincinnati Children’s.
 
@@ -200,3 +200,18 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 ***
 
 **Its Brand Voice:** Caring, Passionate, and Considerate.
+
+## Pharma ads examples
+
+### 11) “The Joy of Movement” by Voltaren
+
+![healthcare commercial examples 11](/assets/images/medical-advert-11.jpg "healthcare commercial examples 11")  
+**What’s great about it:** Voltran is an over-the-counter drug used to treat pains such as joints, back pain, and knee pain. The ad illustrates how prolonged sitting can hinder your lifestyle and prevent you from moving freely. It depicts the blue Voltaren mascot being weighed down by the sediment of long-hour sittings and how by dancing, he’s now moving flexibly. It’s an entertaining way to get the message across without being dull.
+
+**The video:**
+
+{{< vimeo 291500959>}}
+
+***
+
+**Its Brand Voice:** Playful, Funny, and Whimsical.
