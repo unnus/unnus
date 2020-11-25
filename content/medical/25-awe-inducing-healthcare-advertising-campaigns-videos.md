@@ -98,6 +98,6 @@ Toronto is called the city of neighborhoods. To succeed, they need to unite them
 
 Taking it to the streets, with larger-than-life murals of patients rallying their loved ones to join at fundthefight.ca. As donors provided funds, their digital flags were proudly planted on a virtual map of the city.
 
-**The video:**
+**The video:** 
 
-{{< vimeo 240579800>}}
+{{< youtube c4Jzb99Bpd0>}}
