@@ -186,9 +186,7 @@ The video:**
 
 The ad features patient Mia and her sister Amy. Both were treated at hospital years apart for the same rare condition. In this animated segment, Mia falls asleep in her room, which is adorned with festive decorations. A wind carries her and other sleeping children away from the hospital on their journeys home. It ends with a real home clip of Mia and Amy running downstairs in their matching pajamas.
 
-**The video:**
-
-  
+The video:  
 {{< youtube mzZFW_tsRxo>}}
 
 ***
