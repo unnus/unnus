@@ -123,3 +123,72 @@ The centerpiece of the campaign is a long-form film that tells the story of one 
 ***
 
 **Its Brand Voice**: Unrepentant, Spontaneous, and Unexpected.
+
+### 6) “So Much Better” by Baylor Scott & White Health
+
+  
+![healthcare-commercial-examples-6](/assets/images/medical-advert-6.jpg "healthcare-commercial-examples-6")
+
+**What’s great about it:** The challenge most healthcare advertising faces is that all ads look like other healthcare advertising. The TV commercials often show the usual suspects: Doctors, nurses, and patients all inside the hospital. This ad took a different route: Since Baylor Scott & White Health is focused on making people better so they can live a better life, they set out to create advertising that feels, looks, and sounds better, too.
+
+The commercial depicts Baylor Scott & White Health’s better solution for invasive heart surgery. Jay is now back on his feet and feeling so much better.
+
+**  
+The video:** 
+
+{{< youtube M1YKpB2vsKk>}}
+
+***
+
+**Its Brand Voice**: Optimistic, Confident, and Reassuring.
+
+### 7) “Care Bravely” by Lifebridge health
+
+  
+![healthcare-commercial-examples-4](/assets/images/medical-advert-7.jpg "healthcare-commercial-examples-4")
+
+**What’s great about it:** This ad features a young girl seen walking through a dark and menacing forest, throughout the film’s dark backdrop, she narrates her reality that for her “monsters” do exist.
+
+During her walk, she suddenly pauses when she discovers a golden crown shining brightly amongst the tree branches. As her backdrop fades away, it is revealed that she’s a young cancer patient inside a LifeBridge Health Hospital.
+
+The hospital nurse is then shown, bringing a warm, inviting, and much needed comforting presence. She places a paper crown on the young girl’s head and they embrace each other.
+
+**The video:**
+
+{{< vimeo 375479524>}}
+
+***
+
+**Its Brand Voice**: Challenging, Comforting and Heartening
+
+### 8) “Unstoppable” by Brookdale Hospital
+
+  
+![healthcare-commercial-examples-8](/assets/images/medical-advert-8.jpg "healthcare-commercial-examples-8")
+
+**What’s great about it:** The Brookdale University Hospital and Medical Center is a nonprofit medical services provider working on the frontline against Covid-19 in Brooklyn, New York.
+
+The doctors and nurses who work there are fighting a daily battle on the frontline to save people’s lives whilst putting their own at risk. So they embarked on a 60s script that would honor their sacrifice and hard work, epitomizing their tenacity.
+
+**  
+The video:**
+
+{{< vimeo 440941412>}}
+
+***
+
+**Its Brand Voice**: Emphatic, Realistic, and Empowering.
+
+### 9) “Home For Christmas” by Great Ormond Street Hospital
+
+![healthcare commercial examples 9](/assets/images/medical-advert-9.jpg "healthcare commercial examples 9")  
+**What’s great about it:** Great Ormond Street Hospital Children's Charity released an animated Christmas campaign that charts a patient's journey home for the festive period.
+
+The ad features patient Mia and her sister Amy. Both were treated at hospital years apart for the same rare condition. In this animated segment, Mia falls asleep in her room, which is adorned with festive decorations. A wind carries her and other sleeping children away from the hospital on their journeys home. It ends with a real home clip of Mia and Amy running downstairs in their matching pajamas.
+
+**The video:**  
+{{< youtube mzZFW_tsRxo>}}
+
+***
+
+**Its Brand Voice**: Delightful, Endearing, and Heartwarming.
