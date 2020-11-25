@@ -446,4 +446,4 @@ Your ad is as good as the brand behind it. If the ad looks purposeless, without 
 
 Gone are the days of pumping out ad campaigns to sell to your customers directly. Healthcare customers now expect ads to be inspiring, unique, and emotionally resonate with them.
 
-If you’re looking to build a brand that will skyrocket your ad performance, give meaning to your advertising or raise funding for your organization through a vision-driven cause, [we’re here to help you ](https://unnus.com/contact/)develop a future-proof brand.
+If you’re looking to build a brand that will skyrocket your ad performance, give meaning to your advertising or raise funding for your organization through a vision-driven cause, [we’re here to help you ](https://unnus.com/contact/) develop a future-proof brand.
