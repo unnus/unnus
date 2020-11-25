@@ -379,3 +379,71 @@ Each evening at 7 p.m. New Yorkers gather on streets (at a safe distance, of cou
 ***
 
 **Its Brand Voice**: Colloquial, Passionate, and Warming.
+
+### **22)** “**Brave” by OTB Foundation**
+
+  
+![healthcare commercials examples 22](/assets/images/medical-advert-22.jpg "healthcare commercials examples 22")
+
+**What’s great about it:** During the Covid, OTB Foundation actioned multiple initiatives aimed at supporting smaller and lesser-known hospitals in different Italian towns.
+
+These initiatives include donations of protective equipment, distribution of masks, supplying cutting-edge technological equipment to prevent the spread of the virus, converting existing hospital wards into dedicated Covid sections, donating sanitizers and disinfection systems for ambulances, distributing respiratory helmets, face masks, and tablets.
+
+**The video:** 
+
+{{< youtube lGuG72zL4QI>}}
+
+***
+
+**Its Brand Voice**: Cheerful, Playful, and Encouraging
+
+### 23) “No Going Back To Normal” by Unison
+
+![healthcare commercials examples 23](/assets/images/medical-advert-23.jpg "healthcare commercials examples 23")  
+**What’s great about it:** The core of this campaign is that while some people are desperate to get back to normal, for many, this means returning to long hours of work, low pay, and high-stress levels.
+
+Thanks to a decade of public spending, sectors like healthcare, local government, and education are desperately underfunded. ‘No Going Back To Normal’ provides a battle cry for members of the public to sign UNISON’s open letter to demand help for workers and the rebuilding of public services.
+
+**The video:**
+
+{{< vimeo 458133251>}}
+
+***
+
+**Its Brand Voice**: Audacious, Striking, and Succinct.
+
+### 24) “Stop the Shame – Cancer” by First Call
+
+![healthcare commercials examples 24](/assets/images/medical-advert-24.jpg "healthcare commercials examples 24")  
+**What’s great about it:** A shocking ad for the non-profit First Call begs the question, “Is addiction a disease?” by exploring what might happen if the families of cancer and Parkinson’s patients treated them the same way many treat those struggling with drug and other addiction.
+
+**The video:** 
+
+{{< youtube aTZGfe2Q_6c>}}
+
+***
+
+**Its Brand Voice**: Insightful, Unsolicited, and Piercing.
+
+### 25) “This Is Not A Story” by UNOCHA
+
+  
+![](/assets/images/medical-advert-25.jpg)**What’s great about it:** Humanitarians provide medical care and life-saving services to those caught in crises. These courageous people fight famine and flood, displacement and disease, war, and injustice.
+
+The centerpiece of the ‘Real Life Heroes’ campaign is a film featuring real humanitarians from around the globe that celebrates their truly heroic feats. To dive deeper into the stories of individuals, they collaborated with an award-winning local independent comic publisher to illustrate the experiences of real humanitarians in comic art.
+
+The video: 
+
+{{< youtube 9ZAwmEtS_6I>}}
+
+***
+
+**Its Brand Voice**: Determined, Courageous, and Emotional.
+
+## The secret to a mouth-watering healthcare ad
+
+Your ad is as good as the brand behind it. If the ad looks purposeless, without any [brand substance ](https://unnus.com/medical/healthcare-branding/)to it, it will render it dull to the viewer.
+
+Gone are the days of pumping out ad campaigns to sell to your customers directly. Healthcare customers now expect ads to be inspiring, unique, and emotionally resonate with them.
+
+If you’re looking to build a brand that will skyrocket your ad performance, give meaning to your advertising or raise funding for your organization through a vision-driven cause, [we’re here to help you ](https://unnus.com/contact/)develop a future-proof brand.
