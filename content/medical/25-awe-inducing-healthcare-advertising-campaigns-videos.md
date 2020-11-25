@@ -164,8 +164,7 @@ The hospital nurse is then shown, bringing a warm, inviting, and much needed com
 
 The doctors and nurses who work there are fighting a daily battle on the frontline to save people’s lives whilst putting their own at risk. So they embarked on a 60s script that would honor their sacrifice and hard work, epitomizing their tenacity.
 
-\**  
-The video:**
+**The video:**
 
 {{< vimeo 440941412>}}
 
@@ -180,8 +179,24 @@ The video:**
 
 The ad features patient Mia and her sister Amy. Both were treated at hospital years apart for the same rare condition. In this animated segment, Mia falls asleep in her room, which is adorned with festive decorations. A wind carries her and other sleeping children away from the hospital on their journeys home. It ends with a real home clip of Mia and Amy running downstairs in their matching pajamas.
 
+**The video:**
+
 {{< youtube mzZFW_tsRxo>}}
 
 ***
 
 **Its Brand Voice**: Delightful, Endearing, and Heartwarming.
+
+### 10) “Changing the outcome together” by Cincinnati Children Hospital
+
+![](/assets/images/medical-advert-10.jpg)
+
+**What’s great about it:** in this commercial, Cincinnati Children’s convey what they stand for **Togetherness**. The pediatric hospital's new rebranding underlines its brand purpose of unification and collaboration. Their new tagline “Changing the outcome together” was inspired by the collaborative spirit of the hospital. In addition to that, the overlapping colors and shapes in the new logo represent teamwork that makes a difference in patients’ lives. The multiple colors and shapes personify the diverse employee and patient base at Cincinnati Children’s.
+
+**The video:**
+
+{{< vimeo 176343319>}}
+
+***
+
+**Its Brand Voice:** Caring, Passionate, and Considerate.
