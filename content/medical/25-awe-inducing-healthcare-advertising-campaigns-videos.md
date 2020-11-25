@@ -108,4 +108,18 @@ Taking it to the streets, with larger-than-life murals of patients rallying thei
 
 ### 5) “Long Live Little Brats” by the Montreal Children’s Hospital
 
-![](/assets/images/medical-advert-5.jpg)
+![healthcare-commercial-examples-5](/assets/images/medical-advert-5.jpg "healthcare-commercial-examples-5")
+
+**What’s great about it**: As the province is a very competitive market for children’s charities, the difficult task was to break through the volume and attract donors.
+
+The Children's team knows this well: a healthy child can be energetic, unruly, and sometimes a little bratty. The first indicator that your kid is feeling under the weather is often when she or he becomes much quieter and calmer than usual.
+
+The centerpiece of the campaign is a long-form film that tells the story of one such little brat and echoes the little girl’s unapologetically wild and mischievous nature.
+
+**The video:**
+
+{{< vimeo 477177912>}}
+
+***
+
+**Its Brand Voice**: Unrepentant, Spontaneous, and Unexpected.
