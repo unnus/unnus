@@ -346,3 +346,36 @@ Almost half of all Czech women don’t visit the OBGYN, although regular visits 
 ***
 
 **Its Brand Voice**: Plucky, Frisky, and Soft-Spoken.
+
+### 20) “Made For Greatness” by Colgate
+
+![Health product advertisement examples 20](/assets/images/medical-advert-20.jpg "Health product advertisement examples 20")
+
+**What’s great about it:** How do you target the high-achievers audience and best performing personnel? Well, certainly not by a C-suit board office scene. The great thing about this ad is that it hints at people who aim high by depicting a climber reaching for the top summit. The tagline “Made For Greatness” will further resonate with Colgate’s customers and create cult-like loyalty to their brand.
+
+**The video:**
+
+{{< vimeo 476749889>}}
+
+***
+
+**Its Brand Voice:** bold, gallant, and venturesome.
+
+## Medical adverts Examples
+
+### 21) “I Happen to Like New York” by the United Way Organization
+
+  
+![healthcare commercials examples 21](/assets/images/medical-advert-21.jpg "healthcare commercials examples 21")
+
+**What’s great about it:** There have been many heartwarming stories to come out of the COVID-19 crisis in New York, but perhaps none as emotionally resonant as the nightly salute to the front-line workers who put their life on the line every day.
+
+Each evening at 7 p.m. New Yorkers gather on streets (at a safe distance, of course) or lean out of their windows, banging saucepans, clapping, cheering, and hollering as exhausted healthcare workers make their way home after a shift.
+
+**The video:** 
+
+{{< youtube 67GmubcG4Kc>}}
+
+***
+
+**Its Brand Voice**: Colloquial, Passionate, and Warming.
