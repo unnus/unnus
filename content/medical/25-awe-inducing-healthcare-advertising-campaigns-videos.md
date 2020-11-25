@@ -215,3 +215,85 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 ***
 
 **Its Brand Voice:** Playful, Funny, and Whimsical.
+
+### 12) “Get Up” by Eli Lilly
+
+![healthcare commercial examples 12](/assets/images/medical-advert-12.jpg "healthcare commercial examples 12")  
+**What’s great about it:** This ad is for Lartruvo, a drug by Lilly against Sarcoma cancer. But Instead of focusing on the drug, Lilly’s is sympathizing with the target patients and their lifestyle. This kind of direct to consumer advertising is effective because it creates [brand preference ](https://unnus.com/medical/healthcare-branding)in the minds of their patients for their drug.
+
+**The video:**
+
+{{< vimeo 270111044>}}
+
+***
+
+**Its Brand Voice:** hopeful, encouraging, and reassuring.
+
+### 13) “End the cover-up” by Galderma pharmaceutical
+
+  
+![healthcare commercial examples 13](/assets/images/medical-advert-13.jpg "healthcare commercial examples 13")
+
+**What’s great about it:** The dermatology company Galderma wanted to encourage people living with the medical skin condition rosacea to seek advice from a doctor, instead of covering up with make-up. What’s great about this ad is its simplistic yet expressive message. With this ad, Galderma further communicated its position as a leader in the dermatology field.
+
+**The video:** 
+
+{{< youtube 2u94_74nZRc>}}
+
+***
+
+**Its Brand Voice:** Authoritative, sympathetic, and supportive.
+
+### 14) “Dospinox” by S&D Pharma
+
+![healthcare commercial examples 14](/assets/images/medical-advert-14.jpg "healthcare commercial examples 14")  
+**What’s great about it:** When the phantoms of the night appear to keep you from falling asleep with their performance of O-Zone's Dragostea in the memorable and most intrusive Romain Pop song there is only one solution. The product Dospinox is a spray that allows for a calm and fast sleep.
+
+S&P tries to convey its effective solution to slash nightmares through funny and unsolicited ways of pharmaceutical branding.
+
+**The video:**
+
+{{< vimeo 410222770>}}
+
+***
+
+**Its Brand Voice**: Humorous, Witty, and Eccentric.
+
+## Health insurance ads
+
+### 15) “Is It Normal?” by Bupa Health insurance
+
+![healthcare insurance commercial examples 15](/assets/images/medical-advert-15.jpg "healthcare insurance commercial examples 15")
+
+**What’s great about it:** It’s a fact of life that most people will find their mental health challenged at some point. Although perfectly normal, it feels like anything but. Here, Bupa looks to challenge everyone’s perception of what’s considered to be normal and, in doing so, aims to normalize seeking support for mental health.
+
+As a leading healthcare provider, for over 70 years, they’ve helped and supported people through life experiences as varied as people themselves. So whatever’s on your mind, it’s normal to Bupa.
+
+**The video:**
+
+{{< vimeo 384487247>}}
+
+***
+
+**Its Brand Voice**: Compassionate, Thoughtful, and Soothing.
+
+### **16)** “**Benefits You Want” by Friday Health Plans**
+
+  
+![healthcare insurance commercial examples 16](/assets/images/medical-advert-16.jpg "healthcare insurance commercial examples 16")
+
+**What’s great about it**: After a long, draining week, many people see Friday as an oasis from the stress of work and responsibility, and they celebrate the day with the hashtag #FridayFeeling.
+
+Aptly named Friday Health Plans applies this concept to health insurance. The low-cost, hassle-free provider covers younger consumers’ basic health needs — such as annual check-ups and emergency services — so they can experience that #FridayFeeling all week long.
+
+Their advertising campaign relays this sense of freedom, beginning with the logo that hints at a cocktail glass complete with garnish.
+
+This ad presents them as more approachable than typical Health Plans.
+
+**The video:** 
+
+{{< youtube qSp0yIyj6Hc>}}
+
+***
+
+**Its Brand Voice**: Friendly, Casual, and Welcoming.
