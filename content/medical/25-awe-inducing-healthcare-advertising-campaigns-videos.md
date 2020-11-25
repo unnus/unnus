@@ -59,9 +59,7 @@ Let’s start.
 
 ### 2) “Redefining Possible” by UCSF Medical Center
 
-![healthcare-commercial-examples-2](/assets/images/medical-advert-2.jpg "healthcare-commercial-examples-2")
-
-**What’s great about it:** Unlike other medical centers, UCSF didn’t take the approach of “best quality care” claim. They provide quality care, but it’s not their mission. Their mission is to redefine what’s possible and take on harder challenges. This bold statement solidifies its unique position in healthcare as **a daring health institution**.
+![healthcare-commercial-examples-2](/assets/images/medical-advert-2.jpg "healthcare-commercial-examples-2")**What’s great about it:** Unlike other medical centers, UCSF didn’t take the approach of “best quality care” claim. They provide quality care, but it’s not their mission. Their mission is to redefine what’s possible and take on harder challenges. This bold statement solidifies its unique position in healthcare as **a daring health institution**.
 
 **The video:**
 
