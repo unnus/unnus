@@ -42,6 +42,8 @@ These ads we will discuss today are:
 
 Let’s start.
 
+<!--more-->
+
 ## Hospital adverts examples
 
 ### 1) “You’re freaking us out” by One Medical
@@ -128,7 +130,6 @@ The centerpiece of the campaign is a long-form film that tells the story of one 
 
 The commercial depicts Baylor Scott & White Health’s better solution for invasive heart surgery. Jay is now back on his feet and feeling so much better.
 
-  
 **The video:**
 
 {{< youtube M1YKpB2vsKk>}}
@@ -230,12 +231,11 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 ### 13) “End the cover-up” by Galderma pharmaceutical
 
-  
 ![healthcare commercial examples 13](/assets/images/medical-advert-13.jpg "healthcare commercial examples 13")
 
 **What’s great about it:** The dermatology company Galderma wanted to encourage people living with the medical skin condition rosacea to seek advice from a doctor, instead of covering up with make-up. What’s great about this ad is its simplistic yet expressive message. With this ad, Galderma further communicated its position as a leader in the dermatology field.
 
-**The video:** 
+**The video:**
 
 {{< youtube 1RiAqaziAiI>}}
 
@@ -278,7 +278,6 @@ As a leading healthcare provider, for over 70 years, they’ve helped and suppor
 
 ### 16) “Benefits You Want” by Friday Health Plans
 
-  
 ![healthcare insurance commercial examples 16](/assets/images/medical-advert-16.jpg "healthcare insurance commercial examples 16")
 
 **What’s great about it**: After a long, draining week, many people see Friday as an oasis from the stress of work and responsibility, and they celebrate the day with the hashtag #FridayFeeling.
@@ -289,7 +288,7 @@ Their advertising campaign relays this sense of freedom, beginning with the logo
 
 This ad presents them as more approachable than typical Health Plans.
 
-**The video:** 
+**The video:**
 
 {{< youtube qSp0yIyj6Hc>}}
 
@@ -299,7 +298,6 @@ This ad presents them as more approachable than typical Health Plans.
 
 ### 17) “Healthier Together” by GMHBA Health Insurance
 
-  
 ![healthcare insurance commercial examples 17](/assets/images/medical-advert-17.jpg "healthcare insurance commercial examples 17")  
 **What’s great about it:** Shining a light on the value of GMHBA health insurance, the campaign is led by a 30-second spot that features families and individuals making healthier activities and getting value from the said activities. if GMHBA members do a health check-up, exercise, or even eat well, they are rewarded for it.
 
@@ -315,7 +313,6 @@ This ad presents them as more approachable than typical Health Plans.
 
 ### 24) “I'm Ada, I Can Help” by Ada Health
 
-  
 ![Health product advertisement examples 18](/assets/images/medical-advert-18.jpg "Health product advertisement examples 18")
 
 **What’s great about it:** Lack of access. Misdiagnosis. Longer waiting times and shorter visits with your doctor are all signs of a system at breaking point. Access to health information online has never been higher. Yet, our confidence and trust in this information, never lower.
@@ -364,14 +361,13 @@ Almost half of all Czech women don’t visit the OBGYN, although regular visits 
 
 ### 21) “I Happen to Like New York” by the United Way Organization
 
-  
 ![healthcare commercials examples 21](/assets/images/medical-advert-21.jpg "healthcare commercials examples 21")
 
 **What’s great about it:** There have been many heartwarming stories to come out of the COVID-19 crisis in New York, but perhaps none as emotionally resonant as the nightly salute to the front-line workers who put their life on the line every day.
 
 Each evening at 7 p.m. New Yorkers gather on streets (at a safe distance, of course) or lean out of their windows, banging saucepans, clapping, cheering, and hollering as exhausted healthcare workers make their way home after a shift.
 
-**The video:** 
+**The video:**
 
 {{< youtube 67GmubcG4Kc>}}
 
@@ -381,14 +377,13 @@ Each evening at 7 p.m. New Yorkers gather on streets (at a safe distance, of cou
 
 ### **22)** “**Brave” by OTB Foundation**
 
-  
 ![healthcare commercials examples 22](/assets/images/medical-advert-22.jpg "healthcare commercials examples 22")
 
 **What’s great about it:** During the Covid, OTB Foundation actioned multiple initiatives aimed at supporting smaller and lesser-known hospitals in different Italian towns.
 
 These initiatives include donations of protective equipment, distribution of masks, supplying cutting-edge technological equipment to prevent the spread of the virus, converting existing hospital wards into dedicated Covid sections, donating sanitizers and disinfection systems for ambulances, distributing respiratory helmets, face masks, and tablets.
 
-**The video:** 
+**The video:**
 
 {{< youtube lGuG72zL4QI>}}
 
@@ -416,7 +411,7 @@ Thanks to a decade of public spending, sectors like healthcare, local government
 ![healthcare commercials examples 24](/assets/images/medical-advert-24.jpg "healthcare commercials examples 24")  
 **What’s great about it:** A shocking ad for the non-profit First Call begs the question, “Is addiction a disease?” by exploring what might happen if the families of cancer and Parkinson’s patients treated them the same way many treat those struggling with drug and other addiction.
 
-**The video:** 
+**The video:**
 
 {{< youtube aTZGfe2Q_6c>}}
 
@@ -426,12 +421,11 @@ Thanks to a decade of public spending, sectors like healthcare, local government
 
 ### 25) “This Is Not A Story” by UNOCHA
 
-  
 ![](/assets/images/medical-advert-25.jpg)**What’s great about it:** Humanitarians provide medical care and life-saving services to those caught in crises. These courageous people fight famine and flood, displacement and disease, war, and injustice.
 
 The centerpiece of the ‘Real Life Heroes’ campaign is a film featuring real humanitarians from around the globe that celebrates their truly heroic feats. To dive deeper into the stories of individuals, they collaborated with an award-winning local independent comic publisher to illustrate the experiences of real humanitarians in comic art.
 
-The video: 
+The video:
 
 {{< youtube 9ZAwmEtS_6I>}}
 
