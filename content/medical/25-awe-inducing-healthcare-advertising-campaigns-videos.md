@@ -87,7 +87,7 @@ In a series of clips, going backward in time, we see the doctor as she gets youn
   
 **Its Brand Voice:** Stirring, Passionate, and Thought-provoking.
 
-**4)** “**SickKids goes All In” by SickKids Hospital for Sick Children**
+### 4) “SickKids goes All In” by SickKids Hospital for Sick Children
 
 ![healthcare-commercial-examples-4](/assets/images/medical-advert-4.jpg "healthcare-commercial-examples-4")
 
