@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "9"
 slug = "/healthcare-advertising"
 socialThumbnail = "/assets/images/featured.jpg"
-table_of_content = []
+table_of_content = ["hospital-adverts-examples", "pharma-ads-examples", "health-insurance-ads", "health-product-advertisement-examples", "medical-adverts-examples", "the-secret-to-a-mouth-watering-healthcare-ad"]
 title = "25 Awe-Inducing Healthcare Advertising Campaigns [+Videos]"
 twitterHandle = "/SlimanBaghouri"
 
