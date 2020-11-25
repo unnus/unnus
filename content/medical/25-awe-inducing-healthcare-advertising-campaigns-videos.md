@@ -101,3 +101,11 @@ Taking it to the streets, with larger-than-life murals of patients rallying thei
 **The video:** 
 
 {{< youtube c4Jzb99Bpd0>}}
+
+***
+
+**Its Brand Voice**: Valiant, Harmonic, and Tenacious.
+
+### 5) “Long Live Little Brats” by the Montreal Children’s Hospital
+
+![](/assets/images/medical-advert-5.jpg)
