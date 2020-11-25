@@ -277,7 +277,7 @@ As a leading healthcare provider, for over 70 years, they’ve helped and suppor
 
 **Its Brand Voice**: Compassionate, Thoughtful, and Soothing.
 
-### **16)** “**Benefits You Want” by Friday Health Plans**
+### 16) “Benefits You Want” by Friday Health Plans
 
   
 ![healthcare insurance commercial examples 16](/assets/images/medical-advert-16.jpg "healthcare insurance commercial examples 16")
@@ -297,3 +297,52 @@ This ad presents them as more approachable than typical Health Plans.
 ***
 
 **Its Brand Voice**: Friendly, Casual, and Welcoming.
+
+### 17) “Healthier Together” by GMHBA Health Insurance
+
+  
+![healthcare insurance commercial examples 17](/assets/images/medical-advert-17.jpg "healthcare insurance commercial examples 17")  
+**What’s great about it:** Shining a light on the value of GMHBA health insurance, the campaign is led by a 30-second spot that features families and individuals making healthier activities and getting value from the said activities. if GMHBA members do a health check-up, exercise, or even eat well, they are rewarded for it.
+
+**The video:**
+
+{{< vimeo 277210116>}}
+
+***
+
+**Its Brand Voice**: Joyful, Promising, and Happy.
+
+## Health Product Advertisement Examples
+
+### 24) “I'm Ada, I Can Help” by Ada Health
+
+  
+![Health product advertisement examples 18](/assets/images/medical-advert-18.jpg "Health product advertisement examples 18")
+
+**What’s great about it:** Lack of access. Misdiagnosis. Longer waiting times and shorter visits with your doctor are all signs of a system at breaking point. Access to health information online has never been higher. Yet, our confidence and trust in this information, never lower.
+
+What if technology could help solve these problems? This ad shows how we can help doctors accelerate diagnosis. The campaign depicts Ada, an irreverent healthcare software that placed the ability to assess your medical symptoms in the palm of your hand.
+
+**The video:**
+
+{{< vimeo 332686146>}}
+
+***
+
+**Its Brand Voice**: Ambitious, Novel, and Knowledgeable.
+
+### 19) “Vagina promises” by Ria hygiene products
+
+![Health product advertisement examples 19](/assets/images/medical-advert-19.jpg "Health product advertisement examples 19")
+
+**What’s great about it:** The Czech brand of feminine hygiene products Ria has been fighting against feminine taboos for many years. Its latest campaign, Vagina Promises, was made to address the fact that studies show that young women are not familiar with their genitals, and are often even ashamed of them.
+
+Almost half of all Czech women don’t visit the OBGYN, although regular visits are covered by general insurance in the Czech Republic. Vagina Promises encourages young women to accept their bodies, love them the way they are, and take better care of themselves.
+
+**The video:**
+
+{{< vimeo 425487226>}}
+
+***
+
+**Its Brand Voice**: Plucky, Frisky, and Soft-Spoken.
