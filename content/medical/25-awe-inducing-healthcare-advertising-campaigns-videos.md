@@ -49,7 +49,7 @@ Let’s start.
 
 ![healthcare-commercial-examples-1](/assets/images/medical-advert-1.jpg "healthcare-commercial-examples-1")**What’s great about it:** Instead of the usual advice “Masks are good for your safety”, One Medical took a different approach to raise the importance of wearing masks against Covid-19. This depicts a “seemingly menacing” lumberjack chasing the “seemingly normal” person. The plot twist is that the lumberjack was the one who was running _from_ the normal person. It is a brilliant idea that conveys even the scariest people are afraid of the unintentional harm a person without a mask can cause.
 
-**The video:** 
+**The video:**
 
 {{< youtube TmQnuuqqZN4 >}}
 
@@ -71,7 +71,6 @@ Let’s start.
 
 ### 3) “Life-defining moments” by Getinge
 
-  
 ![healthcare-commercial-examples-3](/assets/images/medical-advert-3.jpg "healthcare-commercial-examples-3")
 
 **What’s great about it:** In the conservative MedTech industry, not many attempts to challenge the traditional norms of communication. But in their new campaign, highlighting groundbreaking ventilator technology. In this campaign, we follow a neonatologist delivering a baby at a hospital.
@@ -84,7 +83,6 @@ In a series of clips, going backward in time, we see the doctor as she gets youn
 
 ***
 
-  
 **Its Brand Voice:** Stirring, Passionate, and Thought-provoking.
 
 ### 4) “SickKids goes All In” by SickKids Hospital for Sick Children
@@ -93,12 +91,11 @@ In a series of clips, going backward in time, we see the doctor as she gets youn
 
 **What’s great about it**: Each year, hundreds of charities go head-to-head to attract donations. SickKids needed to unite the city to get behind their cause. Building on their past success, they have to strike while the iron is hot.
 
-  
 Toronto is called the city of neighborhoods. To succeed, they need to unite them all behind the new hospital and for that, they rallied every single neighborhood in Toronto to take up arms in the fight for a new hospital. They answered the call.
 
 Taking it to the streets, with larger-than-life murals of patients rallying their loved ones to join at fundthefight.ca. As donors provided funds, their digital flags were proudly planted on a virtual map of the city.
 
-**The video:** 
+**The video:**
 
 {{< youtube c4Jzb99Bpd0>}}
 
@@ -126,15 +123,14 @@ The centerpiece of the campaign is a long-form film that tells the story of one 
 
 ### 6) “So Much Better” by Baylor Scott & White Health
 
-  
 ![healthcare-commercial-examples-6](/assets/images/medical-advert-6.jpg "healthcare-commercial-examples-6")
 
 **What’s great about it:** The challenge most healthcare advertising faces is that all ads look like other healthcare advertising. The TV commercials often show the usual suspects: Doctors, nurses, and patients all inside the hospital. This ad took a different route: Since Baylor Scott & White Health is focused on making people better so they can live a better life, they set out to create advertising that feels, looks, and sounds better, too.
 
 The commercial depicts Baylor Scott & White Health’s better solution for invasive heart surgery. Jay is now back on his feet and feeling so much better.
 
-**  
-The video:** 
+  
+**The video:**
 
 {{< youtube M1YKpB2vsKk>}}
 
@@ -144,7 +140,6 @@ The video:**
 
 ### 7) “Care Bravely” by Lifebridge health
 
-  
 ![healthcare-commercial-examples-4](/assets/images/medical-advert-7.jpg "healthcare-commercial-examples-4")
 
 **What’s great about it:** This ad features a young girl seen walking through a dark and menacing forest, throughout the film’s dark backdrop, she narrates her reality that for her “monsters” do exist.
@@ -163,14 +158,13 @@ The hospital nurse is then shown, bringing a warm, inviting, and much needed com
 
 ### 8) “Unstoppable” by Brookdale Hospital
 
-  
 ![healthcare-commercial-examples-8](/assets/images/medical-advert-8.jpg "healthcare-commercial-examples-8")
 
 **What’s great about it:** The Brookdale University Hospital and Medical Center is a nonprofit medical services provider working on the frontline against Covid-19 in Brooklyn, New York.
 
 The doctors and nurses who work there are fighting a daily battle on the frontline to save people’s lives whilst putting their own at risk. So they embarked on a 60s script that would honor their sacrifice and hard work, epitomizing their tenacity.
 
-**  
+\**  
 The video:**
 
 {{< vimeo 440941412>}}
@@ -186,7 +180,6 @@ The video:**
 
 The ad features patient Mia and her sister Amy. Both were treated at hospital years apart for the same rare condition. In this animated segment, Mia falls asleep in her room, which is adorned with festive decorations. A wind carries her and other sleeping children away from the hospital on their journeys home. It ends with a real home clip of Mia and Amy running downstairs in their matching pajamas.
 
-  
 {{< youtube mzZFW_tsRxo>}}
 
 ***
