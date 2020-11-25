@@ -91,7 +91,9 @@ In a series of clips, going backward in time, we see the doctor as she gets youn
 
 ![healthcare-commercial-examples-4](/assets/images/medical-advert-4.jpg "healthcare-commercial-examples-4")
 
-**What’s great about it**: Each year, hundreds of charities go head-to-head to attract donations. SickKids needed to unite the city to get behind their cause. Building on their past success, they have to strike while the iron is hot.  
+**What’s great about it**: Each year, hundreds of charities go head-to-head to attract donations. SickKids needed to unite the city to get behind their cause. Building on their past success, they have to strike while the iron is hot.
+
+  
 Toronto is called the city of neighborhoods. To succeed, they need to unite them all behind the new hospital and for that, they rallied every single neighborhood in Toronto to take up arms in the fight for a new hospital. They answered the call.
 
 Taking it to the streets, with larger-than-life murals of patients rallying their loved ones to join at fundthefight.ca. As donors provided funds, their digital flags were proudly planted on a virtual map of the city.
