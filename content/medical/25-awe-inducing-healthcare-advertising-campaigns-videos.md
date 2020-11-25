@@ -68,3 +68,17 @@ Let’s start.
 ***
 
 **Its Brand Voice:** Bold, Daring, and heroic.
+
+### 3) “Life-defining moments” by Getinge
+
+  
+![healthcare-commercial-examples-3](/assets/images/medical-advert-3.jpg "healthcare-commercial-examples-3")
+
+**What’s great about it:** In the conservative MedTech industry, not many attempts to challenge the traditional norms of communication. But in their new campaign, highlighting groundbreaking ventilator technology. In this campaign, we follow a neonatologist delivering a baby at a hospital.
+
+In a series of clips, going backward in time, we see the doctor as she gets younger. We hear her gasping for breath while exercising, cheering for joy at her graduation, and breathing nervously as she awaits her wedding ceremony.
+
+{{< vimeo 463750873>}}
+
+  
+**Its Brand Voice:** Stirring, Passionate, and Thought-provoking.
