@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2020-11-24T23:00:00Z
 description = "Need inspiration for your own healthcare ad campaign? Check out these 25 jaw-dropping healthcare advertising campaigns."
-draft = true
 featImg = "/assets/images/featured.jpg"
 featImgThumb = "/assets/images/featured.jpg"
 linkedinHandle = "slimaneBaghouri"
