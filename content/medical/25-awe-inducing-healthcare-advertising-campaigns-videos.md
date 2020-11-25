@@ -2,21 +2,21 @@
 author = "Sliman M. Baghouri"
 authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
-authorBio = ""
+authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2020-11-24T23:00:00Z
-description = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+description = "Need inspiration for your own healthcare ad campaign? Check out these 25 jaw-dropping healthcare advertising campaigns."
 draft = true
 featImg = "/assets/images/featured.jpg"
 featImgThumb = "/assets/images/featured.jpg"
-linkedinHandle = "/unnus"
+linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "9"
 slug = "/healthcare-advertising"
 socialThumbnail = "/assets/images/featured.jpg"
 table_of_content = []
 title = "25 Awe-Inducing Healthcare Advertising Campaigns [+Videos]"
-twitterHandle = "/unnus_"
+twitterHandle = "/SlimanBaghouri"
 
 +++
 {{% hook %}}**Warning: This list contain ads that may tug your heartstrings, uplift your mood, or tickle your stomach.** {{% /hook %}}
