@@ -307,7 +307,7 @@ When it comes to the difference between Google AdWords and Facebook Ads, you can
 
 Your marketing efforts are as good as the brand behind it. If you have an orthodontic brand that is **differentiated**, **purpose-driven,** and **unique**, your marketing will have double the effect.
 
-Taking time to develop a differentiator for your practice and cultivating a brand that is set for success is critical before marketing. You don’t want to market a soulless brand. Marketing should be empowered by your branding not weakened by it.
+Taking time to develop a differentiator for your practice and cultivating a brand is critical before marketing. You don’t want to market a soulless brand. Marketing should be empowered by your branding not weakened by it.
 
 If you’d like to go deep into how to strategically put that into practice, check our free [healthcare branding series](https://unnus.com/healthcare-branding/).
 
