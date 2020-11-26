@@ -283,7 +283,7 @@ It’s an auction-based platform where advertisers bid on their website to appea
 
 The good news is that it’s cheap compared to other means of advertising. For example, if you offer braces dental service for $3500 per patient. And you spend $500 a month on Google Adwords to get 2 patients, your profit will be **$6500**, that’s **1300% ROI**.
 
-**Alpan Orthodontics**, CA-based Facebook, orthodontic practice using Google Adwords to acquire more patients.
+**Alpan Orthodontics**, A California-based orthodontic practice, is using Google Adwords to acquire more patients.
 
 ![Google ads for orthodontic](/assets/images/orthodontic-advertising.png "Google ads for orthodontic")
 
