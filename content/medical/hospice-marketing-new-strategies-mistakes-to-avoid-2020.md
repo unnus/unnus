@@ -288,4 +288,4 @@ If your marketing campaign is not backed with a purposeful brand, it will have l
 
 If you’re looking to start your marketing campaign on a grounded brand, you can check our free step-by-step healthcare branding strategy.
 
-Or if you’d like us to help you put on a branding strategy for your agency, you can [contact our director here](https://unnus.com/contact).
+Or if you’d like us to help you put on a branding strategy for your agency, you can [reach us out here](https://unnus.com/contact).
