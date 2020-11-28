@@ -21,12 +21,18 @@ twitterHandle = "/@SlimanBaghouri"
 +++
 {{% hook %}}**Looking to increase your referral rates for your agency? Or a new marketing strategy for your hospice? This article is for you.**{{% /hook %}}
 
-Marketing a hospice is a day-and-night difference from your run of the mill campaigns. 
+Marketing a hospice is a day-and-night difference from your run of the mill campaigns.
 
 Due to the sensitive nature of a hospice model and the ill-informed ideas floating around, hospice marketing needs to take a different approach.
 
 An approach that is based on trust, relationship building, and is unique to your agency.
 
 In today’s article, I’ll share with you the following:
+
+1. Mistakes to avoid when marketing a hospice or palliative care center
+2. What to do BEFORE starting your marketing campaign
+3. How to increase hospice referrals
+4. New hospice marketing ideas
+5. And a lot more…
 
 without further ado, let’s start.
