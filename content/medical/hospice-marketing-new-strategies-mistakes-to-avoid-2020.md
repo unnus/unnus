@@ -194,7 +194,7 @@ Odentia is the only dentistry service that puts painless dental experience as it
 
 **Odentia’s Positioning Statement:**
 
-![](/assets/images/statement-1.jpg)
+![dentist positioning statement ](/assets/images/statement-1.jpg "dentist positioning statement ")
 
 ## Hospice Marketing Ideas
 
