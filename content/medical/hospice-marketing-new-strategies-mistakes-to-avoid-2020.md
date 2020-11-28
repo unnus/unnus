@@ -112,7 +112,7 @@ Now you know what to avoid, let’s go through some of the key elements that, if
 
 ### 1) Build and cultivate your hospice brand
 
-{{% note "Note" %}} **Marketing without branding is an accumulation of tactics that comes with an expiration date.** {{% /note %}}
+{{% note "Note" %}} Marketing without branding is an accumulation of tactics that comes with an expiration date. {{% /note %}}
 
 Branding is the management of all components that make a hospice brand for which your target audience believes there’s no substitute.
 
