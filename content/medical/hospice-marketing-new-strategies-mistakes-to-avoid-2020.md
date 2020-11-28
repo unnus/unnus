@@ -39,6 +39,8 @@ In today’s article, I’ll share with you the following:
 
 without further ado, let’s start.
 
+<!--more-->
+
 ## Mistakes to Avoid in hospice marketing
 
 Before we dig into the marketing ideas, let’s see common pitfalls so you can avoid them.
@@ -75,7 +77,6 @@ The same applies when marketing your hospice. Deciding on an end-of-life partner
 
 But why do people base such decision making on trust? And _why_ is it such a powerful way to increase referrals? I’ll discuss this in the next section.
 
-  
 **2) Not facilitating the patient transition to hospice _before_ marketing**
 
 Most agencies focus on acquiring referrals without consideration for what happens after that. More often than not, Hospices walk away from business pretty much all the time. Either by being hard to deal with, assigning the responsibility on the consumer or the referral source, or having frameworks that postpone the care services that individual needs.
