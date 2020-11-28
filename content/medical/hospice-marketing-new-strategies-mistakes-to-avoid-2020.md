@@ -195,3 +195,96 @@ Odentia is the only dentistry service that puts painless dental experience as it
 **Odentia’s Positioning Statement:**
 
 ![](/assets/images/statement-1.jpg)
+
+## Hospice Marketing Ideas
+
+Now you are well-equipped to begin marketing your hospice, let’s see some marketing strategies that you can start implementing to increase hospice referrals.
+
+### 1) Brand Storytelling Strategy
+
+Your patients, patient’s families, and the physicians, all already have a preconceived notion about the nature of hospice. Most of which is completely wrong or ill-informed. It is your job to educate, inform, and refute any misinformation out there.
+
+And to do that, you need to conduct a storytelling campaign. So what is storytelling and how this can benefit your agency?
+
+Brand storytelling is a branding and marketing strategy, aimed to inform your audience about your hospice in a digestible manner.
+
+In this strategy, instead of marketing directly your offers, you take a different approach. An approach where you tell stories about palliative care, your agency, and how this can benefit your consumers and referral partners.
+
+What’s great about this strategy is that you narrate easy-to-digest stories about your brand (increasing its awareness) and at the same time, you’re educating your prospects and conveying the correct image of hospice.
+
+**So how to conduct a brand storytelling campaign for your hospice?**
+
+Any storytelling campaign consists of 3 elements: Core Message, Secondary Messages, and Communication channels.
+
+The steps are straightforward:
+
+1. First, you form a **Core Message**: A message you want your hospice brand to be known about (think of it as “the overarching theme” )
+2. Take that **Core Message** and dissect it into smaller chunks of messages called **Secondary Messages** (Think of them as subtopics that make up the big theme) and then
+3. Start by forming smaller stories about these Secondary Messages.
+4. Finally, distribute these messages across media outlets (Articles, Social Media Posts, Press, Brochures, Radios, etc…)
+
+Here’s a visual representation of how a core message might be distributed across your marketing channels.
+
+![Visual representation of brand storytelling in healthcare](/assets/images/hospice-marketing-strategy-storytelling.jpg "Visual representation of brand storytelling in healthcare")
+
+### 2) Run educational programs
+
+While physicians are not the patient and family’s single source of information about the hospice, they are an influential part of the decision.
+
+Educating your county’s physicians can improve your referral rate. An educational program that runs locally will increase the awareness of how hospice care can also benefit physicians whose compensation is tied to quality metrics.
+
+For example, ACOs can increase their bonus payments by keeping patients' costs under control. Or how they can save and lessens financial pressure from the patient’s family.
+
+Hospice of St. Mary's did the same strategy and has substantially soared their [referral rate each quarter ](https://www.jpsmjournal.com/article/S0885-3924(04)00266-0/pdf)with an increased length of stay.
+
+### 3) Participate in healthcare conferences to expand your sphere of influence
+
+Participating in healthcare conferences gives you the full stage to educate hospital executives and referral partners about your hospice and how it’s different. This is a great chance to create awareness for your agency’s brand and expand its sphere of influence.
+
+A great way to take advantage of these meetups is by sharing informative presentations. Sharing data and statistics of the positive impact a hospice can have on a hospital is a great way of increasing your referral rates.
+
+You can also take the chance to refute some of the misconceptions about the patient transition process and how your agency can make the transition seamless. Most physicians are reluctant to deal with the coordination that comes with referring to a hospice.
+
+### 4) Launch Authoritative Hospice Podcast to increase your referral network
+
+An underutilized strategy to build your relationships with potential physicians and healthcare executives is by having them as guests on your hospice show.
+
+The aim here is manifold:
+
+1. Having physicians on your podcast builds **trust** and rapport with your agency’s brand
+2. It increases your credibility and awareness of your brand
+3. It gives you the chance to talk to multiple healthcare personnel and educating them on hospice
+4. It expands your referral network and can skyrocket your referral rates.
+
+Remember, the aim here is not to be the next 10 million listener show. The aim here is to make relationships with your community’s physicians and potential referral partners.
+
+### 5) Use digital marketing strategies
+
+With [83% of adult internet users](https://www.pewresearch.org/internet/2009/06/11/the-social-life-of-health-information/) search online for health information, creating an online platform where you share tips and informational content about hospice can be a competitive edge for your agency.
+
+Being online also makes your hospice more “approachable” and always top-of-mind. In addition to the ability to interact with physicians in a two-way conversational style, you’ll be able to provide them with valuable information about hospice and how it benefits their hospitals.
+
+Here is a list of online marketing strategies you can implement for your agency:
+
+1. Content Marketing
+   * Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant content to attract and retain referral sources.
+2. Social Media Marketing
+   * Social media marketing can be used to connect with your audience to build your hospice brand, increase referrals, and traffic towards your website
+3. Email Marketing
+   * Email marketing is a strategy based on sending emails and developing relationships with potential referral partners and physicians
+4. PPC & Paid Advertising
+   * PPC stands for pay-per-click, a model of internet marketing in which advertisers pay a fee each time one of their ads is clicked. It's a way of buying visits to your agency website.
+5. Online PR
+   * Online Public Relations is a great way to communicate with potential customers for your agency in the online public realm.
+6. Target the Online Communities
+   * Online communities are a great way to grow your online presence and to catch insights. Being around people with similar interests and exchanging medical knowledge is a good way to develop relationships for your agency.
+
+## The secret to a successful hospice marketing campaign
+
+Marketing any hospice needs to be built on a multitude of relationships with referral sources and trust from the patient’s stakeholders.
+
+If your marketing campaign is not backed with a purposeful brand, it will have little chance of succeeding. Communicating with unique positioning and sending ‘trust signals’ through your marketing is a critical part of its success.
+
+If you’re looking to start your marketing campaign on a grounded brand, you can check our free step-by-step healthcare branding strategy.
+
+Or if you’d like us to help you put on a branding strategy for your agency, you can [contact our director here](https://unnus.com/contact).
