@@ -582,22 +582,7 @@ If you want to start applying this strategy, this video will be of great help:
 
 {{< youtube cPpkkKgAWKQ>}}
 
-## 7) Speaking At Healthcare Conferences
-
-Participating in industry-specific conferences can be an unexpected patient generation for your chiropractic business. In addition to increasing your sphere of influence, it can also lead to:
-
-1. **Establishing you as an industry leader**
-   1. Being at the center of the stage and sharing worth-thinking-about ideas help solidify you as a pillar in the chiropractic field.
-2. **Skyrocket your referrals**
-   1. One of the perks of being a public speaker is increased referrals from other practitioners. If you can demonstrate the value of chiropractic in healthcare conferences, other doctors will start referring patients to your practice for natural care.
-3. **Increased exposure for your brand**
-   1. Many healthcare professionals use public speaking as a way to increase awareness of their practice. Sharing how your practice transformed your patient’s life and what positive impact your brand has on your community is a great way to build awareness.
-4. **Career advancement**
-   1. Speaking at conferences help you with career advancement, as it shows creative abilities, critical reasoning, leadership skills, poise, and professionalism, properties that are valuable in the healthcare industry.
-
-Participating in conferences can be hard at first but it pays dividends in the long run. If you have a unique way of how the chiropractic industry should change or a thought-provoking idea, sharing it with industry professionals helps you and your business grow.
-
-### **8) Podcast Tours**
+### **7) Podcast Tours**
 
 [One out of every five adults ](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf)in the United States listens to a podcast regularly:
 
@@ -667,6 +652,21 @@ _Here’s what I could cover:_
 _Let me know your thoughts._
 
 _\[Your name\]_
+
+## 8) Speaking At Healthcare Conferences
+
+Participating in industry-specific conferences can be an unexpected patient generation for your chiropractic business. In addition to increasing your sphere of influence, it can also lead to:
+
+1. **Establishing you as an industry leader**
+   * Being at the center of the stage and sharing worth-thinking-about ideas help solidify you as a pillar in the chiropractic field.
+2. **Skyrocket your referrals**
+   * One of the perks of being a public speaker is increased referrals from other practitioners. If you can demonstrate the value of chiropractic in healthcare conferences, other doctors will start referring patients to your practice for natural care.
+3. **Increased exposure for your brand**
+   * Many healthcare professionals use public speaking as a way to increase awareness of their practice. Sharing how your practice transformed your patient’s life and what positive impact your brand has on your community is a great way to build awareness.
+4. **Career advancement**
+   * Speaking at conferences help you with career advancement, as it shows creative abilities, critical reasoning, leadership skills, poise, and professionalism, properties that are valuable in the healthcare industry.
+
+Participating in conferences can be hard at first but it pays dividends in the long run. If you have a unique way of how the chiropractic industry should change or a thought-provoking idea, sharing it with industry professionals helps you and your business grow.
 
 ## **9) Honorable Mentions**
 
