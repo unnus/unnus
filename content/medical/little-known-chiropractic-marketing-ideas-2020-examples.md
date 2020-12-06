@@ -91,3 +91,25 @@ Being radically different is the only way to cut through this clutter. It is you
 So, before marketing, ask yourself, does our marketing messages look the same as everyone else’s? Are we adding to the clutter?
 
 ![how brands occupy brain space](/assets/images/healthcare-branding-1.jpg "healthcare branding")
+
+### **3) Embarking on a vision-blind marketing campaign**
+
+Marketing a practice for the sake of increasing patient volume or growing profit margins is insufficient. These are the poor man's success metrics.
+
+You need a business vision that goes beyond the “time-bounded” growth indicators. Most chiropractic marketing campaigns over-invest in short-term gains (quarterly revenues, ROI, volume) while incurring a long-term loss of their identity (patient loyalty, brand equity, brand preference).
+
+The vision you put in place must account for future stability for your practice and decreased marketing costs. To do that you also need to change your success measurability.
+
+We shouldn’t be slaves to the growth curves. Instead of focusing on the short-term indicators, we must reroute our attention to more meaningful ones.
+
+To learn more about future-proof metrics, check this [guide](https://unnus.com/medical/healthcare-branding/#how-to-measure-branding-success).
+
+### **4) Misalignment between the marketing and the patient experience**
+
+![consistent chiropractic marketing vs out of sync chiropractic marketing](/assets/images/consistant-chiropractic-marketing.jpg "consistent chiropractic marketing vs out of sync chiropractic marketing")
+
+A common trap Marketers fall into, is that the marketing is not in sync with the patient experience. Marketers get caught in increasing the patient volume and outright disregard the consistency of the campaign.
+
+Consistency is critical. From the first encounter, your patient has with you until they get out of your office, everything needs to vibrate at the same frequency.
+
+If you skew from what you promised in the marketing, your brand gets diluted and patients feel the inauthenticity. A poorly thought campaign that does not take your business’s philosophy into account will be prone to create mixed signals.
