@@ -5,7 +5,7 @@ authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2020-12-05T23:00:00Z
-description = ""
+description = "Looking for unique and new chiropractic marketing strategies? This article covers little-known and ridiculously powerful strategies for your medical business."
 featImg = "/assets/images/chiropractic-marketing-thumbnail.jpg"
 featImgThumb = "/assets/images/chiropractic-marketing-thumbnail.jpg"
 linkedinHandle = "/slimaneBaghouri"
@@ -37,6 +37,8 @@ This article covers:
 10. Other marketing strategies (honorable mentions)
 
 Without wasting too much time, let’s start.
+
+<!--more-->
 
 ## **Why Most Chiropractic Marketing Campaigns Fail**
 
