@@ -518,3 +518,64 @@ We’re _______ But We’re Not ________.
 To download PDF or print this exercise [for free click here](https://drive.google.com/file/d/1gdpQe2URo4I2IPpUu_SIYKDIJGTUmNDh/view).
 
 You can also use sticky notes to write examples of how your brand voice can be applied across the 4 dimensions on the left side.
+
+## **5) Brand Storytelling Strategy**
+
+Brand Storytelling is a strategy focused on marketing your chiropractic brand by telling stories around your business and what it stands for.
+
+The beauty of this strategy is that it allows you to—asynchronously— narrate and market your practice in an easy to digest manner.
+
+Instead of blasting your would-be patients with intrusive ads, we’ll use a more subtle way of reaching them.
+
+To illustrate more, let’s get into the “how-tos”.
+
+The Brand Storytelling Strategy consists of two parts
+
+1. Core Message And Secondary Messages
+2. Story Distribution Channels
+
+### 1) Core Message And Secondary Messages
+
+To promote your medical business in a story-based way, you’ll need a Main Narrative (Core Message) and subtopics (Secondary Messages).
+
+Think of the Core Message as the theme of your marketing campaign and the Secondary Messages as the subtopics that make up the whole theme.
+
+Let’s continue with our example Athletim™’s. their audience is athletes. So the Core Message and Secondary Messages will look like this:
+
+![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare.jpg "brand storytelling in healthcare")
+
+### 2) Story Distribution Channels
+
+The secondary messages will be distributed in the form of media posts, articles, social posts, eBooks, brochures, and educational programs.
+
+The following diagram represents how you will distribute these secondary messages to your patients:
+
+![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare-examples-2.jpg "brand storytelling in healthcare")  
+To decide which marketing channels work best for your promotional efforts, you can use our Channel Distribution Exercise™. It helps you see which ones benefit you more based on their impact and level of difficulty.
+
+  
+![Chiropractic Marketing Channel Distribution Exercise](/assets/images/storytelling-in-healthcare-brand-distribution.jpg "Chiropractic Marketing Channel Distribution Exercise")
+
+To download PDF or print this exercise [for free click here](https://drive.google.com/file/d/1cdzmljN5ksDHK7G2Va8_GWfkmir6CTQ_/view?usp=sharing).
+
+## **6) Email Autoresponder Course Strategy**
+
+This strategy revolves around creating an email course by sending a premade sequence of emails to your subscribers as a form of lessons. The premise is that your potential patients will sign up for your free email series from your website and start receiving automated emails.
+
+These emails are delivered as educational lessons. Each lesson holds valuable exercise or useful techniques that teach them about chiropractic care.
+
+After your email subscribers finish your course, they’ll receive a pitch email that directs them to your online booking page to book you.
+
+At this point, you helped them with useful content and built trust. So they will be more receptive to your bigger offer (one-on-one service).
+
+Here’s a diagram of the path your potential patient takes until they book an appointment :
+
+![Email Marketing for chiropractors](/assets/images/email-marketing-chiropractors.jpg "Email Marketing for chiropractors")  
+The goal of these lessons are manifold:
+
+1. To educate patients about the value of chiropractic care
+2. To help them solve their problems
+3. To build rapport and trust between you and subscribers and
+4. To encourage them to book an appointment with you
+
+If you want to start applying this strategy, this video will be of great help:
