@@ -582,7 +582,7 @@ If you want to start applying this strategy, this video will be of great help:
 
 {{< youtube cPpkkKgAWKQ>}}
 
-### **7) Podcast Tours**
+## **7) Podcast Tours**
 
 [One out of every five adults ](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf)in the United States listens to a podcast regularly:
 
