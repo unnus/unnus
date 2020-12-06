@@ -579,3 +579,116 @@ The goal of these lessons are manifold:
 4. To encourage them to book an appointment with you
 
 If you want to start applying this strategy, this video will be of great help:
+
+{{< youtube cPpkkKgAWKQ>}}
+
+## 7) Speaking At Healthcare Conferences
+
+Participating in industry-specific conferences can be an unexpected patient generation for your chiropractic business. In addition to increasing your sphere of influence, it can also lead to:
+
+1. **Establishing you as an industry leader**
+   1. Being at the center of the stage and sharing worth-thinking-about ideas help solidify you as a pillar in the chiropractic field.
+2. **Skyrocket your referrals**
+   1. One of the perks of being a public speaker is increased referrals from other practitioners. If you can demonstrate the value of chiropractic in healthcare conferences, other doctors will start referring patients to your practice for natural care.
+3. **Increased exposure for your brand**
+   1. Many healthcare professionals use public speaking as a way to increase awareness of their practice. Sharing how your practice transformed your patient’s life and what positive impact your brand has on your community is a great way to build awareness.
+4. **Career advancement**
+   1. Speaking at conferences help you with career advancement, as it shows creative abilities, critical reasoning, leadership skills, poise, and professionalism, properties that are valuable in the healthcare industry.
+
+Participating in conferences can be hard at first but it pays dividends in the long run. If you have a unique way of how the chiropractic industry should change or a thought-provoking idea, sharing it with industry professionals helps you and your business grow.
+
+### **8) Podcast Tours**
+
+[One out of every five adults ](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf)in the United States listens to a podcast regularly:
+
+![podcast popularity statistics ](/assets/images/podcast-stats-1.jpg "podcast popularity statistics ")  
+Compared to other ways of marketing your chiropractic business, guest podcasting is quicker and easier. A bit of prep time, 20 to 50-minute interview, and you’re done.
+
+All you have to do is have a conversation and record it. It’s way less effort than having to make your video or audio. It’s also less stressful than going on live radio, as any mess-ups can be cut out in the edit.
+
+There are hundreds of podcasts starving for guests. This is a great opportunity for you to pitch yourself as a guest and start gaining the spotlight.
+
+Some benefits of being a guest on a podcast are:
+
+1. The podcast might be on health and wellness and the audience might be interested in natural care. If you can pitch your episode to a podcast where the audience is receptive to your services, it’ll be a great way to start building consistent leads.
+2. It increases your professional network and can be a great referral source.
+3. It expands the exposure of your chiropractic brand and gets more people interested in it.
+4. Since you’ll be on the show as a guest, you can promote your website or social media handles in the podcast. This is a great way to increase your online presence.
+
+Let’s see how you can land your first episode.
+
+### **1) Do your research**
+
+Start by researching podcasts you want to be a part of and you can add value to their listeners. To do that, you can start searching on popular platforms like iTunes, Spotify, Google Podcast, and Stitcher. There’s a lot of platforms but I’ll cover iTunes because it’s the largest one.
+
+First, let’s go on how you find the contact email of the host so you can pitch them.
+
+Log in to your iTunes. if you don’t have it, download it from [here](https://www.apple.com/itunes/).
+
+After you sign up, on the top-right search bar, type “Chiropractic Podcasts”. You’ll be faced with the following result:
+
+![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast.jpg "Finding chiropractic podcast through iTunes")  
+  
+Click on one of the podcasts. In the podcast homepage on the left side, you’ll find the link section where you find the website link.
+
+![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast-guests.jpg "Finding chiropractic podcast through iTunes")
+
+Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information:
+
+![Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information: ](/assets/images/chiropractic-podcast-guests-finding.jpg "Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information: ")  
+You might not always find an “email” icon so try to search for a contact form or “apply for our podcast” links.
+
+You can also try to use services like [Hunter](https://hunter.io/) to find emails from any particular website. Just enter the URL and it’ll find you the contacts.
+
+### **2) Sending Your Episode Pitch**
+
+Now, it’s time to send the host a pitch for your episode.
+
+Here’s a simple template you can use, feel free to modify as needed:
+
+**Subject**: Podcast Pitch: How to **\[insert something likely to be of value to their audience\]**
+
+_Hi X,_
+
+_A quick bit of background - **\[insert your area of expertise and credentials here\]**_
+
+_I’ve been following your podcast for a while, and I enjoyed your recent interview with **\[X\]** on how to achieve **\[Y\]**. I’ve already had some success using some of the tips they mentioned._
+
+_I wondered if you might be interested in having me on your show to talk about **\[insert something likely to be of value to their audience\]**_
+
+_Here’s what I could cover:_
+
+**_\[Specific point/tip you can share\]_**
+
+**_\[Specific point/tip you can share\]_**
+
+**_\[Specific point/tip you can share\]_**
+
+_Let me know your thoughts._
+
+_\[Your name\]_
+
+## **9) Honorable Mentions**
+
+I didn’t want to cover what’s “already out there” because there’s already enough resources for other marketing strategies. So I left the rest an honorable mention.
+
+Here are some other marketing ideas you can implement to grow your chiropractic business:
+
+1. SEO and Content Marketing
+   * Content marketing is a strategic marketing approach focused on creating and distributing valuable, relevant content to attract and retain patients from multiple channels like Google, Youtube, and other platforms.
+2. PPC & Paid Advertising
+   * PPC stands for pay-per-click, a model of internet marketing in which advertisers pay a fee each time one of their ads is clicked. It’s a way of buying visits to your chiropractic website.
+3. Online PR
+   * Online Public Relations is a way to communicate with potential patients for your chiropractic business in the online public realm. One way to implement this strategy is to get featured in health and wellness digital magazines.
+4. Target the Online Communities
+   * Online communities can be a way to grow your online presence and to catch insights. Being around people with similar interests and exchanging medical knowledge develops relationships for your business.
+
+## **The ‘secret’ to an effective chiropractic marketing**
+
+Your marketing effort is as good as the branding behind it. For your chiropractic business to thrive, it needs battle-proven positioning and solid brand DNA behind it.
+
+Marketing should never be conducted without a proper brand strategy for your chiropractic business. Your marketing communication needs a unique voice to speak to your patients. This not only sets you apart but it gets you out of the market clutter.
+
+If you’d like to know more about branding in healthcare, you can check our [free guide here](https://unnus.com/medical/healthcare-branding/).
+
+But if you’d like to have some help with your brand differentiation, strategy, and communication, you can always [say hello to us](https://unnus.com/contact/). We’ll gladly help.
