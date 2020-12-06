@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2020-12-05T23:00:00Z
 description = ""
-draft = true
 featImg = "/assets/images/chiropractic-marketing-thumbnail.jpg"
 featImgThumb = "/assets/images/chiropractic-marketing-thumbnail.jpg"
 linkedinHandle = "/slimaneBaghouri"
