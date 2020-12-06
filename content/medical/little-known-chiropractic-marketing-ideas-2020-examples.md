@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "19"
 slug = "/chiropractic-marketing"
 socialThumbnail = "/assets/images/chiropractic-marketing-thumbnail.jpg"
-table_of_content = []
+table_of_content = ["why-most-chiropractic-marketing-campaigns-fail", "chiropractic-marketing-strategies", "1-developing-a-brand-dna"]
 title = "Little-Known Chiropractic Marketing Ideas 2020 [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
