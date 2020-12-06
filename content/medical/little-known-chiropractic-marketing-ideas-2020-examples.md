@@ -462,7 +462,7 @@ The Economist's audience is mainly C-suite executives and founders. Notice how r
 
 Brand voice is not only used in social media, it can be used across all of your touch-points with your patients.
 
-Here’s an example of the unique voice of a mobile app from [the desk magazine](). Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
+Here’s an example of the unique voice of a mobile app from [the desk magazine](https://vanschneider.com/blog). Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
 
 ![brand voice example](/assets/images/authentic_3-1.jpg "brand voice example")  
 ![brand voice example](/assets/images/54201455161361-56096cf803b37.png "brand voice example")
