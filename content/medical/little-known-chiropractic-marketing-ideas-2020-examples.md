@@ -214,7 +214,7 @@ The positioning strategy consists of 3 stages:
 
 Let’s tackle them one by one.
 
-**1) Audience Persona**
+### **1) Audience Persona**
 
 In this stage, we stress your ideal patients and their characteristics. Knowing your target audience lets you connect and align yourself with their needs more deeply.
 
@@ -243,7 +243,7 @@ For Athletim™ the result will look something like this:
 
 ![Audience Persona Exercise](/assets/images/target-audience-filled.jpg "Audience Persona Exercise")
 
-**2) Differentiator Development**
+### **2) Differentiator Development**
 
 After knowing your audience, it’s time to develop a differentiator. And for that, we’ll use Brand Differentiator Graph Exercise™ (BDG).
 
@@ -285,8 +285,7 @@ Athletim™’s graph will look something like this:
   
 ![Brand Differentiator Graph Exercise](/assets/images/differentiator-graph.jpg "Brand Differentiator Graph Exercise")
 
-  
-**3) Onliness Statement Development**
+### **3) Onliness Statement Development**
 
 Onliness Statement is a positioning statement that radically differentiates your practice and gives it a razor-sharp clarity. It’s simple yet the hardest part of the positioning strategy.
 
@@ -336,7 +335,7 @@ This strategy will overhaul your visual identity (Logo, Web Design, Referral pad
 
 So, how can you portray these attributes visually to potential patients?
 
-**Optical Communication Strategy: The step-by-step process**
+### **Optical Communication Strategy: The step-by-step process**
 
 I’ll use one of our clients as an example of this process. The following guide is one that we applied here at unnus with Confidental, a dental practice based in Napa Valley. But the same can be applied to your chiropractic practice.
 
@@ -366,8 +365,156 @@ The OCS consist of 3 stages:
 2. Visualization
 3. Creative Process
 
-**1) Brand Keyword Disbandment (BKD)**
+### **1) Brand Keyword Disbandment (BKD)**
 
 In this stage, you gather up all the keywords that are related to your brand and categorize them as seen below.
 
 In the case of Confidental™ Brand keywords will look like this:
+
+![Brand Keyword Disbandment Exercise](/assets/images/brand-essence-keywords.png "Brand Keyword Disbandment Exercise")
+
+Each column represents a different element of their brand and the keywords that are related to that element.
+
+After that, highlight 3-6 keywords that represent your medical business and its positioning.
+
+In this case, Confidental™ has 6 keywords that encapsulate the whole brand: Confidence, Enabling, Empowering, Reliable, Empathetic, and Encouraging.
+
+To save time, we’ll use 3 keywords and move on to the next process.
+
+### **2) Visualization**
+
+Next, we take the 3 keywords from the last step and give them a visual aspect.
+
+Think of it as putting a “dress” on these keywords.
+
+You see, here is where meaning intersects with design.
+
+For example, the visual aspect of the word “class” will be as follows:
+
+1. **Physical**: “class” indicates that something is **Elegant Looking**.
+2. **Emotional**: “class” gives the sense of a **Charm** or **Politeness**.
+3. **Descriptive**: “Class” describes the **Traditional** feel.
+
+We then apply this technique for each keyword we chose:
+
+![Visualization Exercise ](/assets/images/visualization.jpg "Visualization Exercise ")
+
+### **3) Creative Process**
+
+Now that we have the general sense of how Confidental™ visual identity will look like, let’s go into the creative process.
+
+In this stage, your team will decide how your external branding (visual design) will look based on what your brand means to your patients.
+
+Things like logo, website, business cards, images, videos, collateral, office space, etc.
+
+Each one will carry a little substance of your brand and express it to your patients in a visual way.
+
+We’ll take the visual aspects of your brand's most representative keywords (which we got from the last step) and create a general theme for using all of them.
+
+Confidental™ outlook theme will look something like:
+
+![Creative Process Exercise ](/assets/images/creative-process.jpg "Creative Process Exercise ")  
+After that, you can hand this art direction to your designer and your visual identity will be tailored to your practice. No one can claim your visual identity in the market
+
+And best of all, your identity carries with it **meaning**. It’s not a “yet-another-chiro-brand” kind of work.
+
+## **4) Using Brand Voice Strategy With Social Media** 
+
+Many consider social media as a “nice to have” rather than a channel to acquire patients. What muddies the waters, is the dull “updates” or “we’re closed” kind of posts. Some businesses try to improve on this and share “quotes” and fun videos on their pages.
+
+But, do people care? Most likely not.
+
+Here’s the thing: People won’t share or engage with anything online unless your content has the following attributes:
+
+1. Your posts make your audience look good (“If there’s a post, that if I shared, compliments me or makes me look good, I’ll share it”)
+2. Your posts speak to your audience deeply (If you speak to your audience in a deeper level on social media, your engagement will skyrocket)
+3. Your posts are fun. (People on social media are there to have fun, make their day with a joke that only _they_ can understand Or with an interesting status)
+4. You have a unique voice for communicating with your audience. (There’s no shortage of boring social media posts, to be memorable, your tone must be grabbing and **appealing**.)
+5. Your posts are useful for your audience
+
+Before we get into the strategy that checks all of the above, let’s see some good examples of brands that have a **unique voice** in social media.
+
+### **Examples of brand voice:**
+
+**#\~The Joint Chiropractic**: Their voice in social media is **laid-back**, **casual**, and **uplifting.**
+
+![chiropractic brand voice in social media ](/assets/images/chiropractic-marketing-social-media.jpg "chiropractic brand voice in social media ")  
+![chiropractic brand voice in social media ](/assets/images/chiropractic-marketing-social-media-2.jpg "chiropractic brand voice in social media ")
+
+Their Brand Voice is consistent in their Facebook page
+
+![chiropractic brand voice in social media ](/assets/images/medical-brand-voice-1.jpg "chiropractic brand voice in social media ")  
+![chiropractic brand voice in social media ](/assets/images/medical-brand-voice-2.jpg "chiropractic brand voice in social media ")
+
+![chiropractic brand voice in social media ](/assets/images/medical-brand-voice.jpg "chiropractic brand voice in social media ")
+
+**#\~Fridababy**, Their voice in social media is **frisky**, **humorous**, and **unsolicited.**
+
+![brand voice example in healthcare](/assets/images/orthodontic-marketing-examples.png "brand voice example in healthcare")  
+**#\~The Economist (non-medical example)**, a weekly newspaper that focuses on current affairs, international business.
+
+The Economist's audience is mainly C-suite executives and founders. Notice how relatable communication is to their audience.
+
+![brand voice example ](/assets/images/voice-min-1.jpg "brand voice example ")  
+![brand voice example ](/assets/images/image-asset.jpg "brand voice example ")
+
+![brand voice example ](/assets/images/money-talks.png "brand voice example ")
+
+Brand voice is not only used in social media, it can be used across all of your touch-points with your patients.
+
+Here’s an example of the unique voice of a mobile app from [the desk magazine](). Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
+
+![brand voice example](/assets/images/authentic_3-1.jpg "brand voice example")  
+![brand voice example](/assets/images/54201455161361-56096cf803b37.png "brand voice example")
+
+![brand voice example](/assets/images/authentic_2.jpg "brand voice example")
+
+Now we’ve seen unique examples of social media communication, let’s tackle the strategy behind it.
+
+### **Brand voice strategy process**
+
+A brand voice is a strategy that creates a unique way of communication for your chiropractic brand. Your communication will be appealing to your audience and will supercharge your social media presence.
+
+The Brand Voice Strategy has two main stages
+
+1. Brand Voice Slider Exercise
+2. Tone Projection Exercise
+
+Let’s start with the first one.
+
+### **1) Brand Voice Slider Exercise**
+
+![Brand Voice Slider Exercise](/assets/images/chiropractic-brand-voice-template.jpg "Brand Voice Slider Exercise")  
+You can download PDF or print this exercise [for free here](https://drive.google.com/file/d/1aLt2RU7thCXC6O_v7kVxR412a8BGTSbp/view).
+
+This exercise helps you find a general manner of speech to your communication on social media. Does your brand come across as authoritative (Mayo Clinic) or serious-sounding (CNN)? Is it enthusiastic or humorous?
+
+On the Brand Voice Exercise Slider, use voting dots to decide the voice of your brand.
+
+Here’s Athletim™’s general brand voice:
+
+![ Brand Voice Slider Exercise](/assets/images/chiropractic-brand-voice.jpg " Brand Voice Slider Exercise")
+
+{{% important %}}There are good reasons to be on the left or right of any of these lines, and it’s even okay if some of your sliders end up in the middle. But it’s helpful to be strongly opinionated on at least one or two ranges.{{% /important %}}
+
+### **2) Brand Tone Projection Exercise**
+
+To solidify the voice of your brand, we’ll use the Tone Projection exercise.
+
+We’ll project the voice of the brand across [4 dimensions of speaking](https://www.nngroup.com/articles/tone-of-voice-dimensions/): humor, formality, respectfulness, and enthusiasm.
+
+The goal is to answer the following questions:
+
+1. How humorous will your communication be?
+2. How formal is your brand when talking?
+3. Level of respectfulness infused in a speaking manner, and;
+4. How enthusiastically the brand’s voice will be
+
+The formula for this exercise is as follows:
+
+We’re _______ But We’re Not ________.
+
+![Brand Tone Projection Exercise](/assets/images/chiropractic-tone-projection.jpg "Brand Tone Projection Exercise")  
+To download PDF or print this exercise [for free click here](https://drive.google.com/file/d/1gdpQe2URo4I2IPpUu_SIYKDIJGTUmNDh/view).
+
+You can also use sticky notes to write examples of how your brand voice can be applied across the 4 dimensions on the left side.
