@@ -414,7 +414,7 @@ We’ll take the visual aspects of your brand's most representative keywords (wh
 Confidental™ outlook theme will look something like:
 
 ![Creative Process Exercise ](/assets/images/creative-process.jpg "Creative Process Exercise ")  
-After that, you can hand this art direction to your designer and your visual identity will be tailored to your practice. No one can claim your visual identity in the market
+After that, you can hand this art direction to your designer and your visual identity will be tailored to your practice. 
 
 And best of all, your identity carries with it **meaning**. It’s not a “yet-another-chiro-brand” kind of work.
 
