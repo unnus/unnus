@@ -89,3 +89,5 @@ According to [research ](https://link.springer.com/article/10.1007%2Fs12115-010-
 Being radically different is the only way to cut through this clutter. It is your ticket to secure a seat in your patient’s mental boxes of “brands to remember”.
 
 So, before marketing, ask yourself, does our marketing messages look the same as everyone else’s? Are we adding to the clutter?
+
+![how brands occupy brain space](/assets/images/healthcare-branding-1.jpg "healthcare branding")
