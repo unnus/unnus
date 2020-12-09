@@ -14,7 +14,7 @@ readingTime = "19"
 slug = "/chiropractic-marketing"
 socialThumbnail = "/assets/images/chiropractic-marketing-thumbnail.jpg"
 table_of_content = ["why-most-chiropractic-marketing-campaigns-fail", "chiropractic-marketing-strategies", "1-developing-a-brand-dna", "2-developing-a-brand-positioning-strategy", "3-optical-communication-strategy", "4-using-brand-voice-strategy-with-social-media", "5-brand-storytelling-strategy", "6-email-autoresponder-course-strategy", "7-podcast-tours", "8-speaking-at-healthcare-conferences", "9-honorable-mentions", "the-secret-to-an-effective-chiropractic-marketing"]
-title = "Little-Known Chiropractic Marketing Ideas 2020 [+Examples]"
+title = "Little-Known Chiropractic Marketing Ideas 2021 [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
