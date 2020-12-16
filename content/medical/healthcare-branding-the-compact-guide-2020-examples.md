@@ -18,7 +18,7 @@ title = "Healthcare Branding: The Compact Guide (2021) + [Examples]"
 twitterHandle = "@SlimanBaghouri"
 
 +++
-{{% hook %}}As the pace of healthcare quickens and the number of brands multiplies, it’s patients, not medical businesses, who decide which brands live and which ones die. {{% /hook %}}
+{{% hook %}}As the pace of healthcare quickens and the number of brands multiplies, it’s patients, not medical businesses, who decide which brands live and which ones die. {{% /hook %}} 
 
 ***
 
