@@ -1,20 +1,22 @@
 ---
 page: podcast/single.html
-title: "Episode 03: Advantages of business coaching in healthcare with Dr. Janice Hughes"
-which: "episode-cover"
-guest: "Dr. Janice Hughes"
+title: 'Episode 03: Advantages of business coaching in healthcare with Dr. Janice
+  Hughes'
+which: episode-cover
+guest: Dr. Janice Hughes
 guestPicture: "/assets/images/podcast/guests/dr-janice.jpg"
 season: season-one
-slug: /healthcare-business-coaching
+slug: "/healthcare-business-coaching"
 guestContact:
-- "On facebook=www.facebook.com/drjanicehughes" 
-- "Her personal website=www.drjanicehughes.com"
+- On facebook=www.facebook.com/drjanicehughes
+- Her personal website=www.drjanicehughes.com
 guestResources:
-- "Dr Janice's money mindset course=www.drshaelynosborn.com/money-mindset" 
-- "Grab her books on amazon=www.amazon.com/Janice-Hughes/e/B08GZPKXNQ?ref_=dbs_p_ebk_r00_abau_000000"
-- "2inspire women=www.2inspirewomen.com"
-description: In this episode we discuss business coaching in healthcare and how that can transform your practice  
-episodeIframe: "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantage-of-business-coaching-for-medical-practitioners-with-Dr--Janice-Hughes-enja8k"
+- Dr Janice's money mindset course=www.drshaelynosborn.com/money-mindset
+- Grab her books on amazon=www.amazon.com/Janice-Hughes/e/B08GZPKXNQ?ref_=dbs_p_ebk_r00_abau_000000
+- 2inspire women=www.2inspirewomen.com
+description: In this episode we discuss business coaching in healthcare and how that
+  can transform your practice
+episodeIframe: https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantages-of-business-coaching-in-healthcare-with-Dr--Janice-Hughes-ent17u
 tagline: Business Coaching in healthcare
 platforms:
 - https://open.spotify.com/playlist/3sGR9edqbmvm4WCk55NPrT
@@ -23,9 +25,9 @@ platforms:
 bulletpoints:
 - The importance of business coaching
 - Having a unique selling proposition
-- Why you need to know your ideal patient  
----
+- Why you need to know your ideal patient
 
+---
 Janice:
 
 It was when I had a coach, a more business minded coach, that I was able to put some systems and policies and procedures in place that not only did it aid the practice, I want people listening to understand it increased the value of the practice.
