@@ -1,0 +1,66 @@
+---
+label: 'Episode '
+hide_body: false
+fields:
+- name: page
+  type: text
+  config:
+    required: true
+  label: Podcast Episode Template
+  default: podcast/single.html
+- type: text
+  name: title
+  label: title
+- type: text
+  name: which
+  label: an episode/ or a season
+  default: episode
+- type: text
+  name: season
+  label: season number (season-one/season-two)
+- type: text
+  name: guest
+  label: Guest Name (make sure to include dr. ex Dr. Capablanca)
+- type: file
+  name: guestPicture
+  label: Picture of the guest (preferably large size)
+- type: text
+  name: slug
+  label: slug (What url this article should be? podcast/season-one/your_Slug_Here)
+- type: textarea
+  name: description
+  label: Description (for meta tag)
+- name: guestContact
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: contact Info for the guest (anchor text example/ someTextHere=link_here_without_https)
+- name: guestResources
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Resources from our guest (like book, courses or anything else) [BookNameHere=link_here_without_https]
+- name: bulletpoints
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Points that we discussed in the episode 
+- name: platforms
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: 3 links to the episode in 3 different platforms (The order (spoitfy, Apple Podcasts, Google Podcasts)
+- type: text
+  name: episodeIframe
+  label: Episode Iframe Link to embed the episode on the website
+- type: text
+  name: tagline
+  label: Pick a three word tagline for the episode (social media in healthcare)

@@ -1445,3 +1445,352 @@
 		}
 	}
 }
+
+/* Responsive Podcast Home Page */
+
+// Small 576px~
+// Medium 768px~
+// Large 992px~
+// Extra Large 1200px~
+// Mega large 1500~1600+
+
+@media (max-width: 1170px ){
+.header-podcast{
+	 	.podcast-header-text{
+			width: 520px;
+	 		h1{
+				font-size:2.8em;
+			}
+		}
+		.header-image {
+			img{
+				right:-20vw;
+			}
+		}
+	}
+}
+
+@media (max-width: 992px ){
+.header-podcast{
+	&:after{
+		content:"";
+		display: block;
+		position:absolute;
+		top:0;
+		bottom:0;
+		width:100%;
+		height:100%;
+		z-index: -9;
+		background:rgba(0,0,0, .70);
+	}
+ 	.podcast-header-text{
+		width: 490px;
+		margin:120px auto;
+	 		h1{
+				font-size:2.8em;
+				color:white;
+			}
+			.btn-s{
+				overflow: hidden;
+			  background:#f22613;
+			}
+			p{
+				color:rgba(225,225,225, 1);
+			}
+		}
+		.header-image {
+			position: absolute;
+			top:0;
+			bottom:0;
+			width:100%;
+			height: 100%;
+			z-index: -9;
+			overflow: hidden;
+			img{
+				right:-34vw;
+				z-index: -9;
+			}
+		}
+	}
+}
+
+
+@media (max-width: 576px ){
+.header-podcast{
+	.btns{
+		flex-direction:column;
+		align-items: center;
+		.btn-s{
+			&:first-child{
+				margin-right: 0;
+			}
+		}
+	}
+	overflow: hidden;
+	nav{
+		margin-top:7%;
+	}
+	#logo a img{
+	    width: 307px !important;
+	    height: auto !important;
+	}
+ 	.podcast-header-text{
+		width: 312px;
+		margin:120px auto;
+	 		h1{
+				font-size:2.1em;
+				color:white;
+			}
+			.btn-s{
+				overflow: hidden;
+			  background:#f22613;
+			}
+			p{
+				font-size:1.4em;
+				color:rgba(225,225,225, 1);
+			}
+		}
+		.header-image {
+			img{
+				right:-60vw;
+				z-index: -9;
+			}
+		}
+	}
+}
+
+
+@media (max-width: 992px ){
+	.latest-episodes {
+		.ep-holder{
+			.guest-card{
+				flex:.5;
+			}
+		} 	
+		.ep-discussion{
+			.h1-clone{
+				font-size:3em;
+			}
+		}
+
+	}
+}
+
+@media (max-width: 768px ){
+	.latest-episodes {
+		.ep-holder{
+			flex-direction:column;
+			.guest-card{
+				width: 400px;
+		    margin: 0 auto;
+		    order: 1;				
+			}
+		} 	
+		.ep-discussion{
+			order:2;
+			.h1-clone{
+				font-size:2.8em;
+			}
+		}
+
+	}
+}
+
+@media (max-width: 576px ){
+	.latest-episodes {
+		.ep-holder{
+			flex-direction:column;
+			.guest-card{
+				width: 340px;
+		    margin: 0 auto;
+		    order: 1;				
+			}
+		} 	
+		.ep-discussion{
+			order:2;
+			.h1-clone{
+				font-size:2.8em;
+			}
+		}
+
+	}
+}
+
+/* Responsive Podcast SEASON ONE LANDING PAGE */
+
+// Small 576px~
+// Medium 768px~
+// Large 992px~
+// Extra Large 1200px~
+// Mega large 1500~1600+
+
+@media (max-width: 1170px ){
+.header-podcast-season {
+		.container{
+			z-index: 99;		
+
+		}
+		.podcast-header-text{
+		}
+	} 
+}
+
+@media (max-width: 992px ){
+.header-podcast-season {
+	#menu svg g{
+		stroke:#FFF;
+	}
+	&:after{
+		content:"";
+		display: block;
+		position: absolute;
+		top:0;
+		bottom:0;
+		background:rgba(0,0,0,.80);
+		width:100%;
+		height:100%;
+	}
+		.podcast-header-text{
+			margin:0 auto;
+			.btn-s{
+				background:#f22613;
+			}
+			span, sup, p, h1{
+				color:#FFF !important
+			}
+		}
+	} 
+}
+
+@media (max-width: 768px ){
+.header-podcast-season {
+	&:after{
+		background:rgba(0,0,0,.85);
+	}
+		.podcast-header-text{
+	    width: 380px;
+			margin:0 auto;
+			.btn-s{
+				background:#f22613;
+			}
+			h1{
+				font-size:3.4em;
+			}
+		}
+	} 
+}
+
+@media (max-width: 576px ){
+.header-podcast-season {
+	nav #logo img{
+		width:280px !important;
+		height: auto !important;
+	}
+		.podcast-header-text{
+	    width: 340px !important;
+			margin:0 auto;
+			.btn-s{
+				background:#f22613;
+			}
+			h1{
+				font-size:3.4em;
+			}
+		}
+	} 
+}
+
+/* Responsive Podcast EPISODE LANDING PAGE */
+
+// Small 576px~
+// Medium 768px~
+// Large 992px~
+// Extra Large 1200px~
+// Mega large 1500~1600+
+
+@media (max-width: 1170px ){
+	.podcast-episode-header{
+		.text-content{
+			width:400px;
+			h1{
+				font-size:2.1em;
+			}			
+		} 
+	}
+}
+
+@media (max-width: 768px ){
+	.podcast-episode-header{
+		#logo {
+			width:403px;
+			height:62px;
+	    background: url(/assets/images/podcast/care-frontiers-logo.png);
+	    img{
+		  	display: none;
+	  	}
+		}
+		.text-content{
+			margin-top:11%;
+			width:473px;
+			h1{
+				font-size:2.1em;
+			}			
+		}
+		.podcast-platforms{
+			margin: 14% auto;
+		} 
+	}
+
+	.show-notes {
+		.guest-info-holder{
+			flex-direction:column;
+		}	
+		.guest-resources{
+			padding:30px;
+		}
+		.guest-contact{
+			border-left:0;
+			border-top:1px solid #F1F3F6;
+			padding-left:0;
+			padding:30px;
+		}
+	}
+
+	.ep-text .transcript-holder p:nth-child(odd){
+		margin-right: 65px;
+	}
+
+	.ep-text .episode-transcription h2{
+		padding-top:15%;
+	}	
+
+}
+
+@media (max-width: 576px ){
+	.podcast-episode-header{
+		#logo {
+			margin-top:6%;
+			width: 350px;
+	    height: 62px;
+	    background: url(/assets/images/podcast/care-frontiers-logo.png);
+	    background-size: 100% 100%;
+	 	    img{
+		  	display: none;
+	  	}
+		}
+		.text-content{
+			margin-top:15%;
+			width:320px;
+			h1{
+				font-size:2.1em;
+			}			
+		} 
+	}
+
+	.ep-text .transcript-holder .transcript{
+		width:100%;	
+		margin-top:25%;
+	}	
+	.ep-text .transcript-holder p:nth-child(odd){
+		margin-right: 55px;
+	}
+}

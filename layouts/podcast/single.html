@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+ 	{{ if eq $.Page.Params.which  "season-cover" }}
+	  {{ partial "privte-head.html" . }}
+	{{ end }}
+
+ 	{{ if eq $.Page.Params.which  "episode-cover" }}
+			{{ partial "head.html" . }}
+	{{ end }}
+
+
+  <!-- use the same parent template but include different header to each static page -->
+  <body>
+
+ {{ $whichSeason := (print $.Page.Params.season ".html") }}
+ {{$path := (print "season-covers/" $whichSeason ) }}
+
+ 	{{ if eq $.Page.Params.which  "season-cover" }}
+	  {{ partial  $path . }}
+	  {{ partial "sidebar.html" . }}
+	  {{ partial "goup.html" . }}
+	  {{ partial "season-episodes/episodes.html" . }}
+
+	{{ end }}
+
+	{{ if eq $.Page.Params.which "episode-cover" }}
+	  {{ partial "season-episodes/episode-header.html" . }}
+	  {{ partial "sidebar.html" . }}
+	  {{ partial "goup.html" . }}
+
+<section class="ep-text">
+		<div class="episode-transcription">
+			<h2>Do you read faster <br> than you can listen?</h2>
+			<div class="container">
+					<div class="transcript-holder">
+						<div class="transcript">
+							{{ .Content }}
+						</div>
+					</div>
+			</div> 		
+		</div>
+</section>
+	{{ end }}
+
+
+	<script type="text/javascript" src="/assets/js/stickyFormPolyfill.js"></script>
+	<script type="text/javascript" src="/assets/js/drawsvgplugin.js"></script>
+	<script type="text/javascript" src="/assets/js/splitText.js"></script>
+	<script type="text/javascript" src="/assets/js/ScrollTrigger.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/gsap.min.js"></script>
+	<script type="text/javascript" src="/assets/js/main.js"></script>
+    {{ partial "footer.html" . }}
+
+  </body>
+</html>
