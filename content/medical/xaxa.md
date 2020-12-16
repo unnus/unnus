@@ -1,5 +1,4 @@
 +++
-
 author = "SlimanBaghouri"
 authorAvatarBottom = "/assets/images/podcast/guests/steve-rasner.jpg"
 authorAvatarTop = "/assets/images/podcast/guests/steve-rasner.jpg"
