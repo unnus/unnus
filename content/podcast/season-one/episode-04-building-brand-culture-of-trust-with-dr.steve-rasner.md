@@ -3,9 +3,9 @@ bulletpoints = ["How to start organize meeting for such initiatives ", "How it c
 description = "In this episode we discuss how you can build trust for your practice and cultivate it with your team"
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantage-of-business-coaching-for-medical-practitioners-with-Dr--Janice-Hughes-enja8k"
 guest = "Dr. Steve Rasner"
-guestContact = ["Find him on facebook=www.facebook.com/steverasner", "His personal website=www.pearlsmile.com"]
+guestContact = ["You can email Dr. Rasner at drrasner@aol.com", "His office's website=www.pearlsmiles.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
-guestResources = ["His free courses=rasnerinstutie.com "]
+guestResources = ["Check His courses here=rasnerinstitute.com/", "His office's website=www.pearlsmiles.com"]
 page = "podcast/single.html"
 platforms = ["https://spotify.com", "https://apple.com", "https://google.com"]
 season = "season-one"
