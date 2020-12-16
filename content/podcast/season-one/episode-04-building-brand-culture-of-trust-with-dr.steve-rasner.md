@@ -5,7 +5,7 @@ episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Adv
 guest = "Dr. Steve Rasner"
 guestContact = ["You can email Dr. Rasner at drrasner@aol.com", "His office's website=www.pearlsmiles.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
-guestResources = ["Check His courses here=rasnerinstitute.com/", "His office's website=www.pearlsmiles.com"]
+guestResources = ["Check his courses here=rasnerinstitute.com/", "His office's website=www.pearlsmiles.com"]
 page = "podcast/single.html"
 platforms = ["https://spotify.com", "https://apple.com", "https://google.com"]
 season = "season-one"
