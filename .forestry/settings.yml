@@ -5,6 +5,13 @@ admin_path: "/insider"
 webhook_url: 
 sections:
 - type: directory
+  path: content/podcast
+  label: Podcast
+  create: all
+  match: "**/*"
+  templates:
+  - podcast-episode
+- type: directory
   path: content
   label: Pages
   create: all
