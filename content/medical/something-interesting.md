@@ -6,6 +6,7 @@ authorBio = "faceaereasdd ad a "
 category = "healthcare-marketing"
 date = 2020-12-15T23:00:00Z
 description = "this is a meta tag"
+draft = true
 featImg = "/assets/images/voice-min-1.jpg"
 featImgThumb = "/assets/images/voice-min-1.jpg"
 linkedinHandle = "/slimaneBaghouri"
