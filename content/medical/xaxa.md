@@ -1,5 +1,4 @@
 +++
-
 author = "SlimanBaghouri"
 authorAvatarBottom = "/assets/images/podcast/guests/steve-rasner.jpg"
 authorAvatarTop = "/assets/images/podcast/guests/steve-rasner.jpg"
@@ -19,6 +18,4 @@ title = "xaxa"
 twitterHandle = "afaf"
 
 +++
-
-
 rfface
