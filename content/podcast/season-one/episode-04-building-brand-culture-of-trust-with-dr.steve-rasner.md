@@ -2,7 +2,7 @@
 bulletpoints = ["How to start organize meeting for such initiatives ", "How it can transform your practice", "Importance of trust building"]
 description = "In this episode we discuss how you can build trust for your practice and cultivate it with your team"
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantage-of-business-coaching-for-medical-practitioners-with-Dr--Janice-Hughes-enja8k"
-guest = "Dr. Steve Rasner"
+guest = "Dr. Steven Rasner"
 guestContact = ["You can email Dr. Rasner at drrasner@aol.com", "His office's website=www.pearlsmiles.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
 guestResources = ["Check his courses here=rasnerinstitute.com/", "The Lionhearted Podcast=https://podcasts.apple.com/us/podcast/lionhearted-dentists-with-dr-steve-rasner/id1437549006", "Offices of Dr. Rasner on facebook=https://www.facebook.com/pearlsmilesNJ/"]
