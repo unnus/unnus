@@ -19,7 +19,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 +++
 
-{{% hook %}}**TL;DR: I’ll share with you unconventional but ridiculously powerful chiropractic marketing strategies. I’ll also cover common pitfalls to avoid when marketing your practice.**{{% /hook %}}
+{{% hook %}}**TLDR: I’ll share with you unconventional but ridiculously powerful chiropractic marketing strategies. I’ll also cover common pitfalls to avoid when marketing your practice.**{{% /hook %}}
 
 Most chiropractic marketing strategies work backward disregarding vital parts of your business. In this article, I’ll lay down some common traps when marketing your chiropractic **AND** other unique ways you can market it.
 
