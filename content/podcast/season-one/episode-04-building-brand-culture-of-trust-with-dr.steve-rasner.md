@@ -12,7 +12,7 @@ season = "season-one"
 slug = "/patient-trust-healthcare"
 tagline = "Trust-driven practice"
 title = "Episode 04: Building brand culture of trust with Dr. Steve Rasner"
-which = "episode"
+which = "episode-cover"
 
 +++
 Steven:
