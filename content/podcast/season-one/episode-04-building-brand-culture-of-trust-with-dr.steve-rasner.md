@@ -11,7 +11,7 @@ platforms = ["https://spotify.com", "https://apple.com", "https://google.com"]
 season = "season-one"
 slug = "/patient-trust-healthcare"
 tagline = "Trust-driven practice"
-title = "Episode 04: Building brand culture of trust with Dr. Steve Rasner"
+title = "Episode 04: Building brand culture of trust with Dr. Steven Rasner"
 which = "episode-cover"
 
 +++
