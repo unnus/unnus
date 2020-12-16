@@ -25,7 +25,7 @@ Welcome to the care frontier podcast The show where we interview thought leaders
 
 Sliman:
 
-Welcome back, ladies and gentlemen to the care frontiers podcast where we bring healthcare professionals to share with us their own experience running a successful medical business. I'm really happy to have one of the leaders of the dental industry and the renowned expert in cosmetic and restorative dentistry. Today's guest is voted multiple times as best dentist by South Jersey magazine. He's an author of the protocol founder doctor and international speaker. Dr. Steve: Rosner, welcome to our show. 
+Welcome back, ladies and gentlemen to the care frontiers podcast where we bring healthcare professionals to share with us their own experience running a successful medical business. I'm really happy to have one of the leaders of the dental industry and the renowned expert in cosmetic and restorative dentistry. Today's guest is voted multiple times as best dentist by South Jersey magazine. He's an author of the protocol founder doctor and international speaker. Dr. Steve: Rasner, welcome to our show. 
 
 Steve:  
 
@@ -169,7 +169,7 @@ my office isn't like that at all. It's pretty ordinary, to be honest with you. I
 
 Sliman:  
 
-Thank you so much, Dr. Rosner for, for taking the time. And I think what seemed interesting to me is that it's not something that is measurable in numbers like acquisition or something like that, you really took the time to build the brand of trust for your practice. And the patients are the favoring you, even though there are multiple alternatives.
+Thank you so much, Dr. Rasner for, for taking the time. And I think what seemed interesting to me is that it's not something that is measurable in numbers like acquisition or something like that, you really took the time to build the brand of trust for your practice. And the patients are the favoring you, even though there are multiple alternatives.
 
 Steve:  
 
@@ -185,7 +185,7 @@ Well, we have choices of everything do we not? When you go to purchase a car, of
 
 Sliman:  
 
-Dr. Rosner, do you have any takeaways that you can say to the listener, right now they can, you can take an implement right away like a something that you want drill down on or to emphasize on?
+Dr. Rasner, do you have any takeaways that you can say to the listener, right now they can, you can take an implement right away like a something that you want drill down on or to emphasize on?
 
 Steve:  
 
@@ -197,7 +197,7 @@ Most of you don't. Even I do all the time. So what does that require? It require
 
 Sliman:  
 
-Thank you so much, Dr. Rasner for taking the time. I honestly cannot thank you enough for being in this show. If you want to reach Dr. Rosner, you can email him at Dr. Rasner, that is DrRasner.com You can also find his books and his incredible courses. Rosner. institute.com that is rasnerinstitute.com. And if you're into more of the scanner shows, get this doctor as there actually has his own show called The lionhearted dentist podcast. Feel free to tune into that the links and everything are in the show notes. Dr. Rosner, if you have anything that you want to add to that?
+Thank you so much, Dr. Rasner for taking the time. I honestly cannot thank you enough for being in this show. If you want to reach Dr. Rasner, you can email him at Dr. Rasner, that is DrRasner.com You can also find his books and his incredible courses. Rasner institute.com that is rasnerinstitute.com. And if you're into more of the scanner shows, get this doctor as there actually has his own show called The lionhearted dentist podcast. Feel free to tune into that the links and everything are in the show notes. Dr. Rasner, if you have anything that you want to add to that?
 
 Steve:  
 
