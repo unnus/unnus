@@ -197,7 +197,7 @@ Most of you don't. Even I do all the time. So what does that require? It require
 
 Sliman:  
 
-Thank you so much, Dr. Rasner for taking the time. I honestly cannot thank you enough for being in this show. If you want to reach Dr. Rasner, you can email him at Dr. Rasner, that is DrRasner.com You can also find his books and his incredible courses. Rasner institute.com that is rasnerinstitute.com. And if you're into more of the scanner shows, get this doctor as there actually has his own show called The lionhearted dentist podcast. Feel free to tune into that the links and everything are in the show notes. Dr. Rasner, if you have anything that you want to add to that?
+Thank you so much, Dr. Rasner for taking the time. I honestly cannot thank you enough for being in this show. If you want to reach Dr. Rasner, you can email him at Dr. Rasner, that is DrRasner@aol.com You can also find his books and his incredible courses. Rasner institute.com that is rasnerinstitute.com. And if you're into more of the scanner shows, get this doctor as there actually has his own show called The lionhearted dentist podcast. Feel free to tune into that the links and everything are in the show notes. Dr. Rasner, if you have anything that you want to add to that?
 
 Steve:  
 
