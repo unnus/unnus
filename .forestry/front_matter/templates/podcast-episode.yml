@@ -2,6 +2,12 @@
 label: Podcast Episode
 hide_body: false
 fields:
+- name: page
+  type: text
+  config:
+    required: false
+  label: Episode Template
+  default: podcast/single.html
 - name: title
   type: text
   config:
