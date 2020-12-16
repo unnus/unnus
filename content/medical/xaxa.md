@@ -6,7 +6,6 @@ authorBio = ""
 category = "healthcare-marketing"
 date = ""
 description = ""
-draft = true
 featImg = ""
 featImgThumb = ""
 linkedinHandle = ""
