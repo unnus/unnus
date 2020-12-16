@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["How to start organize meeting for such initiatives ", "How it can transform your practice", "Importance of trust building"]
 description = "In this episode we discuss how you can build trust for your practice and cultivate it with your team"
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantage-of-business-coaching-for-medical-practitioners-with-Dr--Janice-Hughes-enja8k"
 guest = "Dr. Steve Rasner"
 guestContact = ["Find him on facebook=www.facebook.com/steverasner", "His personal website=www.pearlsmile.com"]
