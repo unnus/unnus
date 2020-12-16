@@ -6,6 +6,7 @@ guest = "Dr. Steve Rasner"
 guestContact = ["Find him on facebook=www.facebook.com/steverasner", "His personal website=www.pearlsmile.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
 guestResources = ["His free courses=rasnerinstutie.com "]
+page = "podcast/single.html"
 platforms = ["https://spotify.com", "https://apple.com", "https://google.com"]
 season = "season-one"
 slug = "/patient-trust-healthcare"
