@@ -5,7 +5,7 @@ episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Adv
 guest = "Dr. Steve Rasner"
 guestContact = ["You can email Dr. Rasner at drrasner@aol.com", "His office's website=www.pearlsmiles.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
-guestResources = ["Check his courses here=rasnerinstitute.com/", "His office's website=www.pearlsmiles.com", "Offices of Dr. Rasner on facebook=https://www.facebook.com/pearlsmilesNJ/"]
+guestResources = ["Check his courses here=rasnerinstitute.com/", "The Lionhearted Podcast=https://podcasts.apple.com/us/podcast/lionhearted-dentists-with-dr-steve-rasner/id1437549006", "Offices of Dr. Rasner on facebook=https://www.facebook.com/pearlsmilesNJ/"]
 page = "podcast/single.html"
 platforms = ["https://spotify.com", "https://apple.com", "https://google.com"]
 season = "season-one"
