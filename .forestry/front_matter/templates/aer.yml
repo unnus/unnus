@@ -1,4 +1,17 @@
 ---
 label: aer
 hide_body: true
-fields: []
+fields:
+- name: ffffffffffffffffffffffffffff
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: f
+  description: fffffffffffffffffffffff
