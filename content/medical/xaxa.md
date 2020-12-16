@@ -6,7 +6,6 @@ authorBio = "faceaf"
 category = "healthcare-marketing"
 date = 2020-12-30T23:00:00Z
 description = "fafafafa"
-draft = true
 featImg = "/assets/images/podcast/guests/steve-rasner.jpg"
 featImgThumb = "/assets/images/podcast/guests/steve-rasner.jpg"
 linkedinHandle = "afaf"
