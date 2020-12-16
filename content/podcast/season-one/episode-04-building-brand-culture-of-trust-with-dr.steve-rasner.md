@@ -129,7 +129,7 @@ Sliman:
 
 Steve:  
 
-I request them to bring the spouse Yes,
+I request them to bring the spouse Yes.
 
 Sliman:  
 
@@ -137,7 +137,7 @@ Sliman:
 
 Steve:  
 
-i doing it for years and years, I would not insult your audience by making up a number. It's at least 70%. And it's the old thing that if asked, and you will receive because I The reason that's a factor. And it wasn't a factor in 1980 when I started was because treatment plans were not as involved as they are today. Today, many dentists function in some capacity, like plastic surgeons, a lot of what you do is elective, you know, you can remove an upper right molar and the patient doesn't die if you don't replace it. But you could also replace that Moeller with an implant. Well, that could be a four to $5,000 different bottom line on just one tooth that I paid. So how many of our married couples or couples period, make those type of decisions without some input from their significant other, and you could give the presentation of a lifetime, the best one you ever did. And if you give that patient a 15k to $20,000 treatment plan, honest one, obviously, you're not just trying to veneer, crooked teeth that don't really bother them. If you get it, you're really going through and I forgive me, but I mean, I I've been doing this for many, many tickets. I think it's in the best interest of our patients to do comprehensive examinations.
+I've been doing it for years and years, I would not insult your audience by making up a number. It's at least 70%. And it's the old thing that if asked, and you will receive because I The reason that's a factor. And it wasn't a factor in 1980 when I started was because treatment plans were not as involved as they are today. Today, many dentists function in some capacity, like plastic surgeons, a lot of what you do is elective, you know, you can remove an upper right molar and the patient doesn't die if you don't replace it. But you could also replace that Moeller with an implant. Well, that could be a four to $5,000 different bottom line on just one tooth that I paid. So how many of our married couples or couples period, make those type of decisions without some input from their significant other, and you could give the presentation of a lifetime, the best one you ever did. And if you give that patient a 15k to $20,000 treatment plan, honest one, obviously, you're not just trying to veneer, crooked teeth that don't really bother them. If you get it, you're really going through and I forgive me, but I mean, I I've been doing this for many, many tickets. I think it's in the best interest of our patients to do comprehensive examinations.
 
 Steve: 
 
@@ -145,9 +145,7 @@ And the net result of all this that I'm telling you is trust and confidence beca
 
 Steve: 
 
-And I go out of my way sliman:, to tell them, I am not here to sell you. I actually say that to them. I say, I just want to say something. I love what I do. And I think anybody listening to your podcast, or any podcast, because it's not required to keep a license to do this type of research, listen to podcasts are probably more passionate than the average guy, you guys got to remember 
-
-that there's many dentists that wouldn't dream of taking time off of their lives, and listening to a podcast.
+And I go out of my way sliman:, to tell them, I am not here to sell you. I actually say that to them. I say, I just want to say something. I love what I do. And I think anybody listening to your podcast, or any podcast, because it's not required to keep a license to do this type of research, listen to podcasts are probably more passionate than the average guy, you guys got to remember that there's many dentists that wouldn't dream of taking time off of their lives, and listening to a podcast.
 
 Steve: 
 
