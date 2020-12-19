@@ -1,33 +1,33 @@
 ---
 page: podcast/single.html
-title: "Social media marketing in dentistry with Dr. Tiffani Long"
-which: "episode-cover"
-guest: "Dr. Tiffani Long"
+title: Social media marketing in dentistry with Dr. Tiffani Long
+which: episode-cover
+guest: Dr. Tiffani Long
 guestPicture: "/assets/images/podcast/guests/Dr-long.jpg"
 season: season-one
-slug: /healthcare-social-media
+slug: "/healthcare-social-media"
 guestContact:
-- "On Facebook=www.facebook.com/tiffaniann.long" 
-- "On Instagram=www.instagram.com/dr.tiffanibotoxandbling" 
-- "On Tiktok (yes)=www.tiktok.com/@drtiffanibotoxandbling" 
-- "Her personal website=www.tiffanialongddspc.com"
+- On Facebook=www.facebook.com/tiffaniann.long
+- On Instagram=www.instagram.com/dr.tiffanibotoxandbling
+- On Tiktok (yes)=www.tiktok.com/@drtiffanibotoxandbling
+- Her personal website=www.tiffanialongddspc.com
 guestResources:
-- "Epic Dental Arts website=www.epicdentalarts.com" 
-- "Epic Dental Arts on facebook=https://www.facebook.com/epicdentalarts/"
-description: Being an adpoter of social madia marketing, Dr Teffani shares with us her experience on social media  
-episodeIframe: "https://open.spotify.com/embed-podcast/episode/663SMgNAYsuyPGyO2B603w"
+- Epic Dental Arts website=www.epicdentalarts.com
+- Epic Dental Arts on facebook=https://www.facebook.com/epicdentalarts/
+description: Being an adpoter of social madia marketing, Dr Teffani shares with us
+  her experience on social media
+episodeIframe: https://open.spotify.com/embed-podcast/episode/663SMgNAYsuyPGyO2B603w
 tagline: Social Media in healthcare
 platforms:
-- https://open.spotify.com/playlist/3sGR9edqbmvm4WCk55NPrT
-- Apple podcasts link
-- Google podcasts link
+- https://open.spotify.com/episode/663SMgNAYsuyPGyO2B603w?si=B983CnB9Tpi4ppUxBgFs4w
+- "#"
+- https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/NmM2MTRlOWUtOTM0Yi00ZGEyLThhYWItYjcyNzhjMzE4YmRi?sa=X&ved=0CA0QkfYCahcKEwjw_MrsidrtAhUAAAAAHQAAAAAQAQ
 bulletpoints:
 - Importance of social media
 - How to balance marketing efforts while staying within your role as a practitioner
-- How social media builds trust for your medical brand  
+- How social media builds trust for your medical brand
+
 ---
-
-
 Teffani:
 
 People are getting to know you, people are looking at your videos, your stories and your photos and they're already liking you before they even come in to see you.
