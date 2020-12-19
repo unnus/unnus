@@ -1,7 +1,6 @@
 ---
 page: podcast/single.html
-title: 'Advantages of business coaching in healthcare with Dr. Janice
-  Hughes'
+title: Advantages of business coaching in healthcare with Dr. Janice Hughes
 which: episode-cover
 guest: Dr. Janice Hughes
 guestPicture: "/assets/images/podcast/guests/dr-janice.jpg"
@@ -19,9 +18,9 @@ description: In this episode we discuss business coaching in healthcare and how 
 episodeIframe: https://open.spotify.com/embed-podcast/episode/6MezAJQrKr9Mz6ePwgppnF
 tagline: Business Coaching in healthcare
 platforms:
-- https://open.spotify.com/playlist/3sGR9edqbmvm4WCk55NPrT
-- Apple podcasts link
-- Google podcasts link
+- https://open.spotify.com/episode/6MezAJQrKr9Mz6ePwgppnF?si=jTbgy_mCTy6PHZuDwuwQzg
+- "#"
+- https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/OGUwNTFjZjAtZGM0Yi00MDY3LWI5MmUtY2QwNDM4N2NiYzc3?sa=X&ved=0CA0QkfYCahcKEwjw_MrsidrtAhUAAAAAHQAAAAAQAQ
 bulletpoints:
 - The importance of business coaching
 - Having a unique selling proposition
