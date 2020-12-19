@@ -1,7 +1,7 @@
 +++
 bulletpoints = ["How to start organize meeting for such initiatives ", "How it can transform your practice", "Importance of trust building"]
 description = "In this episode we discuss how you can build trust for your practice and cultivate it with your team"
-episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-04-Building-brand-culture-of-trust-with-Dr--Steven-Rasner-ent2eg"
+episodeIframe = "https://open.spotify.com/embed-podcast/episode/1XwwqhjDb0CSUkandIkfRC"
 guest = "Dr. Steven Rasner"
 guestContact = ["You can email Dr. Rasner at drrasner@aol.com", "His office's website=www.pearlsmiles.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
@@ -11,7 +11,7 @@ platforms = ["https://spotify.com", "https://apple.com", "https://google.com"]
 season = "season-one"
 slug = "/patient-trust-healthcare"
 tagline = "Trust-driven practice"
-title = "Episode 04: Building brand culture of trust with Dr. Steven Rasner"
+title = "Building brand culture of trust with Dr. Steven Rasner"
 which = "episode-cover"
 
 +++

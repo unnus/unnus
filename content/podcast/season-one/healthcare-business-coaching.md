@@ -1,6 +1,6 @@
 ---
 page: podcast/single.html
-title: 'Episode 03: Advantages of business coaching in healthcare with Dr. Janice
+title: 'Advantages of business coaching in healthcare with Dr. Janice
   Hughes'
 which: episode-cover
 guest: Dr. Janice Hughes
@@ -16,7 +16,7 @@ guestResources:
 - 2inspire women=www.2inspirewomen.com
 description: In this episode we discuss business coaching in healthcare and how that
   can transform your practice
-episodeIframe: https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantages-of-business-coaching-in-healthcare-with-Dr--Janice-Hughes-ent17u
+episodeIframe: https://open.spotify.com/embed-podcast/episode/6MezAJQrKr9Mz6ePwgppnF
 tagline: Business Coaching in healthcare
 platforms:
 - https://open.spotify.com/playlist/3sGR9edqbmvm4WCk55NPrT

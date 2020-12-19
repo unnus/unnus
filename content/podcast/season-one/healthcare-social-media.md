@@ -1,6 +1,6 @@
 ---
 page: podcast/single.html
-title: "Season Premiere: Social media marketing in dentistry with Dr. Tiffani Long"
+title: "Social media marketing in dentistry with Dr. Tiffani Long"
 which: "episode-cover"
 guest: "Dr. Tiffani Long"
 guestPicture: "/assets/images/podcast/guests/Dr-long.jpg"
@@ -15,7 +15,7 @@ guestResources:
 - "Epic Dental Arts website=www.epicdentalarts.com" 
 - "Epic Dental Arts on facebook=https://www.facebook.com/epicdentalarts/"
 description: Being an adpoter of social madia marketing, Dr Teffani shares with us her experience on social media  
-episodeIframe: "https://anchor.fm/sliman-baghouri/embed/episodes/Episode-03-Advantage-of-business-coaching-for-medical-practitioners-with-Dr--Janice-Hughes-enja8k"
+episodeIframe: "https://open.spotify.com/embed-podcast/episode/663SMgNAYsuyPGyO2B603w"
 tagline: Social Media in healthcare
 platforms:
 - https://open.spotify.com/playlist/3sGR9edqbmvm4WCk55NPrT
@@ -43,7 +43,7 @@ Hello. Thank you for having me.
 
 Sliman: 
 
-So to jump right in to our questions, I'm really curious, what led you to be a dentist as opposedto  other fields of healthcare?
+So to jump right in to our questions, I'm really curious, what led you to be a dentist as opposed to  other fields of healthcare?
 
 Teffani:
 
