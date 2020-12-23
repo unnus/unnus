@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2020-12-22T23:00:00Z
 description = "This guide contains new healthcare planning strategies, why it's important, examples, traps to avoid, and all you need."
-draft = true
 featImg = "/assets/images/feautre-2.jpg"
 featImgThumb = "/assets/images/feautre-2.jpg"
 linkedinHandle = "/slimaneBaghouri"
