@@ -167,13 +167,13 @@ Brand Vision Strategy is a planning method used to define concrete objectives fo
 
 The Brand Vision Strategy has three stages:
 
-* 15 Year Vision Timeline
+1. 15 Year Vision Timeline
 
 
-* Brand Obituary
+1. Brand Obituary
 
 
-* Vision Strategy Matrix
+1. Vision Strategy Matrix
 
 Let’s see how the three stages overlap.
 
@@ -222,5 +222,47 @@ Each category will contain the following:
 
 Here’s an example of a hospital’s Brand Vision Matrix:
 
-![](/assets/images/4-8-strategic-planning-in-healthcare-examples.jpg)  
-For a larger resolution of this framework, check [this online virtual board](https://miro.com/app/board/o9J_la9q6Lc=/).
+![](/assets/images/4-8-strategic-planning-in-healthcare-examples.jpg)
+
+[Click here](https://miro.com/app/board/o9J_la9q6Lc=/) for larger version.
+
+### 4) Brand Cause And Effect Strategy  
+![Healthcare strategic planning example - cause and effect strategy in healthcare illustration](/assets/images/4-3-strategic-planning-in-healthcare-examples.jpg "Brand Cause And Effect Strategy")
+
+This strategy helps you pinpoint the root causes of complex problems that are hindering your business growth. The premise of this strategy is to take on a big problem and start dissecting it into categorical components or “sub issues”.
+
+This way you can spot deeply-embedded issues that are causing the main problem. You can think of this strategy as more a way to treat the problem rather than finding it.
+
+The benefits of this strategy are:
+
+* Better visualization of your medical business risks
+* Treating the causes rather than the symptoms of the problem
+* Gets you out of the tunnel vision trap and provide you with a clear picture of the challenges your business might face
+
+Here's an example for this strategic planning technique for a hospital 
+
+![healthcare strategic planning example for a hospital](/assets/images/4-9-strategic-planning-in-healthcare-examples.jpg "Example of cause and effect in healthcare")
+
+### 5) Patient Journey Strategy
+
+![Healthcare strategic planning example - Patient Journey Strategy illustration](/assets/images/4-4-strategic-planning-in-healthcare-examples.jpg "Patient Journey Strategy Illustration")
+
+The patient journey strategy (PJS) is a visual representation strategy of your patient's experience. It allows you to capture the path that a patient follows when they book an appointment, sign up for a care service membership, or otherwise interact with your medical business.
+
+This strategy focuses on every single touchpoint (places where patients interact with your business) and hone in on what can be improved, fixed, or removed.
+
+Patients are the lifeblood of your business and zero in on your patient's pain points, challenges, and needs are critical for success.
+
+Some of the benefits of using this strategy are:
+
+* Anticipate multiple patient pathways
+* Understand the patient’s perspective
+* Inform your staff and employee about what should be improved
+* Target patient more closely and increase personalization
+* Improve patient experience
+* Uncovering easy-to-overlook aspects of your business
+
+Here’s a snapshot of a patient journey of medical practice and how the team identified potential issues and problems
+
+![Healthcare strategic planning example - patient journey example](/assets/images/4-10-strategic-planning-in-healthcare-examples.jpg "example of patient journey ")  
+Click here for to [larger version](https://miro.com/app/board/o9J_laHx8CE=/).
