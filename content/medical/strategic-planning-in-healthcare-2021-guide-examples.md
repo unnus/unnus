@@ -168,12 +168,8 @@ Brand Vision Strategy is a planning method used to define concrete objectives fo
 The Brand Vision Strategy has three stages:
 
 1. 15 Year Vision Timeline
-
-
-1. Brand Obituary
-
-
-1. Vision Strategy Matrix
+2. Brand Obituary
+3. Vision Strategy Matrix
 
 Let’s see how the three stages overlap.
 
