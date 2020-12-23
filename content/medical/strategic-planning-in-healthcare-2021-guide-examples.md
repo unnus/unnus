@@ -266,3 +266,56 @@ Here’s a snapshot of a patient journey of medical practice and how the team id
 
 ![Healthcare strategic planning example - patient journey example](/assets/images/4-10-strategic-planning-in-healthcare-examples.jpg "example of patient journey ")  
 Click here for to [larger version](https://miro.com/app/board/o9J_laHx8CE=/).
+
+### 6) Risk Assessment Matrix Framework
+
+![Healthcare strategic planning - Risk assessment matrix framework ](/assets/images/4-5-strategic-planning-in-healthcare-examples.jpg "Risk assessment matrix framework illustration")
+
+The Risk Assessment Matrix creates a framework where you can assess the urgency and the likelihood of any potential threat that might affect your business.
+
+This strategy also allows you to better allocate your efforts across multiple aspects of your business based on the potential severity of any risk. In addition, it's a great way to visualize and prioritize where and when should you take action against any business threats.
+
+Risks in this framework should be ranked according to low probability and severity (one- colored green) to the highest possible likelihood (ten-colored red). Ranking them in this way lets your team tackle the biggest threats with a sharp action plan.
+
+Here’s an example of this framework:
+
+  
+![healthcare planning strategy - Risk Assessment Matrix](/assets/images/4-11-strategic-planning-in-healthcare-examples.jpg "healthcare planning strategy - Risk Assessment Matrix")
+
+You can access the full version [here](https://miro.com/app/board/o9J_laHB1Ec=/).
+
+### 7) OKR (Objectives & Key Results) Framework
+
+![Healthcare strategic planning - Objectives & Key Results Strategy ](/assets/images/4-6-strategic-planning-in-healthcare-examples.jpg "Healthcare strategic planning - Objectives & Key Results Strategy ")
+
+OKRs stands for Objectives & Key Results. An OKR framework helps medical businesses solve their critical organizational problems. As a framework, OKRs also help healthcare leadership teams discuss how the work of the staff **ties back** to the overall business strategy.
+
+OKRs should be transparent to everyone: top-down, bottom-up, and cross-functional. When everyone’s looking at the same framework, everyone has the opportunity to work toward the same outcomes.
+
+**Objectives** are the vaccine to “blue sky thinking” – their goal is to help articulate what you want to accomplish. An objective is significant, concrete, and drives you to get tasks done.
+
+**Key results** are the way you're going to get those tasks done. Specific and measurable, these quantitative goals act as benchmarks for how you’ll reach objectives. (Think outcomes or results in real numbers.)
+
+### 8) Brand Prioritization Framework
+
+### ![Healthcare Strategic Planning - Brand Prioritization Framework Illustration](/assets/images/4-7-strategic-planning-in-healthcare-examples.jpg "Healthcare Strategic Planning - Brand Prioritization Framework Illustration")
+
+The Brand Prioritization Framework (BPF), or priority matrix, helps your medical teams prioritize initiatives or service lines based on their **impact** on your medical brand and the level of **effort** needed for success.
+
+With nine “buckets” or areas of interest, your team can decide if an idea or plan is low, medium, or high effort. The team can also accordingly decide if that plan will likely have low, medium, or high impact.
+
+As a visual framework, the Brand Prioritization Framework helps you promptly reach an agreement on quick wins, big projects, filler tasks, or anything that could waste time.
+
+An example of the BPF for might be:
+
+![Healthcare planning strategy - Brand Prioritization Framework Example](/assets/images/4-12-strategic-planning-in-healthcare-examples.jpg "healthcare planning strategy - Brand Prioritization Framework  Example")
+
+You can access a large resolution [here](https://miro.com/app/board/o9J_laHJ46w=/).
+
+## The ‘secret’ to a fruitful healthcare strategic plan
+
+A great healthcare strategy is always directed by the brand’s attributes. A strategic plan won’t take any business anywhere if it is not guided by your branding strategy.
+
+A planning strategy could potentially hurt your healthcare brand equity (your perceived worth) if it veers off from your brand’s positioning in the market. If you’d like to learn more about branding in healthcare and how it can overhaul your strategic plan, you can check our guide [here](https://unnus.com/medical/healthcare-branding).
+
+If you’re busy and looking for great healthcare brand strategy facilitators, [contact us here](https://unnus.com/contact/) and we’d gladly help you.
