@@ -106,3 +106,121 @@ Any medical practice can have strategies, but great medical businesses let their
 Does your strategy align perfectly with your brand’s core attribute? Does this plan solidify your place in the market or does it weaken your brand’s perceived value? If you don’t have a grounded brand in place, your strategy might end up hurting your medical business.
 
 If you’d like to learn more about brand building and how can you build a mouth-watering brand, you can check our free [healthcare branding guide](https://unnus.com/medical/healthcare-branding).
+
+  
+![illustrations explains importance of branding in strategic healthcare planning](/assets/images/3-1-strategic-planning-in-healthcare-common-mistakes.PNG "illustrations explains importance of branding in strategic healthcare planning")
+
+### 2) Focusing on too many metrics and KPIs
+
+Getting distracted by too many metrics is the fast lane to a crumbling healthcare plan. Many practices try to implement a strategy but end up focusing on the wrong metrics and getting overwhelmed.
+
+  
+It is best to list out critical KPIs (key performance indicators) for your medical brand _before_ embarking on a strategy.
+
+### 3) Lack of professional facilitators
+
+Any healthcare strategic plan needs a good facilitator. A facilitator that has a great knowledge of the healthcare industry know-how and its business side of things. Common trap healthcare organizations or practices fall into is trying to implement these strategies in-house. This leads to unproductive workshops and unfruitful results.
+
+We strongly advise you to outsource these strategies to great facilitators that have past-experience running healthcare strategic planning workshops. This will save you time and provide you with the best result for your medical business.
+
+## Best Healthcare Planning Strategies (With Examples)
+
+Let’s go through some of the essentials of strategic planning methods in healthcare.
+
+### 1) S.W.O.T Analysis Strategy
+
+![Healthcare Planning Strategies SWOT Analysis example](/assets/images/4-2-strategic-planning-in-healthcare-examples.png "Healthcare Planning Strategies SWOT Analysis example")
+
+S.W.O.T is a strategic planning technique used to define your healthcare organization’s (or practice’s) **Strengths**, **Weaknesses**, **Opportunities**, and **Threats** in the competitive landscape.
+
+SWOT Analysis arms you with a clear overview of critical metrics that are key for your performance and the overall success of your medical business.
+
+Let’s see some examples of SWOT Diagrams in healthcare.
+
+### Hospital strategic plan: SWOT example
+
+![](/assets/images/hospital-swot-analysis-example.jpg)
+
+### Strategic planning in nursing: SWOT Example
+
+![](/assets/images/swot-analysis-for-nurses.jpg)
+
+### 2) S.W.O.T Strategy Canvas™
+
+![](/assets/images/swot-strategy-canvas-graph.jpg)
+
+SWOT Analysis is not enough to measure the success of your efforts.
+
+That’s why our team at unnus developed the SWOT Strategy Canvas™ (SSC), a visual representation graph of the impact SWOT has on your medical brand.
+
+The SSC could be conducted every 6 months to track the efficiency and the effort of SWOT.
+
+SSC graph tracks the Impact Rate of each element of the SWOT (strengths, weaknesses, opportunities, and threats). The goal is to witness a low Impact Rate of weakness and threats and a high Impact Rate of Strengths and Opportunities.
+
+If you’d like to know more about the how-tos and other details of SWOT analysis and SSC, check our step-by-step [guide on SWOT here](http://unnus.com/medical/healthcare-swot-analysis).
+
+### 3) Brand Vision Strategy
+
+![Healthcare strategic planning example - brand vision strategy illustration](/assets/images/4-2-strategic-planning-in-healthcare-examples-jpg.jpg "Brand vision strategy")
+
+Brand Vision Strategy is a planning method used to define concrete objectives for your medical brand and set up trackable metrics for the overarching vision.
+
+The Brand Vision Strategy has three stages:
+
+* 15 Year Vision Timeline
+
+
+* Brand Obituary
+
+
+* Vision Strategy Matrix
+
+Let’s see how the three stages overlap.
+
+**#First\~ The 15 Year Vision Plan**
+
+The 15 Year vision Plan is where we start defining the higher goals and aspirations that your medical business needs to achieve.
+
+The benefit of this stage are threefold:
+
+* It ensures that you know where your medical business is headed
+* It works as a pathway to check back against when measuring your progress
+* Forces you and your team to aim high and set a bold goals
+
+**#Second\~ Brand Obituary**
+
+What will happen if your practice closes its door tomorrow? Would journalists write headlines heralding your past achievements, or would their stories simply add you to a list of bygones? Would employees wonder how it could have ended, or would they have known it was inevitable? Would patients mourn your passing, or would the demise of your medical brand go unnoticed?
+
+Unlike the 15 Year Vision Plan, this method works as a risk assessment and proactive approach for future commitment.
+
+This exercise will force you to think through some of the key elements that make up your brand.
+
+Here’s an example of this technique from our client, a dental practice Confidental™.
+
+![Healthcare strategic planning example - brand vision strategy illustration](/assets/images/persona-obituary-1.jpg "Healthcare brand obituary strategy")  
+**#Third\~ Brand Vision Matrix**
+
+In this stage, we get strategic by defining a set of metrics to track and check back against your overarching vision. This stage focuses on tracking and measuring your progress towards the final goal of the strategy.
+
+The metrics that we’re going to measure in this stage fall into four categories:
+
+1. **Internal Business Process**
+   * Some of the most important measures of internal business performance are overall productivity rates, ability to meet deadlines on time, and ability to achieve previously set goals and this category will contain all necessary metrics for that.
+2. **Learning And Growth**
+   * Tracking how your medical staff is growing will help facilitate the overall team goals. You’ll want to keep track of employee morale, how knowledgeable staff is, and how reliably they use the business’s best practices.
+3. **Stakeholders**
+   * It is critical to capture the efficiency of your stakeholders to gauge the overall performance of your medical business. This section is focused on staff, team, and shareholders.
+4. **Financial performance**
+   * Most medical businesses find it useful to measure the business’s progress toward financial goals. Common measures of financial performance include revenues, return on investment, earnings, cost per case, etc.
+
+Each category will contain the following:
+
+1. Set of objectives that are relevant to it
+2. Measurement and matrices
+3. Progress Record of each target
+4. Initiatives (what are we doing hit that target)
+
+Here’s an example of a hospital’s Brand Vision Matrix:
+
+![](/assets/images/4-8-strategic-planning-in-healthcare-examples.jpg)  
+For a larger resolution of this framework, check [this online virtual board](https://miro.com/app/board/o9J_la9q6Lc=/).
