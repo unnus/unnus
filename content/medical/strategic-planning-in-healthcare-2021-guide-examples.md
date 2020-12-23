@@ -22,7 +22,6 @@ twitterHandle = "/@SlimanBaghouri"
 
 Whether you’re a medical business owner, an executive, or a practitioner, my promise to you is that, by the end of this article, you’ll get a razor-sharp understanding of what strategic planning is and how it can skyrocket your operational efficiency.
 
-  
 Here’s a brief outline of what I’ll cover:
 
 * What is strategic planning in healthcare?
@@ -30,6 +29,8 @@ Here’s a brief outline of what I’ll cover:
 * 3 Common Mistakes when implementing strategies
 * The best 8 healthcare planning strategies
 * ‘Secret’ to a fruitful healthcare planning campaigns
+
+<!--more-->
 
 {{% note "Busy?" %}} To save you some time, use the navigation bar on your right to quickly jump between sections. {{% /note %}}
 
@@ -95,7 +96,6 @@ This results in a well-tracked process, efficient way of working, and increased 
 
 ## 3 Common mistakes when implementing healthcare strategic planning
 
-  
 Let’s explore common mistakes medical business fall into when implementing strategic planning workshops.
 
 ### 1) Disregarding their branding efforts
@@ -106,14 +106,12 @@ Does your strategy align perfectly with your brand’s core attribute? Does this
 
 If you’d like to learn more about brand building and how can you build a mouth-watering brand, you can check our free [healthcare branding guide](https://unnus.com/medical/healthcare-branding).
 
-  
 ![illustrations explains importance of branding in strategic healthcare planning](/assets/images/3-1-strategic-planning-in-healthcare-common-mistakes.PNG "illustrations explains importance of branding in strategic healthcare planning")
 
 ### 2) Focusing on too many metrics and KPIs
 
 Getting distracted by too many metrics is the fast lane to a crumbling healthcare plan. Many practices try to implement a strategy but end up focusing on the wrong metrics and getting overwhelmed.
 
-  
 It is best to list out critical KPIs (key performance indicators) for your medical brand _before_ embarking on a strategy.
 
 ### 3) Lack of professional facilitators
@@ -221,7 +219,8 @@ Here’s an example of a hospital’s Brand Vision Matrix:
 
 [Click here](https://miro.com/app/board/o9J_la9q6Lc=/) for larger version.
 
-### 4) Brand Cause And Effect Strategy  
+### 4) Brand Cause And Effect Strategy
+
 ![Healthcare strategic planning example - cause and effect strategy in healthcare illustration](/assets/images/4-3-strategic-planning-in-healthcare-examples.jpg "Brand Cause And Effect Strategy")
 
 This strategy helps you pinpoint the root causes of complex problems that are hindering your business growth. The premise of this strategy is to take on a big problem and start dissecting it into categorical components or “sub issues”.
@@ -234,7 +233,7 @@ The benefits of this strategy are:
 * Treating the causes rather than the symptoms of the problem
 * Gets you out of the tunnel vision trap and provide you with a clear picture of the challenges your business might face
 
-Here's an example for this strategic planning technique for a hospital 
+Here's an example for this strategic planning technique for a hospital
 
 ![healthcare strategic planning example for a hospital](/assets/images/4-9-strategic-planning-in-healthcare-examples.jpg "Example of cause and effect in healthcare")
 
@@ -274,7 +273,6 @@ Risks in this framework should be ranked according to low probability and severi
 
 Here’s an example of this framework:
 
-  
 ![healthcare planning strategy - Risk Assessment Matrix](/assets/images/4-11-strategic-planning-in-healthcare-examples.jpg "healthcare planning strategy - Risk Assessment Matrix")
 
 You can access the full version [here](https://miro.com/app/board/o9J_laHB1Ec=/).
