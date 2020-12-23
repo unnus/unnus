@@ -32,7 +32,7 @@ Here’s a brief outline of what I’ll cover:
 * The best 8 healthcare planning strategies
 * ‘Secret’ to a fruitful healthcare planning campaigns
 
-{{% note "In A Hurry?" %}} To save you some time, use the navigation bar on your right to quickly jump between sections. {{% /note %}}
+{{% note "Busy?" %}} To save you some time, use the navigation bar on your right to quickly jump between sections. {{% /note %}}
 
 ## What is strategic planning in healthcare?
 
