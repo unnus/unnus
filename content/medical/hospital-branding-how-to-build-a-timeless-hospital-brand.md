@@ -18,7 +18,7 @@ title = "Hospital branding: How to build a timeless hospital brand"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. </p><p><a href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% of the current hospital systems</a> will not exist in the next 10 years. Meaning, mediocre hospitals are to drop like flies in the following decade.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
+<section  id="Intro"> <div class="hook"> <p>It’s terrifying research. </p><p><a target="_blank" href="https://www2.deloitte.com/us/en/pages/life-sciences-and-health-care/articles/great-consolidation-health-systems.html">50% </a> of the current hospital systems will not exist in the next 10 years. Meaning, mediocre hospitals are to drop like flies in the following decade.</p> <hr> </div> <p>You see, that’s not surprising in the slightest.</p>
 
 <p>When the number of choices patients face keep growing; when your staff takes refuge in functional silos instead of a collaborative ecosystem; when you face the jagged transition to value-based care; when the market dynamics changes before you adapt; when patient retention dwindles down;or when your hospital is swimming in a sameness-sea of “me too” hospitals, it’s no surprise half of the current health systems will vanish.</p>
 

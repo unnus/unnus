@@ -243,7 +243,7 @@ Your medical business’s performance starts with the internal dynamics of your 
 
 When your medical business has a brand culture of its own, staff are encouraged, invested and operational efficiency will soar up. Work becomes more thrilling and meaningful. Conversely, if the brand lacks culture, it disengages staff leading to a decreased productivity and your business values fizzle out before reaching your patients.
 
-{{% note "STATS" %}}[94% of executives ](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf) believe that having a workplace culture is key to a thriving business.{{% /note %}}
+{{% note "STATS" %}} According to recent research, 94% of executives believe that having a workplace culture is key to a thriving business.{{% /note %}}
 
 ### **#5) Creates “brand preference” and skyrockets patient retention**
 
@@ -503,7 +503,7 @@ What is a hospital brand?
 * Case study of an established hospital brand
 * Pivoting your hospital during this pandemic
 
-[> To read about hospital branding click here](https://www.unnus.com/medical/hospital-branding/)
+[To read about hospital branding click here](https://www.unnus.com/medical/hospital-branding/)
 
 ### **Dental branding**
 
@@ -519,7 +519,7 @@ This article covers:
 * Advantages of having a charismatic dental brand.
 * Quick techniques to know if your practice is charismatic
 
-[> To read about dental branding click here](https://www.unnus.com/medical/dental-branding/)
+[To read about dental branding click here](https://www.unnus.com/medical/dental-branding/)
 
 ### **Pharma Branding**
 
@@ -532,7 +532,7 @@ By the end of this article, you’ll have a clear understanding of
 * The unmatched advantage of branding; And
 * The 5 stages of developing a pharmaceutical brand strategy
 
-[> To read about pharma branding click here](https://www.unnus.com/medical/pharma-branding/)
+[To read about pharma branding click here](https://www.unnus.com/medical/pharma-branding/)
 
 ### **Healthcare mission statements development + Examples**
 
@@ -552,7 +552,7 @@ This article covers:
 * Examples of mission statements in healthcare (Hospitals, dentists, chiropractic, etc..)
 * What to do and what NOT to do with your mission statement.
 
-[> To read about healthcare mission statements click here](https://www.unnus.com/medical/healthcare-mission-statement/)
+[To read about healthcare mission statements click here](https://www.unnus.com/medical/healthcare-mission-statement/)
 
 ## **The truth about healthcare branding**
 
