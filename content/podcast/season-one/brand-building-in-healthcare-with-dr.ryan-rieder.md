@@ -8,7 +8,7 @@ guestContact = ["You can contact him at ryan@dcpracticegrowth.com", "On Facebook
 guestPicture = "/assets/images/01.jpg"
 guestResources = ["His bingewatch-worthy youtube videos=www.youtube.com/channel/UClNHhkcvPRjF2_2G-VfNKHA", "Grab a free copy of his book here=dcpracticegrowth.com/freebook", "Or buy it on amazon=www.amazon.com/New-Patient-Avalanche-System-marketing/dp/1070615579", "Join his mastermind program=dcpracticegrowth.com/mastermind-program/", "Buy Dr. Rieder's proven courses and formulas=dcpracticegrowth.com/products-and-courses/", "Check out his podcast=anchor.fm/ryan-rieder-official/"]
 page = "podcast/single.html"
-platforms = []
+platforms = ["#", "#", "#"]
 season = "season-one"
 slug = "medical-branding"
 tagline = "Healthcare Brand Building"
