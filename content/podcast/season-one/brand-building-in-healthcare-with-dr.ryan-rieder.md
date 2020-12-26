@@ -18,7 +18,7 @@ which = "episode-cover"
 +++
 Ryan:  
 
-We all like to believe that being the best at the thing correlates with us being the top earner in the industry. Now, if you look traditionally at the top 1% of earners in any expert space very seldom that the top 1% earners correlate with being the best at the thing that they're not. They're the best at the marketing and the branding and positioning of the thing.
+We all like to believe that being the best at the thing correlates with us being the top earner in the industry. Now, if you look traditionally at the top 1% of earners in any expert space very seldom that the top 1% earners correlate with being the best at the thing. they're not. They're the best at the marketing and the branding and positioning of the thing.
 
 Sliman:  
 
