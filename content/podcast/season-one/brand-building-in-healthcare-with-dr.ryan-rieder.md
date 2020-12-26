@@ -182,9 +182,7 @@ We're not trying to dictate to the team, as a human being, I also need to be mea
 
 Ryan:  
 
-So there's loads of books you can read about that. And if I gave any of the listeners some advice, go read Verne Harnish
-
-'s work, go read Mastering Rockefeller habits go read scaling up, if you don't then go check out Gino wickman stuff of traction and rocket fuel and get a grip. Those are all great business books that everybody should have read. To help you with some of the stuff I'm talking about right now.
+So there's loads of books you can read about that. And if I gave any of the listeners some advice, go read Verne Harnish's work, go read Mastering Rockefeller habits go read scaling up, if you don't then go check out Gino wickman stuff of traction and rocket fuel and get a grip. Those are all great business books that everybody should have read. To help you with some of the stuff I'm talking about right now.
 
 Sliman:  
 
