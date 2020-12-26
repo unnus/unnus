@@ -5,7 +5,7 @@ draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Brand-Building-In-Healthcare-With-Dr--Ryan-Rieder-eo81p1/a-a479ulh"
 guest = "Dr. Ryan Rieder"
 guestContact = ["You can contact him at ryan@dcpracticegrowth.com", "On Facebook=www.facebook.com/ryanriederofficial/", "Follow him on Instagram=www.instagram.com/ryanriederofficial/"]
-guestPicture = "/assets/images/01.jpg"
+guestPicture = "/assets/images/01-1.jpg"
 guestResources = ["His bingewatch-worthy youtube videos=www.youtube.com/channel/UClNHhkcvPRjF2_2G-VfNKHA", "Grab a free copy of his book here=dcpracticegrowth.com/freebook", "Or buy it on amazon=www.amazon.com/New-Patient-Avalanche-System-marketing/dp/1070615579", "Join his mastermind program=dcpracticegrowth.com/mastermind-program/", "Buy Dr. Rieder's proven courses and formulas=dcpracticegrowth.com/products-and-courses/", "Check out his podcast=anchor.fm/ryan-rieder-official/"]
 page = "podcast/single.html"
 platforms = ["#", "#", "#"]
