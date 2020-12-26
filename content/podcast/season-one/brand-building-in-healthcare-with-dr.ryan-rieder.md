@@ -86,7 +86,7 @@ And medical practitioners are going to be listening to this. So there's a very f
 
 Ryan:  
 
-1) was the belief in the body's ability to heal. Okay, so they had to believe that that was actually option. Next 2) was their belief in the treatment of choice, okay. And 3) thirdly, and what most people probably don't factor into the healing process, not just that. It's interesting. It's like, we talked about branding from a business perspective, but from a healing perspective, the belief in the provider chosen was a metal part of the healing process, and then you go, but that's also best part of decreasing resistance, the sale is also a massive part of getting customers to refer it or some massive part of building a brand or a new business. 
+First, was the belief in the body's ability to heal. Okay, so they had to believe that that was actually option. Next 2) was their belief in the treatment of choice, okay. And 3) thirdly, and what most people probably don't factor into the healing process, not just that. It's interesting. It's like, we talked about branding from a business perspective, but from a healing perspective, the belief in the provider chosen was a metal part of the healing process, and then you go, but that's also best part of decreasing resistance, the sale is also a massive part of getting customers to refer it or some massive part of building a brand or a new business. 
 
 Ryan:  
 
