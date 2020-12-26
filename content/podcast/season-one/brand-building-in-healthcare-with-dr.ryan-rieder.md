@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["Brand building in healthcare", "How to integrate core values in your business processes\n", "The importance of outsourcing "]
 description = "In this episode we discuss branding in healthcare and how it can make up for a future-proof medical business."
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Brand-Building-In-Healthcare-With-Dr--Ryan-Rieder-eo81p1/a-a479ulh"
 guest = "Dr. Ryan Rieder"
 guestContact = ["You can contact him at ryan@dcpracticegrowth.com", "On Facebook=www.facebook.com/ryanriederofficial/", "Follow him on Instagram=www.instagram.com/ryanriederofficial/"]
