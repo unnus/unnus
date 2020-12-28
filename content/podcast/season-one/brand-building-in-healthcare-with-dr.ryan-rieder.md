@@ -1,13 +1,13 @@
 +++
 bulletpoints = ["Brand building in healthcare", "How to integrate core values in your business processes\n", "The importance of outsourcing "]
 description = "In this episode we discuss branding in healthcare and how it can make up for a future-proof medical business."
-episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Brand-Building-In-Healthcare-With-Dr--Ryan-Rieder-eo81p1/a-a479ulh"
+episodeIframe = "https://open.spotify.com/embed-podcast/episode/0eXJmN1HDEmglyRnTdn6Du"
 guest = "Dr. Ryan Rieder"
 guestContact = ["You can contact him at ryan@dcpracticegrowth.com", "On Facebook=www.facebook.com/ryanriederofficial/", "Follow him on Instagram=www.instagram.com/ryanriederofficial/"]
 guestPicture = "/assets/images/rayn.jpg"
 guestResources = ["His bingewatch-worthy youtube videos=www.youtube.com/channel/UClNHhkcvPRjF2_2G-VfNKHA", "Grab a free copy of his book here=dcpracticegrowth.com/freebook", "Or buy it on amazon=www.amazon.com/New-Patient-Avalanche-System-marketing/dp/1070615579", "Join his mastermind program=dcpracticegrowth.com/mastermind-program/", "Buy Dr. Rieder's proven courses and formulas=dcpracticegrowth.com/products-and-courses/", "Check out his podcast=anchor.fm/ryan-rieder-official/"]
 page = "podcast/single.html"
-platforms = ["#", "#", "#"]
+platforms = ["https://open.spotify.com/episode/0eXJmN1HDEmglyRnTdn6Du?si=36me6g1AQN65a6N1dYt-0w", "#", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/YmQ0MTg4YWMtMjdkOS00ZGM4LTliZWMtNDU0OTQ4ZDM4ZTJj?sa=X&ved=0CA0QkfYCahcKEwjIusXW1fDtAhUAAAAAHQAAAAAQAQ"]
 season = "season-one"
 slug = "medical-branding"
 tagline = "Healthcare Brand Building"
