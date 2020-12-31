@@ -19,6 +19,7 @@ twitterHandle = "@SlimanBaghouri"
 
 +++
 {{% hook %}}**If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative marketing tips on how to create a profitable and future-proof orthodontic brand**. {{% /hook %}}
+<!--more-->
 
 ***
 
@@ -34,7 +35,6 @@ This article covers:
 6. Ridiculously cheap digital advertising platforms.
 7. The secret to marketing your orthodontic practice.
 
-<!--more-->
 
 ## **The risk of not being seen in the dental industry**
 

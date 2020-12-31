@@ -19,8 +19,9 @@ twitterHandle = "@SlimanBaghouri"
 
 +++
 {{% hook %}}As the pace of healthcare quickens and the number of brands multiplies, it’s patients, not medical businesses, who decide which brands live and which ones die. {{% /hook %}} 
-
+<!--more-->
 ***
+
 
 An overabundance of look-alike medical brands and me-too services are forcing patients to search for something, anything, to help them separate the winners from the clutter.
 
@@ -42,7 +43,6 @@ What is healthcare branding?
 6. How to measure your branding efforts
 7. Example of branding in other healthcare fields
 
-<!--more-->
 
 ## **What is healthcare branding?**
 

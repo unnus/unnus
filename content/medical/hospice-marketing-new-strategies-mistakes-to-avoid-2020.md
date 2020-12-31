@@ -19,6 +19,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 +++
 {{% hook %}}**Looking to increase your referral rates for your agency? Or a new marketing strategy for your hospice? This article is for you.**{{% /hook %}}
+<!--more-->
 
 ***
 
@@ -38,7 +39,6 @@ In today’s article, I’ll share with you the following:
 
 without further ado, let’s start.
 
-<!--more-->
 
 ## Mistakes to Avoid in hospice marketing
 

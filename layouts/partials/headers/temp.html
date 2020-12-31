@@ -1,0 +1,89 @@
+<section class="whitepapers-all-posts">
+	<div class="container">
+    {{ range (.Paginator 5).Pages }}  
+	<div class="post">
+			<div class="post-headline">
+						<div class="post-thumbnail">
+							<img src="{{.Params.featImgThumb}}" alt="Thumbnail Image">
+						</div>
+						<h2 class="h1-clone"><a href="{{.RelPermalink}}">{{ .Params.title }}</a></h2> 
+						<div class="post-details">
+								<div class="author">
+									 <img src="{{.Params.authorAvatarTop}}" alt="{{.Params.author}}">
+			    					<h5 class="author-name">{{.Params.author}}</h5>
+								</div>
+									<div class="reading-holder">
+													<svg viewBox="0 0 130 82" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><g opacity=".6" fill-rule="nonzero"><path d="M126.689 32.687h-20.694v-3.351c0-.874-1.13-1.583-2.524-1.583H48.959c-1.393 0-2.523.709-2.523 1.583 0 .875 1.13 1.583 2.523 1.583h51.988v12.136c0 10.66-9.074 20.568-23.727 25.959H28.774C14.122 63.623 5.047 53.715 5.047 43.055V30.919h16.909c1.394 0 2.524-.708 2.524-1.582 0-.875-1.13-1.583-2.524-1.583H2.524C1.13 27.754 0 28.462 0 29.337v13.718c0 5.983 2.564 11.85 7.415 16.966 3.272 3.45 7.516 6.497 12.487 8.993H2.524C1.13 69.014 0 69.723 0 70.597c0 5.761 7.472 10.448 16.656 10.448h78.739c9.185 0 16.656-4.687 16.656-10.448 0-.874-1.13-1.583-2.523-1.583H86.093c4.575-2.297 8.532-5.062 11.684-8.178h7.124c13.405 0 24.311-6.84 24.311-15.248V34.27c0-.874-1.129-1.583-2.523-1.583zM106.728 72.18c-1.156 3.257-5.798 5.699-11.333 5.699H16.656c-5.534 0-10.177-2.442-11.332-5.699h101.404zm-.733-29.125v-.871h8.075v3.404c0 3.171-4.113 5.751-9.169 5.751h-.573c1.102-2.692 1.667-5.475 1.667-8.284zm18.17 2.533c0 6.662-8.642 12.082-19.264 12.082h-4.295a28.502 28.502 0 002.154-3.166h2.141c7.839 0 14.217-4 14.217-8.916v-4.987c0-.874-1.13-1.582-2.524-1.582h-10.599v-3.166h18.17v9.735zM55.407 8.76l-1.313-1.034c-1.928-1.517-1.931-3.639-.007-5.159.867-.685.684-1.68-.408-2.224C52.587-.201 51-.086 50.133.599c-3.392 2.681-3.387 6.423.013 9.1l1.313 1.034c2.519 1.983 2.522 4.756.009 6.742l-1.345 1.063c-.867.685-.685 1.681.407 2.224.464.231 1.018.343 1.567.343.744 0 1.48-.205 1.979-.599l1.346-1.063c3.982-3.147 3.976-7.54-.015-10.683zM69.395 12.319l-1.313-1.034c-1.927-1.518-1.93-3.639-.006-5.159.866-.685.684-1.68-.408-2.224-1.092-.543-2.679-.429-3.546.256-3.392 2.681-3.387 6.423.012 9.1l1.313 1.034c2.519 1.983 2.523 4.756.009 6.742l-1.345 1.064c-.867.684-.684 1.68.408 2.223.464.231 1.017.343 1.567.343.743 0 1.48-.205 1.979-.599l1.345-1.063c3.982-3.147 3.976-7.54-.015-10.683zM41.419 12.319l-1.314-1.033c-1.927-1.518-1.93-3.64-.007-5.16.867-.685.684-1.68-.407-2.224-1.092-.543-2.68-.428-3.546.256-3.392 2.681-3.387 6.423.012 9.1l1.314 1.034c2.518 1.983 2.522 4.756.009 6.742l-1.346 1.063c-.867.685-.684 1.681.408 2.224a3.56 3.56 0 001.567.344c.743 0 1.48-.206 1.978-.599l1.346-1.064c3.982-3.147 3.976-7.54-.014-10.683z"></path><path d="M37.926 28.217c-.47-.295-1.121-.464-1.785-.464-.663 0-1.314.169-1.784.464-.469.296-.739.703-.739 1.119 0 .416.27.825.739 1.121.47.294 1.121.462 1.784.462.664 0 1.315-.168 1.785-.462.471-.296.739-.703.739-1.121 0-.416-.268-.825-.739-1.119zM91.357 41.472c-1.393 0-2.524.709-2.524 1.583 0 5.876-3.799 11.65-10.424 15.842-.982.621-.974 1.623.016 2.239.492.306 1.134.458 1.776.458.65 0 1.299-.156 1.793-.468 7.554-4.781 11.887-11.367 11.887-18.071 0-.874-1.13-1.583-2.524-1.583zM74.167 63.193c-.685-.761-2.224-1.03-3.438-.601l-.057.021c-1.214.429-1.643 1.395-.958 2.156.463.516 1.319.806 2.2.806.42 0 .846-.066 1.238-.205l.057-.02c1.214-.43 1.643-1.395.958-2.157z"></path></g></svg>
+
+										<span class="reading-time">
+												{{.Params.readingTime}} minute read
+										</span>								
+									</div>
+						</div>
+				<div class="body-teaser">
+				{{ .Summary | markdownify }}
+				</div>
+				<a href="{{.RelPermalink}}" class="btn-s">
+					Continue reading <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg>
+				</a>								
+			</div>
+		</div>
+    {{ end }}
+
+
+	</div>
+</section>
+ 
+
+
+<header class="whitepapers-header split-header">
+	<div class="right-header">
+		<svg viewBox="0 0 1724 1611" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><g fill-rule="nonzero"><path d="M583.229 1370.43l-130.027-29.704L881.431 454.61l130.026 29.697-428.228 886.123z" fill="#525353"/><path d="M583.4 1372.4l-130.025-29.692-217.623-264.531 130.02 29.697L583.4 1372.4z" fill="#232323"/><path d="M130.025 1574.42L0 1544.729l235.624-468.489 130.026 29.698-235.625 468.482zM742.877 523.036l329.989 67.929-51.548-276.967-278.441 209.038z" fill="#525353"/><g><path d="M953.232 1350.23l-166.192-37.958 547.315-1132.56 166.187 37.958-547.31 1132.56z" fill="#fff"/><path d="M953.448 1352.75l-166.192-37.952-278.145-338.092 166.181 37.952 278.156 338.092z" fill="#e1e1e1"/><path d="M373.97 1610.96l-166.18-37.952 301.152-598.784 166.187 37.958L373.97 1610.96zM1157.27 267.162l421.761 86.829L1513.145 0 1157.27 267.162z" fill="#fff"/></g><g><path d="M830.996 1586.87l-123.687-29.035 222.868-458.146 123.694 29.041-222.875 458.14zM1259.97 1378.45l-123.209-28.14 405.776-839.663 123.209 28.14-405.776 839.663z" fill="#525353"/><path d="M1260.13 1380.32l-123.209-28.14-206.212-250.656 123.203 28.14 206.218 250.656z" fill="#232323"/><path d="M1411.24 575.486l312.682 64.374-48.844-262.446-263.838 198.072z" fill="#525353"/></g></g></svg>
+	</div>
+	<div class="container">
+				{{ partial "navbar.html" . }}
+	</div>
+		<div class="container">
+			<div class="text-content">
+					<h1 class="bold">Differentiate your practice with free healthcare branding strategies</h1>
+				<!-- multi step -->
+<form method="post" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl" class="form-container initial-active-area af-form-wrapper">
+<!-- multi step -->
+
+<div class="form-container  initial-active-area">
+<div class="steps-wrapper">
+  <div class="question-submission af-body af-standards" id="af-body-812149649">
+    <div class="submission first-step home-header-form">
+ <input required="required" placeholder="Your Name" id="awf_field-108467594"  type="text" name="name" class="text input-s" value=""  onfocus=" if (this.value == '') { this.value = ''; }" onblur="if (this.value == '') { this.value='';} " tabindex="500" />
+      <button class="first next btn-s btn-1">
+      	Continue <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg>
+      </button>
+    </div>
+    <div class="submission second-step">
+  <input required="required" placeholder="Your Email" class="text tags input-s" id="awf_field-108467595" type="email" name="email" value="" tabindex="501" onfocus=" if (this.value == '') { this.value = ''; }" onblur="if (this.value == '') { this.value='';} " />
+		<button class="second next btn-s">Sign me up</button>
+    </div>
+  </div>
+</div>													
+</div>
+<!-- multi step -->
+
+
+<div style="display: none;">
+<input type="hidden" name="meta_web_form_id" value="812149649" />
+<input type="hidden" name="meta_split_id" value="" />
+<input type="hidden" name="listname" value="awlist5746932" />
+<input type="hidden" name="redirect" value="https://www.unnus.com/private/acknowledgment" id="redirect_8446ff3eca1bc3243a231d877a368cc9" />
+
+<input type="hidden" name="meta_adtracking" value="" />
+<input type="hidden" name="meta_message" value="1" />
+<input type="hidden" name="meta_required" value="name,email" />
+<input type="hidden" name="meta_forward_vars" value="1" />
+<input type="hidden" name="meta_tooltip" value="" />
+</div>
+</form>						
+
+
+			</div>
+		</div>
+</header>

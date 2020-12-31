@@ -19,6 +19,7 @@ twitterHandle = "/SlimanBaghouri"
 
 +++
 {{% hook %}}**Warning: This list contain ads that may tug your heartstrings, uplift your mood, or tickle your stomach.** {{% /hook %}}
+<!--more-->
 
 ***
 
@@ -42,7 +43,6 @@ These ads we will discuss today are:
 
 Let’s start.
 
-<!--more-->
 
 ## Hospital adverts examples
 

@@ -23,6 +23,7 @@ twitterHandle = "/@SlimanBaghouri"
 {{% hook %}} **Healthcare brands use them as a “decoration”.** {{% /hook %}}
 
 {{% hook %}} **But a mission statement carries with them unexplored advantages.**{{% /hook %}}
+<!--more-->
 
 ***
 
@@ -55,8 +56,6 @@ We’ll also go into how to develop one that stands out.
 You’ll craft a mission statement that is unique, memorable, and—authentic.
 
 More than that, we’ll see the practical use cases of a mission statement and how it will benefit your practice.
-
-<!--more-->
 
 This article covers:
 

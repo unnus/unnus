@@ -21,6 +21,7 @@ twitterHandle = "SlimanBaghouri"
 {{% hook %}} **You want your patients to fall head-over-heels in love with your practice?**{{% /hook %}}
 
 {{% hook %}} **The Best way of achieving that is to build a charismatic dental brand.**{{% /hook %}}
+  <!--more-->
 
 ***
 
@@ -42,7 +43,6 @@ This article covers:
 * Advantages of having a charismatic dental brand.
 * Quick techniques to know if your practice _is_ charismatic
 * And more…
-  <!--more-->
 
 ## Common misconceptions about dental branding
 

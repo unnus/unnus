@@ -22,7 +22,8 @@ twitterHandle = "/@SlimanBaghouri"
 
 {{% hook %}}**How do you break through the noise and single your company out?** {{% /hook %}}
 
-{{% hook %}} **How do you fuel your R&D efforts with an innovation power charge?** {{% /hook %}}
+{{% hook %}} **How do you fuel your R&D efforts with an innovation powerhouse?** {{% /hook %}}
+<!--more-->
 
 ***
 
@@ -37,7 +38,6 @@ By the end of this article, you’ll have a clear understanding of
 
 Without wasting time, let’s dive in.
 
-<!--more-->
 
 ## Threats the pharmaceutical industry is facing
 

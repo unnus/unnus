@@ -19,6 +19,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 +++
 {{% hook %}}**If you’d like to soar your medical business performance, slash potential risks in half, and harvest the untouched profitability lands, this article is for you.**{{% /hook %}}
+<!--more-->
 
 In this article, I’ll share with you what is SWOT Analysis, how you can perform it, AND how you can _track_ your success using this tool.
 
@@ -35,7 +36,6 @@ Topics that I’ll cover are:
 
 Without wasting too much time, let's dig in.
 
-<!--more-->
 
 ## **What is SWOT analysis in healthcare?**
 
