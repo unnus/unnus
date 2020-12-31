@@ -1,7 +1,7 @@
 +++
 author = "Sliman M. Baghouri"
 authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
+authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2020-12-05T23:00:00Z
@@ -18,7 +18,6 @@ title = "Little-Known Chiropractic Marketing Ideas 2021 [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-
 {{% hook %}}**TLDR: I’ll share with you unconventional but ridiculously powerful chiropractic marketing strategies. I’ll also cover common pitfalls to avoid when marketing your practice.**{{% /hook %}}
 <!--more-->
 
