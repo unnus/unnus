@@ -1,21 +1,21 @@
 +++
-author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
-authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+author = "Sara Seirawan"
+authorAvatarBottom = "/assets/images/ss-1.jpg"
+authorAvatarTop = "/assets/images/s.jpg"
+authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-marketing"
 date = 2020-11-16T23:00:00Z
 description = "If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative orthodontics marketing tips for a profitable practice."
 featImg = "/assets/images/orthodontic-marketing.jpg"
 featImgThumb = "/assets/images/orthodontic-marketing.jpg"
-linkedinHandle = "slimaneBaghouri"
+linkedinHandle = "SaraSeirawan"
 page = "medical/single.html"
 readingTime = "7"
 slug = "/orthodontic-marketing"
 socialThumbnail = "/assets/images/orthodontic-marketing.jpg"
 table_of_content = ["the-risk-of-not-being-seen-in-the-dental-industry", "this-is-why-most-orthodontic-marketing-efforts-fail", "orthodontic-marketing-ideas", "leverage-social-media-i-know-but-hear-me-out", "utilize-brand-storytelling-strategy-with-content-marketing", "online-paid-advertising-for-your-orthodontic-practice", "the-secret-to-orthodontic-marketing"]
 title = "Little-known Orthodontic Marketing Ideas 2021 (+Examples)"
-twitterHandle = "@SlimanBaghouri"
+twitterHandle = "@SaraSeirawan"
 
 +++
 {{% hook %}}**If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative marketing tips on how to create a profitable and future-proof orthodontic brand**. {{% /hook %}}
