@@ -1,21 +1,21 @@
 +++
-author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/SlimanBaghouri.png"
-authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
-authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+author = "Sara Seirawan"
+authorAvatarBottom = "/assets/images/ss-1.jpg"
+authorAvatarTop = "/assets/images/s.jpg"
+authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also chief a author at unnus Magazine."
 category = "healthcare-branding"
 date = 2020-11-01T23:00:00Z
 description = "With the cutthroat competition, pharmaceutical company need to differentiate in order survive. In this article we'll discuss how you can cut through \"me too\" competition using proven pharma branding strategies"
 featImg = "/assets/images/pharma-branding.jpg"
 featImgThumb = "/assets/images/pharma-branding.jpg"
-linkedinHandle = "slimaneBaghouri"
+linkedinHandle = "SaraSeirawan"
 page = "medical/single.html"
 readingTime = "12"
 slug = "pharma-branding"
 socialThumbnail = "/assets/images/pharma-branding.jpg"
 table_of_content = ["threats-the-pharmaceutical-industry-is-facing", "what-is-pharmaceutical-branding", "advantages-of-branding-in-the-pharmaceutical-industry", "the-5-stages-of-brand-strategy ", "the-truth-about-building-a-future-proof-pharmaceutical-brand"]
 title = "Pharma Branding: Create A Market-Leading Company (2021)"
-twitterHandle = "/@SlimanBaghouri"
+twitterHandle = "/@SaraSeirawan"
 
 +++
 {{% hook %}} **The rate at which competition is surging in Big Pharma is quickening.** {{% /hook %}}
