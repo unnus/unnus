@@ -2,7 +2,7 @@
 author = "Sara Seirawan"
 authorAvatarBottom = "/assets/images/ss-1.jpg"
 authorAvatarTop = "/assets/images/s.jpg"
-authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also chief a author at unnus Magazine."
+authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-branding"
 date = 2020-11-01T23:00:00Z
 description = "With the cutthroat competition, pharmaceutical company need to differentiate in order survive. In this article we'll discuss how you can cut through \"me too\" competition using proven pharma branding strategies"
