@@ -1,8 +1,8 @@
 +++
-author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
-authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+author = "Sara Seirawan"
+authorAvatarBottom = "/assets/images/ss-1.jpg"
+authorAvatarTop = "/assets/images/s.jpg"
+authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-marketing"
 date = 2020-12-22T23:00:00Z
 description = "This guide contains new healthcare planning strategies, why it's important, examples, traps to avoid, and all you need."
