@@ -38,7 +38,6 @@ This article covers:
 
 Without wasting too much time, let’s start.
 
-
 ## **Why Most Chiropractic Marketing Campaigns Fail**
 
 Let’s take a proactive approach and go through common marketing mistakes so you can avoid them.
@@ -132,7 +131,7 @@ Why do you do what you do besides making a profit? Why would anyone care? And ar
 
 Businesses who can articulate their **Why** to their audience enjoy cult-like following, automatic repurchases, and soaring patient retention rate.
 
-That’s because when you communicate with purpose-backed messages, your marketing is perceived by the limbic system, the part of the brain that is responsible for emotions, and [decision-making](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032808/).
+That’s because when you communicate with purpose-backed messages, your marketing is perceived by the limbic system, the part of the brain that is responsible for emotions, and [decision making](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032808/).
 
 Purpose-backed messages are marketing messages that are infused with a high sense of mission, jargon-free, and illustrate your business’s purpose. We also call them **Why Messages**.
 
@@ -282,7 +281,6 @@ Write all of the possible ideas and start plotting them on the BDG.
 
 Athletim™’s graph will look something like this:
 
-  
 ![Brand Differentiator Graph Exercise](/assets/images/differentiator-graph.jpg "Brand Differentiator Graph Exercise")
 
 ### **3) Onliness Statement Development**
@@ -414,11 +412,11 @@ We’ll take the visual aspects of your brand's most representative keywords (wh
 Confidental™ outlook theme will look something like:
 
 ![Creative Process Exercise ](/assets/images/creative-process.jpg "Creative Process Exercise ")  
-After that, you can hand this art direction to your designer and your visual identity will be tailored to your practice. 
+After that, you can hand this art direction to your designer and your visual identity will be tailored to your practice.
 
 And best of all, your identity carries with it **meaning**. It’s not a “yet-another-chiro-brand” kind of work.
 
-## **4) Using Brand Voice Strategy With Social Media** 
+## **4) Using Brand Voice Strategy With Social Media**
 
 Many consider social media as a “nice to have” rather than a channel to acquire patients. What muddies the waters, is the dull “updates” or “we’re closed” kind of posts. Some businesses try to improve on this and share “quotes” and fun videos on their pages.
 
@@ -553,7 +551,6 @@ The following diagram represents how you will distribute these secondary message
 ![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare-examples-2.jpg "brand storytelling in healthcare")  
 To decide which marketing channels work best for your promotional efforts, you can use our Channel Distribution Exercise™. It helps you see which ones benefit you more based on their impact and level of difficulty.
 
-  
 ![Chiropractic Marketing Channel Distribution Exercise](/assets/images/storytelling-in-healthcare-brand-distribution.jpg "Chiropractic Marketing Channel Distribution Exercise")
 
 To download PDF or print this exercise [for free click here](https://drive.google.com/file/d/1cdzmljN5ksDHK7G2Va8_GWfkmir6CTQ_/view?usp=sharing).
@@ -612,8 +609,8 @@ Log in to your iTunes. if you don’t have it, download it from [here](https://w
 
 After you sign up, on the top-right search bar, type “Chiropractic Podcasts”. You’ll be faced with the following result:
 
-![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast.jpg "Finding chiropractic podcast through iTunes")  
-  
+![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast.jpg "Finding chiropractic podcast through iTunes")
+
 Click on one of the podcasts. In the podcast homepage on the left side, you’ll find the link section where you find the website link.
 
 ![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast-guests.jpg "Finding chiropractic podcast through iTunes")
