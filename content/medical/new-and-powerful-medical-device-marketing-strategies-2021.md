@@ -130,14 +130,14 @@ Core messages are all you need your audience to know about your brand, how it ca
 
 In particular, core messages should contain the following:
 
-* **Differentiators**
-  * What makes your product/company different from other alternatives? And how can this benefit your audience?
-* **Key Benefits**
-  * What are the benefits & features your product provides to healthcare providers? How does it enhance the patient experience or outcomes?
-* **Audience**
-  * Who is your target audience and what do you want them to understand about your brand? And why are we catering to them?
-* **Pain-Points**
-  * What challenges they are facing your products can solve? How these obstacles are hindering their progress?
+1. **Differentiators**
+   * What makes your product/company different from other alternatives? And how can this benefit your audience?
+2. **Key Benefits**
+   * What are the benefits & features your product provides to healthcare providers? How does it enhance the patient experience or outcomes?
+3. **Audience**
+   * Who is your target audience and what do you want them to understand about your brand? And why are we catering to them?
+4. **Pain-Points**
+   * What challenges they are facing your products can solve? How these obstacles are hindering their progress?
 
 ![Diagram that shows Core Messages Components](/assets/images/3-storytelling-diagram-core-messages.jpg "Diagram that shows Core Messages Components")
 
