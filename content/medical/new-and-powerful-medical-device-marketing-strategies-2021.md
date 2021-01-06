@@ -21,11 +21,11 @@ twitterHandle = "/@SlimanBaghouri"
 +++
 {{% hook %}} **Outdated medical device marketing is out of sync with the rapidly changing MedTech industry. This article outlines a new and effective approach.** {{% /hook %}}
 
- <!--more-->
+<!--more-->
 
 ***
 
-“Adapt digital marketing”, “Use case studies” and “building relationships” are insufficient marketing advice. These marketing ways are sound but if applied without an overarching strategy, becomes an accumulation of tactics that comes with an expiration date.
+“Adapt digital marketing”, “Use case studies” and “building relationships” are insufficient marketing advice. These marketing ways are sound but if applied without an overarching strategy, they become an accumulation of tactics that comes with an expiration date.
 
 Yet still, what medical device marketers today claim to be a “strategy” is more of a loose structure than it is a grounded strategy. In this article, I’ll share with you a new and tested strategy that will overhaul the way you market your medical firm.
 
