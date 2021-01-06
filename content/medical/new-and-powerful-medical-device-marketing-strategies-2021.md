@@ -98,8 +98,8 @@ Now that you have a good idea of what this strategy is about, let’s see its fo
 Brand DNA refers to the core aspects of your business. The credo of your firm and the values that glues it together. To have a proper brand DNA, your company needs to have an answer to the three following questions:
 
 1. **What** is it that the company does?
-2. **How does your company do it? how is that different from the others? And;**
-3. **Why does it matter and why should your company exist (besides making a profit)?**
+2. **How** does your company do it? how is that different from the others? And;
+3. **Why** does it matter and why should your company exist (besides making a profit)?
 
 Most medical device companies know What they’re doing, some know the How, but few know the **Why.** And if they do, they are rarely vocal about it.
 
@@ -108,7 +108,7 @@ Why does your company exist besides making money? And why should anyone care? Th
 To see why this is the case, let's examine two types of marketing messages:
 
 1. **What/how Messages:** This is marketing which focuses on describing _what_ the product does, its features, and _how it_ benefits the medical professional.
-2. **Why Messages are communication that is meaningful, trust-infused, and weaves credible stories about the products.**
+2. **Why Messages:** are communication that is meaningful, trust-infused, and weaves credible stories about the products.
 
 As much as we like to stress the features and the benefits of the **what/how** messages, our brain responds better with **Why Messages**. Messages that tell stories, inspire, and trigger us to take action.
 
@@ -156,14 +156,14 @@ Secondary messages are more centered around your brand, it’s purpose, and miss
 
 The components will include:
 
-* **The Brand’s Why**
-  * Its purpose and driving force that guides the whole company. What are the meaningful messages that you want your audience to perceive from your firm?
-* **Future Brand**
-  * What is the aspiration your firm is trying to achieve? How does that correlate with healthcare professionals? What’s the true north of the brand?
-* **The Brand’s How**
-  * How will you accomplish these goals and endeavors? And what makes your firm’s approach different from the alternatives?
-* **Brand Pillars**
-  * What are the key principles that direct the company? Are there any guidelines that help the brand navigate the uncertainty of market change?
+1. **The Brand’s Why**
+   * Its purpose and driving force that guides the whole company. What are the meaningful messages that you want your audience to perceive from your firm?
+2. **Future Brand**
+   * What is the aspiration your firm is trying to achieve? How does that correlate with healthcare professionals? What’s the true north of the brand?
+3. **The Brand’s How**
+   * How will you accomplish these goals and endeavors? And what makes your firm’s approach different from the alternatives?
+4. **Brand Pillars**
+   * What are the key principles that direct the company? Are there any guidelines that help the brand navigate the uncertainty of market change?
 
 ![Diagram that shows Secondary Messages Components](/assets/images/4-storytelling-diagram-secondary-messages-components.jpg "Diagram that shows Secondary Messages Components")
 
@@ -177,12 +177,12 @@ Your audience's attention span is limited. And to convey these messages you’ll
 
 The communication framework contains 3 main elements:
 
-* **Story blocks**
-  * We’ll discuss this in-depth in a minute.
-* **Message Blocks**
-  * These are Core Messages & Secondary Messages
-* **Channel Distribution**
-  * The marketing channels which we will distribute our stories on
+1. **Story blocks**
+   * We’ll discuss this in-depth in a minute.
+2. **Message Blocks**
+   * These are Core Messages & Secondary Messages
+3. **Channel Distribution**
+   * The marketing channels which we will distribute our stories on
 
 #### Story Blocks
 
@@ -192,20 +192,20 @@ This part of the campaign is the formula we’re going to use to launch the camp
 
 There are 7 critical story blocks any storytelling campaign must have:
 
-* **Current State**
-  * This is the current state of your audience _without_ your product/brand. At this stage, we create an environment that is relatable to your target audience and all the marketing messages should create a sense of familiarity and build trust with the audience.
-* **The Obstacle**
-  * This block will contain messages that relate to the problems your audience is currently facing. all the messages here must be aimed at these issues and how we can assist the customers to navigate them.
-* **Call To Action**
-  * This section will focus on the consequences of unresolved issues and what might happen if these issues are left untreated. This will trigger adaptation for your product and highlight the issues it solves.
-* **Meeting The Guide**
-  * The guide here is your brand. Here we showcase what your brand can do and how it can slash your audience’s problems in half. Marketing messages in this section should reassure, assist, and help your audience progress towards better results using your products.
-* **Challenge**
-  * Despite the tropes and clichés about healthcare professionals, they still have inner fears, emotional investment, and desires. In this section, we’re going to highlight these aspects and try to relate to your audience, thus creating trust and preference towards your firm.
-* **Change**
-  * Your target audience is looking for a change. Otherwise, they wouldn’t buy your products. This phase will shed light on what is the impact and transformation your product had on its users.
-* **The New State**
-  * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is after your product/brand solved all of the audience’s issues.
+1. **Current State**
+   * This is the current state of your audience _without_ your product/brand. At this stage, we create an environment that is relatable to your target audience and all the marketing messages should create a sense of familiarity and build trust with the audience.
+2. **The Obstacle**
+   * This block will contain messages that relate to the problems your audience is currently facing. all the messages here must be aimed at these issues and how we can assist the customers to navigate them.
+3. **Call To Action**
+   * This section will focus on the consequences of unresolved issues and what might happen if these issues are left untreated. This will trigger adaptation for your product and highlight the issues it solves.
+4. **Meeting The Guide**
+   * The guide here is your brand. Here we showcase what your brand can do and how it can slash your audience’s problems in half. Marketing messages in this section should reassure, assist, and help your audience progress towards better results using your products.
+5. **Challenge**
+   * Despite the tropes and clichés about healthcare professionals, they still have inner fears, emotional investment, and desires. In this section, we’re going to highlight these aspects and try to relate to your audience, thus creating trust and preference towards your firm.
+6. **Change**
+   * Your target audience is looking for a change. Otherwise, they wouldn’t buy your products. This phase will shed light on what is the impact and transformation your product had on its users.
+7. **The New State**
+   * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is after your product/brand solved all of the audience’s issues.
 
 ![Diagram that shows Secondary Messages Components](/assets/images/5-storytelling-diagram-communication-framework-components.jpg "Diagram that shows Secondary Messages Components")
 
