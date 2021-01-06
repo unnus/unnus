@@ -188,7 +188,7 @@ The communication framework contains 3 main elements:
 
 This part of the campaign is the formula we’re going to use to launch the campaign as a form of a story. The messages we’ve been developing up until now will be deployed in a manner akin to a novel or a movie, but this time, it’ll market your company and its products.
 
-{{% important %}} It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress**.** {{% /important %}}
+{{% important %}} It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress. {{% /important %}}
 
 There are 7 critical story blocks any storytelling campaign must have:
 
