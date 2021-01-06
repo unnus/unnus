@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2021-01-05T23:00:00Z
 description = "Current medical device marketing is out of sync with the changing MedTech industry. This article outlines a new and effective approach along with examples"
-draft = true
 featImg = "/assets/images/featured-1.jpg"
 featImgThumb = "/assets/images/featured-1.jpg"
 linkedinHandle = "/slimaneBaghouri"
