@@ -26,7 +26,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 “Adapt digital marketing”, “Use case studies” and “building relationships” are insufficient marketing advice. These marketing ways are sound but if applied without an overarching strategy, they turn into an accumulation of tactics that comes with an expiration date.
 
-Yet still, what medical device marketers today claim to be a “strategy” is more of a loose structure than it is a grounded strategy. In this article, I’ll share with you a new and tested strategy that will overhaul the way you market your medical firm.
+Yet still, what medical device marketers today claim to be a “strategy” is more of a loose structure than it is a grounded strategy. In this article, I’ll share with you a new and tested strategy that will overhaul the way you market your medical device firm.
 
 This article contains:
 
@@ -148,7 +148,6 @@ In addition, these messages will act as the theme of your storytelling campaign 
 
 ### Stage 3: Developing Secondary Messages
 
-  
 ![Diagram shows the secondary messages phase](/assets/images/4-storytelling-diagram-secondary-messages.jpg "Diagram shows the secondary messages phase")
 
 Secondary messages are more centered around your brand, it’s purpose, and mission. In this stage, we’ll hone in the true north that guides your firm and the values it upholds. These messages are secondary to the campaign but are crucial for brand awareness.
@@ -208,7 +207,7 @@ There are 7 critical story blocks any storytelling campaign must have:
 
 ![Diagram that shows Secondary Messages Components](/assets/images/5-storytelling-diagram-communication-framework-components.jpg "Diagram that shows Secondary Messages Components")
 
-## Examples of medical device marketing using storytelling 
+## Examples of medical device marketing using storytelling
 
 Now that we have our Message Blocks and Story Blocks, we can use the Communication Framework to form marketing assets and deploy our messages.
 
@@ -220,7 +219,6 @@ Let’s say that your audiences are dentists and your firm sells CEREC Machines.
 
 Here’s an example of the selection process:
 
-  
 ![Example of medical device marketing using storytelling strategy](/assets/images/6-examples-of-medical-device-marketing.jpg "Example of medical device marketing using storytelling strategy")  
 The beauty of this framework lies in your ability to narrate your core messages in a way that speaks directly to your customers and creates [brand preference](https://unnus.com/medical/healthcare-branding/) towards your brand.
 
