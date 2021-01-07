@@ -20,7 +20,7 @@
 
 <div class="container">
 	<div class="article-holder">
-   {{ range first 1 (after 1 .Data.Pages) }}
+   {{ range first 1 (after 0 .Data.Pages) }}
 
 		<div style="background:url('{{.Params.featImgThumb}}');background-size:cover;background-position: center;" class="main-article-section">
 			<a href="{{.RelPermalink}}"></a>
@@ -93,7 +93,7 @@
 			</div>
 		</div>
 
-   {{ range first 1 (after 7 .Data.Pages) }}
+   {{ range first 1 (after 8 .Data.Pages) }}
 
 		<div style="margin-right:0;background:url('{{.Params.featImgThumb}}');background-size:cover;background-position: center;" class="main-article-section">
 						<a href="{{.RelPermalink}}"></a>
