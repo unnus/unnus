@@ -1,5 +1,5 @@
 +++
-bulletpoints = []
+bulletpoints = ["How to cut business healthcare expenses", "Price transparency in healthcare", "Unspoken about matters in healthcare"]
 description = "Today dr. Luke lifts the veil on some of the unspoken about matters in healthcare. We'll also look on how to cut your business expenses."
 draft = true
 episodeIframe = ""
