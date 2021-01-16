@@ -22,7 +22,7 @@ You're indoctrinating your patients, you're literally whispering in their ear ab
 
 Sliman:
 
-Welcome to the Care Frontiers podcast The show where we interviewed thought leaders in healthcare to share with us their expert knowledge and business branding and marketing. If you're a practitioner, medical business owner or an executive, this is the place to be. I'm your host Sliman Baghouri, and in today's episode, we'll talk about how you can treat your practice as a more of a business owner and less of an employed physician. Today's guest will share with us his strategies for thriving medical business.make sure to join in all the way through for more details. 
+Welcome to the Care Frontiers podcast The show where we interview thought leaders in healthcare to share with us their expert knowledge and business branding and marketing. If you're a practitioner, medical business owner or an executive, this is the place to be. I'm your host Sliman Baghouri, and in today's episode, we'll talk about how you can treat your practice as a more of a business owner and less of an employed physician. Today's guest will share with us his strategies for thriving medical business. Make sure to join in all the way through for more details. 
 
 Sliman:
 
