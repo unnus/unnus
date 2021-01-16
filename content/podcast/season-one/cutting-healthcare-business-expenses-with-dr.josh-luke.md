@@ -2,11 +2,11 @@
 bulletpoints = ["How to cut business healthcare expenses", "Price transparency in healthcare", "Unspoken about matters in healthcare"]
 description = "Today dr. Luke lifts the veil on some of the unspoken about matters in healthcare. We'll also look on how to cut your business expenses."
 draft = true
-episodeIframe = ""
+episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Cutting-Healthcare-Business-Expenses-With-Dr--Josh-Luke-ep20hs"
 guest = "Dr. Josh Luke"
 guestContact = ["Looking for a keynote speaker? Email Dr. Luke at info@health-wealth.com", "Check out his website=drjoshluke.com", "Connect with him on linkedin=www.linkedin.com/in/drjoshluke/"]
 guestPicture = "/assets/images/hero-bkg-1030x566-1.jpg"
-guestResources = ["Tune in for his own podcast=drjoshluke.com/insights/podcasts/", "Don't miss Dr Luke's online programs=drjoshluke.com/online-programs/", "Purchase Dr Luke's books on amazon=www.amazon.com/Josh-Luke/e/B01MSR14GC%3Fref=dbs_a_mng_rwt_scns_share", "Check out health-wealth website=health-wealth.com"]
+guestResources = ["Don't miss Dr Luke's online programs=drjoshluke.com/online-programs/", "Purchase Dr Luke's books on amazon=www.amazon.com/Josh-Luke/e/B01MSR14GC%3Fref=dbs_a_mng_rwt_scns_share", "Check out health-wealth website=health-wealth.com", "Tune in for his own podcast=drjoshluke.com/insights/podcasts/"]
 page = "podcast/single.html"
 platforms = []
 season = "season-one"
