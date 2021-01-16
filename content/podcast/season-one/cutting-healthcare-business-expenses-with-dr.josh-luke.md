@@ -17,7 +17,7 @@ which = "episode-cover"
 +++
 Josh:
 
-You'd be amazed how many times people are like "I want to sell the hospital". Why would the hospital buy anything? They're just an expense in the model now. "oh we have this great technology then for health plans and health systems that they're going to love". Well, they've been doing this model for 20 years. What about your approach is new? just because you came from the acute space, it's just new to you, it may not be new to them. And where's the value added in them acquiring it?
+You'd be amazed how many times people are like "I want to sell to hospitals". Why would the hospital buy anything? They're just an expense in the model now. "oh we have this great technology then for health plans and health systems that they're going to love". Well, they've been doing this model for 20 years. What about your approach is new? just because you came from the acute space, it's just new to you, it may not be new to them. And where's the value added in them acquiring it?
 
 Sliman:
 
