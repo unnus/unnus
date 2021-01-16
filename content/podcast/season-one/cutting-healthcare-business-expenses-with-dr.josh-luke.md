@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["How to cut business healthcare expenses", "Price transparency in healthcare", "Unspoken about matters in healthcare"]
 description = "Today dr. Luke lifts the veil on some of the unspoken about matters in healthcare. We'll also look on how to cut your business expenses."
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Cutting-Healthcare-Business-Expenses-With-Dr--Josh-Luke-ep20hs"
 guest = "Dr. Josh Luke"
 guestContact = ["Looking for a keynote speaker? Email Dr. Luke at info@health-wealth.com", "Check out his website=drjoshluke.com", "Connect with him on linkedin=www.linkedin.com/in/drjoshluke/"]
