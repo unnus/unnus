@@ -114,7 +114,7 @@ And if they are incentivized in their capitalistic business model to buy your pr
 
 Sliman:
 
-Of course, definitely, the links are in the show notes. To close this off. Dr. Luke, do you have any takeaways for our audience or the listeners,
+Of course, definitely, the links are in the show notes. To close this off. Dr. Luke, do you have any takeaways for our audience or the listeners?
 
 Josh:
 
