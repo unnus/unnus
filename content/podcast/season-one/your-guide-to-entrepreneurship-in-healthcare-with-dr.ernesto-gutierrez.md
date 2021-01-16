@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["How his company is helping practitioners skyrocket their revenue ", "Building Personal Brand", "Taking a hold of healthcare business side of things"]
 description = "Today Dr. Ernesto share with us his business strategies that helped hundreds of medical professionals enjoy greater practice growth. "
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Your-Entrepreneurship-Guide-In-Healthcare-With-Dr--Ernesto-Gutierrez-ep2246"
 guest = "Dr. Ernesto Gutierrez "
 guestContact = ["Email him at contact@drernestomd.com", "Connect With Dr Ernesto on linkedin=www.linkedin.com/in/drernestomd/", "Visit his personal website=drernestomd.com"]
