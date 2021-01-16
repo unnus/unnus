@@ -166,7 +166,7 @@ Thank you so much Dr. Ernesto for taking the time. And this is such an insightfu
 
 Ernesto:
 
-No, thank you so much. For the invite. It's always a pleasure being able to hopefully inspire other healthcare professionals into going going into business for themselves. And it's not only for themselves, but it is for their patients, their patients are are better served if they are able to practice to the best of their ability. So as long as I can do that, I'm always happy to join you.
+No, thank you so much for the invite. It's always a pleasure being able to hopefully inspire other healthcare professionals into going going into business for themselves. And it's not only for themselves, but it is for their patients, their patients are are better served if they are able to practice to the best of their ability. So as long as I can do that, I'm always happy to join you.
 
 Sliman:
 
