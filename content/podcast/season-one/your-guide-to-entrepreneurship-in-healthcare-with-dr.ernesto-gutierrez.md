@@ -146,7 +146,7 @@ There's 150,000 people that are following me because of my health advice, and th
 
 Sliman:
 
-Yeah, it's a great advice especially, it's a nice way to expand your sphere of influence from get go. 
+Yeah, it's a great advice especially, it's a nice way to expand your sphere of influence from the get go. 
 
 Ernesto:
 
