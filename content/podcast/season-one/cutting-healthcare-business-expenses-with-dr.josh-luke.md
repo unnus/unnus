@@ -34,7 +34,7 @@ Thanks, I'm so happy to be here. I'm excited to share with your audience and lea
 
 Sliman:
 
-I'm really excited, I'm pumped to start driving ahead to the questions. But before that, I really want to take a little background of you and tell me a bit how it's all led to what you're doing right now.
+I'm really excited, I'm pumped to start diving ahead directly into the questions. But before that, I really want to take a little background of you and tell me a bit how it's all led to what you're doing right now.
 
 Josh:
 
