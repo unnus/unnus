@@ -4,9 +4,9 @@ description = "Today dr. Luke lifts the veil on some of the unspoken about matte
 draft = true
 episodeIframe = ""
 guest = "Dr. Josh Luke"
-guestContact = ["You can email him at info@health-wealth.com", "Connect with him on linkedin=www.linkedin.com/in/drjoshluke/"]
+guestContact = ["Check out his website=drjoshluke.com", "You can email him at info@health-wealth.com", "Connect with him on linkedin=www.linkedin.com/in/drjoshluke/"]
 guestPicture = "/assets/images/hero-bkg-1030x566-1.jpg"
-guestResources = []
+guestResources = ["Check out health-wealth website=health-wealth.com"]
 page = "podcast/single.html"
 platforms = []
 season = "season-one"
