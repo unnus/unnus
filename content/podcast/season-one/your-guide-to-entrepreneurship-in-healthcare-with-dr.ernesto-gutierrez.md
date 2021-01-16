@@ -1,6 +1,6 @@
 +++
 bulletpoints = ["How his company is helping practitioners skyrocket their revenue ", "Building Personal Brand", "Taking a hold of healthcare business side of things"]
-description = "Today Dr. Ernesto share with us his business strategies that helped hundreds of medical professionals to enjoy greater practice growth. "
+description = "Today Dr. Ernesto share with us his business strategies that helped hundreds of medical professionals enjoy greater practice growth. "
 draft = true
 episodeIframe = ""
 guest = "Dr. Ernesto Gutierrez "
