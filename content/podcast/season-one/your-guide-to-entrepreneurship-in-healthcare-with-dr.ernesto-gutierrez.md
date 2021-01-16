@@ -9,7 +9,7 @@ guestResources = ["Visit Practice Growth Formula website=pgformula.com/", "Check
 page = "podcast/single.html"
 platforms = []
 season = "season-one"
-slug = "healthcare-entrepreneurship "
+slug = "healthcare-entrepreneurship"
 tagline = "Healthcare Entrepreneurship"
 title = "Healthcare Entrepreneurship With Dr. Ernesto Gutierrez "
 which = "episode-cover"
