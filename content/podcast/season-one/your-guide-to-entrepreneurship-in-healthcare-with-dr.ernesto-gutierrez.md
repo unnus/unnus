@@ -12,7 +12,7 @@ platforms = []
 season = "season-one"
 slug = "healthcare-entrepreneurship "
 tagline = "Healthcare Entrepreneurship"
-title = "Your Healthcare Entrepreneurship Guide With Dr. Ernesto Gutierrez "
+title = "Healthcare Entrepreneurship Guide With Dr. Ernesto Gutierrez "
 which = "episode-cover"
 
 +++
