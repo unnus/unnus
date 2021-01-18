@@ -3,9 +3,9 @@ bulletpoints = ["How his company is helping practitioners skyrocket their revenu
 description = "Today Dr. Ernesto share with us his business strategies that helped hundreds of medical professionals enjoy greater practice growth. "
 episodeIframe = "https://open.spotify.com/embed-podcast/episode/3lQAK21fsff50p3DoBSIQm"
 guest = "Dr. Ernesto Gutierrez "
-guestContact = ["Email him at contact@drernestomd.com", "Connect With Dr Ernesto on linkedin=www.linkedin.com/in/drernestomd/", "Or at contact@pgformula.com"]
+guestContact = ["Email him at contact@drernestomd.com", "Or at contact@pgformula.com", "Connect With Dr Ernesto on linkedin=www.linkedin.com/in/drernestomd/"]
 guestPicture = "/assets/images/dre-247-1024x683-landscape-1.jpg"
-guestResources = ["Visit Practice Growth Formula website=pgformula.com/", "Starting your own podcast?\nDownload this free checklist!=podcastinabox.co/carefrontiers ", "Listen to Dr Ernesto's highway to health show=drernestomd.com/podcast/", "Tune in to the Entrepreneur MD Show=the-entrepreneur-md.simplecast.com/"]
+guestResources = ["Download the free checklist=podcastinabox.co/carefrontiers ", "Visit Practice Growth Formula website=pgformula.com/", "Listen to Dr Ernesto's highway to health show=drernestomd.com/podcast/", "Tune in to the Entrepreneur MD Show=the-entrepreneur-md.simplecast.com/"]
 page = "podcast/single.html"
 platforms = []
 season = "season-one"
