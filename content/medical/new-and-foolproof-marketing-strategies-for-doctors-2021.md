@@ -20,6 +20,10 @@ twitterHandle = "/@SlimanBaghouri"
 +++
 {{% hook %}} This article outlines proven and strategic ways to catapult your practice profitability to the next level. {{% /hook %}}
 
+<!--more-->
+
+***
+
 If you’re bored with the usual “be on social media” advice, You’ll find this list refreshing. I’m going to share with you new and ridiculously powerful marketing ideas you can use to market your practice.
 
 This article covers:
@@ -79,7 +83,6 @@ Building a personal brand is not about harvesting social media followers and tra
 
 Imagine what you want to say to your ideal patient goes through intact - crystal clear and potent? **What if your messages are perceived straight into people's brains without distortion, noise, or the need to think too much about it?** Brand Storytelling Strategy shrinks the "psychic distance” between your medical business and your ideal patient so that a relationship can begin to develop.
 
-  
 These gap-crossing, distance-shrinking messages are the building blocks of a great storytelling campaign.
 
 **Brand Storytelling** is a strategy used to communicate with your target patient in a novel, digestible, and more trustworthy way. The strategy focuses on creating inspiring stories around your practice, its services, and your patients.
@@ -189,7 +192,6 @@ If you’re wondering which one is best for you, here’s a diagram that categor
 
 ## Doctor office advertising (outbound marketing)
 
-  
 ![Illustration that shows advertising strategy](/assets/images/outbound-marketing.jpg "Office advertising strategy")
 
 Outbound marketing is any effort that aims to market your medical office using paid advertising and promotional ads. Unlike the previous strategy, this one is more geared towards paid ads.
@@ -271,8 +273,8 @@ A simple step-by-step process goes like this:
 
 Examples of this strategy come from Dr. Marchbanks and his published article on The Blogging Doctors.
 
-![Picture of guest blogging for doctors](/assets/images/published-articles-1.jpg "Example of generating patients with articles")  
-  
+![Picture of guest blogging for doctors](/assets/images/published-articles-1.jpg "Example of generating patients with articles")
+
 That links lead to a page where readers can book an appointment
 
 ![Picture of a booking page](/assets/images/published-articles-2.jpg "Picture of a booking page")
