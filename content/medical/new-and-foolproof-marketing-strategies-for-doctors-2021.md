@@ -159,7 +159,7 @@ There are countless benefits from creating a sales funnel but the most beneficia
 3. **It makes your marketing simple**
    * Sales funnels remove all the complex and finer details you have to do when you’re actively marketing your medical business. Having a systematic approach makes your medical marketing stress-free.
 
-If you’d like to see another example of this strategy in action, [jump to this section](https://unnus.com/medical/marketing-for-doctors/#creating-an-email-autoresponder-strategy).
+If you’d like to see another example of this strategy in action, [jump to this section](#creating-an-email-autoresponder-strategy).
 
 ## Online marketing for doctors (inbound marketing)
 
