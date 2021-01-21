@@ -188,7 +188,7 @@ If you’re wondering which one is best for you, here’s a diagram that categor
 
 ![](/assets/images/marketing-strategy-diagram-1.jpg)
 
-## doctor office advertising (outbound marketing)
+## Doctor office advertising (outbound marketing)
 
   
 ![Illustration that shows advertising strategy](/assets/images/outbound-marketing.jpg "Office advertising strategy")
@@ -213,7 +213,7 @@ Again, we’ve made a diagram for you to make it easy to choose between all thes
 
 ![](/assets/images/marketing-strategy-diagram-2.jpg)
 
-## 8) Creating An Email Autoresponder Strategy
+## Creating an email autoresponder strategy
 
 ![illustration that shows email marketing strategy for doctors](/assets/images/email-marketing-for-doctors.jpg "Email Autoresponder Strategy in healthcare")
 
@@ -241,4 +241,78 @@ The following is an illustration that shows how your potential patients move thr
 
 If you want to start applying this strategy, here’s a great video to start:
 
-\[INSERT VIDEO\]
+{{< youtube cPpkkKgAWKQ>}}
+
+## Positioning strategy for doctors
+
+![Illustration that shows positioning for doctors](/assets/images/positioning-strategy.jpg "Positioning for doctors")
+
+Positioning strategy aims to single your practice out of the sea of sameness. It’s a strategy based on differentiation and breaking through the clutter.
+
+The effectiveness of this strategy lies in our biological structure. Our brain acts as a filter to protect us from the vast amount of irrelevant information and we are wired to notice what’s different.
+
+The Positioning Strategy is all about focusing on your brand and finding a **differentiator** for your medical business. It’s about creating new perceptions in the eyes of your patient.
+
+If you’d like to get the step-by-step process for positioning in healthcare, check our [positioning guide ](https://unnus.com/medical/chiropractic-marketing/#2-developing-a-brand-positioning-strategy)here. We give an example for a chiropractic practice but it works just the same for any medical field.
+
+## Generate patients with published articles
+
+![Illustration shows generating patients with blogging for doctors](/assets/images/guest-posting-for-doctors.jpg "Generating patients with published articles")
+
+This strategy focuses on writing health-related articles in your field and publishing them in high traffic healthcare digital magazines. After your article is published on these websites, the goal is to redirect their readers (would-be patients) to your website where they can book an appointment with you. With just one article, you’ve managed to drive thousands of potential patients to your websites.
+
+A simple step-by-step process goes like this:
+
+* Target High Traffic healthcare-related websites
+  * A tool like [Ahrefs ](https://ahrefs.com/)lets you do this
+* Write an article that patients might be interested in
+* Pitch your article to multiple websites
+* After your article is accepted, link to your website from the article
+* Wait for the traffic to come in
+
+Examples of this strategy come from Dr. Marchbanks and his published article on The Blogging Doctors.
+
+![Picture of guest blogging for doctors](/assets/images/published-articles-1.jpg "Example of generating patients with articles")  
+  
+That links lead to a page where readers can book an appointment
+
+![Picture of a booking page](/assets/images/published-articles-2.jpg "Picture of a booking page")
+
+### **#\~Advantages of publishing articles in digital magazines**
+
+* Instant exposure to a targeted audience
+* Improve your online authority
+* Generate qualified leads and attracts patients on autopilot
+* Improves your Google ranking: When authoritative websites link to your website, Google sees this as an indication that your website is also valuable and should be ranked higher (thus more traffic)
+* Generate social media shares
+* It expands your network
+
+## Common questions
+
+If you still have questions regarding marketing for medical practitioners, this section answers commonly asked questions by physicians.
+
+## How much should a medical practice spend on marketing?
+
+Spending must be considered in terms of annual revenues and goals. Experts recommend 2% to 3% at a minimum to keep a consistent level of patient flow. 4% to 5% when you are struggling or growth is starting to stall (especially in this covid-19 situation).
+
+## What is the best way to market a doctor's office?
+
+If you're a small to midsize medical business, we recommend that you adopt strategies that are affordable and easy to outsource like Developing a brand strategy, Google AdWords, Facebook Ads, Search Traffic, Or Podcasting. For larger organizations like hospitals and medical centers, we recommend approaches like developing a sales funnel, storytelling, and positioning strategy.
+
+## How to build a marketing plan for medical practice?
+
+A medical marketing plan should start with your brand. Marketing your medical practice is as good as the brand behind it. If you don’t have a grounded and differentiated brand, your marketing effort won’t be as fruitful.
+
+So the first thing to initiate a marketing plan is to start with brand development and then proceed to marketing. Here’s a free [guide on how branding in healthcare ](https://unnus.com/medical/healthcare-branding/)works and its unmatched advantages.
+
+## Why is marketing important for doctors?
+
+Marketing for doctors is important because it makes the patient flow more stable. Marketing your medical business helps you achieve consistent and predictable profit each quarter. If you’d like to run a successful medical business, it should be a priority for you to market it actively.
+
+## The secret to medical practice marketing
+
+Your marketing effort is as good as the branding behind it. If your marketing is not directed by a concrete [brand strategy](https://unnus.com/medical/healthcare-branding/), it becomes a tactic that comes with an expiration date.
+
+Marketing should solidify and create a strong brand name for your medical business so it will be less dependent on marketing spend and more reliant on strong brand recognition.
+
+If you’re looking to create a strong personal strategy or a charismatic brand for your practice, [we’d like to help you out](https://unnus.com/contact).
