@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "8"
 slug = "/marketing-for-doctors"
 socialThumbnail = "/assets/images/featured-5.jpg"
-table_of_content = []
+table_of_content = ["personal-brand-strategy-for-doctors", "storytelling-strategy", "launching-your-medical-podcast-show", "podcast-tours-strategy", "sales-funnel-for-doctors", "online-marketing-for-doctors-inbound-marketing", "doctor-office-advertising-outbound-marketing", "creating-an-email-autoresponder-strategy", "positioning-strategy-for-doctors", "generate-patients-with-published-articles", "how-much-should-a-medical-practice-spend-on-marketing", "what-is-the-best-way-to-market-a-doctors-office", "how-to-build-a-marketing-plan-for-medical-practice", "why-is-marketing-important-for-doctors", "the-secret-to-medical-practice-marketing"]
 title = "New (And Foolproof) Marketing Strategies For Doctors (2021)"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -74,7 +74,7 @@ Building a personal brand is not about harvesting social media followers and tra
 * Skyrockets your practice growth and profitability
 * Makes your care services premium and modern
 
-## 2) Storytelling strategy
+## Storytelling strategy
 
 ![A diagram of storytelling strategy in healthcare](/assets/images/1-storytelling-diagram.jpg "Storytelling strategy")
 
