@@ -50,7 +50,7 @@ The below strategies consist of little different but effective ways to market yo
 
 An overabundance of “me too” care services and DIY products are commoditizing the healthcare industry. And as of 2021, the competition is surging faster than it ever has been. For these reasons and many others, not having a unique personal brand is the same as being invisible.
 
-### So, What is a Personal Brand Strategy?
+### #\~So, What is a Personal Brand Strategy?
 
 Personal Brand Strategy is a strategy that is focused on positioning you as an authority in your field and highlighting your unique attributes. The goal is to establish a grounded and differentiated brand for you or your practice.
 
@@ -75,3 +75,16 @@ Building a personal brand is not about harvesting social media followers and tra
 * Makes your care services premium and modern
 
 ## 2) Storytelling strategy
+
+![A diagram of storytelling strategy in healthcare](/assets/images/1-storytelling-diagram.jpg "Storytelling strategy")
+
+Imagine what you want to say to your ideal patient goes through intact - crystal clear and potent? **What if your messages are perceived straight into people's brains without distortion, noise, or the need to think too much about it?** Brand Storytelling Strategy shrinks the "psychic distance” between your medical business and your ideal patient so that a relationship can begin to develop.
+
+  
+These gap-crossing, distance-shrinking messages are the building blocks of a great storytelling campaign.
+
+**Brand Storytelling** is a strategy used to communicate with your target patient in a novel, digestible, and more trustworthy way. The strategy focuses on creating inspiring stories around your practice, its services, and your patients.
+
+**Best part?** You don’t need a massive budget or film studio for it to work. Here at unnus, we developed this strategy to make it as attainable as it can be.
+
+If you’d like to see examples and step-by-step processes for this strategy, visit our guide on [storytelling in healthcare](https://unnus.com/medical/medical-device-marketing/#the-4-stages-of-a-medical-device-brand-storytelling).
