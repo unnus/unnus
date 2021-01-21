@@ -88,3 +88,157 @@ These gap-crossing, distance-shrinking messages are the building blocks of a gre
 **Best part?** You don’t need a massive budget or film studio for it to work. Here at unnus, we developed this strategy to make it as attainable as it can be.
 
 If you’d like to see examples and step-by-step processes for this strategy, visit our guide on [storytelling in healthcare](https://unnus.com/medical/medical-device-marketing/#the-4-stages-of-a-medical-device-brand-storytelling).
+
+## Launching your medical podcast show
+
+![An illustrations that shows podcasting strategy for medical doctors](/assets/images/podcasting-for-doctors.jpg "Podcasting for doctors")
+
+Podcasting is booming right now. [With 1 out of every 5 adults](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf) in the USA listening to podcasts regularly:
+
+![A podcast graph ](/assets/images/podcast-stats-1.jpg "Podcast statistics ")  
+Launching your medical show will take your medical business to the next level. According to [Dr. Ernesto](https://unnus.com/podcast/season-one/healthcare-entrepreneurship/), Founder of PGFormula, podcasting is the easiest medium for doctors to start marketing their practice and attract new patients.
+
+### #\~Advantages of launching your medical podcast
+
+* It’s a quick marketing strategy and easy to outsource
+* It’s a great way to increase your outreach and educate your patients
+* It expands your network and nurture relationships with industry leaders
+* It increases your referrals: since podcasting is a great way to meet podcast guests from other fields, it is natural your referral rates will soar after a couple of interviews with other medical professionals.
+* Podcasting is easy to syndicate: the beauty of this medium is that you can convert your episode into other mediums like blog articles, social media posts, Youtube videos just with one recording
+* Podcasting will work as a flywheel that attracts new patient consistently
+* Establish you as an authority in the field
+
+## Podcast Tours Strategy
+
+![illustrations that shows guest podcasting for doctors](/assets/images/guest-podcasting-for-doctors.jpg "Podcast Tours Strategy")
+
+Another alternative to creating your show is to be a guest on other podcasts. It takes little to no time to get a great amount of exposure to you and your business.
+
+With 20-30 minutes each day, you’ll sit in front of a large audience without too much effort on your part. This can be an option for you if you’re too busy to create a show or if you can’t outsource podcasting.
+
+### #\~The benefits of being a guest on a podcast are:
+
+* The podcast might be on medical-related issues and the audience might be interested in the care service. If you can pitch your episode to a podcast where the audience is receptive to your services, it’ll be a great way to start building consistent leads.
+* It increases your professional network and can be a great referral source.
+* It expands the exposure of your practice brand and gets more people interested in it.
+* Since you’ll be on the show as a guest, you can promote your website or social media handles in the podcast. This is a great way to increase your online presence.
+
+If you’d like a step-by-step guide on how to pitch your episode to other medical podcasts, you can check [our guide here](https://unnus.com/medical/chiropractic-marketing/#7-podcast-tours).
+
+## Sales funnel for doctors
+
+![An illustrations of a sales funnel for medical doctors](/assets/images/sales-funnel-for-doctors-1.jpg "Sales funnel for doctors")
+
+A Sale funnel is a potent strategy for passive patient acquisition. The strategy optimizes the journey potential patients go through on the way to purchase your services.
+
+The journey this strategy tracks and optimizes for are:
+
+* → **awareness stage**
+  * The first contact would-be patients have with you and are aware of your services
+* **→ Interest stage**
+  * At this stage, people are intrigued by what you have to say and how can you deliver care
+* **→ evaluation**
+  * This is the stage where potential patients are evaluating their choices and making their buying decision
+* **→ purchase**
+  * This is the final stage where they become patients and purchase your services
+
+Here's basic example of sales funnel:
+
+![An example of a sales funnel for doctors](/assets/images/sales-funnel-in-healthcare-1.jpg "An example of a sales funnel for doctors")
+
+### Advantages of Creating a sales funnel
+
+There are countless benefits from creating a sales funnel but the most beneficial points are:
+
+* **Sales funnel automate patient acquisition process**
+  * Once the funnel has been established, it will be a passive stream of leads for your practice. You won’t have to worry about how to acquire new patients because this system works for you 24/7.
+* **Makes your annual revenue more predictable**
+  * Since your sales funnel will work on autopilot, your revenue stream is more stable and predictable.
+* **It makes your marketing simple**
+  * Sales funnels remove all the complex and finer details you have to do when you’re actively marketing your medical business. Having a systematic approach makes your medical marketing stress-free.
+
+If you’d like to see another example of this strategy in action, [jump to this section](#).
+
+## Online marketing for doctors (inbound marketing)
+
+![An illustration that shows online marketing for doctors](/assets/images/inbound-marketing-for-doctors.jpg "Online marketing strategy")
+
+Inbound marketing is a strategy for drawing patients to your services via content marketing, social media, and search traffic. The goal of this strategy is to educate your patients through your online content and build rapport from the get-go.
+
+Considering [83% of adult internet users](https://www.pewresearch.org/internet/2009/06/11/the-social-life-of-health-information/) look online for health information, creating a strong online presence where you can share tips on health-related topics can be a competitive edge for your practice.
+
+There are multiple inbound marketing strategies you can take but the most effective ones are:
+
+* SEO and search traffic from Google
+* Authoring books/print media
+* Public Speaking
+* Video Content
+* Case Studies
+* White Papers
+* Webinars/online events
+* E-books and online guides
+* Social Media Posts
+* Podcasting
+* Email Newsletters
+* Publishing Articles
+
+The great news is that you only have to pick one and stick to it. Staying consistent with one can yield fruitful results to your medical business.
+
+If you’re wondering which one is best for you, here’s a diagram that categorizes all strategies depending on impact/difficulty
+
+![](/assets/images/marketing-strategy-diagram-1.jpg)
+
+## doctor office advertising (outbound marketing)
+
+  
+![Illustration that shows advertising strategy](/assets/images/outbound-marketing.jpg "Office advertising strategy")
+
+Outbound marketing is any effort that aims to market your medical office using paid advertising and promotional ads. Unlike the previous strategy, this one is more geared towards paid ads.
+
+This strategy takes less time than inbound marketing and it’s also ridiculously cheap compared to traditional advertising methods. Services like PPC (pay per click) ads and Facebook ads are affordable and yield high ROI for your business.
+
+The following is a list of advertising methods you can choose to promote your office:
+
+* Social media advertising
+* PPC Advertising
+* Email blasts newsletters
+* Print and Radio Ads
+* Video Ads
+* Google AdWords
+* Facebook Ads
+* Banner Ads
+* Retargeting Ads
+
+Again, we’ve made a diagram for you to make it easy to choose between all these options:
+
+![](/assets/images/marketing-strategy-diagram-2.jpg)
+
+## 8) Creating An Email Autoresponder Strategy
+
+![illustration that shows email marketing strategy for doctors](/assets/images/email-marketing-for-doctors.jpg "Email Autoresponder Strategy in healthcare")
+
+This strategy revolves around creating an email course by sending a premade sequence of emails to your email subscribers as a form of lessons.
+
+The premise is that your potential patients will sign up for your free email series from your website and start receiving automated emails.
+
+These emails are then delivered as educational lessons. Each lesson holds valuable exercise or useful tips about their health-issues.
+
+After your subscribers finish your course, they’ll receive an email pitch that directs them to your online booking page to book you.
+
+At this point, you helped them with useful information and built trust with them. So they will be more receptive to your bigger offer (one-on-one care service).
+
+The following is an illustration that shows how your potential patients move through this mini-sales funnel:
+
+![](/assets/images/email-marketing-chiropractors.jpg)
+
+### Advantages of the email autoresponder strategy
+
+* It builds trust and rapport with your potential patients before you even meet them
+* It establishes you as an authority in your field and increases your credibility
+* It “lubricate” your bigger offer (your medical consulting service) and make would-be patients more receptive to your offers
+* It helps educate your patients about you and your brand. This is a great chance for you to feed patients your values and messages
+* It works on autopilot. Once the email course is shipped, you can rely on it to be a flywheel of patient acquisition
+
+If you want to start applying this strategy, here’s a great video to start:
+
+\[INSERT VIDEO\]
