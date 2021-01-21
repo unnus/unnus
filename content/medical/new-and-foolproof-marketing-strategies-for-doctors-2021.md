@@ -150,12 +150,12 @@ Here's basic example of sales funnel:
 
 There are countless benefits from creating a sales funnel but the most beneficial points are:
 
-* **Sales funnel automate patient acquisition process**
-  * Once the funnel has been established, it will be a passive stream of leads for your practice. You won’t have to worry about how to acquire new patients because this system works for you 24/7.
-* **Makes your annual revenue more predictable**
-  * Since your sales funnel will work on autopilot, your revenue stream is more stable and predictable.
-* **It makes your marketing simple**
-  * Sales funnels remove all the complex and finer details you have to do when you’re actively marketing your medical business. Having a systematic approach makes your medical marketing stress-free.
+1. **Sales funnel automate patient acquisition process**
+   * Once the funnel has been established, it will be a passive stream of leads for your practice. You won’t have to worry about how to acquire new patients because this system works for you 24/7.
+2. **Makes your annual revenue more predictable**
+   * Since your sales funnel will work on autopilot, your revenue stream is more stable and predictable.
+3. **It makes your marketing simple**
+   * Sales funnels remove all the complex and finer details you have to do when you’re actively marketing your medical business. Having a systematic approach makes your medical marketing stress-free.
 
 If you’d like to see another example of this strategy in action, [jump to this section](#).
 
@@ -263,12 +263,12 @@ This strategy focuses on writing health-related articles in your field and publi
 
 A simple step-by-step process goes like this:
 
-* Target High Traffic healthcare-related websites
-  * A tool like [Ahrefs ](https://ahrefs.com/)lets you do this
-* Write an article that patients might be interested in
-* Pitch your article to multiple websites
-* After your article is accepted, link to your website from the article
-* Wait for the traffic to come in
+1. Target High Traffic healthcare-related websites
+   * A tool like [Ahrefs ](https://ahrefs.com/)lets you do this
+2. Write an article that patients might be interested in
+3. Pitch your article to multiple websites
+4. After your article is accepted, link to your website from the article
+5. Wait for the traffic to come in
 
 Examples of this strategy come from Dr. Marchbanks and his published article on The Blogging Doctors.
 
