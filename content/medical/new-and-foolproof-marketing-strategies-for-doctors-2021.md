@@ -133,14 +133,14 @@ A Sale funnel is a potent strategy for passive patient acquisition. The strategy
 
 The journey this strategy tracks and optimizes for are:
 
-* → **awareness stage**
-  * The first contact would-be patients have with you and are aware of your services
-* **→ Interest stage**
-  * At this stage, people are intrigued by what you have to say and how can you deliver care
-* **→ evaluation**
-  * This is the stage where potential patients are evaluating their choices and making their buying decision
-* **→ purchase**
-  * This is the final stage where they become patients and purchase your services
+1. → **awareness stage**
+   * The first contact would-be patients have with you and are aware of your services
+2. **→ Interest stage**
+   * At this stage, people are intrigued by what you have to say and how can you deliver care
+3. **→ evaluation**
+   * This is the stage where potential patients are evaluating their choices and making their buying decision
+4. **→ purchase**
+   * This is the final stage where they become patients and purchase your services
 
 Here's basic example of sales funnel:
 
