@@ -2,7 +2,7 @@
 author = "Sliman M. Baghouri"
 authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
-authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnus magazine and regular contributor in the healthcare marketing industry."
 category = "healthcare-marketing"
 date = 2021-01-05T23:00:00Z
 description = "Current medical device marketing is out of sync with the changing MedTech industry. This article outlines a new and effective approach along with examples"
@@ -244,4 +244,4 @@ With the recent studies showing the effectiveness of this strategy, MedTech comp
 
 A strategy that is based on creating a preference for your brand, cult-like loyalty, and cutting through the lookalike products.
 
-If you’d like to soar your medical device company sales with this strategy, you can [drop us a message ](https://unnus.com/contact/)here. We’d be happy to help.
+<!-- If you’d like to soar your medical device company sales with this strategy, you can [drop us a message ](https://unnus.com/contact/)here. We’d be happy to help. -->

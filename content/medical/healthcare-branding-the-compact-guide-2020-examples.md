@@ -2,7 +2,7 @@
 author = "Sliman M. Baghouri"
 authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
-authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnus magazine and regular contributor in the healthcare marketing industry."
 category = "healthcare-branding"
 date = 2020-11-10T23:00:00Z
 description = "Today, I'll share with you the components of a healthcare brand strategy so you can transform your medical business to a level where profitability is predictable."
@@ -560,4 +560,4 @@ Healthcare branding brings new ways to reach patients. A way that is focused on 
 
 Building a brand can be the competitive edge that singles you out of the sea of “sameness”. It is a future-proof strategy for leaders to supercharge their business with.
 
-Here at unnus, we are dedicated to building healthcare brands that _matter._ Brands that have lasting impacts on its stakeholders and everyone who’s involved in it. If you’d like a competent team to help you build your brand, [you can always reach us out here](https://www.unnus.com/contact/).
+<!-- Here at unnus, we are dedicated to building healthcare brands that _matter._ Brands that have lasting impacts on its stakeholders and everyone who’s involved in it. If you’d like a competent team to help you build your brand, [you can always reach us out here](https://www.unnus.com/contact/). -->
