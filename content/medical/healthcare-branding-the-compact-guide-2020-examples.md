@@ -18,10 +18,10 @@ title = "Healthcare Branding: The Compact Guide (2021) + [Examples]"
 twitterHandle = "@SlimanBaghouri"
 
 +++
-{{% hook %}}As the pace of healthcare quickens and the number of brands multiplies, it’s patients, not medical businesses, who decide which brands live and which ones die. {{% /hook %}} 
+{{% hook %}}As the pace of healthcare quickens and the number of brands multiplies, it’s patients, not medical businesses, who decide which brands live and which ones die. {{% /hook %}}
 <!--more-->
-***
 
+***
 
 An overabundance of look-alike medical brands and me-too services are forcing patients to search for something, anything, to help them separate the winners from the clutter.
 
@@ -42,7 +42,6 @@ What is healthcare branding?
 5. The 5 stages of healthcare branding strategy
 6. How to measure your branding efforts
 7. Example of branding in other healthcare fields
-
 
 ## **What is healthcare branding?**
 
@@ -78,7 +77,7 @@ Example: Our practice is The Only Cosmetic Service That puts its patient's confi
 
 **#\~3) The brand cultivates a community around it.** Your brand does not exist in a vacuum. It needs to be supported by its stakeholders and customers. Your brand will be the ecosystem for the whole team AND the patients to thrive. It will be a playground for increased productivity, innovation, and profitability.
 
-**#\~4) Your brand needs to reflect its audience values.** Your brand should mirror what your patient/audience believes. If your brand does not offer a flattering reflection of its customer’s core values, it will not gain their loyalty. If I’m an overly cautious person and value safety, my go-to hospital will be [healthier™](https://www.unnus.com/case-studies/healthier/), the risk-free hospital. If I’m into enhancing my lifestyle quality, I’ll sign up for The Joint Chiropractic membership. If I want to avoid the dental horror show, my favorite dental practice will be Odentia, the painless dental experience.
+**#\~4) Your brand needs to reflect its audience values.** Your brand should mirror what your patient/audience believes. If your brand does not offer a flattering reflection of its customer’s core values, it will not gain their loyalty. If I’m an overly cautious person and value safety, my go-to hospital will be [healthier™](#), the risk-free hospital. If I’m into enhancing my lifestyle quality, I’ll sign up for The Joint Chiropractic membership. If I want to avoid the dental horror show, my favorite dental practice will be Odentia, the painless dental experience.
 
 **#\~5) Your healthcare brand should carry human attitudes.** Gone are the times where brands communicate their robotic offering and wait for patients to come. “We offer the best care service” Yeah? So does everyone. People now value communication that is infused with humanistic attributes. Your brand should claim a communication voice that is _unique_ to your business. We’ll lay down examples of this approach in the next few sections.
 
