@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["Building a personal brand", "How to grow your brand", "Common myths about personal branding"]
 description = "Today Dr. Wortz share with us the importance of personal branding and how it can benefit medical professionals.  "
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Personal-Branding-For-Doctors-With-Dr--Gary-Wortz-epggrq"
 guest = "Dr. Gary Wortz"
 guestContact = ["Follow him on twitter=twitter.com/cataractmd", "Omega Ophthalmics website=omegaophthalmics.com", "Visit commonwealtheyes's website=commonwealtheyes.com/"]
