@@ -1,14 +1,14 @@
 +++
-bulletpoints = []
+bulletpoints = ["Building a personal brand", "How to grow your brand", "Common myths about personal branding"]
 description = "Today Dr. Wortz share with us the importance of personal branding and how it can benefit medical professionals.  "
 draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Personal-Branding-For-Doctors-With-Dr--Gary-Wortz-epggrq"
 guest = "Dr. Gary Wortz"
-guestContact = []
+guestContact = ["follow him on twitter=twitter.com/cataractmd"]
 guestPicture = "/assets/images/garywortz.jpg"
-guestResources = []
+guestResources = ["Listen to Interventional Mindset podcast =anchor.fm/interventional-mindset/episodes/What-is-the-Interventional-Mindset-all-about-el8gui", "Visit interventional mindset website=interventionalmindset.com", "Tune in to his podcast Ophthalmology off the Grid=eyetube.net/podcasts/ophthalmology-off-the-grid"]
 page = "podcast/single.html"
-platforms = ["Building a personal brand", "Creating brand awareness and growing your brand", "Common myths about personal branding"]
+platforms = []
 season = "season-one"
 slug = "/personal branding-for-doctors"
 tagline = "Personal Branding For Doctors"
