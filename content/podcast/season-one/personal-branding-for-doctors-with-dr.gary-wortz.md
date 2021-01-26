@@ -4,7 +4,7 @@ description = "Today Dr. Wortz share with us the importance of personal branding
 draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Personal-Branding-For-Doctors-With-Dr--Gary-Wortz-epggrq"
 guest = "Dr. Gary Wortz"
-guestContact = ["Follow him on twitter=twitter.com/cataractmd", "Visit commonwealtheyes's website=commonwealtheyes.com/"]
+guestContact = ["Follow him on twitter=twitter.com/cataractmd", "Omega Ophthalmics website=omegaophthalmics.com", "Visit commonwealtheyes's website=commonwealtheyes.com/"]
 guestPicture = "/assets/images/garywortz.jpg"
 guestResources = ["Tune in to his podcast Ophthalmology off the Grid=eyetube.net/podcasts/ophthalmology-off-the-grid", "Visit interventional mindset website=interventionalmindset.com", "Listen to Interventional Mindset podcast =anchor.fm/interventional-mindset/episodes/What-is-the-Interventional-Mindset-all-about-el8gui", "Dr Wortz's laser refractive cataract calculator=lricalc.com"]
 page = "podcast/single.html"
