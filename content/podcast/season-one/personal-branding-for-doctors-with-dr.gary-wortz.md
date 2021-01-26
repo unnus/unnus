@@ -1,6 +1,6 @@
 +++
 bulletpoints = []
-description = ""
+description = "Today Dr. Wortz share with us the importance of personal branding and how it can benefit medical professionals.  "
 draft = true
 episodeIframe = ""
 guest = "Dr. Gary Wortz"
