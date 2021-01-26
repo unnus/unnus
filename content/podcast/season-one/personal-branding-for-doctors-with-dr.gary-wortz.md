@@ -2,16 +2,16 @@
 bulletpoints = []
 description = "Today Dr. Wortz share with us the importance of personal branding and how it can benefit medical professionals.  "
 draft = true
-episodeIframe = ""
+episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Personal-Branding-For-Doctors-With-Dr--Gary-Wortz-epggrq"
 guest = "Dr. Gary Wortz"
 guestContact = []
 guestPicture = "/assets/images/garywortz.jpg"
 guestResources = []
 page = "podcast/single.html"
-platforms = []
+platforms = ["Building a personal brand", "Creating brand awareness and growing your brand", "Common myths about personal branding"]
 season = "season-one"
 slug = "/personal branding-for-doctors"
-tagline = ""
+tagline = "Personal Branding For Doctors"
 title = "Personal Branding For Doctors With Dr. Gary Wortz"
 which = "episode-cover"
 
