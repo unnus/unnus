@@ -7,7 +7,7 @@ guestContact = ["Email him at contact@pgformula.com", "Or contact@drernestomd.co
 guestPicture = "/assets/images/dre-247-1024x683-landscape-1.jpg"
 guestResources = ["Download the free checklist=podcastinabox.co/carefrontiers ", "Visit Practice Growth Formula website=pgformula.com/", "Listen to Dr Ernesto's highway to health show=drernestomd.com/podcast/", "Tune in to the Entrepreneur MD Show=the-entrepreneur-md.simplecast.com/"]
 page = "podcast/single.html"
-platforms = []
+platforms = ["https://open.spotify.com/episode/3lQAK21fsff50p3DoBSIQm?si=ITWV0xclRbG6cq-jNDFVLQ", "https://podcasts.apple.com/dz/podcast/your-entrepreneurship-guide-in-healthcare-dr-ernesto/id1545378762?i=1000505563169", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/NTc3MzMxMWUtYmU3Ni00ZGZhLWFlOWItMWY3NTcwOWFmYmE0?sa=X&ved=0CA0QkfYCahcKEwjQzsqX3cDuAhUAAAAAHQAAAAAQAQ"]
 season = "season-one"
 slug = "healthcare-entrepreneurship"
 tagline = "Healthcare Entrepreneurship"
