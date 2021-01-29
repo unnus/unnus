@@ -150,7 +150,7 @@ In addition, these messages will act as the theme of your storytelling campaign 
 
 ![Diagram shows the secondary messages phase](/assets/images/4-storytelling-diagram-secondary-messages.jpg "Diagram shows the secondary messages phase")
 
-Secondary messages are more centered around your brand, it’s purpose, and mission. In this stage, we’ll hone in the true north that guides your firm and the values it upholds. These messages are secondary to the campaign but are crucial for brand awareness.
+Secondary messages are more centered around your brand, its purpose, and mission. In this stage, we’ll hone in the true north that guides your firm and the values it upholds. These messages are secondary to the campaign but are crucial for brand awareness.
 
 The components will include:
 
