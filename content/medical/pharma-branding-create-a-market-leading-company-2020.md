@@ -23,7 +23,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 ***
 
-In this article, we’ll discuss fatal but easy-to-turn-a-blind-to issues in the pharmaceutical industry and how branding can solve these problems.
+In this article, we’ll discuss fatal but easy-to-ignore issues in the pharmaceutical industry and how branding can solve these problems.
 
 By the end of this article, you’ll have a clear understanding of
 
