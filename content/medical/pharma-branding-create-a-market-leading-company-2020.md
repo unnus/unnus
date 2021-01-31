@@ -18,11 +18,7 @@ title = "Pharma Branding: Create A Market-Leading Company (2021)"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-{{% hook %}} **The rate at which competition is surging in Big Pharma is quickening.** {{% /hook %}}
-
-{{% hook %}}**How do you break through the noise and single your company out?** {{% /hook %}}
-
-{{% hook %}} **How do you fuel your R&D efforts with an innovation powerhouse?** {{% /hook %}}
+{{% hook %}} **The rate at which competition is surging in Big Pharma is quickening.** **How do you break through the noise and single your company out?**{{% /hook %}}
 <!--more-->
 
 ***
@@ -37,7 +33,6 @@ By the end of this article, you’ll have a clear understanding of
 4. The 5 stages of developing a pharmaceutical brand strategy
 
 Without wasting time, let’s dive in.
-
 
 ## Threats the pharmaceutical industry is facing
 
