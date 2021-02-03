@@ -21,6 +21,8 @@ twitterHandle = "/@SlimanBaghouri"
 {{% hook %}}**This guide contains new healthcare planning strategies, their benefits, examples, traps to avoid, and all you need to know.**{{% /hook %}}
 <!--more-->
 
+***
+
 Whether you’re a medical business owner, an executive, or a practitioner, my promise to you is that, by the end of this article, you’ll get a razor-sharp understanding of what strategic planning is and how it can skyrocket your operational efficiency.
 
 Here’s a brief outline of what I’ll cover:
