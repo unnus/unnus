@@ -105,7 +105,7 @@ That’s exactly what Google Adwords is for. It’s an auction-based platform th
 
 Showing up on the first page of Google for these terms are ridiculously cheaper than traditional media. For example, if you offer a hearing aid for $2500 per patient. And you spend $550 a month on Google Adwords to get 2 patients, your profit will be $4450, that’s 809% ROI.
 
-![](/assets/images/google-adwords-for-audiologists.jpg)![](/assets/images/google-adwords-for-audiologists.png)
+![](/assets/images/google-adwords-for-audiologists.png)![](/assets/images/google-adwords-for-audiologists.png)
 
 ## Using video advertising to raise awareness
 
