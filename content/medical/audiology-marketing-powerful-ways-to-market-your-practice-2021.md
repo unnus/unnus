@@ -20,6 +20,8 @@ twitterHandle = "/@SlimanBaghouri"
 +++
 {{% hook %}} Due to the commoditization of hearing aids, You might find it hard to attract patients and sell your care services. Let’s solve that. {{% /hook %}}
 
+<!--more-->
+
 ***
 
 If you’re looking for strategies or ways to attract new patients to your doors, look no further. I’m going to share with you fool-proof strategies that have worked for thousands of audiologists to gain a flood of new patients AND retain them over a long period.
