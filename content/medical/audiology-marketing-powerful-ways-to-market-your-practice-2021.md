@@ -105,7 +105,9 @@ That’s exactly what Google Adwords is for. It’s an auction-based platform th
 
 Showing up on the first page of Google for these terms are ridiculously cheaper than traditional media. For example, if you offer a hearing aid for $2500 per patient. And you spend $550 a month on Google Adwords to get 2 patients, your profit will be $4450, that’s 809% ROI.
 
-![](/assets/images/google-adwords-for-audiologists.png)![](/assets/images/google-adwords-for-audiologists.png)
+![Example of Google Adwords For audiologist ](/assets/images/googleadwords-for-audiologists.png "Example of Google Adwords For audiologist ")
+
+![](/assets/images/google-adwords-for-audiologists.jpg)
 
 ## Using video advertising to raise awareness
 
@@ -128,3 +130,55 @@ Another great strategy for you is to target your ideal patients using social med
 Not only that but these audiences are highly targeted, meaning you can be in front of your ideal patients, at the ideal time, offering them the ideal treatment plan.
 
 Here’s an example of audiology Facebook ads:
+
+![Picture of facebook ads for audiologists](/assets/images/facebook-ads-for-audiologists.jpg "Picture of facebook ads for audiologists")
+
+## Launch your audiology podcast and use it as a referral source
+
+[50% of all US](https://www.nielsen.com/us/en/insights/article/2020/podcast-content-is-growing-audio-engagement/) homes are podcast fans. This rapid increase in popularity for podcasting makes it a potent way to reach your patients directly using audio.
+
+Launching your podcast is a great way for you to start your show where you can educate, entertain and **_attract_** patients by publishing helpful episodes about certain cases or hearing-loss related issues.
+
+Many doctors right now are using podcasting as a way to attract patients because it’s easy to implement and yet still effective and result-driven.
+
+With 10-40 minutes of recording each day, you’ll have a marketing asset (an episode) that’ll keep attracting patients for you passively.
+
+## Be a guest on other healthcare-related podcasts
+
+Instead of launching your show, use what we call podcast tour strategy. This strategy revolves around being on other podcasters’ shows as a guest. You can pitch yourself to be a guest on other medical-related podcasts where you can gain instant exposure to a huge segment of the audience that can convert to be your patients.
+
+This strategy allows you not only to increase your brand awareness but also to make relationships with other medical doctors and podcast hosts. These relationships will pay dividends when you start seeing referrals coming from other practitioners whose podcast you’ve been on.
+
+Another great aspect of this strategy is that it’s even easier than launching your show. Just a quick call with the podcast host and you’re done.
+
+## Establish referral programs
+
+Research shows that [physician referrals ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5179598/#OR00715-20)generate ∼15% of the total audiology market revenue. This means that referrals should be one of your prioritized marketing strategies.
+
+In addition, patients trust their family doctors or their regular primary care providers. A great way to earn some of this trust and get yourself known in the community is by setting up a referral program for your local physicians. This will expand your network and increase referrals from other doctors.
+
+You can also set up a referral program for your patients where you can offer discounts for next visits or future purchases. This will give them even more incentive to recommend you to their family members and friends.
+
+## Expand your network with PCP and family doctors
+
+Since other practitioners are potential referral sources, networking with other physicians becomes an integral part of your marketing strategy.
+
+Expanding your network will open up a well-spring of referrals to your audiology practice. Not only that but, it also attracts the referral’s family and acquaintances.
+
+Earning trust and networking with other physicians will establish you as an authority in the medical sphere and thus generating and attracting more patients.
+
+## Go beyond age-related hearing loss cases
+
+While old-aged demographics are the main patient segment for audiologists, you must not ignore other demographics like younger patients who are experiencing early stages of hearing loss.
+
+According to the National Institution of Health ([NIH](https://report.nih.gov/)), fewer than 20 percent of all people needing hearing aids get them. This means that there’s a big chunk of underserved patients that you can start marketing to.
+
+This is a great opportunity for you to start your marketing strategy with a plan to focus on unexplored market segments and target other demographics.
+
+## The “secret” to a fruitful audiology marketing
+
+Marketing your audiology practice without building your brand is like using tactics that come with an expiration date. Building a strong brand name for your practice will make you less dependent on marketing expenses and reduce your costs.
+
+Moreover, If your brand is **differentiated**, **inspiring**, and communicates with **persuasive** messaging, it will have an uncanny ability to attract cult-like loyal audiences and streams of patients to your practice.
+
+If you’re looking to build a timeless audiology brand, [let’s chat](https://unnus.com/contact) about it, I’m happy to help.
