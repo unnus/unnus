@@ -105,7 +105,7 @@ That’s exactly what Google Adwords is for. It’s an auction-based platform th
 
 Showing up on the first page of Google for these terms are ridiculously cheaper than traditional media. For example, if you offer a hearing aid for $2500 per patient. And you spend $550 a month on Google Adwords to get 2 patients, your profit will be $4450, that’s 809% ROI.
 
-![](/assets/images/google-adwords-for-audiologists.png)
+![](/assets/images/google-adwords-for-audiologists.png)![](/assets/images/google-adwords-for-audiologists.png)
 
 ## Using video advertising to raise awareness
 
@@ -114,3 +114,17 @@ According to recent research, viewers [retain 95% of a message ](https://www.ins
 So, although, making a video is a little more expensive than a normal ad, the results are well worth it. Since you’re guaranteed a high retention rate for your video ad (if it’s well made), that means you’re more likely to get higher ROI on your advertisement spend on video marketing platforms like Youtube than a text-based one.
 
 Here’s a heart-stirring ad from Bay Audiology:
+
+{{< youtube iUPTOWST-6M>}}
+
+Another great example of audiology that invites patients to take action comes from Specsavers:
+
+{{< youtube E_oTBvy5UPU>}}
+
+## Attract patient using social media targeting ads
+
+Another great strategy for you is to target your ideal patients using social media advertising platforms like Facebook Ads. A platform like Facebook Ads allows you to reach a huge audience for the price of 1/10th of what you’ll have to pay to achieve the same exposure on TV.
+
+Not only that but these audiences are highly targeted, meaning you can be in front of your ideal patients, at the ideal time, offering them the ideal treatment plan.
+
+Here’s an example of audiology Facebook ads:
