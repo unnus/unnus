@@ -39,7 +39,7 @@ This article covers:
 * Building your brand
 * The secret to fruitful audiology marketing
 
-## What to do _before_ marketing your audiology practice
+## What to do before marketing your audiology practice
 
 More often than not, audiology promotional efforts fall flat because there was no grounded bedrock for the marketing to stand on. Let’s go through critical aspects that need to be addressed before you start marketing your practice.
 
@@ -118,6 +118,8 @@ So, although, making a video is a little more expensive than a normal ad, the re
 Here’s a heart-stirring ad from Bay Audiology:
 
 {{< youtube iUPTOWST-6M>}}
+
+***
 
 Another great example of audiology that invites patients to take action comes from Specsavers:
 
