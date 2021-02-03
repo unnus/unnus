@@ -90,3 +90,27 @@ Building your brand consists of five stages:
 * Art Direction
 
 I outlined step-by-step how you can build your brand and measure your practice’s brand success in our free [healthcare branding ](https://unnus.com/medical/healthcare-branding/)guide.
+
+## Audiology marketing ideas
+
+Now that we have the 3 pillars of a successful audiology marketing campaign, let’s dive into the strategies.
+
+## Generate patients using Google Adwords
+
+Imagine someone typing “audiologist near me” and your office contact information, booking page, and directions comes up first on google search in front of thousands of people?
+
+That’s exactly what Google Adwords is for. It’s an auction-based platform that allows you to pay to be on the top of google search results.
+
+**Best part?** These searchers are warm leads. Meaning, they are already looking for hearing doctors and want to contact you. Unlike cold leads, where people are not actively looking for care, in google AdWords, people want to be in your office. You just need to show up.
+
+Showing up on the first page of Google for these terms are ridiculously cheaper than traditional media. For example, if you offer a hearing aid for $2500 per patient. And you spend $550 a month on Google Adwords to get 2 patients, your profit will be $4450, that’s 809% ROI.
+
+![](/assets/images/google-adwords-for-audiologists.png)
+
+## Using video advertising to raise awareness
+
+According to recent research, viewers [retain 95% of a message ](https://www.insivia.com/50-must-know-stats-about-video-animation-marketing-2013/)when they watch it in a video, compared to 10% when reading it in text.
+
+So, although, making a video is a little more expensive than a normal ad, the results are well worth it. Since you’re guaranteed a high retention rate for your video ad (if it’s well made), that means you’re more likely to get higher ROI on your advertisement spend on video marketing platforms like Youtube than a text-based one.
+
+Here’s a heart-stirring ad from Bay Audiology:
