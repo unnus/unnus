@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnu
 category = "healthcare-marketing"
 date = 2021-02-02T23:00:00Z
 description = "You might find it hard to attract patients due to the commoditization of hearing aids. This article shares potent marketing strategies for audiologists. "
-draft = true
 featImg = "/assets/images/audio-featured.jpg"
 featImgThumb = "/assets/images/audio-featured.jpg"
 linkedinHandle = "slimaneBaghouri"
