@@ -137,6 +137,8 @@ Here’s an example of audiology Facebook ads:
 
 ## Launch your audiology podcast and use it as a referral source
 
+![Example of podcasting as a marketing tool for audiologists ](/assets/images/podcasting-for-audiologists.png "Podcasting as a marketing tool for audiologists ")
+
 [50% of all US](https://www.nielsen.com/us/en/insights/article/2020/podcast-content-is-growing-audio-engagement/) homes are podcast fans. This rapid increase in popularity for podcasting makes it a potent way to reach your patients directly using audio.
 
 Launching your podcast is a great way for you to start your show where you can educate, entertain and **_attract_** patients by publishing helpful episodes about certain cases or hearing-loss related issues.
