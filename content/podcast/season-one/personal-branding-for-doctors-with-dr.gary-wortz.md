@@ -10,7 +10,7 @@ page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/2lN20AGT2tUYUSJBn2sLQx?si=I4umgAnXRmOjZv3h4LOX8w", "https://podcasts.apple.com/dz/podcast/personal-branding-for-doctors-with-dr-gary-wortz/id1545378762?i=1000506655681", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/M2VkMzkzNDEtYmJjMC00MGVhLWE2OGYtNjk1NTliMjA2Yzll?sa=X&ved=0CA0QkfYCahcKEwjQzsqX3cDuAhUAAAAAHQAAAAAQAQ"]
 season = "season-one"
 slug = "/personal branding-for-doctors"
-tagline = "Personal Branding For Doctors"
+tagline = "Personal Branding"
 title = "Personal Branding For Doctors With Dr. Gary Wortz"
 which = "episode-cover"
 
