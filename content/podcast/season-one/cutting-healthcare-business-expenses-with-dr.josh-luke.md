@@ -10,7 +10,7 @@ page = "podcast/single.html"
 platforms = []
 season = "season-one"
 slug = "/healthcare-business-expenses"
-tagline = "Cutting Healthcare Expenses"
+tagline = "Healthcare Expenses"
 title = "Cutting Healthcare Business Expenses With Dr. Josh Luke"
 which = "episode-cover"
 
