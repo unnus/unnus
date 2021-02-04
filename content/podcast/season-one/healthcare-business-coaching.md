@@ -16,7 +16,7 @@ guestResources:
 description: In this episode we discuss business coaching in healthcare and how that
   can transform your practice
 episodeIframe: https://open.spotify.com/embed-podcast/episode/6MezAJQrKr9Mz6ePwgppnF
-tagline: Business Coaching in healthcare
+tagline: Business Coaching
 platforms:
 - https://open.spotify.com/episode/6MezAJQrKr9Mz6ePwgppnF?si=jTbgy_mCTy6PHZuDwuwQzg
 - "#"
