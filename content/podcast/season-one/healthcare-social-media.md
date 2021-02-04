@@ -17,7 +17,7 @@ guestResources:
 description: Being an adpoter of social madia marketing, Dr Tiffani shares with us
   her experience on social media
 episodeIframe: https://open.spotify.com/embed-podcast/episode/663SMgNAYsuyPGyO2B603w
-tagline: Social Media in healthcare
+tagline: Social Media Marketing
 platforms:
 - https://open.spotify.com/episode/663SMgNAYsuyPGyO2B603w?si=B983CnB9Tpi4ppUxBgFs4w
 - "#"
