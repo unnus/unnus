@@ -10,7 +10,7 @@ page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/0eXJmN1HDEmglyRnTdn6Du?si=36me6g1AQN65a6N1dYt-0w", "#", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/YmQ0MTg4YWMtMjdkOS00ZGM4LTliZWMtNDU0OTQ4ZDM4ZTJj?sa=X&ved=0CA0QkfYCahcKEwjIusXW1fDtAhUAAAAAHQAAAAAQAQ"]
 season = "season-one"
 slug = "medical-branding"
-tagline = "Healthcare Brand Building"
+tagline = "Brand Building"
 title = "Brand Building In Healthcare With Dr. Ryan Rieder"
 which = "episode-cover"
 
