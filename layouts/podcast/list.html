@@ -16,12 +16,6 @@
 			<h2 id="freshest" class="h1-clone reveal-text"> Freshest Episodes</h2>
 		</div>	
 
-	{{if in .Permalink "podcast/"}}
-	{{$section := .Section}}
-
-		{{range where .Site.RegularPages "Section" $section}}
-		        {{ if and (in .Permalink "season-one") (not ( in .Permalink "all")) }}
-
 <!-- 	{{if in .Permalink "season-two"}}
 	{{$section := .Section}}
 
@@ -35,6 +29,13 @@
  -->
 
 		<div class="container">
+	{{if in .Permalink "podcast/"}}
+	{{$section := .Section}}
+
+		{{range where .Site.RegularPages "Section" $section}}
+		        {{ if and (in .Permalink "season-one") (not ( in .Permalink "all")) }}
+
+			
 			<div class="ep-holder">
 				 <div class="guest-card">
 				 		<div class="podcast-platforms">
