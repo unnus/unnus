@@ -43,9 +43,9 @@ Before we go into the details of marketing your nursing home, let’s first tack
 
 ### 1) Jumping into the "Social media" bandwagon
 
-It might be counterintuitive but being on social media and investing in organic social reach for nursing homes is a common mistake I see a lot. The reason why this is an ineffective strategy for nursing home has to do with aspects of your business model:
+It might be counterintuitive but being on social media and investing in organic social reach for nursing homes is a common mistake I see a lot. The reason why this is an ineffective strategy  is simple: 
 
-### Your target audience is not on social media to interact with healthcare providers.
+**_Your target audience is not on social media to interact with healthcare providers._**
 
 If you’re trying to reach seniors or their decision-makers through social media, your effort might not be as fruitful. That’s because people are on social media to have fun, interact with colleagues and entertain themselves. They are not there, however, to comment or engage in conversation with care providers such as nursing homes or assisted living facilities.
 
