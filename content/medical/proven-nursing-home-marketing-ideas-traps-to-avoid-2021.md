@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2021-02-06T23:00:00Z
 description = "If you’re looking for a resilient way to market your nursing home facility, Look no further. This article contains proven marketing strategies for senior living facilities."
-draft = true
 featImg = "/assets/images/nursing-home-featured.jpg"
 featImgThumb = "/assets/images/nursing-home-featured.jpg"
 linkedinHandle = "/slimaneBaghouri"
