@@ -20,6 +20,10 @@ twitterHandle = "/@SlimanBaghouri"
 +++
 {{% hook %}} If you’re looking for a resilient way to market your nursing home facility, Look no further. This article contains proven marketing strategies for senior living facilities.{{% /hook %}}
 
+<!--more-->
+
+***
+
 Marketing your nursing home facility is day and night different from marketing in other industries. Today, I’ll share with you marketing strategies that will catapult your nursing home facility to the next level.
 
 This article covers:
