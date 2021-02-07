@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "7"
 slug = "/nursing-home-marketing "
 socialThumbnail = "/assets/images/nursing-home-featured.jpg"
-table_of_content = []
+table_of_content = ["mistakes-to-avoid-when-marketing-your-nursing-home", "nursing-home-marketing-ideas", "multi-channel-marketing", "targeting-the-decision-makers-with-trust-creation-messaging", "cross-promotion-marketing-strategy", "video-storytelling", "print-advertising", "local-seo", "pay-per-click-advertising", "sponsor-a-community-event", "youtube-advertising", "the-secret-to-a-result-driven-nursing-home-marketing"]
 title = "Proven Nursing Home Marketing Ideas + (Traps to Avoid) [2021]"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -63,7 +63,7 @@ If you’d like to know how you can build such a brand strategy for your nursing
 
 ### 3) Not establishing a differentiation strategy
 
-In the competitive market of nursing homes, not being different is the same as being invisible. A differentiation strategy can act as an unbreachable wall against the competition. It forms a razor-sharp clarity about **_how_** your nursing brand is different and **_why _**people should choose to be there.
+In the competitive market of nursing homes, not being different is the same as being invisible. A differentiation strategy can act as an unbreachable wall against the competition. It forms a razor-sharp clarity about **_how_** your nursing brand is different and **_why_** people should choose to be there.
 
 A differentiation strategy can make your competition irrelevant and provides your facility with a bigger market share. Thus, increasing your profit margins and solidifying your brand in the healthcare sphere.
 
