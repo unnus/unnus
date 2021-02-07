@@ -18,7 +18,7 @@ title = "Strategic Planning In Healthcare: 2021 Guide + Examples"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-{{% hook %}}**This guide contains new healthcare planning strategies, their benefits, examples, traps to avoid, and all you need to know.**{{% /hook %}}
+{{% hook %}}This guide contains new healthcare planning strategies, their benefits, examples, traps to avoid, and all you need to know**.**{{% /hook %}}
 <!--more-->
 
 ***
