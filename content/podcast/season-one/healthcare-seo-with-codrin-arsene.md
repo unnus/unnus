@@ -22,7 +22,7 @@ Any type of healthcare company that really wants to get in front of the largest 
 
 Sliman:  
 
-Welcome back, ladies and gentlemen to the Care Frontiers podcast.The show where we bring healthcare professionals to share with us their own experience running a successful medical business. Joining me today the CEO of Digital Authority Partners and the healthcare weekly digital magazine Codrin Arsene, Codrin, welcome to our show.
+Welcome back, ladies and gentlemen to the Care Frontiers podcast. The show where we bring healthcare professionals to share with us their own experience running a successful medical business. Joining me today the CEO of Digital Authority Partners and the healthcare weekly digital magazine Codrin Arsene, Codrin, welcome to our show.
 
 Codrin:  
 
@@ -30,7 +30,7 @@ Sliman thank you so much for inviting me to the show.
 
 Sliman:  
 
-My pleasure Codrin. And before we get into the deep into the actual content, tell us a little bit about you and what inspires you to venture into this career path and build digital authority?
+My pleasure Codrin. And before we get deep into the actual content, tell us a little bit about you and what inspires you to venture into this career path and build digital authority?
 
 Codrin:  
 
@@ -38,7 +38,7 @@ Absolutely. So Digital Authority Partners (DAP) is a consulting agency out of Ch
 
 Codrin:  
 
-And, yeah, I started the company originally was kind of on the side, I still work for a multinational company back in 2015. And within a year, the digital door to partners company was generating enough revenue that myself and two other co founders decided to take it full time. And we have now grown to having 54 employees working all over the US and some of them even internationally, we work with some of the biggest companies in the in the healthcare space here in the United States.
+And, yeah, I started the company originally was kind of on the side, I still work for a multinational company back in 2015. And within a year, Digital Authority Partners company was generating enough revenue that myself and two other co founders decided to take it full time. And we have now grown to having 54 employees working all over the US and some of them even internationally, we work with some of the biggest companies in the healthcare space here in the United States.
 
 Codrin:  
 
