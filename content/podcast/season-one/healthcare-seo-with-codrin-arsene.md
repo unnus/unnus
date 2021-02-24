@@ -1,16 +1,16 @@
 +++
 bulletpoints = ["Why SEO is the best long-term strategy to grow your healthcare brand", "How patients convert from regular readers of your article to an active patient ", "PPC (Digital Advertising) VS SEO (organic traffic)"]
 description = "In this episode Codrin from Digital Authority Partners discusses how you can build your brand using SEO tactics and content marketing strategies."
-episodeIframe = ""
+episodeIframe = "https://open.spotify.com/embed-podcast/episode/4bJglsAYcF3BDxTGI3tp0g"
 guest = "Mr. Codrin Arsene"
 guestContact = []
 guestPicture = "/assets/images/codrin-arsene.jpg"
 guestResources = []
 page = "podcast/single.html"
-platforms = []
+platforms = ["https://open.spotify.com/episode/4bJglsAYcF3BDxTGI3tp0g?si=gI8BDLO2Ttqy7oslh2LGmA", "https://podcasts.apple.com/dz/podcast/healthcare-seo-marketing-with-codrin-arsene/id1545378762?i=1000510386572", "#"]
 season = "season-one"
 slug = "/healthcare-seo"
-tagline = ""
+tagline = "Healthcare SEO"
 title = "Healthcare SEO Marketing With Codrin Arsene "
 which = "episode-cover"
 
