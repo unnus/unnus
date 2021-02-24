@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["How To Better Communicate With Your Target Audience", "How To Position Your Medical Business", "What Exactly is Branding? "]
 description = "In this episode Susan from Susan Meier Studio discusses what branding is and what it is not. She also go over the importance of positioning your healthcare brand and how to do it."
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Branding-And-Business-Positioning-In-Healthcare-With-Susan-Meier-er0bnh/a-a4o40uj"
 guest = "Mrs. Susan Meier"
 guestContact = ["Reach her out for a free consultation at susan@susanmeierstudio.com", "Connect with susan on linkedIn=linkedin.com/in/susanhamiltonmeier", "Follow her on twitter=twitter.com/susanhmeier"]
