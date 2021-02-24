@@ -12,7 +12,7 @@ platforms = []
 season = "season-one"
 slug = "/healthcare-positioning-and-branding"
 tagline = ""
-title = "Branding And Business Positioning In Healthcare"
+title = "Branding And Business Positioning In Healthcare With Susan Meier"
 which = "episode-cover"
 
 +++
