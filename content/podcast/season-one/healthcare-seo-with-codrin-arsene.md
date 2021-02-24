@@ -3,9 +3,9 @@ bulletpoints = ["Why SEO is the best long-term strategy to grow your healthcare 
 description = "In this episode Codrin from Digital Authority Partners discusses how you can build your brand using SEO tactics and content marketing strategies."
 episodeIframe = "https://open.spotify.com/embed-podcast/episode/4bJglsAYcF3BDxTGI3tp0g"
 guest = "Mr. Codrin Arsene"
-guestContact = []
+guestContact = ["Email him at codrin.arsene@digitalauthority.me", "Or at c@digitalauthority.me ", "Connect with him on Linkedin=www.linkedin.com/in/codrinarsene"]
 guestPicture = "/assets/images/codrin-arsene.jpg"
-guestResources = []
+guestResources = ["Check out Digital Authority Partners=digitalauthority.me", "Visit Healthcare Weekly=healthcareweekly.com=", "Tune in to Codrin's own podcast=podcasts.apple.com/us/podcast/healthcare-weekly-at-forefront-healthcare-innovation/id1454446734"]
 page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/4bJglsAYcF3BDxTGI3tp0g?si=gI8BDLO2Ttqy7oslh2LGmA", "https://podcasts.apple.com/dz/podcast/healthcare-seo-marketing-with-codrin-arsene/id1545378762?i=1000510386572", "#"]
 season = "season-one"
