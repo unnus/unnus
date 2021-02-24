@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["Why SEO is the best long-term strategy to grow your healthcare brand", "How patients convert from regular readers of your article to an active patient ", "PPC (Digital Advertising) VS SEO (organic traffic)"]
 description = "In this episode Codrin from Digital Authority Partners discusses how you can build your brand using SEO tactics and content marketing strategies."
-draft = true
 episodeIframe = ""
 guest = "Codrin Arsene"
 guestContact = []
@@ -40,7 +39,7 @@ Codrin:
 
 And, yeah, I started the company originally was kind of on the side, I still work for a multinational company back in 2015. And within a year, Digital Authority Partners company was generating enough revenue that myself and two other co founders decided to take it full time. And we have now grown to having 54 employees working all over the US and some of them even internationally, we work with some of the biggest companies in the healthcare space here in the United States.
 
-Codrin:  
+Sliman:  
 
 Absolutely, Codrin you worked with the healthcare professionals and you worked also with other industries. And a big part of digital authority is doing marketing services for for your clients. So and I really want to know that what makes the difference between healthcare marketing and the marketing in other, let's say, consumer brands or other industries?
 
@@ -66,7 +65,7 @@ because of all of these, ultimately, financial considerations, any type of healt
 
 Sliman:  
 
-So you touched on the the patient or the would-be patients when they are having questions like yourself, and how do patients transition from, let's say, a regular reader of a blog or an article to a patient and comming to the actual facility.
+So you touched on the the patient or the would-be patients when they are having questions like yourself, and how do patients transition from, let's say, a regular reader of a blog or an article to a patient and coming to the actual facility.
 
 Codrin:  
 
@@ -186,7 +185,7 @@ It's an honor. If you want more from Codrin connect with him on LinkedIn @codrin
 
 Codrin:  
 
-That's it. I mean, I everybody should know I read every single email I receive. you can just send me notice c@digitalauthority.me, or just go to the website or add me on LinkedIn. I may not answer to every email I get but I will always read every single email in my inbox. 
+That's it. I mean, I everybody should know I read every single email I receive. you can just send me notice   c@digitalauthority.me or just go to the website or add me on LinkedIn. I may not answer to every email I get but I will always read every single email in my inbox. 
 
 Sliman:  
 
