@@ -2,16 +2,16 @@
 bulletpoints = ["How To Better Communicate With Your Target Audience", "How To Position Your Medical Business", "What Exactly is Branding? "]
 description = "In this episode Susan from Susan Meier Studio discusses what branding is and what it is not. She also go over the importance of positioning your healthcare brand and how to do it."
 draft = true
-episodeIframe = ""
+episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Branding-And-Business-Positioning-In-Healthcare-With-Susan-Meier-er0bnh/a-a4o40uj"
 guest = "Mrs. Susan Meier"
-guestContact = []
+guestContact = ["Reach her out for a free consultation at susan@susanmeierstudio.com", "Connect with susan on linkedIn=linkedin.com/in/susanhamiltonmeier", "Follow her on twitter=twitter.com/susanhmeier"]
 guestPicture = "/assets/images/ss_085.jpg"
-guestResources = []
+guestResources = ["Visit her website for helpful branding resources=www.susanmeierstudio.com/", "Don't miss her exquisite art in Instagram=instagram.com/susanmeierstudio"]
 page = "podcast/single.html"
-platforms = []
+platforms = ["#", "#", "#"]
 season = "season-one"
 slug = "/healthcare-positioning-and-branding"
-tagline = ""
+tagline = "Branding in healthcare"
 title = "Branding And Business Positioning In Healthcare With Susan Meier"
 which = "episode-cover"
 
@@ -138,7 +138,7 @@ Yeah, exactly. Because speaking of this kind of positioning, narrowing down and 
 
 Susan:
 
-sure. My website is www.susanmeierstudio.com. And Meier , by the way is m e i e r, which is a very typical Swiss spelling, but a very atypical American spelling, so I have to spell it. And my Twitter is Susan H. Meier. So all of those places are good resources. And I'm always happy to answer questions, you can schedule a 15 minute chat with me for free. And also on my website, I have some downloadables. I've created a series of workbook exercises. For those who might want to try to do this on a budget on their own, you know, do it yourself. I've captured the methodology that I use with larger clients in a way that is shareable for you if you are, you know, a small business owner and just trying to dip a toe in the water of branding. And I have also like office hours, people want just a little bit of my time to help them through that. That's all on my website.
+Sure. My website is www.susanmeierstudio.com. And Meier , by the way is m e i e r, which is a very typical Swiss spelling, but a very atypical American spelling, so I have to spell it. And my Twitter is Susan H. Meier. So all of those places are good resources. And I'm always happy to answer questions, you can schedule a 15 minute chat with me for free. And also on my website, I have some downloadables. I've created a series of workbook exercises. For those who might want to try to do this on a budget on their own, you know, do it yourself. I've captured the methodology that I use with larger clients in a way that is shareable for you if you are, you know, a small business owner and just trying to dip a toe in the water of branding. And I have also like office hours, people want just a little bit of my time to help them through that. That's all on my website.
 
 Sliman:
 
