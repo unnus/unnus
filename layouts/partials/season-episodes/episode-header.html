@@ -42,12 +42,12 @@
 			<iframe src="{{.Params.episodeIframe}}" height="102px" width="400px" frameborder="0" style="width:100%;height:400px" scrolling="no"></iframe>			
  		</div>
 
- 		<div class="container">
+ 		<div class="container"> 
  			<div class="guest-info-holder">			
 	 			<div class="guest-resources">
 		  		{{$guestLastName := split .Params.guest " " }}
 
-	 				<h2>Want More From Dr. {{index $guestLastName 2}}?</h2>
+	 				<h2>Want More From {{index $guestLastName 0}} {{index $guestLastName 2}}?</h2>
 	 				<p>Here are couple of resources from our guest:</p>
 	 				<ul>
 					  {{ range $resource := .Params.guestResources}}
@@ -56,10 +56,10 @@
 
 						  		{{$splitted := split $resource "=" }}
 
-					     		<li><a rel="nofollow" target="_blank" href="https://{{index $splitted 1}}">{{ index $splitted 0}}</a></li> 
+					     		<li><a rel="noreferrer noopener" target="_blank" href="https://{{index $splitted 1}}">{{ index $splitted 0}}</a></li> 
 					     	{{else if in $resource "https"}}
 
-						    <li><a rel="nofollow" target="_blank" href="{{ $resource }}">{{ $resource }}</a></li>					     
+						    <li><a rel="noreferrer noopener" target="_blank" href="{{ $resource }}">{{ $resource }}</a></li>					     
 					     {{else}}
 					    <li> {{ $resource }}</li>
 					     {{end}}
@@ -69,7 +69,7 @@
 
 
 	 			<div class="guest-contact">
-	 				<h2>Where to reach Dr. {{index $guestLastName 2}}?</h2>
+	 				<h2>Where to reach {{index $guestLastName 0}} {{index $guestLastName 2}}?</h2>
 	 				<p>Here are some places where you can reach our guest:</p>
 	 				<ul>
 					  {{ range $contactInfo := .Params.guestContact}}
@@ -78,10 +78,10 @@
 
 						  		{{$splittedx := split $contactInfo "=" }}
 
-					     		<li><a rel="nofollow" target="_blank" href="https://{{index $splittedx 1}}">{{ index $splittedx 0}}</a></li> 
+					     		<li><a rel="noreferrer noopener" target="_blank" href="https://{{index $splittedx 1}}">{{ index $splittedx 0}}</a></li> 
 					     	{{else if in $contactInfo "https"}}
 
-						    <li><a rel="nofollow" target="_blank" href="{{ $contactInfo }}">{{ $contactInfo }}</a></li>					     
+						    <li><a rel="noreferrer noopener" target="_blank" href="{{ $contactInfo }}">{{ $contactInfo }}</a></li>					     
 					     {{else}}
 					    <li> {{ $contactInfo }}</li>
 					     {{end}}

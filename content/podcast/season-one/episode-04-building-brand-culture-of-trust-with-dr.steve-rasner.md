@@ -5,7 +5,7 @@ episodeIframe = "https://open.spotify.com/embed-podcast/episode/1XwwqhjDb0CSUkan
 guest = "Dr. Steven Rasner"
 guestContact = ["You can email Dr. Rasner at drrasner@aol.com", "His office's website=www.pearlsmiles.com"]
 guestPicture = "/assets/images/podcast/guests/steve-rasner.jpg"
-guestResources = ["Check his courses here=rasnerinstitute.com/", "The Lionhearted Podcast=https://podcasts.apple.com/us/podcast/lionhearted-dentists-with-dr-steve-rasner/id1437549006", "Offices of Dr. Rasner on facebook=https://www.facebook.com/pearlsmilesNJ/"]
+guestResources = ["Check his courses here=rasnerinstitute.com/", "The Lionhearted Podcast=https://podcasts.apple.com/us/podcast/lionhearted-dentists-with-dr-steve-rasner/id1437549006", "Offices of Dr. Rasner on facebook=https://www.facebook.com/pearlsmilesNJ/"] 
 page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/1XwwqhjDb0CSUkandIkfRC?si=w3sYzFWzQhq2Uk34bgC3ig", "#", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/MTc4Yzk2ZTQtMWQ2OS00ZmI2LThhM2ItMmI4MWRhZTYxYmM2?sa=X&ved=0CA0QkfYCahcKEwjw_MrsidrtAhUAAAAAHQAAAAAQAQ"]
 season = "season-one"
