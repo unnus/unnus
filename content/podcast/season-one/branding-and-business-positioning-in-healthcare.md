@@ -1,6 +1,6 @@
 +++
 bulletpoints = []
-description = "In this episode Susan from Susan Meier Studiodiscusses how you can build your brand using SEO tactics and content marketing strategies.\n\n"
+description = "In this episode Susan from Susan Meier Studio discusses what branding is and what it is not. She also go over the importance of positioning your healthcare brand and how to do it."
 draft = true
 episodeIframe = ""
 guest = "Mrs. Susan Meier"
