@@ -1,13 +1,13 @@
 +++
 bulletpoints = ["How To Better Communicate With Your Target Audience", "How To Position Your Medical Business", "What Exactly is Branding? "]
 description = "In this episode Susan from Susan Meier Studio discusses what branding is and what it is not. She also go over the importance of positioning your healthcare brand and how to do it."
-episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Branding-And-Business-Positioning-In-Healthcare-With-Susan-Meier-er0bnh/a-a4o40uj"
+episodeIframe = "https://open.spotify.com/embed-podcast/episode/6Ro3nVApHPq416doq5RdRh"
 guest = "Mrs. Susan Meier"
 guestContact = ["Reach her out for a free consultation at susan@susanmeierstudio.com", "Connect with susan on linkedIn=linkedin.com/in/susanhamiltonmeier", "Follow her on twitter=twitter.com/susanhmeier"]
 guestPicture = "/assets/images/ss_085.jpg"
 guestResources = ["Visit her website for helpful branding resources=www.susanmeierstudio.com/", "Don't miss her exquisite art in Instagram=instagram.com/susanmeierstudio"]
 page = "podcast/single.html"
-platforms = ["#", "#", "#"]
+platforms = ["https://open.spotify.com/episode/6Ro3nVApHPq416doq5RdRh?si=OPGp1pk4RtepRct97ZShNQ", "https://podcasts.apple.com/dz/podcast/branding-business-positioning-in-healthcare-susan-meier/id1545378762?i=1000510489023", "#"]
 season = "season-one"
 slug = "/healthcare-positioning-and-branding"
 tagline = "Branding in healthcare"
