@@ -1,17 +1,17 @@
 +++
-bulletpoints = []
+bulletpoints = ["Inbound Marketing Strategies", "Traditional Advertising Vs Digital Marketing", "Social Media Or Search Traffic?"]
 description = "In this episode Alex from Cardinal Digital Marketing discusses how you can build your brand using inbound marketing strategies like content marketing and SEO."
 draft = true
-episodeIframe = ""
+episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Healthcare-Inbound-Marketing-With-Alex-Membrillo-er5tc5"
 guest = "Mr. Alex Membrillo"
-guestContact = ["Connect With Him On Linkedin=www.linkedin.com/in/alexmembrillo/"]
+guestContact = ["Follow Him On Twitter=twitter.com/alex_membrillo", "Connect With Him On Linkedin=www.linkedin.com/in/alexmembrillo/"]
 guestPicture = "/assets/images/alex-membrillo.jpg"
-guestResources = []
+guestResources = ["Visit Cardinal Digital Marketing for more resources=www.cardinaldigitalmarketing.com", "Tune in to his own podcast=podcasts.apple.com/us/podcast/ignite-digital-marketing-podcast-marketing-growth-tips/id1331561045"]
 page = "podcast/single.html"
-platforms = []
+platforms = ["#", "#", "#"]
 season = "season-one"
 slug = "/healthcare-inbound-marketing"
-tagline = ""
+tagline = "Inbound Marketing"
 title = "Healthcare Inbound Marketing With Alex Membrillo"
 which = "episode-cover"
 
