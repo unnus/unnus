@@ -36,7 +36,6 @@ Topics that I’ll cover are:
 
 Without wasting too much time, let's dig in.
 
-
 ## **What is SWOT analysis in healthcare?**
 
 While it might sound like you’re calling on a hostage-rescue law enforcement team, S.W.O.T is a strategic planning technique.
@@ -121,7 +120,7 @@ A simple example of a SWOT grid should be like this:
 
 ![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.jpg "Healthcare SWOT Analysis template")
 
-You can use our free [healthcare SWOT Analysis Template](https://docs.google.com/document/d/1Rq4eoinKL6EBWbMroFnvTHMsENQCD7H0HBCMtJG1ELo/edit#)
+You can use our free [healthcare SWOT Analysis Template](https://drive.google.com/file/d/1LgZj5L5N3rI13n21JRdP1Nyb3qgn2tTh/view?usp=sharing)
 
 ### **Gather the information**
 
