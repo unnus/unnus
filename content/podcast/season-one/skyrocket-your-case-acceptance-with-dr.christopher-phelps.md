@@ -18,13 +18,13 @@ which = "episode-cover"
 +++
 Chris:
 
-whether you realize it or not, when a patient walks in the door, your practice when you're speaking to them on the telephone for the first time, whatever the situation is, right? They're coming into that situation with a mindset already pre established. And if you don't do anything to change that mindset, the odds are pretty good, that, their mindset wherever it's at is not here focused on their health need.
+Whether you realize it or not, when a patient walks in the door, your practice when you're speaking to them on the telephone for the first time, whatever the situation is, right? They're coming into that situation with a mindset already pre established. And if you don't do anything to change that mindset, the odds are pretty good, that, their mindset wherever it's at is not here focused on their health need.
 
 Sliman:
 
   
 
-Welcome back, ladies and gentlemen to the care frontiers podcast, the show where we bring healthcare professionals to share with us their own experience running a successful medical business. Joining me today, the outstanding dentist entrepreneur and amazon best selling author, Dr. Christopher Phelps, Doc, welcome to our show. 
+Welcome back, ladies and gentlemen to the Care Frontiers podcast, the show where we bring healthcare professionals to share with us their own experience running a successful medical business. Joining me today, the outstanding dentist entrepreneur and amazon best selling author, Dr. Christopher Phelps, Doc, welcome to our show. 
 
 Chris:
 
@@ -34,7 +34,7 @@ Sliman:
 
   
 
-You are most welcome, Doc. Dr. Phelps, tell us a little bit about you and your background on how it all led to you what you're doing right now helping medical dental professionals?
+You are most welcome. Dr. Phelps, tell us a little bit about you and your background on how it all led to you what you're doing right now helping medical dental professionals?
 
 Chris:
 
