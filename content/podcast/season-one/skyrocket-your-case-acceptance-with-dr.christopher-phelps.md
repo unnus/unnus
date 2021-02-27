@@ -1,12 +1,11 @@
 +++
 bulletpoints = ["5 reasons patients you're not getting a \"yes\" from your patients", "How to increase case acceptance ", "Cost-effective marketing strategies to attract new patients"]
 description = "In this episode Dr. Phelps discusses how you can increase your case acceptance rate and build long-lasting relationships with your patients using persuasion strategies."
-draft = true
-episodeIframe = ""
+episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/How-To-Skyrocket-Your-Case-Acceptance-With-Dr--Christopher-Phelps-er61el"
 guest = "Dr. Christopher Phelps"
-guestContact = []
+guestContact = ["Shoot him an email at chris@drphelpshelps.com", "Connect with him on Linkedin=www.linkedin.com/in/dr-christopher-phelps-2b48b718/"]
 guestPicture = "/assets/images/phelps-headshot.jpg"
-guestResources = []
+guestResources = ["Check his programs on his website=www.drphelpshelps.com", "Check Golden Goose Scheduling=goldengoosescheduling.com", "Grab a copy of his book=www.amazon.com/Grow-Your-Dental-Membership-Plan/dp/0692788093", "Visit Call Tracker ROI=calltrackerroi.com"]
 page = "podcast/single.html"
 platforms = ["#", "#", "#"]
 season = "season-one"
@@ -226,11 +225,9 @@ If you want more from Dr. Phelps, make sure to check out his website for more re
 
 Chris:
 
-Yeah, yeah, we're doing the persuasion workshops, live stream now because of the code stuff. So if you want some information on our next upcoming workshop, we got two more scheduled this year. shoot me an email at Chris@DrPhelpsHelps.com.  so we've got some influence courses coming up. If you're interested in Golden Goose scheduling. Golden Goose Kisan comm check that out. We're working with medical and dental offices, as I said to help them answer is schedule your patient calls. But yeah, reach out. I'm happy to help. 
+Yeah, yeah, we're doing the persuasion workshops, live stream now because of the code stuff. So if you want some information on our next upcoming workshop, we got two more scheduled this year. shoot me an email at Chris@drphelpshelps.com.  so we've got some influence courses coming up. If you're interested in Golden Goose scheduling. goldengoosescheduling.com check that out. We're working with medical and dental offices, as I said to help them answer is schedule your patient calls. But yeah, reach out. I'm happy to help. 
 
 Sliman:
-
-  
 
 Again, all of all of the links are in the show notes. 
 
