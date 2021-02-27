@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["Inbound Marketing Strategies", "Traditional Advertising Vs Digital Marketing", "Social Media Or Search Traffic?"]
 description = "In this episode Alex from Cardinal Digital Marketing discusses how you can build your brand using inbound marketing strategies like content marketing and SEO."
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Healthcare-Inbound-Marketing-With-Alex-Membrillo-er5tc5"
 guest = "Mr. Alex Membrillo"
 guestContact = ["Follow Him On Twitter=twitter.com/alex_membrillo", "Connect With Him On Linkedin=www.linkedin.com/in/alexmembrillo/"]
