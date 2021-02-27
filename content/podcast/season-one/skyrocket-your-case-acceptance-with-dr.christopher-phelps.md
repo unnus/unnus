@@ -226,7 +226,7 @@ If you want more from Dr. Phelps, make sure to check out his website for more re
 
 Chris:
 
-Yeah, yeah, we're doing the persuasion workshops, live stream now because of the code stuff. So if you want some information on our next upcoming workshop, we got two more scheduled this year. shoot me an email at Chris ch ri s at Dr. Phelps helps calm so we've got some influence courses coming up. If you're interested in Golden Goose scheduling. Golden Goose Kisan comm check that out. We're working with medical and dental offices, as I said to help them answer is schedule your patient calls. But yeah, reach out. I'm happy to help. 
+Yeah, yeah, we're doing the persuasion workshops, live stream now because of the code stuff. So if you want some information on our next upcoming workshop, we got two more scheduled this year. shoot me an email at Chris@DrPhelpsHelps.com.  so we've got some influence courses coming up. If you're interested in Golden Goose scheduling. Golden Goose Kisan comm check that out. We're working with medical and dental offices, as I said to help them answer is schedule your patient calls. But yeah, reach out. I'm happy to help. 
 
 Sliman:
 
