@@ -1,7 +1,6 @@
 +++
 bulletpoints = ["How to boost your practice's customer service ", "How to revamp your patient experience", "Retaining Existing Patient Vs Acquiring New patients"]
 description = "In this episode Dr. Moffet discusses how you can overhaul your practice processes from start to finish, building unforgettable patient experience. "
-draft = true
 episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/Building-An-Unforgettable-Patient-Experience-With-Dr--David-Moffet-er5v13"
 guest = "Dr. David Moffet"
 guestContact = ["Email him at david@theupe.com", "Connect With him on linkedin=www.linkedin.com/in/dental-practice-consultant-australia/"]
