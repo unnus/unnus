@@ -1,13 +1,13 @@
 +++
 bulletpoints = ["5 reasons patients you're not getting a \"yes\" from your patients", "How to increase case acceptance ", "Cost-effective marketing strategies to attract new patients"]
 description = "In this episode Dr. Phelps discusses how you can increase your case acceptance rate and build long-lasting relationships with your patients using persuasion strategies."
-episodeIframe = "https://anchor.fm/sliman-baghouri/embed/episodes/How-To-Skyrocket-Your-Case-Acceptance-With-Dr--Christopher-Phelps-er61el"
+episodeIframe = "https://open.spotify.com/embed-podcast/episode/3jGG0fiW2qnrSC76zPmm12"
 guest = "Dr. Christopher Phelps"
 guestContact = ["Shoot him an email at chris@drphelpshelps.com", "Connect with him on Linkedin=www.linkedin.com/in/dr-christopher-phelps-2b48b718/"]
 guestPicture = "/assets/images/phelps-headshot.jpg"
 guestResources = ["Check his programs on his website=www.drphelpshelps.com", "Check Golden Goose Scheduling=goldengoosescheduling.com", "Grab a copy of his book=www.amazon.com/Grow-Your-Dental-Membership-Plan/dp/0692788093", "Visit Call Tracker ROI=calltrackerroi.com"]
 page = "podcast/single.html"
-platforms = ["#", "#", "#"]
+platforms = ["https://open.spotify.com/episode/3jGG0fiW2qnrSC76zPmm12?si=3KUA-o5DS_qpBcir69gLwg", "https://podcasts.apple.com/dz/podcast/how-to-skyrocket-your-case-acceptance-dr-christopher/id1545378762?i=1000510898457", "#"]
 season = "season-one"
 slug = "increase-case-acceptance"
 tagline = "Case Acceptance"
