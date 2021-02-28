@@ -7,7 +7,7 @@ guestContact = ["Reach her out for a free consultation at susan@susanmeierstudio
 guestPicture = "/assets/images/ss_085.jpg"
 guestResources = ["Visit her website for helpful branding resources=www.susanmeierstudio.com/", "Don't miss her exquisite art in Instagram=instagram.com/susanmeierstudio"]
 page = "podcast/single.html"
-platforms = ["https://open.spotify.com/episode/6Ro3nVApHPq416doq5RdRh?si=OPGp1pk4RtepRct97ZShNQ", "https://podcasts.apple.com/dz/podcast/branding-business-positioning-in-healthcare-susan-meier/id1545378762?i=1000510489023", "#"]
+platforms = ["https://open.spotify.com/episode/6Ro3nVApHPq416doq5RdRh?si=OPGp1pk4RtepRct97ZShNQ", "https://podcasts.apple.com/dz/podcast/branding-business-positioning-in-healthcare-susan-meier/id1545378762?i=1000510489023", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/Nzc3ODAwMTMtZjI4Yy00ZmVmLTk1NTEtMzViYzMxZmI1MWEz?sa=X&ved=0CA0QkfYCahcKEwiI5pvAs4zvAhUAAAAAHQAAAAAQAQ"]
 season = "season-one"
 slug = "/healthcare-positioning-and-branding"
 tagline = "Branding in healthcare"
