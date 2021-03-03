@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnu
 category = "healthcare-marketing"
 date = 2021-03-02T23:00:00Z
 description = "Patient Journey Maps are the secret ingredient to a thriving medical business. Let’s discuss how to implement this strategy for your practice in under 3 days. "
-draft = true
 featImg = "/assets/images/featured-6.jpg"
 featImgThumb = "/assets/images/featured-7.jpg"
 linkedinHandle = "/slimaneBaghouri"
