@@ -195,7 +195,7 @@ I’ll share with you a recent example of the patient journeys map we conducted 
 
 Here is [Healthier™](https://www.unnus.com/case-studies/healthier/)’s PJM, an Orlando-based community hospital:
 
-**For full screen** [**click here**](https://miro.com/app/board/o9J_laHx8CE=/) **or click on see board**
+For full screen [click here](https://miro.com/app/board/o9J_laHx8CE=/) or click on see board
 
 {{< iframe "https://miro.com/app/live-embed/o9J_laHx8CE=/?moveToViewport=-1263,-586,3603,2161" >}}
 
