@@ -41,7 +41,8 @@ Other topics I will discuss are:
 
 Let us dive in.
 
-## What is a Patient Journey?  
+## What is a Patient Journey?
+
 ![Illustration of patient journey mapping](/assets/images/3-patient-journey-map-illustration.jpg "Patient journey")
 
 A Patient Journey (A.K.A customer journey) is a series of events the patient goes through from his first interaction with your medical business up until post-treatment. It outlines every touchpoint (point of contact) the patient comes across during the whole patient experience.
@@ -86,9 +87,9 @@ Patient journey mapping is a collaborative strategy by nature. Key stakeholders 
 
 ## Step-By-Step Process: how to create a patient journey map:
 
-Now that you know the importance of the patient journey, let’s dive into the process of how to implement it with your medical business. 
+Now that you know the importance of the patient journey, let’s dive into the process of how to implement it with your medical business.
 
-From our experience, the process usually takes between 2 days to 3 days. It shouldn’t take more than 3 days to fully complete your patient journey. 
+From our experience, the process usually takes between 2 days to 3 days. It shouldn’t take more than 3 days to fully complete your patient journey.
 
 Let’s go through the stages one by one.
 
@@ -195,14 +196,6 @@ I’ll share with you a recent example of the patient journeys map we conducted 
 
 Here is [Healthier™](https://www.unnus.com/case-studies/healthier/)’s PJM, an Orlando-based community hospital:
 
-## Patient Journey Example
-
-I’ll share with you a recent example of the patient journeys map we conducted with our client so you can see roughly how the first draft of the map should look like.
-
-### Hospital Patient Journey
-
-Here is [Healthier™](https://www.unnus.com/case-studies/healthier/)’s PJM, an Orlando-based community hospital:
-
 \[INSERT IFRAME\]
 
 The results of performing PJM
@@ -217,5 +210,4 @@ The Patient Journey Map is as good as the action-plan behind it. The last thing 
 
 The steps that will redeem the pain-points of your patients, take advantage of the opportunities and make an unforgettable patient experience.
 
-  
- If you’re looking for help to facilitate your workshop or perform a patient journey map, [drop me a message](https://unnus.com/contact/). I’d gladly help you.
+If you’re looking for help to facilitate your workshop or perform a patient journey map, [drop me a message](https://unnus.com/contact/). I’d gladly help you.
