@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "7"
 slug = "patient-journey-mapping"
 socialThumbnail = "/assets/images/featured-7.jpg"
-table_of_content = []
+table_of_content = ["what-is-a-patient-journey", "what-is-a-patient-journey-mapping", "what-are-the-benefits-of-patient-journey-mapping", "step-by-step-process-how-to-create-a-patient-journey-map", "patient-journey-example", "the-secret-to-a-result-driven-patient-journey-map"]
 title = "Patient Journey Mapping In 2021, Guide + [Examples & Template]"
 twitterHandle = "/@SlimanBaghouri"
 
