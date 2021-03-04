@@ -3,7 +3,7 @@ bulletpoints = ["5 reasons patients you're not getting a \"yes\" from your patie
 description = "In this episode Dr. Phelps discusses how you can increase your case acceptance rate and build long-lasting relationships with your patients using persuasion strategies."
 episodeIframe = "https://open.spotify.com/embed-podcast/episode/3jGG0fiW2qnrSC76zPmm12"
 guest = "Dr. Christopher Phelps"
-guestContact = ["Shoot him an email at chris@drphelpshelps.com", "Connect with him on Linkedin=www.linkedin.com/in/dr-christopher-phelps-2b48b718/"]
+guestContact = ["Connect with him on Instagram=https://www.instagram.com/dentalslangpodcast/", "Shoot him an email at chris@drphelpshelps.com", "Connect with him on Linkedin=www.linkedin.com/in/dr-christopher-phelps-2b48b718/"]
 guestPicture = "/assets/images/phelps-headshot.jpg"
 guestResources = ["Check his programs on his website=www.drphelpshelps.com", "Check Golden Goose Scheduling=goldengoosescheduling.com", "Grab a copy of his book=www.amazon.com/Grow-Your-Dental-Membership-Plan/dp/0692788093", "Visit Call Tracker ROI=calltrackerroi.com"]
 page = "podcast/single.html"
