@@ -57,7 +57,7 @@ As much as we like to say “I base my buying decision on logic”, We don’t. 
 
 {{% blockquote "Marty Neumeier" %}}Trust creation is a fundamental goal of brand design....Trust is the ultimate shortcut to a buying decision and the bedrock of modern branding.{{% /blockquote %}}
 
-### **How to know if you have an established healthcare brand?**
+### How to know if you have an established healthcare brand?
 
 **#\~1) A brand needs to be different**. If a brand is not differentiated, it is not a brand. It is a “me too” service or a product. If you claim to have a brand it needs to be unique in a way that **sets you radically apart**, **adds value**, and **enhances the experience** to your patient.
 
