@@ -22,6 +22,8 @@ twitterHandle = "/@SlimanBaghouri"
 
 {{% hook %}}Maybe because people aren’t aware of the widening costs of a poorly named brand, or the streamlining effects of a well-named one. {{% /hook %}}
 
+<!--more-->
+
 ***
 
 “Care Health Center, Care For health Clinic, Healthy Center Clinic, Valley Health, Southpark Dental, EastPark Dental, Midtown Chiropractic, and Saint Francis Pediatric”
@@ -141,7 +143,6 @@ Use this mind-map template to create your word bank.
 
 ![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-3-1.jpg "Screenshot of the Medical business naming worksheet")
 
-  
 If you’re stuck, use [Powerthesaurus ](https://www.powerthesaurus.org/)and [Rhymebrain](https://rhymebrain.com/). These tools will provide you with endless words and synonyms.
 
 ### Stage 2: Naming Process ⏰ \[20-45 minute\]
