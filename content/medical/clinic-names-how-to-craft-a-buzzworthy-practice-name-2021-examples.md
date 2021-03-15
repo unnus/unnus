@@ -124,4 +124,122 @@ Now we know what makes for a great name, let’s go into the process of crafting
 
 In this stage, we get a summary about your medical brand, what it stands for, what it does, and how it benefits your patients. The goal here is to gain as much background and information about your brand so that we _derive_ the name from it.
 
-You can download this worksheet to start gathering some insights about your brand.
+You can [download this worksheet](https://drive.google.com/file/d/1vlxrmYwFH_-JvXIEBEx5U7gVnv1iKiF0/view?usp=sharing "Download Medical Business Naming Worksheet") to start gathering some insights about your brand.
+
+![Medical business naming worksheet](/assets/images/naming-worksheet-1.jpg "Medical business naming worksheet")
+
+Just like people, your brand's personality draws some to it and repels others. defining it in human terms makes it easier to identify the ideal patient that will be attracted to it.
+
+Using the next sheet and try to decide on a brand personality for your business. Is your brand playful? Authoritative? Sympathetic? Or is it serious and to the point? These personalities will help us pick a name that suits your brand and its attributes.
+
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-2.jpg "Screenshot of the Medical business naming worksheet")
+
+### Stage 1: Brainstorming a Word Bank ⏰ \[15-25 minute\]
+
+Now we have all the needed prep, let’s create a word bank or a tree of words that are related to your brand. The goal of this exercise is to collect as much vocabulary that’s associated with the personality and core of your brand. These words will drum up ideas and inspirations for you to come up with a name that mirrors the characteristics of your practice.
+
+Use this mind-map template to create your word bank.
+
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-3.jpg "Screenshot of the Medical business naming worksheet")  
+If you’re stuck, use [Powerthesaurus ](https://www.powerthesaurus.org/)and [Rhymebrain](https://rhymebrain.com/). These tools will provide you with endless words and synonyms.
+
+### Stage 2: Naming Process ⏰ \[20-45 minute\]
+
+After you’ve got your word bank, it’s time to start generating names. Use the next sheet to categorize the names you’ve come up with. Make sure to use your word bank for inspiration and wordplay.
+
+Brainstorm as many names as you possibly can and put them in their respective column. If you get stuck, return to your word bank to get some ideas.
+
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-4.jpg "Screenshot of the Medical business naming worksheet")
+
+### Stage 3: Name Evaluation ⏰ \[10-15 minute\]
+
+Now that you’ve come up with enough names, let’s evaluate each one and pick our winner.
+
+Using the name evaluation sheet, pick your top 5 names and start ranking them based on the 7 criteria we discussed before (Distinctiveness, Brevity, Appropriateness, Spelling and pronunciation, Likeability, extendability, and protectability). In addition to that, you’ll see some important questions about the name so you can evaluate each one.
+
+Use a ranking score of 1 or 0 (yes or no). Try also giving this to friends/family for more insights. Make sure that the name you pick ticks all of the important attributes of a great name.
+
+![](/assets/images/naming-worksheet-5.jpg)
+
+After you finish, you’ll have a total score for each name. The highest scored name wins.
+
+## Medical brand name examples
+
+If you google clinic names or medical business names, you’ll find 100+ randomly generated and half-assed brand names that might give you a visceral response of disgust. For this reason, I decided to share with you a couple of medical brand names I’ve crafted with my clients. Some are real medical businesses and others are prototypes.
+
+## Dental Clinic Names
+
+Odentia
+
+![Dental Clinic Names Example](/assets/images/dental-clinic-names-1.jpg "Dental Clinic Names Example")
+
+Confidental
+
+![](/assets/images/dental-clinic-names-2.jpg)
+
+## Physical therapy clinic names
+
+Magic Motion  
+![physical therapy clinic names examples](/assets/images/phsycial-therapy-clinic-names-1.jpg "physical therapy clinic names examples")
+
+Theramove
+
+![physical therapy clinic names examples](/assets/images/physical-therapy-clinic-names-2.jpg "physical therapy clinic names examples")
+
+## Medical Clinic Names
+
+Woven Care
+
+![medical clinic names examples](/assets/images/medical-clinic-names-1.jpg "medical clinic names examples")
+
+Tender Treat
+
+![medical clinic names examples](/assets/images/medical-clinic-names-2.jpg "medical clinic names examples")
+
+## Pediatric clinic names
+
+Care Rangers
+
+![pediatric clinic names examples](/assets/images/pediatric-clinic-names-1.jpg "pediatric clinic names examples")
+
+Kinder Aid
+
+![pediatric clinic names examples](/assets/images/pediatric-clinic-names-2.jpg "pediatric clinic names examples")
+
+## Chiropractic clinic names
+
+Fluid Forms
+
+![chiropractic clinic names examples](/assets/images/chiropractic-clinic-names-1.jpg "chiropractic clinic names examples")
+
+Jolly Joints
+
+![chiropractic clinic names examples](/assets/images/chiropractic-clinic-names-2.jpg "chiropractic clinic names examples")
+
+## Veterinary clinic names
+
+Fauna
+
+![veterinary clinic names examples](/assets/images/veterinary-clinic-names-1.jpg "veterinary clinic names examples")
+
+Barking Burr
+
+![veterinary clinic names examples](/assets/images/veterinary-clinic-names-2.jpg "veterinary clinic names examples")
+
+## Mental health clinic names
+
+Restful Minds
+
+![mental health clinic names examples](/assets/images/mental-health-clinic-names-1.jpg "mental health clinic names examples")
+
+Caresect
+
+![mental health clinic names examples](/assets/images/mental-health-clinic-names-2.jpg "mental health clinic names examples")
+
+## The secret to an unforgettable medical business name
+
+A resilient brand name can catapult your medical practice to go the distance —literally and figuratively. It’s your most valuable asset and what will stick in the roofs of patient’s minds. A great name will accelerate the rate at which your medical business grows and make it easier for you to scale in the long run.
+
+But the name you choose is as good as the brand behind it. Building a [future-proof brand ](https://unnus.com/medical/healthcare-branding/)to back up the name will further solidify your practice and help people connect with it on a deeper level. A level where your brand will have an uncanny ability to attract patients and loyal advocates.
+
+If you’re looking to name your brand or if you are in the process of a rebrand, [drop me a message ](https://unnus.com/contact/)here. I’d love to help you craft a creative name that suits your business.
