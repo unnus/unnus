@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnu
 category = "healthcare-marketing"
 date = 2021-03-14T23:00:00Z
 description = "In this article I’ll provide you with the key elements that make for a timeless brand name and a step-by-step process to help you craft a buzzworthy name."
-draft = true
 featImg = "/assets/images/featured-names-0.jpg"
 featImgThumb = "/assets/images/featured-names-0.jpg"
 linkedinHandle = "/slimaneBaghouri"
