@@ -140,7 +140,9 @@ Now we have all the needed prep, let’s create a word bank or a tree of words t
 
 Use this mind-map template to create your word bank.
 
-![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-3.jpg "Screenshot of the Medical business naming worksheet")  
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-3-1.jpg "Screenshot of the Medical business naming worksheet")
+
+  
 If you’re stuck, use [Powerthesaurus ](https://www.powerthesaurus.org/)and [Rhymebrain](https://rhymebrain.com/). These tools will provide you with endless words and synonyms.
 
 ### Stage 2: Naming Process ⏰ \[20-45 minute\]
