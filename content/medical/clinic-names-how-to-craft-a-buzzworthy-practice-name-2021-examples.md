@@ -149,7 +149,7 @@ If you’re stuck, use [Powerthesaurus ](https://www.powerthesaurus.org/)and [Rh
 
 After you’ve got your word bank, it’s time to start generating names. Use the next sheet to categorize the names you’ve come up with. Make sure to use your word bank for inspiration and wordplay.
 
-Brainstorm as many names as you possibly can and put them in their respective column. If you get stuck, return to your word bank to get some ideas.
+Brainstorm as many names as you can and put them in their respective column. If you get stuck, return to your word bank to get some ideas.
 
 ![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-4.jpg "Screenshot of the Medical business naming worksheet")
 
