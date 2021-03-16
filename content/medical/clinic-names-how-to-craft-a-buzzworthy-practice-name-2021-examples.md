@@ -95,7 +95,7 @@ A great name should be differentiated from names in its class. Your brand name m
 
 ### 2) Brevity: The shorter the better
 
-Is it short enough for people to remember it? If it’s a multi-word name, it runs the risk of being forgotten or shortened to non-comprehensible letters. Aim for it to be as brief as it can reasonably be. No one wants
+Is it short enough for people to remember it? If it’s a multi-word name, it runs the risk of being forgotten or shortened to non-comprehensible letters. Aim for it to be as brief as it can reasonably be. 
 
 ### 3) Appropriateness: Does it fit well?
 
