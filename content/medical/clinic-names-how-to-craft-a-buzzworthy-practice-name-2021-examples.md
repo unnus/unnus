@@ -14,7 +14,7 @@ readingTime = "6"
 slug = "/clinic-names"
 socialThumbnail = "/assets/images/featured-names-0.jpg"
 table_of_content = ["can-a-name-do-all-that", "how-not-to-name-your-medical-brand", "the-7-pillars-of-a-great-medical-brand-name", "how-to-name-your-medical-business-step-by-step-process", "medical-brand-name-examples", "dental-clinic-names", "physical-therapy-clinic-names", "medical-clinic-names", "pediatric-clinic-names", "chiropractic-clinic-names", "veterinary-clinic-names", "mental-health-clinic-names", "the-secret-to-an-unforgettable-medical-business-name"]
-title = "Clinic Names: How to Craft A Buzzworthy Practice Name (2021) + Examples"
+title = "Clinic Names: How to Craft A Buzzworthy Practice Name +Examples"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
