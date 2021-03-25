@@ -26,3 +26,14 @@ twitterHandle = "/@SlimanBaghouri"
 All right, maybe we’re overselling it, but not really. We do believe this is the most comprehensive guide to help you generate an endless stream of patients/customers using only one or two of the strategies we’re going to discuss.
 
 And today, I’ll walk you through some of the battle-tested marketing methods in healthcare. **But most importantly**, at the end of this guide, I’m going to let you in on an important “secret” that most medical businesses fail to recognize. So make sure to read the last section.
+
+This article covers:
+
+1. What is a healthcare marketing
+2. Why is healthcare marketing important
+3. Top **23** healthcare marketing strategies
+4. The secret to seeing tantalizing results.
+
+Let’s not waste time and dive right ahead.
+
+{{% note "On a hurry?" %}}To save you some time, use the navigation bar on your right to quickly jump between sections. {{% /note %}}
