@@ -593,6 +593,6 @@ Healthcare branding is about crafting medical brands for which patients believe 
 
 A [Brand Strategy](https://unnus.com/medical/healthcare-branding/) for your medical business will ensure that all of your marketing efforts are vibrating at the same frequency. That everything is consistent and not ad hoc, random or uninspiring.
 
-If you’re planning to market your medical business, consider establishing a potent brand strategy with our [free step-by-step course](https://unnus.com/healthcare-branding/). This way you make sure that your healthcare business’s success is predictable and not accidental.
+If you’re planning to market your medical business, consider establishing a potent brand strategy with our [free step by step course](https://unnus.com/healthcare-branding/). This way you make sure that your healthcare business’s success is predictable and not accidental.
 
 Or if you’d like a competent team to help you establish a charismatic healthcare brand, drop us a message by [gently caressing this glowing text](https://unnus.com/contact/). 
