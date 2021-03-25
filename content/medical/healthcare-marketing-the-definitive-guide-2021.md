@@ -386,9 +386,9 @@ Here’s why:
 5. It’s time-saving and requires only 20-minute to 1 hour a day from the host.
 6. It makes it easy for patients to consume your content and interact with your brand.
 
-![Mayo clinic podcast example](/assets/images/34-healthcare-podcasting-examples.PNG "Mayo clinic podcast example")
+![](/assets/images/34-healthcare-podcasting-examples-2.PNG)
 
-![Screenshot of dental podcast show](/assets/images/35-dental-podcasts-examples.PNG "Dental podcast example")
+![](/assets/images/35-dental-podcasts-examples-2.PNG)
 
 ## 15) Podcasting: Guest Tour Strategy
 
@@ -428,7 +428,7 @@ Here’s an outline of this strategy:
 
 This way you can expand your network while at the same time building an authoritative podcast that can be used as a way to attract patients.
 
-### **#\~2) Utilize the law of reciprocity to increase patient referrals**
+### #\~2) Utilize the law of reciprocity to increase patient referrals
 
 The law of reciprocity is when someone does something nice for you, you have a psychological urge to return the favor. Using this simple relationship-building tactic, one of my friends[ Dr. Christopher Phelps](https://unnus.com/podcast/season-one/increase-case-acceptance/) is skyrocketing his referral rate by **70%**.
 
@@ -437,3 +437,162 @@ The strategy is simple: by offering “incentives” or a surprise gift for your
 Providing people with unexpected gifts will promote rapport and send trust signals to your patient base. You can also do the same for your colleagues and other medical professionals. This strategy is all about nurturing relationships with your referral sources.
 
 {{% important %}} it is illegal to receive financial compensation or “kick-backs” from other doctors’ exchanges for referrals. Check this [stark compliance law](https://www.aafp.org/practice-management/regulatory/compliance/stark.html). {{% /important %}}
+
+## 17) Event Marketing
+
+![Healthcare Event Marketing](/assets/images/38-event-marketing-in-healthcare.jpg "Event Marketing")
+
+Event marketing is the promotion of your healthcare brand through in-person interaction. There are many forms of this strategy so let’s dive into some of them.
+
+### #\~ Sponsoring a community event
+
+Sponsoring local events or educational meetups can be a great way to educate people about your care services and what it provides. For example, if you’re a nursing home facility, you can sponsor an educational event that informs your community of what difference your brand is making and the variety of senior care services. This way your event achieves 2 goals:
+
+1. First, you educate the people about what your brand does differently and how it benefits them.
+2. Second, It builds awareness of your brand and further increases its sphere of influence.
+
+Community events also highlight the need for your care services and can trigger action from your audience to choose your brand as their to-go-to choice.
+
+### #\~ Conducting local health seminars
+
+Seminars are conducted in a smaller and more focused place and it allows a better educational experience for the attendees. This strategy is more feasible for smaller medical practices and can be a huge opportunity for you to inform the attendees about your brand and how it can benefit them.
+
+Seminars also build credibility and establish your healthcare brand as an authority in the field. This mix of trust-building and patient education are the two pillars of growing your medical business and attracting more patients to it.
+
+## 18) Hosting patient webinars
+
+![Illustration of Patient Webinars ](/assets/images/39-patient-webinars.jpg "Patient Webinars ")
+
+Given the current situation with Covid-19, hosting a seminar and local community events might not be viable options as of yet. However, there’s a powerful alternative to the physical events: Webinars.
+
+Webinars are online seminars conducted virtually and from the leisure of your home or office. It's an opportunity to start hosting health-related virtual events and educate your audience online. Webinars can also be a great way to attract patients and offer them some of the care services that you might be able to deliver online (like telemedicine) or on-site.
+
+## 19) Cross-Promotion Marketing Strategy
+
+![Illustration of Cross Promotion Marketing ](/assets/images/40-cross-promotion-marketing-in-healthcare.jpg "Cross Promotion Marketing ")
+
+Cross-promotion strategy is about teaming up with a non-competing medical brand to better serve the same patient. For example, if you’re a hospital that has certain patients that are better suited for hospice, you might recommend referring them to your hospice agency partner. Or if you’re a plastic surgeon you might partner with a cosmetic dental doctor etc.
+
+Let’s go over the tactics of a cross-promotion strategy
+
+1. **Recommendation letter**
+   * Each partner sends a mailing letter in which they recommend the other’s partner services and how they can further improve their health experience
+2. **Email promotion**
+   * Each participant sends an email campaign to inform your subscribers about your partner’s services. this way leveraging both audiences
+3. **Launching a cause campaign**
+   * This tactic revolves around creating a campaign that highlights the cause you and your partner are fighting for. Perhaps you and the brand you partnered with are determined to increase the safety of your community through educational care? So, a campaign that focuses on this cause can build awareness for both parties.
+4. **Referral Funnels**
+   * This is a great way to leverage your existing patients and refer them to other doctors in exchange for a patient back to your office. Once you have done this healthy back and forth referral program, it’ll be a sustainable patient acquisition funnel.
+5. **Joint Online Promotions**
+   * Here both participants promote the other’s brand in their online community. Partners might even consider creating a “Joint” website that features both brands and direct website visitors to each other’s office location.
+
+## 20) Multi-Channel Marketing
+
+_![Illustration of Multi-Channel Marketing](/assets/images/41-multi-channel-marketing-in-healthcare.jpg "Multi-Channel Marketing")_
+
+According to a recent [study](https://business.linkedin.com/marketing-solutions/blog/n/new-marketing-leadership-report-from-linkedin-salesforce), 86% of senior-level marketers think that it’s important to create a cohesive customer journey across all touchpoints and channels. And for this reason, multi-channel marketing is a great way to add a holistic experience for your patients.
+
+Multi-channel Marketing is the discipline of utilizing multiple marketing channels across all of your patient contact points with your healthcare brand. This strategy ensures that your message is equally distributed across all of your marketing outlets.
+
+Which in turn, lets your medical brand have a foot at many doors and your business will be always on top of mind.
+
+{{% note "Editor's Note" %}} despite the clear advantage this strategy provides, it may prove to be challenging because of its “promiscuous” nature. Having more than 3 marketing outlets will require an overarching branding strategy and more marketing expenses. So, if you’re willing to adopt this strategy for your medical brand, make sure that there’s a strategy in place that glues all of your efforts together and protects your brand from getting diluted. {{% /note %}}
+
+## 21) Digital Healthcare Public Relations
+
+![Illustration of Healthcare Public Relation](/assets/images/42-healthcare-public-relation.jpg "Public Relations")
+
+Digital PR is an underutilized marketing strategy, particularly in healthcare. Exposing your medical business online in front of a massive audience can skyrocket your annual revenue and drum up big interest in your care service. I’ll share with you some of the strategies you can implement for your brand.
+
+### #\~ Feature your healthcare business in an industry-leading publication
+
+As a medical professional or healthcare brand, getting featured in healthcare-specific publications arms you with a huge advantage. And while these medical publications might not be well known as the Times magazine, they offer you a huge readership that could be interested in your brand.
+
+A great example of this strategy is Dr. Marchbanks. He regularly publishes articles in magazines such as The Blogging Doctors while at the same time promoting his clinic.
+
+![Illustration of Getting Public Press](/assets/images/43-healthcare-public-relation-examples.jpg "Getting Public Press")
+
+That links lead to a page where readers can book an appointment.
+
+![Screenshot of dental website](/assets/images/44-healthcare-public-relation-examples.jpg "Dental Website")
+
+### #\~ Sponsor an influencer
+
+Another great way to gain traction is to build relationships with industry influencers. These are people including journalists, authors, or social media celebrities with a huge following.
+
+An example of great influencers in healthcare is Dr. Sandra Lee with a following of over 7 million subscribers and more than 3 billion channel views. She shares common skin problems and cosmetic solutions with her audience. With this in mind, it would make sense for healthcare companies that are in the dermatology surgery industry to build relations with her.
+
+{{% note "Stats" %}} [92%](https://www.forbes.com/sites/deborahweinswig/2016/10/05/influencers-are-the-new-brands/) of consumers trust influencers more than ads or celebrity endorsement {{% /note %}}
+
+### **#\~ Press Releases**
+
+Press releases are another great opportunity to add to your healthcare PR strategy. The great thing about the press lies in its convenience. A single press release that has all the documents with all information needed and core facts about your healthcare company.
+
+Make sure you have news your audience (and the media's audience) will care about. This will dramatically skyrocket the odds that your release will earn coverage.
+
+## 22) Print Advertising
+
+![Illustration of Print Advertising in healthcare](/assets/images/45-healthcare-print-advertising-for.jpg "Print Advertising in healthcare")
+
+Despite the myths that print is dead, it’s still the biggest contributor to customer engagement according to Nielsen research firm. Not only that but the MNI Media study showed that baby boomers and GenXers read about 9.2 magazines per month.
+
+But that’s not all, a recent study done by Temple University, showed scans that print ads lit up the "purchase intent" area in the brain more than digital.
+
+Moreover, subjects spent more time engaged and induced more positive reactions towards physical ads, which made print more memorable and entertaining as opposed to digital.
+
+While we should acknowledge the boom digital advertising gained, we must not forget about the unattained benefits that print can offer to your marketing strategy.
+
+And because most healthcare brands are trying to hop on the digital ad wagon, mixing your marketing efforts to include print advertising may work as a differentiator for your brand.
+
+This alone makes print advertising a bottomless source of marketing opportunities for medical brands.
+
+## 23) Television Advertising (TV Ads)
+
+![Illustrations of healthcare TV ads ](/assets/images/46-healthcare-tv-advertising.jpg "TV Ads")
+
+While digital advertising agencies tend to overstate the death of TV and other traditional media marketing, television is still one of the biggest marketing channels healthcare organizations use.
+
+According to Cengage Learning, it’s the number **#1** channel when it comes to brand awareness. Which makes it a channel to reach local or national-wide audiences.
+
+But most importantly, when it comes to TV ads, they are one of the few ways that enable you to get multi-sensory attention with sight, motion, and audio priorities. As opposed to flat media like Radio that has only sounds or print with visual-exclusive attributes.
+
+And much like Google and SEO marketing techniques, TV can reach millions of people that could fall into your target patient. In fact, TV reaches an astounding 95% of U.S consumers.
+
+However, the effectiveness of TV advertising doesn't lie in the medium itself but rather in the execution. Many hospitals and healthcare companies try to launch their commercials on television but only to fall flat with an almost non-existent return on investment.
+
+Much like any art, TV ads must be well-crafted and backed by a creative powerhouse for it to be truly fruitful. An example of such powerful work is UCSF Medical Center’s ad “Redefining Possible”
+
+  
+{{< vimeo 287330392 >}}
+
+## 24) Direct Mail
+
+![Illustration of direct mail in the healthcare industry](/assets/images/47-healthcare-direct-mail.jpg "Healthcare Direct Mail")
+
+There’s a lot less mail in the inbox today. It’s no longer filled with brochures and fliers from newspapers and thanks to online billings, we’re receiving fewer billing papers.
+
+And because Email took over, people now are bombarded with the endless daily emails that are flooding their inbox. This revolution of digital mail made Direct Mail less and less competitive. And to some extent, underutilized marketing strategy.
+
+Direct Mail is still one of the best tactile marketing strategies healthcare businesses can take advantage of. Moreover, it’s highly effective when it comes to engaging with would-be patients.
+
+Not only that, but Direct Mail is a highly personalized experience. You can send physical objects to potential patients that work as a reminder of your medical business. And in the overly-saturated digital world, people now are more than ever, appreciating the tangible aspect of Mail.
+
+![Screenshot of Direct Mail Campaign](/assets/images/48-healthcare-direct-mail-examples-2.png "Direct Mail Campaign Example")
+
+### Here’s the “secret” to a result-driven healthcare marketing
+
+{{% blockquote "Sun Tzu" %}} Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat. {{% /blockquote %}}
+
+Marketing without building your brand is the same as leveraging temporary tactics that come with an expiration date.
+
+![Illustration that explains different between healthcare marketing and branding](/assets/images/49-healthcare-marketing-vs-healthcare-branding.png "Marketing Vs Branding")
+
+Marketing your healthcare business should build strong brand recognition to a point where your business no longer needs heavy ad expenses.
+
+Healthcare branding is about crafting medical brands for which patients believe there’s no substitute. It’s the bedrock for your marketing effort and the backbone that glues your organization.
+
+A [Brand Strategy](https://unnus.com/medical/healthcare-branding/) for your medical business will ensure that all of your marketing efforts are vibrating at the same frequency. That everything is consistent and not ad hoc, random or uninspiring.
+
+If you’re planning to market your medical business, consider establishing a potent brand strategy with our [free step-by-step course](https://unnus.com/healthcare-branding/). This way you make sure that your healthcare business’s success is predictable and not accidental.
+
+Or if you’d like a competent team to help you establish a charismatic healthcare brand, drop us a message by [gently caressing this glowing text](https://unnus.com/contact/). 
