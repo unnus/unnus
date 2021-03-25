@@ -362,6 +362,78 @@ According to a recent [marketing report](https://animoto.com/blog/news/social-vi
 
 While video ads take more time to produce than text-based ads, they offer higher ROI and a skyrocketing engagement rate. In addition, your campaigns are [69% more likely](https://www.smallbizgenius.net/by-the-numbers/video-marketing-statistics/) to be consumed by your patients in a video format than they are in a text.
 
-A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with [$145M raised](https://www.cossette.com/en/work/sickkids-goes-all-in).
+A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised.
 
-_\[INSERT VIDEO\]_
+{{< youtube c4Jzb99Bpd0>}}
+
+## 14) Podcasting: Converting your podcast listener to patients
+
+![Illustration of podcasting in healthcare](/assets/images/32-healthcare-podcasting.jpg "podcasting in healthcare")
+
+With the rapid surge of podcasts over the years, podcasting is booming right now. People are constantly listening to their favorite shows while on the bike, driving a car, or in their leisure time. With [1 out of every 5 adults](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf) in the USA listening to podcasts regularly.  
+![graph that shows podcast statistics ](/assets/images/podcast-stats-1.jpg "podcast statistics ")
+
+And according to an interview we did with Dr. Ernesto Gutierrez, podcasts are the most effortless medium to consume. This is exactly what makes it perfect for practice owners and healthcare brands to get in the ear of their audience.
+
+But more importantly, it’s the easiest marketing channel to drive patients from.
+
+Here’s why:
+
+1. It’s easy to set up and don’t require too much hassle as oppose to producing ad campaigns and social media publications
+2. It provides your patients a feel for the “living brand” through audio content
+3. It’s the most inexpensive channel when it comes to marketing
+4. It’s easy to syndicate episodes into other forms of media. You can make one episode and then turn it into a blog article, social media posts, snippets, and so on…
+5. It’s time-saving and requires only 20-minute to 1 hour a day from the host.
+6. It makes it easy for patients to consume your content and interact with your brand.
+
+![Mayo clinic podcast example](/assets/images/34-healthcare-podcasting-examples.PNG "Mayo clinic podcast example")
+
+![Screenshot of dental podcast show](/assets/images/35-dental-podcasts-examples.PNG "Dental podcast example")
+
+## 15) Podcasting: Guest Tour Strategy
+
+![Podcast Strategy Tour Illustration](/assets/images/36-podcast-tour-strategy.jpg "Podcast Tour Strategy")
+
+{{% important %}} This strategy works well for small practice owners - if you're a hospital executive or you own a multi-location clinic, you can skip this part {{% /important %}}
+
+An alternative to launching your medical show is to be on others’. The premise of this strategy is to be a podcast guest on popular health-related podcasts and build your authority and traction that way. Hence the name Guest Tour.
+
+With 20-30 minutes each day, you’ll sit in front of a large audience without too much effort on your part. This can be an option for you if you’re too busy to create a show or if you can’t outsource podcasting.
+
+And depending on the podcast you’re a guest on, you can pitch your care services to the audience. For example, if you’re a chiropractor and the podcast is on health and wellness, the audience might be interested in natural care. This way you can pitch your services to the listeners and direct them to your office.
+
+The one thing to keep in mind is that you should always pick a show where the audience is receptive to your care services, it’ll be a great way to start building consistent leads.
+
+## 16) Expand your referral sources using these strategies
+
+![Illustration of referral strategy for medical practice](/assets/images/37-healthcare-practice-referrals.jpg "Referral Program ")
+
+Referrals still are one of the cornerstones of a thriving medical business. After all, [1 out of every 3 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160594/) is referred to another doctor each year. And to get the most out of your network, establishing a referral program is a must.
+
+However, sitting and waiting for referrals to increase is a long-gone phenomenon. If you’re planning to soar up your referrals rate, you need to be proactive about it.
+
+There’s a lot of ways to start your referral program, but I’ll share with you the most efficient.
+
+### #\~1) Increase your referrals using a podcast networking strategy
+
+Podcasting is the best networking hack. A great strategy for this is podcast networking. The goal of this strategy is to expand your network by interviewing potential referral sources (other physicians) and nurture your relationship with them through podcasts.
+
+Here’s an outline of this strategy:
+
+1. **→** Launch your brand’s or your podcast
+2. **→** Identify potential referral sources
+3. **→** Invite other medical professionals as guests in your podcast
+4. **→** Build relationships with them using the podcast as a proxy to talk and chat
+5. **→** Keep nurturing the relationship between your podcast guests and exchange referral cards.
+
+This way you can expand your network while at the same time building an authoritative podcast that can be used as a way to attract patients.
+
+### **#\~2) Utilize the law of reciprocity to increase patient referrals**
+
+The law of reciprocity is when someone does something nice for you, you have a psychological urge to return the favor. Using this simple relationship-building tactic, one of my friends[ Dr. Christopher Phelps](https://unnus.com/podcast/season-one/increase-case-acceptance/) is skyrocketing his referral rate by **70%**.
+
+The strategy is simple: by offering “incentives” or a surprise gift for your patients, they are 10x more likely to refer their friends and families to your facility.
+
+Providing people with unexpected gifts will promote rapport and send trust signals to your patient base. You can also do the same for your colleagues and other medical professionals. This strategy is all about nurturing relationships with your referral sources.
+
+{{% important %}} it is illegal to receive financial compensation or “kick-backs” from other doctors’ exchanges for referrals. Check this [stark compliance law](https://www.aafp.org/practice-management/regulatory/compliance/stark.html). {{% /important %}}
