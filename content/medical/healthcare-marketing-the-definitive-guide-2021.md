@@ -579,7 +579,7 @@ Not only that, but Direct Mail is a highly personalized experience. You can send
 
 ![Screenshot of Direct Mail Campaign](/assets/images/48-healthcare-direct-mail-examples-2.png "Direct Mail Campaign Example")
 
-### Here’s the “secret” to a result-driven healthcare marketing
+## Here’s the “secret” to a result-driven healthcare marketing
 
 {{% blockquote "Sun Tzu" %}} Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat. {{% /blockquote %}}
 
