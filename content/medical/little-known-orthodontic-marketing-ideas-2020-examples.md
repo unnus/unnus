@@ -35,7 +35,6 @@ This article covers:
 6. Ridiculously cheap digital advertising platforms.
 7. The secret to marketing your orthodontic practice.
 
-
 ## **The risk of not being seen in the dental industry**
 
 With the ever-increasing competition from Primary Care Dentists (PCDs) and the rise of DIY dentistry, there’s high pressure on orthodontists to run profitable medical businesses.
@@ -236,7 +235,7 @@ Here’s an example of how Nance Orthodontic is using YouTube:
 
 ### **How to use Brand Storytelling with your content marketing**
 
-Now you have an idea of what and how content marketing can attract patients to your practice, let’s go over how to supercharge your marketing efforts using storytelling.
+Now you have an idea of what and how content marketing can [attract patients](https://unnus.com/medical/healthcare-marketing/) to your practice, let’s go over how to supercharge your marketing efforts using storytelling.
 
 **Brand Storytelling** means using a narrative to communicate a message. The aim is to make your target patients feel something – enough that it'll inspire them to take action.
 
