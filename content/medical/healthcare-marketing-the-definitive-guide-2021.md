@@ -409,7 +409,7 @@ The one thing to keep in mind is that you should always pick a show where the au
 
 ![Illustration of referral strategy for medical practice](/assets/images/37-healthcare-practice-referrals.jpg "Referral Program ")
 
-Referrals still are one of the cornerstones of a thriving medical business. After all, [1 out of every 3 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160594/) is referred to another doctor each year. In fact, in some sectors like [hospice]( https://unnus.com/medical/hospice-marketing/), it's one of the channels to drive patients. And so, to get the most out of your network, establishing a referral program is a must.
+Referrals still are one of the cornerstones of a thriving medical business. After all, [1 out of every 3 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160594/) is referred to another doctor each year. And to get the most out of your network, establishing a referral program is a must.
 
 However, sitting and waiting for referrals to increase is a long-gone phenomenon. If you’re planning to soar up your referrals rate, you need to be proactive about it.
 
@@ -472,7 +472,7 @@ Webinars are online seminars conducted virtually and from the leisure of your ho
 
 ![Illustration of Cross Promotion Marketing ](/assets/images/40-cross-promotion-marketing-in-healthcare.jpg "Cross Promotion Marketing ")
 
-Cross-promotion strategy is about teaming up with a non-competing medical brand to better serve the same patient. For example, if you’re a hospital that has certain patients that are better suited for hospice, you might recommend referring them to your hospice agency partner. Or if you’re a plastic surgeon you might partner with a cosmetic dental doctor etc.
+Cross-promotion strategy is about teaming up with a non-competing medical brand to better serve the same patient. For example, if you’re a hospital that has certain patients that are better suited for [hospice](https://unnus.com/medical/hospice-marketing/), you might recommend referring them to your hospice agency partner. Or if you’re a plastic surgeon you might partner with a cosmetic dental doctor etc.
 
 Let’s go over the tactics of a cross-promotion strategy
 
