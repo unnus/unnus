@@ -363,7 +363,7 @@ According to a recent marketing report Animoto Company, video ads were the numbe
 
 While video ads take more time to produce than text-based ads, they offer higher ROI and a skyrocketing engagement rate. In addition, your campaigns are 69% more likely to be consumed by your patients in a video format than they are in a text.
 
-A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised.
+A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised. It's the best example of great [healthcare advertising](https://unnus.com/medical/healthcare-advertising/). 
 
 {{< youtube c4Jzb99Bpd0>}}
 
@@ -409,7 +409,7 @@ The one thing to keep in mind is that you should always pick a show where the au
 
 ![Illustration of referral strategy for medical practice](/assets/images/37-healthcare-practice-referrals.jpg "Referral Program ")
 
-Referrals still are one of the cornerstones of a thriving medical business. After all, [1 out of every 3 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160594/) is referred to another doctor each year. And to get the most out of your network, establishing a referral program is a must.
+Referrals still are one of the cornerstones of a thriving medical business. After all, [1 out of every 3 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160594/) is referred to another doctor each year. In fact, in some sectors like [hospice]( https://unnus.com/medical/hospice-marketing/), it's one of the channels to drive patients. And so, to get the most out of your network, establishing a referral program is a must.
 
 However, sitting and waiting for referrals to increase is a long-gone phenomenon. If you’re planning to soar up your referrals rate, you need to be proactive about it.
 
