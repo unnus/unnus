@@ -309,6 +309,6 @@ You can access a large resolution [here](https://miro.com/app/board/o9J_laHJ46w=
 
 A great healthcare strategy is always directed by the brand’s attributes. A strategic plan won’t take any business anywhere if it is not guided by your branding strategy.
 
-A planning strategy could potentially hurt your healthcare brand equity (your perceived worth) if it veers off from your brand’s positioning in the market. If you’d like to learn more about branding in healthcare and how it can overhaul your strategic plan, you can check our guide [here](https://unnus.com/medical/healthcare-branding).
+A planning strategy could potentially hurt your healthcare brand equity (your perceived worth) if it veers off from your brand’s [positioning in the market]( "https://unnus.com/medical/healthcare-marketing/"). If you’d like to learn more about branding in healthcare and how it can overhaul your strategic plan, you can check our guide [here](https://unnus.com/medical/healthcare-branding).
 
 If you’re busy and looking for great healthcare brand strategy facilitators, [contact us here](https://unnus.com/contact/) and we’d gladly help you.
