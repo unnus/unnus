@@ -84,7 +84,7 @@ For the first time in history, competition does not come from your direct compet
 
 ![picture of market clutter](/assets/images/clear-the-clutter.png "market clutter")
 
-It is estimated that the average person encounters between [6,000 to 10,000 ads](https://www.forbes.com/sites/forbesagencycouncil/2017/08/25/finding-brand-success-in-the-digital-world/?sh=5c62d645626e) daily. **All from the same sounding brands, providing the same sounding offers with the same sounding voice**.
+According to research done by Red Crown Marketing agency, It is estimated that the average person encounters between 6,000 to 10,000 ads daily. **All from the same sounding brands, providing the same sounding offers with the same sounding voice**.
 
 This rushing flood of me-too brands forces our brains to deal with this clutter the best way it knows how—by blocking most of it out. And what’s left is the interesting, the inspiring, and the **different**.
 
@@ -120,17 +120,17 @@ If you’d like to know more about the step-by-step process of building a differ
 
 ![healthcare storytelling illustration](/assets/images/9-storytelling-in-healthcare.jpg "storytelling in healthcare")
 
-According to the [research ](https://www.slideshare.net/Headstream/the-power-of-brand-storytelling)done by Headstream agency, great stories created purchase intent in 55 % of surveyed consumers. Furthermore, Cognitive psychologist Jerome Bruner suggests that messages delivered as stories can be up to 22 times more memorable than just facts.
+According to the research done by Headstream agency, great stories created purchase intent in 55 % of surveyed consumers. Furthermore, Cognitive psychologist Jerome Bruner suggests that messages delivered as stories can be up to 22 times more memorable than just facts.
 
 Why is that? Well, stories stir your would-be patients' emotions, inspire them to take action, and send trust signals about your medical brand. Stories can shrink the “psychic distance” between you and patients, making room for strong relationships and loyalty to develop.
 
 To illustrate the critical part of storytelling marketing, let’s see how our brain deals with marketing messages.
 
-When your healthcare marketing tells stories, your audience will perceive your messages by the [limbic system](https://en.wikipedia.org/wiki/Limbic_system), the part of the brain that’s responsible for emotions and trust responses.
+When your healthcare marketing tells stories, your audience will perceive your messages by the limbic system, the part of the brain that’s responsible for emotions and trust responses.
 
-Conversely, if your messages contain a plethora of facts and data-driven approaches, they’ll be perceived by the [neocortex](https://en.wikipedia.org/wiki/Neocortex), the part of the brain responsible for logical thinking.
+Conversely, if your messages contain a plethora of facts and data-driven approaches, they’ll be perceived by the neocortex, the part of the brain responsible for logical thinking.
 
-Marketing that’s processed in the limbic system will be 10x effective than that which is perceived by the neocortex. That’s because [95% of our buying decisions](https://www.forbes.com/sites/forbescoachescouncil/2017/05/02/create-loyal-customers-for-life-making-limbic-connections-with-experiential-branding/?sh=714970876c48) are made by our emotions and processed in our reptilian brain (the limbic).
+Marketing that’s processed in the limbic system will be 10x effective than that which is perceived by the neocortex. And according to Harvard professor Gerald Zaltman, the reason for this is because 95% of our buying decisions are made by our emotions and processed in our reptilian brain (the limbic).
 
 The first kind of marketing message is called What Messages (WM). Which are messages that are descriptive of your medical business’s features and benefits.
 
@@ -223,7 +223,7 @@ For more examples and a detailed explanation of this planning technique, check o
 
 ![Illustration of SEO in healthcare ](/assets/images/19-healthcare-seo.jpg "SEO ")
 
-According to Pew Research Center, [83% of adult](https://www.pewresearch.org/internet/2009/06/11/the-social-life-of-health-information/) internet users look online for health information before visiting the care facility.
+According to Pew Research Center, [83% of adult](https://www.pewresearch.org/internet/2013/01/15/health-online-2013/) internet users look online for health information before visiting the care facility.
 
 This is an unmissed opportunity for your medical brand to have a strong online presence where you can share tips on health-related topics and gain a competitive edge for your practice.
 
@@ -231,7 +231,6 @@ Search Engine Optimization (SEO) is a marketing strategy that aims at ranking yo
 
 A great example of this strategy is Orthodontics Limited. They are ranking high on Google search for queries like “Causes of bad breath and "how to use rubber bands for braces". And As a result, their practice website gains massive amounts of traffic each month.
 
-  
 ![Picture of a popular orthodontic practice ](/assets/images/orthodontic-marketing-seo.jpg "SEO example")
 
 That’s roughly 113,000 monthly visitors and potential patients.
@@ -358,9 +357,9 @@ A good example of this is Englewood Dental Practice based in New Jersey. They we
 
 I would be remiss if I talked about text-based ads without mentioning their counterpart, video ads.
 
-According to a recent [marketing report](https://animoto.com/blog/news/social-video-trends-consumers-2020), video ads were the number **#1** way people discovered a brand they later purchased from. And with video platforms like Youtube generating billions of hours worth of watch time (daily), video advertising is a huge marketing opportunity for medical businesses to jump on.
+According to a recent marketing report Animoto Company, video ads were the number **#1** way people discovered a brand they later purchased from. And with video platforms like Youtube generating billions of hours worth of watch time (daily), video advertising is a huge marketing opportunity for medical businesses to jump on.
 
-While video ads take more time to produce than text-based ads, they offer higher ROI and a skyrocketing engagement rate. In addition, your campaigns are [69% more likely](https://www.smallbizgenius.net/by-the-numbers/video-marketing-statistics/) to be consumed by your patients in a video format than they are in a text.
+While video ads take more time to produce than text-based ads, they offer higher ROI and a skyrocketing engagement rate. In addition, your campaigns are 69% more likely to be consumed by your patients in a video format than they are in a text.
 
 A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised.
 
@@ -370,7 +369,7 @@ A great example of this is SickKids Hospital’s video ad titled “SickKids goe
 
 ![Illustration of podcasting in healthcare](/assets/images/32-healthcare-podcasting.jpg "podcasting in healthcare")
 
-With the rapid surge of podcasts over the years, podcasting is booming right now. People are constantly listening to their favorite shows while on the bike, driving a car, or in their leisure time. With [1 out of every 5 adults](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf) in the USA listening to podcasts regularly.  
+With the rapid surge of podcasts over the years, podcasting is booming right now. People are constantly listening to their favorite shows while on the bike, driving a car, or in their leisure time. With 1 out of every 5 adults in the USA listening to podcasts regularly.  
 ![graph that shows podcast statistics ](/assets/images/podcast-stats-1.jpg "podcast statistics ")
 
 And according to an interview we did with Dr. Ernesto Gutierrez, podcasts are the most effortless medium to consume. This is exactly what makes it perfect for practice owners and healthcare brands to get in the ear of their audience.
@@ -436,7 +435,7 @@ The strategy is simple: by offering “incentives” or a surprise gift for your
 
 Providing people with unexpected gifts will promote rapport and send trust signals to your patient base. You can also do the same for your colleagues and other medical professionals. This strategy is all about nurturing relationships with your referral sources.
 
-{{% important %}} it is illegal to receive financial compensation or “kick-backs” from other doctors’ exchanges for referrals. Check this [stark compliance law](https://www.aafp.org/practice-management/regulatory/compliance/stark.html). {{% /important %}}
+{{% important %}} it is illegal to receive financial compensation or “kick-backs” from other doctors’ exchanges for referrals according to Stark Compliance Law. {{% /important %}}
 
 ## 17) Event Marketing
 
@@ -490,7 +489,7 @@ Let’s go over the tactics of a cross-promotion strategy
 
 _![Illustration of Multi-Channel Marketing](/assets/images/41-multi-channel-marketing-in-healthcare.jpg "Multi-Channel Marketing")_
 
-According to a recent [study](https://business.linkedin.com/marketing-solutions/blog/n/new-marketing-leadership-report-from-linkedin-salesforce), 86% of senior-level marketers think that it’s important to create a cohesive customer journey across all touchpoints and channels. And for this reason, multi-channel marketing is a great way to add a holistic experience for your patients.
+According to a recent study by Linkedin, 86% of senior-level marketers think that it’s important to create a cohesive customer journey across all touchpoints and channels. And for this reason, multi-channel marketing is a great way to add a holistic experience for your patients.
 
 Multi-channel Marketing is the discipline of utilizing multiple marketing channels across all of your patient contact points with your healthcare brand. This strategy ensures that your message is equally distributed across all of your marketing outlets.
 
@@ -562,7 +561,6 @@ However, the effectiveness of TV advertising doesn't lie in the medium itself bu
 
 Much like any art, TV ads must be well-crafted and backed by a creative powerhouse for it to be truly fruitful. An example of such powerful work is UCSF Medical Center’s ad “Redefining Possible”
 
-  
 {{< vimeo 287330392 >}}
 
 ## 24) Direct Mail
@@ -595,4 +593,4 @@ A [Brand Strategy](https://unnus.com/medical/healthcare-branding/) for your medi
 
 If you’re planning to market your medical business, consider establishing a potent brand strategy with our [free step by step course](https://unnus.com/healthcare-branding/). This way you make sure that your healthcare business’s success is predictable and not accidental.
 
-Or if you’d like a competent team to help you establish a charismatic healthcare brand, drop us a message by [gently caressing this glowing text](https://unnus.com/contact/). 
+Or if you’d like a competent team to help you establish a charismatic healthcare brand, drop us a message by [gently caressing this glowing text](https://unnus.com/contact/).
