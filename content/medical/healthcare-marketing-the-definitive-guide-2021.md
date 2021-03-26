@@ -42,7 +42,7 @@ Let’s not waste time and dive right ahead.
 
 ![healthcare marketing illustration](/assets/images/1-what-is-healthcare-marketing.jpg "What is healthcare marketing")
 
-Healthcare marketing is the discipline of implementing promotional strategies to engage and attract a steady stream of patient flow to your medical facility. The main goal of marketing in the healthcare industry is to generate patients while building a strong brand name for your medical business.
+Healthcare marketing is the discipline of implementing promotional strategies to engage and attract a steady stream of patient flow to your medical facility. The main goal of marketing in the healthcare industry is to generate patients while building a strong [medical brand name ](https://unnus.com/medical/clinic-names/)for your business.
 
 The main difference between healthcare marketing and marketing in other industries lies in the implementation of certain marketing strategies. Some tactics won’t work in healthcare due to the complex regulations.
 
@@ -152,7 +152,7 @@ These messages are more effective because they’re emotionally-infused and buil
 
 ![effective messaging in healthcare](/assets/images/why-messaging-and-limbic-system.png "effective messaging in healthcare")
 
-If you’d like to know exactly the step-by-step process of how brand storytelling marketing works, check our guide where we demonstrate a practical example of [storytelling marketing for a medical device company](https://unnus.com/medical/medical-device-marketing/).
+If you’d like to know exactly the step-by-step process of how brand storytelling marketing works, check our guide where we demonstrate a practical example of [storytelling marketing](https://unnus.com/medical/medical-device-marketing/) for a medical device company.
 
 ## 4) Brand Persona: does your marketing communications have a unique voice?
 
