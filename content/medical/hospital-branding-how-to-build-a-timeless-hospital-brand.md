@@ -39,10 +39,7 @@ twitterHandle = "/@SlimanBaghouri"
 </section>
 <section id="WhatHospitalbrandisnot">
 
-<h2>First, what hospital brand is not?</h2>
-<p>
-Let’s first define what brand and <a target="_blank" href="https://unnus.com/medical/healthcare-branding/">branding</a>are not so we can leave room for the truth.
-</p>
+<h2>First, what hospital brand is not?</h2> <p> Let’s first define what brand and <a target="_blank" href="https://unnus.com/medical/healthcare-branding/">branding</a> are not so we can leave room for the truth. </p>
 
 <p>A brand is not your hospital logo, it’s not visual designs or ads. It’s not marketing effort, collateral, or business graphics and it is not a product.<p>
 <p>
