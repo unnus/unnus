@@ -190,7 +190,7 @@ What differentiates Healthier’s marketing was its unique way of communicating.
 
 ![illustration of healthcare marketing plan](/assets/images/15-healthcare-marketing-plan.jpg "healthcare marketing plan")
 
-Without a concrete plan, your marketing efforts run the risk of being inconsistent, ad hoc, or inefficient. To combat that, a grounded marketing plan should be a priority before marketing.
+Without a concrete plan, your marketing efforts run the risk of being inconsistent, ad hoc, or inefficient. To combat that, a [strategic marketing plan](https://unnus.com/medical/healthcare-strategic-planning/) should be a priority before marketing.
 
 I’ll share with you two strategies we’ve successfully used with our clients to ensure bulletproof results for their marketing.
 
@@ -255,6 +255,8 @@ That’s exactly what PPC is for.
 
 It’s an auction-based platform where advertisers bid on their website to appear **#1** in the search result. And when someone clicks on your website, you pay an amount of **$** for that click. This is why it’s sometimes called Pay Per Click (PPC).
 
+Here's an example of [orthodontic advertising](https://unnus.com/medical/orthodontic-marketing/) campaign:
+
 ![Google Adwords example in healthcare](/assets/images/22-google-adwords-example.png "Google adwords")
 
 The great news about this strategy is that it’s ridiculously cheaper than other forms of advertising such as TV/Print. And unlike SEO, which might take some time to yield the results, Google Adwords is a significantly faster strategy.
@@ -316,7 +318,7 @@ Here’s an illustration that shows how would-be patients go through this email 
 
 _![example of sales funnel in healthcare](/assets/images/27-healthcare-sales-funnel-example.jpg "example of sales funnel in healthcare")_
 
-The advantage of this model lies within its automation aspect. This email funnel will work for your business 24/7 and passively acquire patients on autopilot.
+The advantage of this model lies within its automation aspect. This email funnel will work for your business 24/7 and passively [acquire patients](https://unnus.com/medical/marketing-for-doctors/) on autopilot.
 
 ## 11) Healthcare Social Media Marketing
 
@@ -399,7 +401,7 @@ An alternative to launching your medical show is to be on others’. The premise
 
 With 20-30 minutes each day, you’ll sit in front of a large audience without too much effort on your part. This can be an option for you if you’re too busy to create a show or if you can’t outsource podcasting.
 
-And depending on the podcast you’re a guest on, you can pitch your care services to the audience. For example, if you’re a chiropractor and the podcast is on health and wellness, the audience might be interested in natural care. This way you can pitch your services to the listeners and direct them to your office.
+And depending on the podcast you’re a guest on, you can pitch your care services to the audience. For example, let's say you’re an audiologist and want to [market your audiology practice](https://unnus.com/medical/audiology-marketing/). A podcast on the health of senior living communities will be great to be on because the audience might be interested in your hearing loss care services. This way you can pitch your services to the listeners and direct them to your office.
 
 The one thing to keep in mind is that you should always pick a show where the audience is receptive to your care services, it’ll be a great way to start building consistent leads.
 
