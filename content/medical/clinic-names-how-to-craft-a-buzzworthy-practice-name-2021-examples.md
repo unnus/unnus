@@ -95,7 +95,7 @@ A great name should be differentiated from names in its class. Your brand name m
 
 ### 2) Brevity: The shorter the better
 
-Is it short enough for people to remember it? If it’s a multi-word name, it runs the risk of being forgotten or shortened to non-comprehensible letters. Aim for it to be as brief as it can reasonably be. 
+Is it short enough for people to remember it? If it’s a multi-word name, it runs the risk of being forgotten or shortened to non-comprehensible letters. Aim for it to be as brief as it can reasonably be.
 
 ### 3) Appropriateness: Does it fit well?
 
@@ -242,6 +242,6 @@ Caresect
 
 A resilient brand name can catapult your medical practice to go the distance —literally and figuratively. It’s your most valuable asset and what will stick in the roofs of patient’s minds. A great name will accelerate the rate at which your medical business grows and make it easier for you to scale in the long run.
 
-But the name you choose is as good as the brand behind it. Building a [future proof brand ](https://unnus.com/medical/healthcare-branding/)to back up the name will further solidify your practice and help people connect with it on a deeper level. A level where your brand will have an uncanny ability to attract patients and loyal advocates.
+But the name you choose is as good as the brand behind it. Building a [future proof brand ](https://unnus.com/medical/healthcare-branding/)to back up the name will further solidify your practice and help people connect with it on a deeper level. A level where your brand will have an uncanny ability to [attract patients](https://unnus.com/medical/healthcare-marketing/) and loyal advocates.
 
 If you’re looking to name your brand or if you are in the process of a rebrand, [drop me a message ](https://unnus.com/contact/)here. I’d love to help you craft a creative name that suits your business.
