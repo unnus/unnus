@@ -151,7 +151,7 @@ Some medical businesses try to “avoid” this risk by offering better equipmen
 
 ### **#3) Grabbing short-term gains while incurring the long-term losses.**
 
-Most healthcare patient acquisition “strategies” target the wrong aspect of marketing. The advertising campaign, social media marketing, referrals, or word-of-mouth, all focus on one thing: **acquiring**.
+Most patient acquisition “strategies” target the wrong aspect of [healthcare marketing](https://unnus.com/medical/healthcare-marketing/). The advertising campaign, social media marketing, referrals, or word-of-mouth, all focus on one thing: **acquiring**.
 
 The catch here is that acquiring a new customer is [5 to 25 times more expensive ](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)than retaining an existing one. Meaning medical businesses are focusing on the more expensive ways to generate cash flow. Instead, the main focus should be rerouted to **retaining**.
 
