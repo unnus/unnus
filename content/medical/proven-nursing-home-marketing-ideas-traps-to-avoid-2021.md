@@ -46,7 +46,7 @@ Before we go into the details of marketing your nursing home, let’s first tack
 
 ### 1) Jumping into the "Social media" bandwagon
 
-It might be counterintuitive but being on social media and investing in organic social reach for nursing homes is a common mistake I see a lot. The reason why this is an ineffective strategy  is simple: 
+It might be counterintuitive but being on social media and investing in organic social reach for nursing homes is a common mistake I see a lot. The reason why this is an ineffective strategy  is simple:
 
 **_Your target audience is not on social media to interact with healthcare providers._**
 
@@ -106,7 +106,7 @@ Here’s a graph that illustrates how trust correlates with buying decisions:
 
 ![Cross-promotion marketing illustration](/assets/images/3-cross-promotion-marketing-for-nursing-homes.jpg "Cross-promotion marketing illustration")
 
-In terms of effectiveness, cost, and viability, cross-promotion is a strong marketing strategy for nursing homes. This strategy revolves around teaming up with non-competing healthcare facilities to better reach the same audience.
+In terms of effectiveness, cost, and viability, cross-promotion is a strong [marketing strategy](https://unnus.com/medical/healthcare-marketing/) for nursing homes. This strategy revolves around teaming up with non-competing healthcare facilities to better reach the same audience.
 
 For example, a hospital that has patients that don’t need to be hospitalized anymore and can't be cared for at home might suggest to their patients your facility and vice-versa.
 
