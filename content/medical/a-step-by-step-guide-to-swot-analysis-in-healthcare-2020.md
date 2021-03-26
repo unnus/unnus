@@ -96,7 +96,7 @@ An example would be when we ask founders about their brand, they think that just
 
 ![opportunities examples in healthcare swot analysis](/assets/images/swot-opportunities.png "opportunities examples in healthcare swot analysis")
 
-In this part of the process, we dig deep to find the unmet needs of your patients. Needs that if you manage to fulfill, you gain their trust and skyrocket your patient retention. Looking for market gaps in your respective field is a gold mine for business success.
+In this part of the process, we dig deep to find the unmet needs of your patients. Needs that if you manage to fulfill, you gain their trust and skyrocket your patient retention. Looking for [market gaps](https://unnus.com/medical/healthcare-marketing/) in your respective field is a gold mine for business success.
 
 You’d be surprised by how beneficial yet-easy-turn-a-blind-eye on opportunities you can take advantage of.
 
