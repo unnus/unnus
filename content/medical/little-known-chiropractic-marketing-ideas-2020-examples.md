@@ -93,7 +93,7 @@ So, before marketing, ask yourself, does our marketing messages look the same as
 
 ### **3) Embarking on a vision-blind marketing campaign**
 
-Marketing a practice for the sake of increasing patient volume or growing profit margins is insufficient. These are the poor man's success metrics.
+[Marketing a practice](https://unnus.com/medical/healthcare-marketing/) for the sake of increasing patient volume or growing profit margins is insufficient. These are the poor man's success metrics.
 
 You need a business vision that goes beyond the “time-bounded” growth indicators. Most chiropractic marketing campaigns over-invest in short-term gains (quarterly revenues, ROI, volume) while incurring a long-term loss of their identity (patient loyalty, brand equity, brand preference).
 
