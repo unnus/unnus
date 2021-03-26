@@ -39,7 +39,6 @@ In today’s article, I’ll share with you the following:
 
 without further ado, let’s start.
 
-
 ## Mistakes to Avoid in hospice marketing
 
 Before we dig into the marketing ideas, let’s see common pitfalls so you can avoid them.
@@ -116,7 +115,7 @@ Now you know what to avoid, let’s go through some of the key elements that, if
 
 Branding is the management of all components that make a hospice brand for which your target audience believes there’s no substitute.
 
-[Branding ](https://unnus.com/medical/healthcare-branding/)is about creating trustworthy brands that your consumer has an affinity with. Building a brand means differentiation from competition, gaining a cult-like loyalty, enjoying predictable referral increases, and an established place in the market.
+[Branding ](https://unnus.com/medical/healthcare-branding/)is about creating trustworthy brands that your consumer has an affinity with. Building a brand means differentiation from competition, gaining a cult-like loyalty, enjoying predictable [referral increases](https://unnus.com/medical/healthcare-marketing/), and an established place in the market.
 
 Most agencies over-invest in marketing and focusing on acquiring new referrals rather than **retaining** existing ones. This approach is [25x more expensive ](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers)than other means of increasing referrals.
 
