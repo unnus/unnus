@@ -27,7 +27,7 @@ Today’s advertising is not the “pale, 20% off, on sale now” kind of cringe
 
 Ads now are empowered by meaningful [branding](https://unnus.com/medical/healthcare-branding/) that inspires, entertain, and build a cult-like following to your healthcare brand.
 
-In this article, I’ll share with you 25 mesmerizing healthcare advertising campaigns. I’ll also explain why these campaigns are great and worth taking notes from.
+In this article, I’ll share with you 25 mesmerizing healthcare [advertising campaigns](https://unnus.com/medical/healthcare-marketing/). I’ll also explain why these campaigns are great and worth taking notes from.
 
 In addition, I’ll reference what is the **brand voice** used in said campaigns.
 
@@ -42,7 +42,6 @@ These ads we will discuss today are:
 5. Other Medical adverts
 
 Let’s start.
-
 
 ## Hospital adverts examples
 
