@@ -104,7 +104,7 @@ In this phase, you’ll start by collecting important data points that will help
    * Who’s the target patient your practice or hospital attracts? E,g: middle-aged moms, C-suite executives, or maybe you’re cosmetic service and most of your patients are image-aware people like actors, politicians? If you don’t have an exact patient base, you can write down the ideal patients that you want to work with.
 2. Any relevant data from customer service chat logs, emails, or even anecdotal information from support, marketing team, or about the issues patients usually experience
 3. **Online presence data**
-   * If your practice brand is active online, you might want to check data from analytics tools like Google Analytics or Facebook ads if you’re running digital advertising campaigns. That can give you some insight into what is happening across your online touchpoints
+   * If your practice brand is active online, you might want to check data from analytics tools like Google Analytics or Facebook ads if you’re running digital [advertising ](https://unnus.com/medical/healthcare-marketing/)campaigns. That can give you some insight into what is happening across your online touchpoints
 4. **Patient testimonials and reviews.**
    * Gather your testimonials from the patients, good and bad. This will help us understand the mind of your patient and what he thinks about your brand.
 
