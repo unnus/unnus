@@ -42,7 +42,7 @@ This article covers:
 
 ## What to do before marketing your audiology practice
 
-More often than not, audiology promotional efforts fall flat because there was no grounded bedrock for the marketing to stand on. Let’s go through critical aspects that need to be addressed before you start marketing your practice.
+More often than not, audiology [promotional efforts ](https://unnus.com/medical/healthcare-marketing/)fall flat because there was no grounded bedrock for the marketing to stand on. Let’s go through critical aspects that need to be addressed before you start marketing your practice.
 
 ## Hone in on the service and separate yourself from the device
 
