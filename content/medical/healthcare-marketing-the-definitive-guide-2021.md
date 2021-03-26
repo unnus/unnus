@@ -6,7 +6,6 @@ authorBio = "Sliman M. Baghouri, co-founder of unnus™, he coordinates branding
 category = "healthcare-marketing"
 date = 2021-03-24T23:00:00Z
 description = ""
-draft = true
 featImg = "/assets/images/healthcare-marketing-featured.jpg"
 featImgThumb = "/assets/images/healthcare-marketing-featured.jpg"
 linkedinHandle = "/slimaneBaghouri"
