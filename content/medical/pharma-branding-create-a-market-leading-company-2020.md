@@ -105,7 +105,7 @@ Your job is to **cultivate**, **guard**, and **maintain** a strong brand – the
 
 This doesn’t mean that the product should be miles away in terms of ingredients or that your organization must reinvent new models.
 
-Differentiation in branding is about **perceptions.** You need to position your company or product in the minds of your audience _differently_ from competitors.
+Differentiation in [branding ](https://unnus.com/healthcare-branding/)is about **perceptions.** You need to position your company or product in the minds of your audience _differently_ from competitors.
 
 Positioning is the way your audience perceives your product **_in relation to _**other products in the market. If you’d like to see an example of positioning in the pharma industry jump to this section.
 
@@ -151,7 +151,7 @@ By building a strong brand, you create a gulf between your product portfolio and
 
 Brand equity (the perceived worth of a brand in and of itself) plays a significant role when acquirers try to evaluate target firms. That’s because acquirers want to see whether or not the brand can benefit from their position.
 
-And with the failure rate of M&A transactions is said to be between [70-90%](https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook "M&A Failure rate") and that a poorly conceived or executed M&A destroyed more than [$200 billion](https://www.nber.org/digest/aug03/big-firms-lose-value-acquisitions "M&A finding ") in shareholder value in 20 years, having brand guidelines as a “**decisional filter**” to check back against is critical.
+And with the failure rate of M&A transactions is said to be between [70% to 90%](https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook "M&A Failure rate") and that a poorly conceived or executed M&A destroyed more than [$200 billion](https://www.nber.org/digest/aug03/big-firms-lose-value-acquisitions "M&A finding ") in shareholder value in 20 years, having brand guidelines as a “**decisional filter**” to check back against is critical.
 
 Will this company solidifies our position in the market? Will it purify or defocus our mission? Do their values and our purpose match or do they contradict each other?
 
