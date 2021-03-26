@@ -18,7 +18,9 @@ title = "Healthcare Marketing: The Definitive Guide (2021) "
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-{{% hook %}} If you’re looking to market your medical business, you’re in luck. This guide will be so valuable you’ll make hard copies out of it and hide them in multiple off-site locations. {{% /hook %}}
+{{% hook %}} If you’re looking to market your medical business, you’re in luck. This guide will be so valuable you’ll make hard copies out of it and hide them in multiple off-site locations. {{% /hook %}} 
+
+<!--more-->
 
 ***
 
