@@ -401,7 +401,7 @@ An alternative to launching your medical show is to be on others’. The premise
 
 With 20-30 minutes each day, you’ll sit in front of a large audience without too much effort on your part. This can be an option for you if you’re too busy to create a show or if you can’t outsource podcasting.
 
-And depending on the podcast you’re a guest on, you can pitch your care services to the audience. For example, let's say you’re an audiologist and want to [market your audiology practice](https://unnus.com/medical/audiology-marketing/). A podcast on the health of senior living communities will be great to be on because the audience might be interested in your hearing loss care services. This way you can pitch your services to the listeners and direct them to your office.
+And depending on the podcast you’re a guest on, you can pitch your care services to the audience. For example, let's say you’re an audiologist and want to [market your audiology practice](https://unnus.com/medical/audiology-marketing/). A podcast related to the senior living communities will be great to be guest on. That's because the audience might be interested in your hearing loss care services. This way you can pitch your services to the listeners and direct them to your office.
 
 The one thing to keep in mind is that you should always pick a show where the audience is receptive to your care services, it’ll be a great way to start building consistent leads.
 
