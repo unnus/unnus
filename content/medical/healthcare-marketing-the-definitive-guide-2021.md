@@ -72,7 +72,7 @@ Not only that, but branding can increase your brand preference (BP). Which is a 
 
 It measures to which extent purchasing decisions are made based on the attachment and loyalty to your brand rather than the price, convenience, or regardless of the alternatives.
 
-If you’d like to know the actionable step-by-step process to building a healthcare brand, check out our free [healthcare branding](https://unnus.com/medical/healthcare-branding/) guide.
+If you’d like to know the actionable step-by-step process to building a healthcare brand, check out our free [healthcare branding](https://unnus.com/healthcare-branding/) guide.
 
 ## 2) Positioning: To blend in or to differentiate
 
@@ -152,7 +152,7 @@ These messages are more effective because they’re emotionally-infused and buil
 
 ![effective messaging in healthcare](/assets/images/why-messaging-and-limbic-system.png "effective messaging in healthcare")
 
-If you’d like to know exactly the step-by-step process of how brand storytelling marketing works, check our guide where we demonstrate a practical example of [storytelling in healthcare](https://unnus.com/medical/medical-device-marketing/).
+If you’d like to know exactly the step-by-step process of how brand storytelling marketing works, check our guide where we demonstrate a practical example of [storytelling marketing for a medical device company](https://unnus.com/medical/medical-device-marketing/).
 
 ## 4) Brand Persona: does your marketing communications have a unique voice?
 
