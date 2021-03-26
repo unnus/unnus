@@ -5,7 +5,7 @@ authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, co-founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2021-03-24T23:00:00Z
-description = ""
+description = "If you're looking to market your medical business, you're in luck. this is the most comprehensive guide to help you generate an endless stream of patients/customers."
 featImg = "/assets/images/healthcare-marketing-featured.jpg"
 featImgThumb = "/assets/images/healthcare-marketing-featured.jpg"
 linkedinHandle = "/slimaneBaghouri"
@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "23"
 slug = "/healthcare-marketing"
 socialThumbnail = "/assets/images/healthcare-marketing-featured.jpg"
-table_of_content = []
+table_of_content = [" what-is-healthcare-marketing", "why-is-healthcare-marketing-important", "top-healthcare-marketing-strategies", "1-branding-your-marketing-is-as-good-as-the-brand-behind-it", "2-positioning-to-blend-in-or-to-differentiate", "3-storytelling-how-can-your-healthcare-marketing-tell-stories", "4-brand-persona-does-your-marketing-communications-have-a-unique-voice", "5-develop-a-healthcare-marketing-plan", "6-healthcare-seo-strategy", "7-local-seo", "8-google-adwords", "9-video-content-marketing", "10-healthcare-email-marketing", "11-healthcare-social-media-marketing", "12-attract-patients-with-social-media-targeted-ads", "13-video-ads", "14-podcasting-converting-your-podcast-listener-to-patients", "15-podcasting-guest-tour-strategy", "16-expand-your-referral-sources-using-these-strategies", "17-event-marketing", "18-hosting-patient-webinars", "19-cross-promotion-marketing-strategy", "20-multi-channel-marketing", "21-digital-healthcare-public-relations", "22-print-advertising", "23-television-advertising-tv-ads", "24-direct-mail", "heres-the-secret-to-a-result-driven-healthcare-marketing"]
 title = "Healthcare Marketing: The Definitive Guide (2021) "
 twitterHandle = "/@SlimanBaghouri"
 
