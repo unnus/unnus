@@ -111,7 +111,7 @@ To see why this is the case, let's examine two types of marketing messages:
 
 As much as we like to stress the features and the benefits of the **what/how** messages, our brain responds better with **Why Messages**. Messages that tell stories, inspire, and trigger us to take action.
 
-To further illustrate the effectiveness of **Why Messages,** Here’s an illustration that shows what part of [the brain light up ](https://link.springer.com/article/10.1007/s12115-010-9408-1)depending on what kind of marketing messages we receive:
+To further illustrate the effectiveness of **Why Messages,** Here’s an illustration that shows what part of [the brain light up ](https://link.springer.com/article/10.1007/s12115-010-9408-1)depending on what kind of [marketing messages](https://unnus.com/medical/healthcare-marketing/) we receive:
 
 ![Marketing Messages as they relate to our brain ](/assets/images/why-messaging-and-limbic-system.png "Marketing Messages as they relate to our brain ")
 
