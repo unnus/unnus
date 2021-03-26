@@ -131,7 +131,7 @@ If you’d like a step-by-step guide on how to pitch your episode to other medic
 
 ![An illustrations of a sales funnel for medical doctors](/assets/images/sales-funnel-for-doctors-1.jpg "Sales funnel for doctors")
 
-A Sale funnel is a potent strategy for passive patient acquisition. The strategy optimizes the journey potential patients go through on the way to purchase your services.
+A Sale funnel is a potent strategy for passive [patient acquisition](https://unnus.com/medical/healthcare-marketing/). The strategy optimizes the journey potential patients go through on the way to purchase your services.
 
 The journey this strategy tracks and optimizes for are:
 
