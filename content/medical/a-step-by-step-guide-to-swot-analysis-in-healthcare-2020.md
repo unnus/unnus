@@ -18,10 +18,8 @@ title = "A Step-By-Step Guide To SWOT Analysis In Healthcare [2021]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-{{% hook %}}**If you’d like to soar your medical business performance, slash potential risks in half, and harvest the untouched profitability lands, this article is for you.**{{% /hook %}}
+{{% hook %}}In this article, I’ll share with you what is SWOT Analysis, how you can perform it, AND how you can _track_ your success using this tool.{{% /hook %}}
 <!--more-->
-
-In this article, I’ll share with you what is SWOT Analysis, how you can perform it, AND how you can _track_ your success using this tool.
 
 This guide also introduces a brand new tool called **SWOT Strategy Canvas™** that supercharges your SWOT analysis for better performance and measurability.
 
