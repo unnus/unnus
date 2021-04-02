@@ -108,7 +108,7 @@ In this phase, you’ll start by collecting important data points that will help
 4. **Patient testimonials and reviews.**
    * Gather your testimonials from the patients, good and bad. This will help us understand the mind of your patient and what he thinks about your brand.
 
-{{% important %}} Don’t get caught up in this phrase too much. The aim here is to capture rough ideas about the patients and their thoughts towards your brand. From our experience, we’ve found that large amounts of data do not fundamentally change the first hypothesis about the patient base. {{% /important %}}
+{{% important %}} Don’t get caught up in this phase too much. The aim here is to capture rough ideas about the patients and their thoughts towards your brand. From our experience, we’ve found that large amounts of data do not fundamentally change the first hypothesis about the patient base. {{% /important %}}
 
 #### 2) Define the goals and the scope of your patient journey map
 
