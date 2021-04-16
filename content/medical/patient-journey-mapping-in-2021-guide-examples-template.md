@@ -44,7 +44,7 @@ Let us dive in.
 
 ![Illustration of patient journey mapping](/assets/images/3-patient-journey-map-illustration.jpg "Patient journey")
 
-A Patient Journey (A.K.A customer journey) is a series of events the patient goes through from his first interaction with your medical business up until post-treatment. It outlines every touchpoint (point of contact) the patient comes across during the whole patient experience.
+A Patient Journey (A.K.A customer journey) is a series of events the patient goes through from his/her first interaction with your medical business up until post-treatment. It outlines every touchpoint (point of contact) the patient comes across during the whole patient experience.
 
 ## What is a Patient Journey Mapping?
 
