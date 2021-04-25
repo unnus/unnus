@@ -153,3 +153,31 @@ Here are questions to ask yourself and your team:
 For example: instead of saying “we provide convenient care”, try to be more elaborate like “we invest in the latest technology for faster healing and same-day care”. This way it’s more clear how you’re going to help the patient.{{% /note %}}
 
 Remember, this process is internal for the moment. And expressing these attributes is the subject for an upcoming lesson. So, for now, you are free to write down what comes to your mind.
+
+### #\~Step 3) brainstorming the What:
+
+This is the easiest part of the exercise. Here, we try to lay down all of your services (or products) and their features. On the What Circle, write down descriptions of your brand and the answers to the following questions:
+
+* What does our brand do?
+* What are the features we provide to our patients?
+* What are the things that we do or provide that other competitors don’t have?
+* Describe your brand in 2 sentences
+* Are there any perks or bonuses the patient gets out of being treated by us?
+
+After you finished, your board will look like this:
+
+![](/assets/images/6.jpg)  
+  
+Now that you have a strong idea of your brand, move on to the next exercise where you will consolidate your understanding.
+
+## 2) Brand Credo Write-Up ⏰ \[15-25 minute\]
+
+In this exercise, we aim to solidify our understanding of the brand’s golden circle. And we do this by writing a Brand Credo. A Brand Credo is a short statement that declares the philosophy and the principles that guide your brand.
+
+From this credo, everything will branch out. Every communication, interaction, future decisions, projects, and partnerships, will be vetted against this credo. It will act as a filter to any aspect of your brand.
+
+In the branding workshop, move onto the Brand Credo Exercise.
+
+Each participant will have a blank paper where he or she can write down the credo. You can duplicate the papers for more people to use by selecting a paper then hold the Alt or ⌘ key while dragging it.
+
+Here’s the basic template of a Brand Credo:
