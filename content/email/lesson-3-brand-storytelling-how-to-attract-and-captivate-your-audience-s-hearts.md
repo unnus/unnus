@@ -13,7 +13,7 @@ readingTime = "23"
 slug = "lesson-four"
 socialThumbnail = "/assets/images/0-3.jpg"
 table_of_content = []
-title = "Lesson 4) Brand Storytelling: How to Attract And Captivate your audience's hearts"
+title = "Lesson 4) Brand Storytelling: A Framework to Attract And Captivate your audience's hearts"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
