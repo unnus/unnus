@@ -122,20 +122,19 @@ This formula follows a dramatic arc in which a character (your audience) struggl
 
 This formula contains 7 blocks:
 
-* **Current State (The Existing World)**
-  * This is the current state of your audience without your services/brand. At this stage, we create an environment that is relatable to your target audience and all the marketing messages should create a sense of familiarity and build trust.
-* **The Obstacle**
-  * This block will contain messages that relate to the problems your audience is currently facing. all the messages here must be aimed at these issues and how we can assist the patient to navigate them.
-
-1. **Call To Action**
+1. **Current State (The Existing World)**
+   * This is the current state of your audience without your services/brand. At this stage, we create an environment that is relatable to your target audience and all the marketing messages should create a sense of familiarity and build trust.
+2. **The Obstacle**
+   * This block will contain messages that relate to the problems your audience is currently facing. all the messages here must be aimed at these issues and how we can assist the patient to navigate them.
+3. **Call To Action**
    * This section will focus on the consequences of unresolved issues and what might happen if these issues are left untreated. This will trigger adaptation for your services/products and highlight the issues it solves.
-2. **Meeting The Guide**
+4. **Meeting The Guide**
    * The guide here is your brand. Here we showcase what your brand can do and how it can slash your audience’s problems in half. Marketing messages in this section should reassure, assist, and help your audience progress towards better results using your services/products.
-3. **Challenge**
+5. **Challenge**
    * In this section, we’re going to highlight the aspects of fears, challenges, and inner insecurities and try to relate to your audience. Thus creating trust and preference towards your brand.
-4. **Change**
+6. **Change**
    * Your target audience is looking for a change. Otherwise, they wouldn’t invest in your care services. This phase will shed light on what is the impact and transformation your brand had on its patients.
-5. **The New State (The New World)**
+7. **The New State (The New World)**
    * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is _after_ your brand solved all of its issues.
 
 {{% note "Note title" %}}It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress.{{% /note %}}
