@@ -12,7 +12,7 @@ readingTime = "8"
 slug = "lesson-two"
 socialThumbnail = ""
 table_of_content = []
-title = "Lesson 1: Branding Workshop Strategy"
+title = "Lesson 1) Brand DNA Workshop: How to infuse meaning to your medical brand "
 twitterHandle = "/@SlimanBaghouri"
 
 +++
