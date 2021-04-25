@@ -11,7 +11,7 @@ page = "email/single.html"
 readingTime = "7"
 slug = "lesson-five"
 socialThumbnail = "/assets/images/0-4.jpg"
-table_of_content = []
+table_of_content = ["brand-art-direction-workshop", "1-brand-keyword-essence-exercise--15-25-minute", "2-brand-visualization-exercise--15-25-minute", "3-brand-creative-process--15-25-minute", "whats-next"]
 title = "Lesson 5): Brand Art Direction: How To Craft A Mesmerizing Brand Visuals"
 twitterHandle = "/@SlimanBaghouri"
 
