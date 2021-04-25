@@ -254,10 +254,10 @@ Let’s start.
 On the branding workshop, move on to the Future Brand Timeline and follow the next 3 steps:
 
 1. Take 15 minutes to move on through the timeline: use sticky notes and pin your writings on the timeline.
-   1. **(Now): where are you now? In terms of business metrics — what’s your practice size, patient base, lifetime value, and so on**
-   2. **(5 years)** Where do you see your medical brand in 5 years in terms of growth?
-   3. **(10 years)** If you achieve all your goals in 5 years, then What will your practice look like in 10 years? How big will it be? and what other care services could you offer? Will you expand to other locations or add other service lines?
-   4. **(15 years)** What impact will you have on your industry in 15 years? How will your brand expand?
+   * **(Now): where are you now? In terms of business metrics — what’s your practice size, patient base, lifetime value, and so on**
+   * **(5 years)** Where do you see your medical brand in 5 years in terms of growth?
+   * **(10 years)** If you achieve all your goals in 5 years, then What will your practice look like in 10 years? How big will it be? and what other care services could you offer? Will you expand to other locations or add other service lines?
+   * **(15 years)** What impact will you have on your industry in 15 years? How will your brand expand?
 2. Next, in the aspiration field, Take 5 minutes to write down your ultimate aspiration. If it all goes right, how will you impact the field you’re in? Here you can use superlatives like “The world’s (safest, most loved, most convenient…)”
 3. Finally, define your ideal future state — your final destination or desired end state. What would the world look like if this problem was solved? If you were successful in what you do, how will your medical brand change its community? (make it simple and concrete, and avoid any jargon)
 
