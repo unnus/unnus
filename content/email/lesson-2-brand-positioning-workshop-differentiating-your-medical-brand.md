@@ -36,3 +36,75 @@ This way we only pay attention to what’s valuable and we don’t have to waste
 And in this lesson, we’re going to find strategic ways for you to cut through the “me too” brands and highlight what’s unique about yours.
 
 After this workshop, your brand won’t compete, but rather render the competition _irrelevant_.
+
+This lesson covers:
+
+1. What is positioning? And how it can help you attract more patients
+2. To Focus or to defocus, why you should “focus” your brand
+3. Brand Differentiation Workshop
+   * Audience Persona Exercise
+   * Brand Differentiator Graph Exercise™
+   * Onliness Statement Exercise
+4. What’s next
+
+## “Is The Man Listening? Privacy Sold Here”
+
+In one of the episodes of the show Better Call Saul, the protagonist, James Mcgill, had to work in a mobile store where there are no customers whatsoever.
+
+The branch James worked in sells the same phones as every competitor. There was nothing that merits his store.
+
+Fed up with this, one day, James painted on the store’s frontend the following statement:
+
+**_“Is The Man Listening? Privacy Sold Here”_**
+
+![](/assets/images/positioning-in-healthcare.jpg)
+
+While you can buy the same phone somewhere else, James sells you **privacy**.
+
+He differentiated the store to be **the only store that sells privacy to its customer**. It’s his positioning statement. A statement that declares the store’s differentiator.
+
+He knows that his surrounding area is full of drug dealers and smugglers. So The statement “Privacy sold here” resonates with people that want to keep a low profile.
+
+Although this is a fictional story, the concept it presents holds to real-life marketing.
+
+And this is exactly what a positioning strategy is for. Positioning aims to develop a key element that differentiates your medical brand. Your positioning is where your medical business stands **_in relation_** to other brands. It’s your unique position in the market.
+
+But before we dive into the “how”, I want to drive home a concept many might find counterintuitive. And that is “focusing” on your brand.
+
+## To focus or to defocus: is your practice focused enough?
+
+{{% blockquote "Marty Neumeier" %}}An unfocused brand is one that’s so broad that it doesn’t stand for anything. A focused brand, by contrast, knows exactly what it is, why it’s different, and why people want it{{% /blockquote %}}
+
+![](/assets/images/brand-focus.jpg)
+
+In his book, The Win Without Pitching Manifesto, author Blair Enns calls positioning “The Difficult Business Decision”.
+
+And it makes sense.
+
+Many when asked to focus their brand to serve specific kinds of people with specific kinds of offers, think it limits their outreach.
+
+An example of focusing is being a practice that focuses on athletic injuries. It might sound restricting at first, After all, If we narrow our offering, won’t we narrow our profit opportunities?
+
+Answer: Not necessarily.
+
+History has shown that it pays handsomely to be number one in your category—first, because of higher margins, and second because the risk of commoditization is almost nonexistent.
+
+The exact opposite of this is what we call brand dilution: when you try to be everything to everybody and windup like every other business. By being broad, you defocus your brand and leave it up to would-be patients to decide where to go.
+
+If there are multiple care facilities, offering the same services, for the same patients, why should they choose you? Better equipment? Can be bought. Better quality care? Everybody claims so. Affordable? Well, you run the risk of participating in a race to the bottom.
+
+Focusing your brand could be also about how you deliver your care and not the people you serve. Maybe you’re the most convenient care provider? Or your medical business is focused on same-day care and being the fastest service in your domain for busy people.
+
+Focusing the brand to serve specific people with specific needs is what sets you apart and gives it clarity. It is a declaration of authority and expertise.
+
+Now, with that out of the way, let’s dive into the strategy of how to go about differentiating your brand.
+
+## Brand Differentiation Workshop
+
+The goal of the Brand Differentiation Workshop is to single your brand out of the sea of sameness. We’re going to implement 3 exercises that will focus on finding AND highlighting your brand’s unique differentiator. A differentiator that sets you apart and can’t be easily mimicked.
+
+This workshop strategy consists of 3 exercises:
+
+* Audience Persona
+* Differentiator Development
+* Onliness Statement Development
