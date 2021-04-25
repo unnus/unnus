@@ -295,7 +295,7 @@ Let’s see how it works.
 * Each participant will have his/her section where they can answer the questions and test their understanding of the newly developed brand voice.
 * After the team has finished answering all of the questions, discuss your answers and see what insights you can gather.
 
-After you’re done, the final result will look something like this:
+After you’re done, the final result will look something like this
 
 ![](/assets/images/24.jpg)
 
