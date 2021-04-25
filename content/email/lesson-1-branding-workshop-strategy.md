@@ -77,3 +77,21 @@ Here are some examples of feature-driven messages vs meaningful messages:
 ![](/assets/images/3.jpg)  
   
 ![](/assets/images/4.jpg)
+
+## Brand DNA Workshop
+
+Now we understand why purposeful brands attract loyal patients, let’s go into how you’ll infuse meaningful attributes to your medical brand.
+
+In this workshop, we’ll go over the step-by-step process of how to transform your practice to be purpose-oriented. Brand DNA workshop consists of 4 branding exercises that focus on infusing purpose to your brand.
+
+The goal here is to uncover your brand’s **Why** (the reason it exists) and _then_ articulate it in a novel manner. A manner that will resonate with your target patient.
+
+You can conduct these exercises with your team online or on-site. I'll use the virtual aspect for the sake of convenience but it should be the same process in a physical location.
+
+### Quick Prep:
+
+We’re going to use virtual boards to run this workshop online. And the best tool I use with my clients is [miro](https://miro.com/). It’s an online tool that allows you to collaborate with your team on a virtual whiteboard. It offers handy features like sticky notes, voting dots, and meeting rooms.
+
+First, you need to sign up for a free account and then [click here](https://miro.com/app/board/o9J_lUESbeA=/) to access the branding exercises.
+
+I made a quick video that explains how to use this tool:
