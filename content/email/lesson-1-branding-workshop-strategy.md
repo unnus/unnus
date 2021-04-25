@@ -200,3 +200,145 @@ After you finish writing the credo, using the red voting above the exercise in m
 Each participant vote counts as 1 point while the founder/owner’s vote counts as 2 points.
 
 The highest-rated credo is the winner.
+
+## 3) Brand Pillars ⏰ \[10-20 minute\]
+
+![](/assets/images/9.png)  
+In this exercise, you’re going to jot down your Brand’s Pillars. Brand Pillars are a set of guiding principles that shape every aspect of your business. They're placed at the very core of your brand and are there to dictate your brand message, identity, and personality.
+
+These pillars will stem from your brand’s credo. The goal here is to reduce the philosophy of your credo to one or two words so we end up with a shorter & purified version.
+
+Using the Brand Pillars exercise, write down on sticky notes the brand’s principles. Go back to the previous exercises to take inspiration and try to reduce the statements to one or two words.
+
+Every brand pillar should pass the following questions:
+
+* Can we hire or fire staff based on this pillar?
+* Can we open new locations or subsidiaries without contradicting this pillar?
+* Can we decide on partnerships/mergers based on this pillar?
+* Can we add or remove services without being unfaithful to this pillar?
+* Is there a double edge effect on our brand if we choose to adopt this pillar?
+
+In the exercise, there are four brand pillars. From our experience, we’ve seen that more than four will lead to confusion or diluting the brand’s meaning. So it’s best to limit it to 4 as max and 2 as a min.
+
+For each brand principle, the team can brainstorm values and philosophies and pin them to their respective pillar.
+
+After that, using the voting dots, vote for the best guiding principle with each participant vote count as 1 point and the leader/owner’s vote as 2 points.
+
+The highest-rated principal will be considered a Brand Pillar.
+
+Your result should end up something like this:
+
+![](/assets/images/10.jpg)
+
+  
+**_Important_**_: again, try to avoid the generic use of common values like honesty, quality, accountability, and so on. While these values are admirable, they are overused and do not differentiate your brand. If one of them is truly one of your brand’s beliefs, that’s okay to add it. But that should be the exception rather than the rule._
+
+## 4) Future Brand ⏰ \[15-25 minute\]
+
+The word “vision” is tossed around a lot in healthcare. But most corporate visions/missions are used as a superficial decoration rather than an actual plan to follow.
+
+Many medical businesses copy the dull and uninspiring vision statements and paste them to their website as a “nice to have” kind of antique. This is a waste of time and opportunity.
+
+Because without a shared understanding of the overarching goal you're trying to accomplish, you might grab at short-term gains while incurring the long-term loss of your brand’s identity.
+
+And this exercise aims to combat that. We’re going to sketch a rough future for your brand and how it will look like years from now. The goal here is not to predict the future but to establish a loose structure.
+
+By establishing such objectives, you’ll know exactly where your brand is heading and how you’ll arrive there.
+
+Let’s start.
+
+### **#\~Step 1) Future Brand Timeline:**
+
+![](/assets/images/11-5.png)
+
+On the branding workshop, move on to the Future Brand Timeline and follow the next 3 steps:
+
+1. Take 15 minutes to move on through the timeline: use sticky notes and pin your writings on the timeline.
+   1. **(Now): where are you now? In terms of business metrics — what’s your practice size, patient base, lifetime value, and so on**
+   2. **(5 years)** Where do you see your medical brand in 5 years in terms of growth?
+   3. **(10 years)** If you achieve all your goals in 5 years, then What will your practice look like in 10 years? How big will it be? and what other care services could you offer? Will you expand to other locations or add other service lines?
+   4. **(15 years)** What impact will you have on your industry in 15 years? How will your brand expand?
+2. Next, in the aspiration field, Take 5 minutes to write down your ultimate aspiration. If it all goes right, how will you impact the field you’re in? Here you can use superlatives like “The world’s (safest, most loved, most convenient…)”
+3. Finally, define your ideal future state — your final destination or desired end state. What would the world look like if this problem was solved? If you were successful in what you do, how will your medical brand change its community? (make it simple and concrete, and avoid any jargon)
+
+  
+![](/assets/images/11.jpg)
+
+Share and discuss the notes and the writing with your team and move on to the next part of the exercise.
+
+### #\~Step 2) Future Vision Statement:
+
+![](/assets/images/12.png)
+
+Here we’re going to formulate a vision statement for the brand using the findings from Future Brand Timeline.
+
+On the candidates’ quadrant, use sticky notes to write your candidates’ vision statement. Use the Future Vision Statement template on the left to nail the format of the statement.
+
+Try to fill in the gaps using the result from part 1 of the exercise.
+
+After you brainstorm as many statements as possible, participants should use the red voting dots to vote for the best statement.
+
+The highest-ranked statement is the winner.
+
+![](/assets/images/13.png)
+
+## 5) Brand Obituary ⏰ \[15-25 minute\]
+
+What will happen if your medical business closes its door tomorrow?
+
+Would journalists write headlines heralding your past achievements, or would their stories simply add you to a list of bygones?
+
+Would staff wonder how it could have ended, or would they have known it was inevitable?
+
+Would patients mourn your passing, or would the demise of your brand go unnoticed?
+
+This creative exercise aims to contrast the previous one. It’s good to set goals for the future but it’s equally as good (if not better) to be proactive and work backward to check if your brand will pass the test of time.
+
+The Brand Obituary exercise aims to force you to think through some of the key elements that make up a charismatic medical brand.  
+
+The goal here is to write an obituary for your brand denoting its last days. 
+
+The exercise is not meant to dishearten the staff members or your leadership team. It’s simply to extract critical aspects of the brand and to get a razor-sharp picture of its trajectory. 
+
+Write down the obituary of your brand as if it were a person who just died yesterday.
+
+Each participant should think of themselves as the journalist who has to report on the accident.
+
+Much like writing the brand credo, each team member will have a paper to write down the obituary.  
+  
+![](/assets/images/14.png)
+
+Things you need to include in the obituary:
+
+* What will patients remember it for?
+* Who did your practice leave behind?
+* What did your brand leave unaccomplished?
+* Who will mourn or miss your brand, and why?
+* What lessons can be learned from the brand’s life?
+* What can be learned in the wake of its death?
+* Now that the brand is gone, what will take its place?
+
+At the end of the exercise, discuss each other’s obituary and see what insights you can gather about your brand.
+
+  
+![](/assets/images/15.jpg)
+
+## End the workshop ⏰ \[5-8 minute\]
+
+Now that we finished the Brand DNA workshop, it’s time to provide the team with a bird’s view of what they’ve accomplished. Offer a quick recap to everyone and inform the participant of what’s coming next.
+
+If you run the workshop in person, make sure to convert the exercises and notes into a digital format. This will make it more accessible when you need to pull information later on.
+
+***
+
+## Okay, we’ve completed the workshop, now what?
+
+In an upcoming lesson (lesson 4), we’ll see how to _publicly_ convey such values and core attributes creatively. So keep an eye on that.
+
+But now that you established a strong Brand DNA for your brand, it’s time to differentiate it. In the next workshop, we’ll tackle the strategy of how to radically separate your medical brand from competitors or the “me too”s.
+
+The next lesson will be full of strategic thinking and tactics, so make sure to check your inbox tomorrow.
+
+If you need any help or someone to walk you through this, let me know. I read and reply to every single message I get. Just tap reply on the email of this lesson or email me at [sliman@unnus.com](mailto:sliman@unnus.com)
+
+Until tomorrow.
