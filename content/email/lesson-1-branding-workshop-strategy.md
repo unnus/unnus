@@ -9,14 +9,13 @@ featImgThumb = "/assets/images/35-dental-podcasts-examples-2.PNG"
 linkedinHandle = "/slimaneBaghouri"
 page = "email/single.html"
 readingTime = "8"
-slug = "lesson-one"
+slug = "lesson-two"
 socialThumbnail = ""
 table_of_content = []
 title = "Lesson 1: Branding Workshop Strategy"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-
 {{% hook %}} “People don't buy what you do; they buy why you do it. And what you do simply proves what you believe”—Simon Sinek {{% /hook %}}
 
 ***
