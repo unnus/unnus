@@ -63,3 +63,17 @@ What Messages are perceived by the neocortex, the part of the brain that’s res
 However, when it comes to healthcare, the decision size is much bigger and trust is needed for patients to choose the provider.
 
 ![](/assets/images/trust-of-buying-decision.jpg)
+
+In such serious matters, a more effective way of messaging is **Why Messages** (WYM): Messages that are trust-signaling and carry a high sense of purpose.
+
+And because Why Messages are emotional and speak directly to our limbic system, the part of the brain that’s responsible for emotional responses, they are **10x** more impactful in attracting people.
+
+![](/assets/images/why-messaging-and-limbic-system.png)
+
+## Examples of Why Messages VS What Messages
+
+Here are some examples of feature-driven messages vs meaningful messages:
+
+![](/assets/images/3.jpg)  
+  
+![](/assets/images/4.jpg)
