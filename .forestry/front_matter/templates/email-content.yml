@@ -1,0 +1,56 @@
+---
+label: 'Email Content'
+hide_body: false
+fields:
+- name: page
+  type: text
+  config:
+    required: true
+  label: Email Template
+  default: email/single.html
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: Author name
+- type: file
+  name: authorAvatarTop
+  label: Author avatar small for article top section (Small size 50x50/50x58)
+- type: file
+  name: authorAvatarBottom
+  label: Author bio avatar for article bottom section (Medium size 100x150 or larger)
+- type: textarea
+  name: authorBio
+  label: Author bio
+- type: text
+  name: twitterHandle
+  label: Author twitter handle (/yourTwitterHandle)
+- type: text
+  name: linkedinHandle
+  label: Author linkedin handle (/yourLinkedinHandle)
+- type: text
+  name: readingTime
+  label: Article reading time (put a number/in minutes/ example 6 or 7)
+- type: text
+  name: slug
+  label: slug (What url this article should be? medical/your_Slug_Here)
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: featImg
+  label: Featured image (1300x600) or larger
+- type: file
+  name: socialThumbnail
+  label: Social Media Thumbnail (facebok/twitter)
+- type: file
+  name: featImgThumb
+  label: Featured image thumbnail (660x300)
+- name: table_of_content
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Table of content

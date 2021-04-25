@@ -1,31 +1,21 @@
----
-page: email-series/single.html
-title: Healthcare → Break the mold by developing a brand persona
-url: email-series/healthcare-brand-persona
-author: Sliman M. Baghouri
-authorAvatarBottom: "/assets/images/blog/authors/SlimanBaghouri.png"
-authorAvatarTop: "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
-twitterHandle: "@SlimanBaghouri"
-linkedinHandle: slimaneBaghouri
-authorBio: Sliman M. Baghouri, Founder of unnus™, he coordinates branding and marketing
-  strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical
-  companies.
-categories:
-- research
-date: 2020-09-04T23:00:00Z
-description: Post description goes here
-featImg: "/assets/images/work/rodbell-thumbnail.jpg"
-featImgThumb: "/assets/images/work/rodbell-thumbnail.jpg"
-socialThumbnail: "/assets/images/work/rodbell-thumbnail.jpg"
-readingTime: "6"
-table_of_content:
-- Introduction
-- What is a brand persona
-- Creating brand persona
-- Developing brand voice for your practice
-draft: false
-private: true
----
++++
+author = "Sliman M. Baghouri"
+authorAvatarBottom = "/assets/images/blog/authors/cc.png"
+authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
+authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
+date = 2020-11-20T23:00:00Z
+featImg = "/assets/images/healthcare-swot-analysis.jpg"
+featImgThumb = "/assets/images/healthcare-swot-analysis.jpg"
+linkedinHandle = "/slimaneBaghouri"
+page = "email/single.html"
+readingTime = "8"
+slug = "/healthcare-swot-analysis"
+socialThumbnail = "/assets/images/healthcare-swot-analysis.jpg"
+table_of_content = ["what-is-swot-analysis-in-healthcare", "benefits-of-swot-analysis-in-healthcare", "the-4-swot-analysis-process", "how-to-conduct-swot-analysis-in-healthcare", "introducing-the-swot-strategy-canvas-a-visual-representation-to-measure-your-success", "examples-of-swot-analysis-in-healthcare", "hospital-swot-analysis-example", "swot-analysis-for-nurses-example", "the-secret-to-a-battle-proven-healthcare-swot-analysis"]
+title = "A Step-By-Step Guide To SWOT Analysis In Healthcare [2021]"
+twitterHandle = "/@SlimanBaghouri"
+
++++
 
 <section id="Introduction">
 <div class="hook">
