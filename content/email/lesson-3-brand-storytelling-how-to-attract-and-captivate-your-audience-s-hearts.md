@@ -4,7 +4,6 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
-draft = true
 featImg = "/assets/images/0-3.jpg"
 featImgThumb = "/assets/images/0-3.jpg"
 linkedinHandle = "slimaneBaghouri"
@@ -137,4 +136,133 @@ This formula contains 7 blocks:
 7. **The New State (The New World)**
    * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is _after_ your brand solved all of its issues.
 
+![](/assets/images/10-2.jpg)
+
 {{% note "Note" %}}It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress.{{% /note %}}
+
+## Examples of medical brand storytelling
+
+Now that we have our Message Blocks and Story Blocks, we can use the Communication Framework to form marketing assets and deploy our messages as stories.
+
+To launch the campaign, we need to select what parts of the story we need to market and what messages we need to infuse in these stories.
+
+Let’s say that your hospital brand is all about safety and your target audience is safety-minded people.
+
+Here’s an example of a campaign that stresses your audience’s **challenges** (being safe whilst in an insecure place) while speaking to them at a deep level.
+
+![](/assets/images/11-11.jpg)
+
+You could then take this idea of how to be safe during uncertain times and make a series of marketing messages around the audience’s challenges and how your brand (the guide) helps them overcome such issues.
+
+Another example: Let’s say that your audiences are dentists and your brand sells CEREC Machines. A good way to start the storytelling campaign would be to form a combination between dentists’ pain points and their obstacles.
+
+![](/assets/images/12-1.jpg)
+
+Or if your brand is a maternity hospital and your target audience are mothers-to-be:
+
+![](/assets/images/13.jpg)
+
+Now, all that is left is selecting what part of the story we’re going to tell next and in what medium or platform the story will be distributed.
+
+  
+![](/assets/images/14.jpg)
+
+## Brand Storytelling Workshop
+
+This workshop is the practical step-by-step process to what we’ve been discussing so far. We’re going to craft a communication framework from which you’ll be able to market your medical business in the form of a story.
+
+**_Note:_** _this workshop will contain a fair amount of writing and brainstorming ideas. However, it’s the easiest to outsource since there isn’t much collaborative effort needed. If you’re busy and don’t have the time to do it, you can hand this lesson to your team to follow the steps outlined below. Or you can contact me at_ [_sliman@unnus.com_](mailto:sliman@unnus.com) _and I’ll have my team help you out._
+
+## 1) Brand Messages Exercise ⏰ \[15-25 minute\]
+
+  
+![](/assets/images/15.png)
+
+In this exercise, we’re going to craft your brand’s Core Messages (CM) and Secondary Messages (SM). These messages will be then used in the communication framework to convey your brand’s characteristics and its differentiators.
+
+CMs will be focused on your audience, their pain points, and your differentiator. The goal of these messages is to highlight the benefits of using your care services and the solution you provide.
+
+SMs, on the other hand, is focused on your brand, its purpose, and its values. These messages will be less prominent in your marketing but they are essential in some stages.
+
+Let’s dive into the exercise.
+
+### 🔴 Action Step: Fill in the Brand Messages Table
+
+  
+To start the exercise, explain to the team the goal of the Brand Messages and follow the next steps:
+
+1. **In the Core Messages column:**
+   * To craft Core Messages, we’re going to apply the single word question formula to your Audience, their pain points, key benefits, and differentiator. We want to expand on these aspects and form messages around them.
+   * Apply the single word question formula on each element by posing the appropriate question on the element. For example: on the audience element, we might pose the question **Who and Why.** E,g. Who are we catering to? And why are we catering to them? After that write down your answer on a sticky note and pin them in the core messages column. Be elaborate in writing down these answer and keep in mind your brand’s voice
+   * Another example might be the differentiator. E,g. **How** are we different from other medical brands? And **What** makes us the only one? Do the same thing for the first four elements and pin the answer in the core Message column
+2. **In the Secondary Messages column:**
+   * Apply the same steps to fill in the SM column. Start by asking the appropriate question to the following components: Brand’s why, Brand’s How, Brand’s Pillars, and Future Brand.
+   * E,g. **What** are our brand Pillars and **How** are they helping our patients/brand facilitate their success? Another example will be: **How** is our brand purpose (Brand’s why) different from others? And **What** makes it unique?
+   * Do the same thing for the rest of the components and pin your answer to the SM column
+
+Once you’re done, you’ll end up with a result like this:
+
+![](/assets/images/16.png)
+
+These elaborate answers will form your Brand Messages and you’ll be able to inject them later with your brand’s marketing.
+
+## 2) Brand Story Framework Exercise ⏰ \[15-25 minute\]
+
+The goal of this exercise is to brainstorm story ideas at each stage of the storytelling campaign: The Existing World, The Obstacle, Call To Action, Meeting The Guide, The Change, and The New World. These micro ideas will then be turned into a marketing asset (video, blog article, event, etc) using the Communication Framework (we’ll see how next).
+
+This way your marketing will be directed by a story framework and will provide your audience with a story-like theme while highlighting your positioning and building credibility.
+
+**Keep in mind:** that Storytelling in marketing is like watching the movie pulp fiction. Although the scenes are not in a particular order, in the end, they will form a coherent understanding of the plot. Same with your brand storytelling. Your audience will not consume these stories in chronological order, but through the constant exposure with your brand, bit by bit, the whole story is conveyed.
+
+### 🔴 Action Step: Fill in the Story Blocks
+
+![](/assets/images/17-1.png)
+
+Begin by stating the objectives of this exercise to the participants. There are 7 sub-exercises in this section but they all follow the same instruction. If you have a big team you might want to divide your team to separate group and each group will be responsible for each sub-exercise
+
+After that, follow the next steps:
+
+1. Each sub-exercise contain three columns:
+   * **Story Answer**: in this column, you will write down the answers to the questions on the left-hand side. These questions are meant to provide you with what your audience is experiencing _at_ this stage of the story. For example: in the obstacle stage (the part of the story where your target audience is facing problems/issues) questions like: “How do they feel about their problems” and “why can’t they overcome these issues” will provide us with great clarity on their current situation.
+   * **Story Blocks**: in this column, you’ll take the answers from the Story Answers column and string them together into an elaborate mini-story. This way we have a coherent description of their feelings.
+   * **Micro Ideas**: in this column, take the mini-story you formed in the Story Block column and derive micro-ideas and stories about it. The goal here is to generate as many micro-stories and ideas that relate to this stage of the story.
+2. **Fill in the columns:**
+   * Start by answering the questions using sticky notes and pinning them to the Story Answers column. Keep it brief.
+   * Elaborate on these answer by forming a mini-story out of these answers
+   * Derive micro-stories out of the mini-story in the Story Block.
+
+Here are some examples:  
+  
+![](/assets/images/18-1.png)
+
+Once you’re done, it’s time to use these story blocks and your brand Messages to market your medical business.
+
+## 3) Brand Communication Framework
+
+![](/assets/images/19-1.png)
+
+This is less of an exercise and more of a framework for you to deploy your content from. Think of this framework as the portal from which you produce marketing content/assets. Now all is left is the selection process and what part of the story you want to market to your patient.
+
+For example, if you’d like to launch a marketing campaign around the problems your care services solve, you might want to go to The Obstacle block and grab the stories/micro ideas and pin them to the Story Block Column.
+
+After that, go back to the Brand Messages Exercise and pick what part of your brand or positioning you want to highlight in the campaign. In this case, since we’re going to tell stories about The Obstacle your audience faces, you might want to select a core message that highlights your solution to this problem. This way there’s harmony in the messaging.
+
+After selecting the story and the messages you want to market, pin them to their respective column in the Communication framework.
+
+![](/assets/images/20-1.png)
+
+What’s left now is to turn these stories into marketing assets. You can do this yourself or you can hand this framework to your marketing team or outsource them easily.
+
+Now everything is set and done, you can keep selecting what part of the story you want to market and what messages should be injected into them. This way your brand’s story will be communicated to your audience block by block.
+
+### Last step: Store this info
+
+Since this workshop included a lot of information, you must save them for later use or for your team to do the marketing. And for this, you can access our free storytelling worksheets. These worksheets will help you save the information about your brand storytelling and core messages. This way they are more accessible and easy to hand out.
+
+## What’s Next?
+
+Now that we’re done with communicating the brand’s core and its position in the market it’s time to give it a visual expression. Visuals can turn a commodity service into a premium. And that’s exactly what we’re going to see next. We’ll tackle What Optical Communication is and how you can use it to convey your messages aesthetically.
+
+And as usual, if you need someone to walk you through brand storytelling, just reply to the email of today’s lesson or email me at [sliman@unnus.com](mailto:sliman@unnus.com). I’d be happy to help you out.
+
+Until Tomorrow.
