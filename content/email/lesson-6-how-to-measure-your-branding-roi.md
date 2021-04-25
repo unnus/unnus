@@ -11,7 +11,7 @@ page = "email/single.html"
 readingTime = "12"
 slug = "lesson-six"
 socialThumbnail = "/assets/images/0-5.jpg"
-table_of_content = ["tracking-your-revenue-might-not-be-the-best-metric-to-keep-an-eye-on", "enters-the-brand-ladder", "measuring-branding-with-the-brand-commitment-scale-bcs", "whats-next"]
+table_of_content = ["your-revenue-might-not-be-the-best-metric-to-keep-an-eye-on", "enters-the-brand-ladder", "measuring-branding-with-the-brand-commitment-scale-bcs", "whats-next"]
 title = "Lesson 6) How to Measure Your Branding ROI"
 twitterHandle = "/@SlimanBaghouri"
 
