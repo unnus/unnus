@@ -108,3 +108,47 @@ This workshop strategy consists of 3 exercises:
 * Audience Persona
 * Differentiator Development
 * Onliness Statement Development
+
+## 1) Audience Persona Exercise ⏰ \[15-25 minute\]
+
+  
+Knowing your target audience lets you connect and align yourself with their needs. And for this, we’ll use audience persona exercise; Where we stress your ideal patients and their core characteristics.
+
+The goal here is to get an overview of what makes your target audience tick. You’ll explore what they like, fear, and desire. Knowing this we’ll be key to finding a differentiator that matches their values.
+
+But first, you need to decide on what type of patient you want to serve. If you’re a chiropractic, you might want to focus on athletes and gymnasts. Or maybe you’re a dental practitioner that likes working with children and finds them much easier to deal with? Or perhaps your target patients are mothers-to-be and your hospital helps them deliver babies.
+
+If you don’t have a specific type of patient, just think of the people you want to help. They may vary from middle age moms or busy people with kids or influencers and image-aware people.
+
+Once you find who you like and want to serve, move on to the next step.
+
+### #\~ Plotting your audience characteristics:
+
+![](/assets/images/4.png)  
+The audience persona diagram consists of 4 quadrants:
+
+1. **Goals:**
+   * This quadrant will hold info about your patient’s goals and main aspires.
+2. **Problems:**
+   * This is where you plot your patient’s issues, problems, and what hinders them from achieving their goals. (NOTE: theses issues should relate to how you can solve them, more on that in a second)
+3. **Impact**
+   * Here is where you plot the consequences of the problems your patient has.
+4. **Desires:**
+   * What do they desire? What’s the perfect scenario they want when they visit you?
+
+  
+You and your team start answering the following questions with respect to their quadrant:
+
+* For **goals**: What objectives they have as it relates to your offering?
+* For **problems**: What are the problems your patient faces before they know you?
+* For **Impact**: What do they fear because of those problems?
+* For **Desires**: What’d be the desirable experience? What would be the best-case scenario after they get your treatment?
+
+Use sticky notes and pin them to their respective quadrant.
+
+Once you’ve done that, use a different color sticky note on the middle circle to describe your target audience in 1 or 2 short sentences.
+
+The result should look like this:
+
+  
+![](/assets/images/5.jpg)
