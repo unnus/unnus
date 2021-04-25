@@ -19,6 +19,8 @@ twitterHandle = "/@SlimanBaghouri"
 
 {{% hook %}} “People don't buy what you do; they buy why you do it. And what you do simply proves what you believe”—Simon Sinek {{% /hook %}}
 
-The above quote holds the theme of this first lesson. People don’t care about any other corporation per se. What they care about is the purposeful endeavor of said brand.
+***
+
+The above quote holds the theme of this first lesson. People don’t care about any brand, but what they care about is the purposeful endeavor of said brand.
 
 We have a cognitive bias towards meaningful brands. We vouch for their success, we stay loyal and spread the gospel about them. That’s because they reflect our beliefs and reinforce our core characteristics.
