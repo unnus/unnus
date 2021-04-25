@@ -171,7 +171,7 @@ Now, all that is left is selecting what part of the story we’re going to tell 
 
 This workshop is the practical step-by-step process to what we’ve been discussing so far. We’re going to craft a communication framework from which you’ll be able to market your medical business in the form of a story.
 
-**_Note:_** _this workshop will contain a fair amount of writing and brainstorming ideas. However, it’s the easiest to outsource since there isn’t much collaborative effort needed. If you’re busy and don’t have the time to do it, you can hand this lesson to your team to follow the steps outlined below. Or you can contact me at_ [_sliman@unnus.com_](mailto:sliman@unnus.com) _and I’ll have my team help you out._
+**_Note:_** _this workshop will contain a fair amount of writing and brainstorming ideas. However, it’s the easiest to outsource since there isn’t much collaborative effort needed. If you’re busy and don’t have the time to do it, you can hand this lesson to your team to follow the steps outlined below. Or you can contact me at sliman@unnus.com and I’ll have my team help you out._
 
 ## 1) Brand Messages Exercise ⏰ \[15-25 minute\]
 
@@ -263,6 +263,6 @@ Since this workshop included a lot of information, you must save them for later 
 
 Now that we’re done with communicating the brand’s core and its position in the market it’s time to give it a visual expression. Visuals can turn a commodity service into a premium. And that’s exactly what we’re going to see next. We’ll tackle What Optical Communication is and how you can use it to convey your messages aesthetically.
 
-And as usual, if you need someone to walk you through brand storytelling, just reply to the email of today’s lesson or email me at sliman@unnus.com. I’d be happy to help you out.
+And as usual, if you need someone to walk you through brand storytelling, just reply to the email of today’s lesson or email me at [sliman@unnus.com](mailto:sliman@unnus.com). I’d be happy to help you out.
 
 Until Tomorrow.
