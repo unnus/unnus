@@ -171,7 +171,7 @@ Now, all that is left is selecting what part of the story we’re going to tell 
 
 This workshop is the practical step-by-step process to what we’ve been discussing so far. We’re going to craft a communication framework from which you’ll be able to market your medical business in the form of a story.
 
-**_Note:_** _this workshop will contain a fair amount of writing and brainstorming ideas. However, it’s the easiest to outsource since there isn’t much collaborative effort needed. If you’re busy and don’t have the time to do it, you can hand this lesson to your team to follow the steps outlined below. Or you can contact me at sliman@unnus.com and I’ll have my team help you out._
+**Note:** this workshop will contain a fair amount of writing and brainstorming ideas. However, it’s the easiest to outsource since there isn’t much collaborative effort needed. If you’re busy and don’t have the time to do it, you can hand this lesson to your team to follow the steps outlined below. Or you can contact me at sliman@unnus.com and I’ll have my team help you out.
 
 ## 1) Brand Messages Exercise ⏰ \[15-25 minute\]
 
