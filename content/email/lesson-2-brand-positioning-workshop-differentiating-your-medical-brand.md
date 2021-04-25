@@ -11,7 +11,7 @@ page = "email/single.html"
 readingTime = "23"
 slug = "lesson-two"
 socialThumbnail = "/assets/images/0-1.jpg"
-table_of_content = []
+table_of_content = ["is-the-man-listening-privacy-sold-here", "to-focus-or-to-defocus-is-your-practice-focused-enough", "brand-differentiation-workshop", "1-audience-persona-exercise--15-25-minute", "2-brand-differentiator-graph-exercise--15-25-minute", "3-onliness-onlyness-statement-exercise--15-25-minute", "end-the-workshop--5-10-minute"]
 title = "Lesson 2) Brand Positioning Workshop: Differentiating your medical brand"
 twitterHandle = "/@SlimanBaghouri"
 
