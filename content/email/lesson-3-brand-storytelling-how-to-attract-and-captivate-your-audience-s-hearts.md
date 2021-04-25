@@ -263,6 +263,6 @@ Since this workshop included a lot of information, you must save them for later 
 
 Now that we’re done with communicating the brand’s core and its position in the market it’s time to give it a visual expression. Visuals can turn a commodity service into a premium. And that’s exactly what we’re going to see next. We’ll tackle What Optical Communication is and how you can use it to convey your messages aesthetically.
 
-And as usual, if you need someone to walk you through brand storytelling, just reply to the email of today’s lesson or email me at [sliman@unnus.com](mailto:sliman@unnus.com). I’d be happy to help you out.
+And as usual, if you need someone to walk you through brand storytelling, just reply to the email of today’s lesson or email me at sliman@unnus.com. I’d be happy to help you out.
 
 Until Tomorrow.
