@@ -11,7 +11,7 @@ page = "email/single.html"
 readingTime = "23"
 slug = "lesson-three"
 socialThumbnail = "/assets/images/0-2.jpg"
-table_of_content = []
+table_of_content = ["do-patients-identify-with-you", "how-humane-is-your-medical-brand", "brand-persona-workshop", "1-brand-archetypal-mix-exercise--15-25-minute", "2-brand-commitment-matrix-exercise--15-25-minute", "3-brand-voice-exercise--15-25-minute", "4-brand-tone-projection-exercise--15-25-minute", "5-brand-interview-exercise--15-25-minute", "end-the-brand-persona-workshop--5-8-minute"]
 title = "Lesson 3) Brand Persona Workshop: Humanizing Your Medical Brand"
 twitterHandle = "/@SlimanBaghouri"
 
