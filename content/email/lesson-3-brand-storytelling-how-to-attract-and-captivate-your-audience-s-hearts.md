@@ -137,4 +137,4 @@ This formula contains 7 blocks:
 7. **The New State (The New World)**
    * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is _after_ your brand solved all of its issues.
 
-{{% note "Note title" %}}It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress.{{% /note %}}
+{{% note "Note" %}}It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress.{{% /note %}}
