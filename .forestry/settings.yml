@@ -5,13 +5,6 @@ admin_path: "/insider"
 webhook_url: 
 sections:
 - type: directory
-  path: content/email
-  label: Email
-  create: all
-  match: "**/*"
-  templates:
-  - email-content
-- type: directory
   path: content/podcast
   label: Podcast
   create: all
@@ -33,6 +26,13 @@ sections:
   label: Medical
   create: all
   match: "**/*"
+- type: directory
+  path: content/email
+  label: Email
+  create: all
+  match: "**/*"
+  templates:
+  - email-content
 - type: directory
   path: content/draft
   label: Draft
