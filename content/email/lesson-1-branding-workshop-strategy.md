@@ -191,3 +191,12 @@ Take 10-15 minutes and let the participant write their version of the credo. To 
 * The last paragraph is where you describe your brand and what it does. Keep it short and sweet.
 
 {{% important %}} Your brand’s credo shouldn’t look like a generic and uninspiring mission statement. The Credo should be **different, powerful,** and **hard-hitting**. {{% /important %}}
+
+Here are some examples for inspirations:
+
+![](/assets/images/8.jpg)  
+After you finish writing the credo, using the red voting above the exercise in miro, vote for what you think is the best credo that truly represents the brand.
+
+Each participant vote counts as 1 point while the founder/owner’s vote counts as 2 points.
+
+The highest-rated credo is the winner.
