@@ -95,3 +95,30 @@ We’re going to use virtual boards to run this workshop online. And the best to
 First, you need to sign up for a free account and then [click here](https://miro.com/app/board/o9J_lUESbeA=/) to access the branding exercises.
 
 I made a quick video that explains how to use this tool:
+
+{{< youtube CSqpUhhfelU>}}
+
+## 1) Brand Golden Circle Exercise ⏰ \[15-25 minute\]
+
+In this exercise we’ll brainstorm the following:
+
+1. The **Why**:
+   * The reason why your medical business exist and what’s the purpose behind it
+2. The **How**:
+   * How are you going to fulfill that reason or your brand’s end goal? And how will that benefit your patients?
+3. The **What**:
+   * What does your brand do? And how does that relate to your patients’ day-to-day life?
+
+The end goal is to formulate the answers as a **Brand Credo,** a statement of the beliefs which guide your brand’s actions and communications.
+
+Let’s start.
+
+### #\~Step 1) brainstorming the Why:
+
+![](/assets/images/5.png)
+
+On the Why circle, you and your team try to think as to why the brand has come to fruition. What’s the purpose behind its existence and why should people care?
+
+Take a couple of minutes to think and write down on sticky notes your answers. After that, pin the sticky notes to the Why circle.
+
+Here’s a couple of questions to give you a headstart:
