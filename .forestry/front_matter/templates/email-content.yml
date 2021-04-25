@@ -47,3 +47,5 @@ fields:
 - type: text
   name: twitterHandle
   label: twitterHandle
+pages:
+- content/email/lesson-1-branding-workshop-strategy.md
