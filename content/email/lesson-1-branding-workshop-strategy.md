@@ -122,3 +122,34 @@ On the Why circle, you and your team try to think as to why the brand has come t
 Take a couple of minutes to think and write down on sticky notes your answers. After that, pin the sticky notes to the Why circle.
 
 Here’s a couple of questions to give you a headstart:
+
+* Who are we helping?
+* What are we helping them with?
+* What Emotion do we want our target audience to have with the result we deliver?
+* How could this emotion impact their lives?
+* Does this have a knock-on effect elsewhere in their lives?
+* How does this knock-on effect impact them practically?
+* Based on what we do for our patients, what is the biggest impact we can have in their lives?
+
+These questions will help you extract the essence of your brand. Make sure to avoid generic answers like “to treat people or to make people healthier”. Ask yourself, Who are the people I want to treat? And WHY do I want to treat them or/ make them healthier?
+
+This will give you more interesting answers.
+
+### #\~Step 2) brainstorming the How:
+
+In this section, we look at how your brand is going to fulfill the purpose of its existence and how that can benefit your patients. And what’s the difference in the way you deliver care.
+
+On the How Circle, brainstorm the ongoing commitments your brand has to do to achieve its higher purpose.
+
+Here are questions to ask yourself and your team:
+
+* How are we going to achieve our end objective? And What are the day-to-day commitments that enable us to reach our goal?
+* What’s the difference in our method of delivering care?
+* How could this benefit the patient?
+* How can we implement an action plan for our commitments?
+
+{{% note "Note" %}} you must be specific and actionable about the How. Avoid non-practical statements like “To provide patient-centric care” or “delivering personalized care”. Be specific as possible. 
+
+For example: instead of saying “we provide convenient care”, try to be more elaborate like “we invest in the latest technology for faster healing and same-day care”. This way it’s more clear how you’re going to help the patient.{{% /note %}}
+
+Remember, this process is internal for the moment. And expressing these attributes is the subject for an upcoming lesson. So, for now, you are free to write down what comes to your mind.
