@@ -293,9 +293,9 @@ Let’s see how it works.
 2. Each participant will have his/her section where they can answer the questions and test their understanding of the newly developed brand voice.
 3. After the team has finished answering all of the questions, discuss your answers and see what insights you can gather.
 
-After you’re done, the final result will look something like this
+After you’re done, the final result will look something like this:
 
-![](/assets/images/24.jpg)
+![](/assets/images/24-1.jpg)
 
 ## End the Brand Persona workshop ⏰ \[5-8 minute\]
 
