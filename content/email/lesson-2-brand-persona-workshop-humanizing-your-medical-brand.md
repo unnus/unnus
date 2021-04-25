@@ -4,7 +4,6 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
-draft = true
 featImg = "/assets/images/0-2.jpg"
 featImgThumb = "/assets/images/0-2.jpg"
 linkedinHandle = "slimaneBaghouri"
@@ -147,3 +146,167 @@ When you are deciding on an archetype try to ask yourself “What’s the ulteri
 Once you know the desire, pick an archetype that fits it.
 
 After you and your team are happy with your archetypal mix, move on to the next exercise.
+
+## 2) Brand Commitment Matrix Exercise ⏰ \[15-25 minute\]
+
+Now you have a brand’s archetype that fits its audience, let’s see how we can further align your brand with your patient’s values. And for this, we’re going to use the Brand Commitment Matrix (BCM).
+
+BCM is a document that maps out the basic contract between you and your patient. Here’s how it works: Two columns, one for patients and one for the brand. Each column contains three key statements.
+
+For patients, the statements will describe their IDENTITY (who they are), their AIMS (what they want), and their MORES (how they belong). These form the acronym IAM.
+
+For the brand, the statements will describe its PURPOSE (why we exist), its ONLYNESS (what we offer), and its VALUES (how we behave). These form the acronym POV.
+
+The statements in each column should line up horizontally: patient's identity and your brand’s purpose should align; patient aims and your services “onlyness” (differentiator) should support each other, and mores and brand values should be in sync.
+
+![](/assets/images/5-1.png)
+
+### 🔴 Action Step: Fill in the Brand Commitment Matrix
+
+  
+To start filling out the BCM, first explain to the team the goal of this exercise and how it’ll help us further align the brand with our target patients.
+
+After that move on to the next steps:
+
+1. **Customer Column:**
+   * For the **IDENTITY**: In this space ask the team to describe the target audience in a couple of sentences and write down the answers.
+   * For the **AIMS**: these are their goals as it relates to your brand’s services. Ask the team to write down a list of aims the patient wants to achieve.
+   * For the **MORES**: these are the rules in which your target patients behave in their community. What do they dislike? And what are some of the absolute rules they live by? How do they interact with each other? (are they outspoken and articulate? Or reserved and calm?) what’re their day-to-day activities like? Do they try to avoid something? Or care about a cause? List as much mores as you can and move on to the brand column
+2. **Brand Column:**
+   * For the **PURPOSE**: Start by writing down your brand’s Why or its reason to exist. You can borrow some of the ideas and statements from the first workshop Brand DNA
+   * For the **ONLYNESS**: Here you write down your onliness statement that you’ve created in the second lesson Brand Differentiation Worksop
+   * For the **VALUES**: Here you write down your brand’s pillar and how they correlate with your audience's mores.
+
+![](/assets/images/6-1.png)
+
+Once you’re done, move on to the next exercise where we dive into part 2 of this workshop and that’s the Brand Persona.
+
+## 3) Brand Voice Exercise ⏰ \[15-25 minute\]
+
+In this phase of the process, we craft Brand Voice Guidelines. This is the tone and language used when communicating your message, ads, marketing, website copy, or when talking with patients.
+
+Think of Brand Voice as the unique manner in which your brand expresses itself. Is it serious or playful? authoritative or empathetic? feminine or masculine? Your brand voice should be one that your target patient will engage and relate to.
+
+The ultimate goal of this exercise is to develop a unique “voice” for your medical brand so that your messages will go intact and straight into people’s minds. A voice that’s highly targeted towards your patients and speaks to them on a personal level.
+
+Let’s see some good examples of brand voices so you have an idea of what a distinct voice looks like.
+
+### Examples of brand voice
+
+**#\~The Joint Chiropractic**: Their voice in social media is **laid-back**, **casual**, and **uplifting.**  
+  
+![](/assets/images/7-1.jpg)
+
+![](/assets/images/8-1.jpg)  
+  
+**Here’s a non-medical example of a brand’s voice.**
+
+A tongue-in-cheek billboard advert for The Economist in 1990 that sympathizes with their target audience: CEOs and company executives.
+
+![](/assets/images/9-1.jpg)
+
+Strip away the huge salary and the executive jet, and you find much solitary misery. Even chief executives are human.
+
+The economist’s tone of voice and the message connects deeply with their audience, creating stronger bonds and loyalty for the brand.
+
+![](/assets/images/10.png)
+
+![](/assets/images/12.jpg)  
+  
+Here’s an example of the unique voice of a mobile app from The Desk Magazine. Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
+
+![](/assets/images/13-2.png)
+
+![](/assets/images/15-1.jpg)
+
+**#One medical,** membership-based primary care practice on a mission to make getting quality care more accessible, and enjoyable.
+
+Their voice in social media is **caring**, **warm**, and **thoughtful**
+
+![](/assets/images/17.png)
+
+![](/assets/images/18.png)
+
+### 🔴 Action Step: Define your brand’s communication style
+
+Using the Brand Voice Sliders (BVS) Exercise, let’s decide on what voice your brand will claim. The BVS aims to gauge to which extent your brand is humorous, formal, respectful, enthusiastic and what attitude it has.
+
+![](/assets/images/19.png)
+
+* **First**: Discuss with your team how your target patients and audience communicate and what sort of behavior they have. (you can check previous exercises for help).
+* **Second**: using the slider dots, drag each one to the left or the right depending on what manner your brand will maintain.
+* **Third**: There are good reasons to be on the left or right of any of these lines, and it’s even okay if some of your sliders end up in the middle. But it’s helpful to be strongly opinionated on at least one or two ranges.
+
+After you finish, your result will look something like this:
+
+![](/assets/images/20.png)
+
+Once your brand’s voice is decided, let’s define its tones.
+
+## 4) Brand Tone Projection Exercise ⏰ \[15-25 minute\]
+
+What’s the difference between brand voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss. Your tone also changes depending on the emotional state of the person you’re addressing.
+
+The same is true for your brand. Its voice doesn’t change much from day to day, but the tone changes all the time depending on the context.
+
+To define your brand’s tone, we’ll project its voice across [4 dimensions ](https://www.nngroup.com/articles/tone-of-voice-dimensions/)of speaking: humor, formality, respectfulness, and enthusiasm.
+
+The goal is to answer the following questions:
+
+* How humorous will your communication be?
+* How formal is your brand when talking?
+* Level of respectfulness infused in a speaking manner, and;
+* How enthusiastically the brand’s voice will be
+
+### 🔴 Action Step: Define your brand’s tones
+
+![](/assets/images/21.png)
+
+Let’s use the Tone Projections Exercise to start defining the brand’s tone of voice. After you explain to the participant the goal of the exercise move on to the action steps:
+
+* On the right of the exercise, there are four quadrants with their respective dimensions of speaking. In each quadrant, participants will pin sticky notes that contain a statement that describes how the brand will speak in that particular dimension.
+* The statement template goes as follow: We’re___, but we’re not____. E.g. “we’re forward-looking, but we’re not jumpy”
+* Fill each quadrant with as many examples as you can. And repeat the process for the rest of the quadrants.
+
+Here’s an example of the final result:
+
+![](/assets/images/22.png)
+
+Once you’re done, it’s time to solidify your brand’s voice and get a clear picture of how your brand communicates.
+
+## 5) Brand Interview Exercise ⏰ \[15-25 minute\]
+
+  
+![](/assets/images/23.png)
+
+This is the final exercise of this workshop. The brand Interview Exercise aims to test out the voice we’ve developed until now. It's great to flesh out the way the brand speaks.
+
+In this exercise, we’ll visualize your brand as a person and we’re interviewing him/her. We’ll pose a series of questions and answer them as the brand.
+
+These questions aim to solidify the brand voice by putting into practice how your brand communicates.
+
+Let’s see how it works.
+
+### 🔴 Action Step: Brand Interview
+
+* On the brand interview exercise, you’ll see a list of questions to ask your brand. Explain the exercise to your team and let them answer the question as the brand itself.
+
+
+* Each participant will have his/her section where they can answer the questions and test their understanding of the newly developed brand voice.
+* After the team has finished answering all of the questions, discuss your answers and see what insights you can gather.
+
+After you’re done, the final result will look something like this:
+
+![](/assets/images/24.jpg)
+
+## End the Brand Persona workshop ⏰ \[5-8 minute\]
+
+As always, at the end of each workshop, provide the team with an overview of what they have done and the insights gathered. Make sure to save the notes and answers for later.
+
+## OK, now what?
+
+Now that we’re done with the first 3 workshops which form the internal branding, we’ll move to the external branding. Up until now everything is internal and is not yet communicated. And for this reason, in the next lesson, we’ll see how you’re going to communicate everything we’ve been developing in a resilient and refined strategy.
+
+If you need any help or have questions about today’s workshop, just reply to this lesson’s email or send me a message at [sliman@unnus.com](mailto:sliman@unnus.com).
+
+Until tomorrow.
