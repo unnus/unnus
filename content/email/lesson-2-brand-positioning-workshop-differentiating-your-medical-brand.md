@@ -152,3 +152,103 @@ The result should look like this:
 
   
 ![](/assets/images/5.jpg)
+
+Once you’re done, discuss the finding with your team and move on to the next step.
+
+## 2) Brand Differentiator Graph Exercise ⏰ \[15-25 minute\]
+
+After getting a firm understanding of your audience, it’s time to develop a differentiator that matches their values. And for that, we’ll use Brand Differentiator Graph Exercise™ (BDG).
+
+The BDG helps you achieve the following:
+
+1. Plot potential unique value offers or differentiator, And;
+2. Evaluate your possible differentiators based on how important they are to your patients and;
+3. To check whether or not the competition is using the same differentiators.
+
+![](/assets/images/6.png)
+
+Furthermore, the graph is split into four sections:
+
+1. **Unappreciated efforts**:
+   * This section holds everything that most of your competitors have and is of little importance to your patient. Having an about us website is of no huge value to your patient. And every competitor mostly has one. So it’s an unappreciated effort if you have one.
+2. **Fulfilled priorities**:
+   * This section holds critical parts of your medical business such as a good office space/parking lot. These are important for your patients but it doesn’t set you apart per se.
+3. **Secondary differentiators**:
+   * Here are aspects of your business that are different and most competitors don’t have; however, at the same time, they don’t add that much value for your patients. For example, an online booking system.
+4. **Primary differentiators**:
+   * These are differentiators that are key to your success. Because they add high value to your patients and your competitors do not have this unique aspect. For example, if you’re an expert at athletic injuries and most of your competitors don’t have the same experience you have.
+
+On the x-axis is how important the differentiator is to your patients. On the y-axis is how prevalent this differentiator is in the competitive landscape (how much it is used).
+
+Brainstorm possible differentiators and write down on sticky notes possible unique aspects about your practice or a different approach to your service.
+
+If you couldn’t come up with something, try to think of how you can outmaneuver everyone and take another approach to your practice.
+
+Here are few questions to give you a head start:
+
+* What do we do differently and exceptionally well?
+* What are the unmet needs that patients are experiencing in our field?
+* What do our competitors do mediocrely? Can we raise the bar?
+* What are some of the industry “standards” that we can diverge from?
+* What sort of luxury patients are not aware of, that could elevate their experience?
+
+Write all of the possible ideas and start plotting them on the BDG.
+
+The graph will look something like this
+
+![](/assets/images/7.jpg)
+
+After you have filled out all of the quadrants of the BDG, it’s time to hone in on ONE differentiator and highlight that as your ONLY thing your brand can do and others can’t.
+
+## 3) Onliness (onlyness) Statement Exercise ⏰ \[15-25 minute\]
+
+Onliness Statement is a positioning statement that radically differentiates your practice and provides it with crystal clarity. It’s simple yet the hardest part of the positioning strategy.
+
+The onliness statement declares the only thing that your medical brand does uniquely and no other competitor can claim.
+
+_![](/assets/images/8.png)_
+
+The template of the statement is as follows:
+
+Our \[Offering/Brand\] Is the only \[Category\] That \[Differentiator\].
+
+Here are examples from our clients to take inspiration from:
+
+![](/assets/images/9.jpg)
+
+![](/assets/images/10-1.jpg)
+
+![](/assets/images/11-1.jpg)
+
+![](/assets/images/12-1.png)
+
+![](/assets/images/13-1.png)
+
+### **#\~ Plotting your onliness statement:**
+
+1. **First**:
+   * take inspiration from the Brand Differentiator Graph™ to finish your onliness statement. It is better to take primary differentiators from the graph because they are already unique to your business and competitors can’t copy them.
+2. **Second**:
+   * On the right side of the Onliness Statement Exercise template, there are four quadrants where you can stick candidates’ statements. Participants should use sticky notes and try to come up with as many candidates as possible.
+3. **Third:**
+   * After you and your team gather a few ideas, use the red dots on the right side to vote on which one is the most suitable for your brand. As per usual, the founder has 2 points for his/her vote and the rest of the team 1 point.
+
+After you’re done voting, the highest-ranked statement is your winner.
+
+## End the workshop ⏰ \[5-10 minute\]
+
+The same as the previous workshop, offer a quick recap and congratulate your team on their efforts. After that, you want to keep tabs on these insights by storing them in PDFs or spreadsheets for future use.
+
+### And keep in mind that…
+
+That what we’re doing up until now is all internal. No one outside your team should see it. Well, you might ask “what’s the point then?”. The point here is that we don’t want to just publicly share this information and slap it in people’s faces.
+
+As of yet, the findings of these workshops are highly valuable. BUT, they are useless if they aren’t communicated. And how to powerfully communicating them is the subject of lesson 4. So expect some exciting stuff to come up.
+
+## What’s coming up next?
+
+The next lesson is the most creative workshop by far. We’ll focus on adding a little bit of pizzazz and sprinkling a bit of flair to your medical brand’s communication. We’ll also see how we can inject humanistic attributes into your brand and make it as charismatic as it can be.
+
+If you need any help with today’s exercise or any comments just reply to the email of this lesson or email me at [sliman@unnus.com](mailto:sliman@unnus.com) I’ll be happy to help.
+
+Until tomorrow.
