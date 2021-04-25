@@ -181,3 +181,13 @@ In the branding workshop, move onto the Brand Credo Exercise.
 Each participant will have a blank paper where he or she can write down the credo. You can duplicate the papers for more people to use by selecting a paper then hold the Alt or ⌘ key while dragging it.
 
 Here’s the basic template of a Brand Credo:
+
+![](/assets/images/7.png)
+
+Take 10-15 minutes and let the participant write their version of the credo. To help you write one here are some tips:
+
+* In the first paragraph, write down why the brand exists. Go back to the Golden Circle and see the reasons behind the brand. It should give you an idea of what to write.
+* In the second paragraph, write down how the brand is going to fulfill its promise. Here where you collect all of the How’s from the previous exercise and make a coherent statement
+* The last paragraph is where you describe your brand and what it does. Keep it short and sweet.
+
+{{% important %}} Your brand’s credo shouldn’t look like a generic and uninspiring mission statement. The Credo should be **different, powerful,** and **hard-hitting**. {{% /important %}}
