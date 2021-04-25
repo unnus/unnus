@@ -1,56 +1,55 @@
 ---
-label: 'Email Content'
+label: Email Content
 hide_body: false
 fields:
-- name: page
-  type: text
-  config:
-    required: true
-  label: Email Template
-  default: email/single.html
+- type: text
+  name: author
+  label: author
+- type: file
+  name: authorAvatarBottom
+  label: authorAvatarBottom
+- type: file
+  name: authorAvatarTop
+  label: authorAvatarTop
+- type: textarea
+  name: authorBio
+  label: authorBio
+- type: text
+  name: category
+  label: category
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: featImg
+  label: featImg
+- type: file
+  name: featImgThumb
+  label: featImgThumb
+- type: text
+  name: linkedinHandle
+  label: linkedinHandle
+- type: text
+  name: page
+  label: page
+- type: text
+  name: readingTime
+  label: readingTime
+- type: text
+  name: slug
+  label: slug
+- type: file
+  name: socialThumbnail
+  label: socialThumbnail
+- type: list
+  name: table_of_content
+  label: table_of_content
 - type: text
   name: title
   label: title
 - type: text
-  name: author
-  label: Author name
-- type: file
-  name: authorAvatarTop
-  label: Author avatar small for article top section (Small size 50x50/50x58)
-- type: file
-  name: authorAvatarBottom
-  label: Author bio avatar for article bottom section (Medium size 100x150 or larger)
-- type: textarea
-  name: authorBio
-  label: Author bio
-- type: text
   name: twitterHandle
-  label: Author twitter handle (/yourTwitterHandle)
-- type: text
-  name: linkedinHandle
-  label: Author linkedin handle (/yourLinkedinHandle)
-- type: text
-  name: readingTime
-  label: Article reading time (put a number/in minutes/ example 6 or 7)
-- type: text
-  name: slug
-  label: slug (What url this article should be? medical/your_Slug_Here)
-- type: datetime
-  name: date
-  label: date
-- type: file
-  name: featImg
-  label: Featured image (1300x600) or larger
-- type: file
-  name: socialThumbnail
-  label: Social Media Thumbnail (facebok/twitter)
-- type: file
-  name: featImgThumb
-  label: Featured image thumbnail (660x300)
-- name: table_of_content
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: Table of content
+  label: twitterHandle
