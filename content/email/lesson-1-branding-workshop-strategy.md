@@ -30,15 +30,15 @@ My promise to you is that by the end of this lesson, you’ll have an unmatched 
 
 Here’s what we’ll cover:
 
-* The fact about how patients choose medical practices
-* Why Messages Vs What Messages
-* Brand DNA workshop
-  * Brand Golden Circle Exercise
-  * Brand Credo Write-up
-  * Brand Pillars Exercise
-  * Future Brand Exercise
-  * Brand Obituary Exercise
-* Next Steps
+1. The fact about how patients choose medical practices
+2. Why Messages Vs What Messages
+3. Brand DNA workshop
+   * Brand Golden Circle Exercise
+   * Brand Credo Write-up
+   * Brand Pillars Exercise
+   * Future Brand Exercise
+   * Brand Obituary Exercise
+4. Next Steps
 
 ## Here’s a disturbing fact:
 
