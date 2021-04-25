@@ -13,7 +13,7 @@ readingTime = "23"
 slug = "lesson-three"
 socialThumbnail = "/assets/images/0-2.jpg"
 table_of_content = []
-title = "Lesson 2) Brand Persona Workshop: Humanizing Your Medical Brand"
+title = "Lesson 3) Brand Persona Workshop: Humanizing Your Medical Brand"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
