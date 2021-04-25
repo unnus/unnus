@@ -14,15 +14,9 @@ fields:
 - type: textarea
   name: authorBio
   label: authorBio
-- type: text
-  name: category
-  label: category
 - type: datetime
   name: date
   label: date
-- type: textarea
-  name: description
-  label: description
 - type: file
   name: featImg
   label: featImg
