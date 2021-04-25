@@ -11,7 +11,7 @@ page = "email/single.html"
 readingTime = "23"
 slug = "lesson-four"
 socialThumbnail = "/assets/images/0-3.jpg"
-table_of_content = []
+table_of_content = ["how-stories-influence-preference-based-judgments", "brand-storytelling-strategy-the-unmatched-way-of-marketing-your-medical-business", "the-4-components-of-brand-storytelling", "examples-of-medical-brand-storytelling", "brand-storytelling-workshop", "1-brand-messages-exercise--15-25-minute", "2-brand-story-framework-exercise--15-25-minute", "3-brand-communication-framework", "whats-next"]
 title = "Lesson 4) Brand Storytelling: A Framework to Attract And Captivate your audience's hearts"
 twitterHandle = "/@SlimanBaghouri"
 
