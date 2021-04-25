@@ -16,3 +16,6 @@ title = "Lesson 1: Branding Workshop Strategy"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
+The above quote holds the theme of this first lesson. People don’t care about any other corporation per se. What they care about is the purposeful endeavor of said brand.
+
+We have a cognitive bias towards meaningful brands. We vouch for their success, we stay loyal and spread the gospel about them. That’s because they reflect our beliefs and reinforce our core characteristics.
