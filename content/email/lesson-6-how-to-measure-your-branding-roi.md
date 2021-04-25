@@ -20,9 +20,8 @@ twitterHandle = "/@SlimanBaghouri"
 
 ***
 
-### Tracking your revenue might not be the best metric to keep an eye on...
+## Tracking your revenue might not be the best metric to keep an eye on...
 
-  
 In the business world, often the focus is on yearly revenue or sales. Not only that, but marketers, to measure their marketing efforts, need to project the sales each quarter.
 
 And to accomplish this, they use a model called the purchase funnel.
@@ -31,7 +30,6 @@ This model tracks sales by tracking customers as they move from awareness (being
 
 ![](/assets/images/1-2.jpg)
 
-  
 This model is only helpful if:
 
 1. Your main goal is to project revenue in the short term
@@ -80,7 +78,6 @@ Empowered patients will move heaven and earth to ensure your success, happily at
 
 The Brand Commitment Scale is an easy-to-use survey that yields a single number from 20–100. This score represents your overall progress up the brand ladder, where empowerment is given four times the weight of satisfaction.
 
-  
 If conducted annually, the BCS can highlight your gains (or losses), suggesting where you need more investment. It can also let you compare the scores at each rung of the ladder, and for each of the eight questions.
 
 ![](/assets/images/3-2.jpg)
