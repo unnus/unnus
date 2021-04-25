@@ -20,7 +20,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 ***
 
-## Tracking your revenue might not be the best metric to keep an eye on...
+## Your revenue might not be the best metric to keep an eye on...
 
 In the business world, often the focus is on yearly revenue or sales. Not only that, but marketers, to measure their marketing efforts, need to project the sales each quarter.
 
