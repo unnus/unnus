@@ -139,7 +139,7 @@ We see this in action when Pfizer used its logo on Caduet's pre-launch materials
 
 With the flood of generic products and the rapid increase of competition in Big Pharma, not standing out is the same as being invisible.
 
-The good news is, branding at its core, is differentiation. And by establishing a [brand strategy](https://unnus.com/charismatic-medical-brand/ "Healthcare branding free course"), you cut through the noise of imitative products.
+The good news is, branding at its core, is differentiation. And by establishing a brand strategy, you cut through the noise of imitative products.
 
 Branding your company means you build an established brand for which consumers believe there’s no substitute. It forms cult-like followers for your products.
 
@@ -254,7 +254,7 @@ This framework will act as a compass for every touchpoint your audience has with
 
 Techniques such as Storytelling, Core Messaging, True Lines will be used to facilitate the ability of your company to connect with a wide audience creatively.
 
-If you’d like to gain a deeper understanding of such strategies, you can check our free [healthcare branding series](https://www.unnus.com/healthcare-branding/).
+If you’d like to gain a deeper understanding of such strategies, you can check our free [healthcare branding series](https://unnus.com/charismatic-medical-brand/).
 
 ### Stage 5: Brand Art Direction
 
