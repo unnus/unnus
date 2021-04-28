@@ -308,6 +308,6 @@ Your marketing efforts are as good as the brand behind it. If you have an orthod
 
 Taking time to develop a differentiator for your practice and cultivating a brand is critical before marketing. You don’t want to market a soulless brand. Marketing should be empowered by your branding not weakened by it.
 
-If you’d like to go deep into how to strategically put that into practice, check our free [healthcare branding series](https://unnus.com/healthcare-branding/).
+If you’d like to go deep into how to strategically put that into practice, check our free [healthcare branding series](https://unnus.com/charismatic-medical-brand/).
 
 Or if you’d like help building your orthodontic brand, [Say hello to us ](https://unnus.com/contact/)and we’ll gladly help.
