@@ -14,7 +14,7 @@ readingTime = "6"
 slug = "hospital-branding"
 socialThumbnail = "/assets/images/untitled.jpg"
 table_of_content = ["Intro", "What hospital brand is not", "What is a hospital branding strategy", "Perks of having an established hospital brand ", "case study", "Pivoting your hospital brand during a pandemic ", "Whats next"]
-title = "Hospital branding: How to build a timeless hospital brand"
+title = "Hospital Branding: How to Build A Timeless Hospital Brand"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
@@ -252,7 +252,7 @@ They are laser-focus on being the risk-free choice in an age where patients drea
 
 The healthier rebrand consisted of 5 Phases.
 
-</p> <ol> <li>Brand DNA</li> <li>Brand Positioning</li> <li>Brand Persona</li> <li>Communication Framework</li> <li>Art Direction</li> </ol> <p>If you want to see the step-by-step process of how we develop each phase, check this guide in <a href="/healthcare-branding">healthcare branding.</a></p> <p> Their rebrand was not a mere “announcement”, they became it.
+</p> <ol> <li>Brand DNA</li> <li>Brand Positioning</li> <li>Brand Persona</li> <li>Communication Framework</li> <li>Art Direction</li> </ol> <p>If you want to see the step-by-step process of how we develop each phase, check this guide in <a href="/charismatic-medical-brand/">healthcare branding.</a></p> <p> Their rebrand was not a mere “announcement”, they became it.
 
 </p>
 
