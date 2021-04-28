@@ -70,7 +70,7 @@ In the competitive market of nursing homes, not being different is the same as b
 
 A differentiation strategy can make your competition irrelevant and provides your facility with a bigger market share. Thus, increasing your profit margins and solidifying your brand in the healthcare sphere.
 
-If you’d like to know more about this strategy, check our [free branding course ](https://unnus.com/healthcare-branding)where we provide you with positioning strategies that differentiate your brand from the lookalikes.
+If you’d like to know more about this strategy, check our [free branding course ](https://unnus.com/charismatic-medical-brand/)where we provide you with positioning strategies that differentiate your brand from the lookalikes.
 
 ## Nursing Home Marketing Ideas
 
