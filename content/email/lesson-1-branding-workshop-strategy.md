@@ -5,11 +5,12 @@ authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies"
 date = 2021-04-24T23:00:00Z
 featImg = "/assets/images/0.jpg"
+downloads = "https://drive.google.com/drive/folders/188lVeEiQ1NtOv52jTuiH1EBx4j2VhEY1?usp=sharing"
 featImgThumb = "/assets/images/0.jpg"
 linkedinHandle = "/slimaneBaghouri"
 page = "email/single.html"
 readingTime = "8"
-slug = "lesson-one"
+slug = "brand-dna"
 socialThumbnail = ""
 table_of_content = ["heres-a-disturbing-fact", "examples-of-why-messages-vs-what-messages", "brand-dna-workshop", "1-brand-golden-circle-exercise--15-25-minute", "2-brand-credo-write-up--15-25-minute", "3-brand-pillars--10-20-minute", "4-future-brand--15-25-minute", "5-brand-obituary--15-25-minute", "end-the-workshop--5-8-minute"]
 title = "Lesson 1) Brand DNA Workshop: How to infuse meaning to your medical brand "

@@ -6,10 +6,11 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 date = 2021-04-24T23:00:00Z
 featImg = "/assets/images/0-1.jpg"
 featImgThumb = "/assets/images/0-1.jpg"
+downloads = "https://drive.google.com/drive/folders/1hKob7BE_Qcj487NS2EL0AYyxVMYOwKMq?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
-slug = "lesson-two"
+slug = "brand-positioning"
 socialThumbnail = "/assets/images/0-1.jpg"
 table_of_content = ["is-the-man-listening-privacy-sold-here", "to-focus-or-to-defocus-is-your-practice-focused-enough", "brand-differentiation-workshop", "1-audience-persona-exercise--15-25-minute", "2-brand-differentiator-graph-exercise--15-25-minute", "3-onliness-onlyness-statement-exercise--15-25-minute", "end-the-workshop--5-10-minute"]
 title = "Lesson 2) Brand Positioning Workshop: Differentiating your medical brand"

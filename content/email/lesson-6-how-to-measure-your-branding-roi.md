@@ -6,10 +6,11 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 date = 2021-04-24T23:00:00Z
 featImg = "/assets/images/0-5.jpg"
 featImgThumb = "/assets/images/0-5.jpg"
+downloads = "https://drive.google.com/drive/folders/139dBt-tHa9Tgnb7_GrDBus5MBt7PXkto?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "12"
-slug = "lesson-six"
+slug = "brand-roi"
 socialThumbnail = "/assets/images/0-5.jpg"
 table_of_content = ["your-revenue-might-not-be-the-best-metric-to-keep-an-eye-on", "enters-the-brand-ladder", "measuring-branding-with-the-brand-commitment-scale-bcs", "whats-next"]
 title = "Lesson 6) How to Measure Your Branding ROI"

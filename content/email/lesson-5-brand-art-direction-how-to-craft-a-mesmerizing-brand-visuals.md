@@ -6,10 +6,11 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 date = 2021-04-24T23:00:00Z
 featImg = "/assets/images/0-4.jpg"
 featImgThumb = "/assets/images/0-4.jpg"
+downloads = "https://drive.google.com/drive/folders/1IDD7pxtAKbMg2pFVKRRC4c6LOHnt0wOg?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "7"
-slug = "lesson-five"
+slug = "brand-identity"
 socialThumbnail = "/assets/images/0-4.jpg"
 table_of_content = ["brand-art-direction-workshop", "1-brand-keyword-essence-exercise--15-25-minute", "2-brand-visualization-exercise--15-25-minute", "3-brand-creative-process--15-25-minute", "whats-next"]
 title = "Lesson 5): Brand Art Direction: How To Craft A Mesmerizing Brand Visuals"

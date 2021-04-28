@@ -6,10 +6,11 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 date = 2021-04-24T23:00:00Z
 featImg = "/assets/images/0-2.jpg"
 featImgThumb = "/assets/images/0-2.jpg"
+downloads = "https://drive.google.com/drive/folders/15dSZ2tscYman0XKtwArY3Egblpnw9M6t?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
-slug = "lesson-three"
+slug = "brand-persona"
 socialThumbnail = "/assets/images/0-2.jpg"
 table_of_content = ["do-patients-identify-with-you", "how-humane-is-your-medical-brand", "brand-persona-workshop", "1-brand-archetypal-mix-exercise--15-25-minute", "2-brand-commitment-matrix-exercise--15-25-minute", "3-brand-voice-exercise--15-25-minute", "4-brand-tone-projection-exercise--15-25-minute", "5-brand-interview-exercise--15-25-minute", "end-the-brand-persona-workshop--5-8-minute"]
 title = "Lesson 3) Brand Persona Workshop: Humanizing Your Medical Brand"
