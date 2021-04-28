@@ -200,7 +200,7 @@ And a vision can’t be genuine without a purpose or “reason to exist”.
 
 You see, Mission, Vision, and Purpose are what we call in branding: A **Brand DNA**.
 
-A brand DNA is a [branding strategy](https://unnus.com/healthcare-branding/) that aims to build a purposeful foundation for your healthcare brand.
+A brand DNA is a [branding strategy](https://unnus.com/charismatic-medical-brand/) that aims to build a purposeful foundation for your healthcare brand.
 
 It consists of 3 Stages Purpose, Vision, Mission.
 
