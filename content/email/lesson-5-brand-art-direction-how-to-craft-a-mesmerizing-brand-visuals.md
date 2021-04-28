@@ -4,9 +4,9 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
+downloads = "https://drive.google.com/drive/folders/1IDD7pxtAKbMg2pFVKRRC4c6LOHnt0wOg?usp=sharing"
 featImg = "/assets/images/0-4.jpg"
 featImgThumb = "/assets/images/0-4.jpg"
-downloads = "https://drive.google.com/drive/folders/1IDD7pxtAKbMg2pFVKRRC4c6LOHnt0wOg?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "7"
@@ -17,7 +17,6 @@ title = "Lesson 5): Brand Art Direction: How To Craft A Mesmerizing Brand Visual
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-
 {{% hook %}}Your visuals can turn your medical business into a premium brand. And the reason for that is because of how our brain interprets visual elements.{{% /hook %}}
 
 ***
@@ -42,13 +41,14 @@ Let’s start the workshop.
 
 ## Brand Art Direction Workshop
 
+**Note**: You can access the workshop by [clicking here](https://miro.com/app/board/o9J_lUESbeA=/) 
+
 The goal of this workshop is to create visual guidelines for your medical brand. These guidelines will be then used to design the new visuals. The most critical part here is to find aesthetics that _reflect_ your brand and makes it unique.
 
 But if you’re not planning on giving your medical business a facelift, that’s okay. You can skip this workshop. But if you’re interested in seeing how you can portray your brand’s attributes visually to potential patients, this lesson is for you.
 
 ## 1) Brand Keyword Essence Exercise ⏰ \[15-25 minute\]
 
-  
 The goal of this exercise is to distill your brand’s core attributes to categorized keywords so we can easily choose a relevant style based on said keywords. Let’s see how that works.
 
 ### 🔴 Action Step: Fill in the brand keyword map:
@@ -97,7 +97,6 @@ After you’re done, your result should look like this:
 
 ## 3) Brand Creative Process ⏰ \[15-25 minute\]
 
-  
 Now that we have generated keywords that represent your medical brand and gathered a general sense of their visual elements, it’s time to create art guidelines for bringing them to life.
 
 In this exercise, we’re going to create an outlook theme that dictates how your external branding (website, colors, logo, business collateral, office interior, etc) will look like.
