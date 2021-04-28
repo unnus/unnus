@@ -70,7 +70,7 @@ Simply: **A brand is a customer’s GUT FEELING about your organization and your
 
 It’s a gut feeling because brands are defined by individuals –not companies or markets.
 
-A [brand ](https://unnus.com/healthcare-branding/)is a gut feeling because people are emotional, instinctive beings.
+A [brand ](https://unnus.com/charismatic-medical-brand/)is a gut feeling because people are emotional, instinctive beings.
 
 And your patients base their buying decisions on trust or confidence they get from your communication channels.
 
