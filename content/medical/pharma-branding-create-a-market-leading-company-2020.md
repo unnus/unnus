@@ -105,7 +105,7 @@ Your job is to **cultivate**, **guard**, and **maintain** a strong brand – the
 
 This doesn’t mean that the product should be miles away in terms of ingredients or that your organization must reinvent new models.
 
-Differentiation in [branding ](https://unnus.com/healthcare-branding/)is about **perceptions.** You need to position your company or product in the minds of your audience _differently_ from competitors.
+Differentiation in [branding ](https://unnus.com/charismatic-medical-brand/)is about **perceptions.** You need to position your company or product in the minds of your audience _differently_ from competitors.
 
 Positioning is the way your audience perceives your product **_in relation to _**other products in the market. If you’d like to see an example of positioning in the pharma industry jump to this section.
 
