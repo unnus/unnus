@@ -4,9 +4,9 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
+downloads = "https://drive.google.com/drive/folders/15dSZ2tscYman0XKtwArY3Egblpnw9M6t?usp=sharing"
 featImg = "/assets/images/0-2.jpg"
 featImgThumb = "/assets/images/0-2.jpg"
-downloads = "https://drive.google.com/drive/folders/15dSZ2tscYman0XKtwArY3Egblpnw9M6t?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
@@ -81,6 +81,8 @@ Today I’ll share with you a creative strategy to “humanize” your medical b
 
 ## Brand Persona Workshop
 
+**Note**: You can access the workshop by [clicking here](https://miro.com/app/board/o9J_lUESbeA=/) 
+
 The goal of this workshop is to solve the two critical points we discussed above: **1)** How to create a medical brand that people will deeply identify with and **2)** how to inject humanistic attributes into your brand’s communication for a stronger affinity and engagement.
 
 The workshop consists of 5 exercises:
@@ -101,15 +103,12 @@ An archetype is a typical character that represents universal patterns of human 
 
 _![](/assets/images/1.jpg)_
 
-  
 Archetypes, Jung suggested, were inborn tendencies that play a role in influencing human behavior. Archetypes are widely used in books, movies, and branding. For example, Yoda is the **Sage** in Star Wars. Indiana Jones is the **Explorer**, and Maximus is the **Hero** in the Gladiator.
 
-  
 ![](/assets/images/2.jpg)
 
 As you can see, each one of us has core desires and an archetype that represents them.
 
-  
 And in this exercise, we’ll try to pick an archetype and _assign_ it to your brand. But, the trick here is to first identify your audience’s archetype, THEN, assign an archetype to your brand that would most appeal to them.
 
 For example, let's say that your target patients are pregnant women and your hospital helps deliver babies. Your patients (mothers-to-be) archetype will be **the caregiver** (an archetype that is driven by the desire to protect and care for their children)
@@ -143,7 +142,6 @@ When you are deciding on an archetype try to ask yourself “What’s the ulteri
 
 ![](/assets/images/4-1.png)
 
-  
 Once you know the desire, pick an archetype that fits it.
 
 After you and your team are happy with your archetypal mix, move on to the next exercise.
@@ -164,7 +162,6 @@ The statements in each column should line up horizontally: patient's identity an
 
 ### 🔴 Action Step: Fill in the Brand Commitment Matrix
 
-  
 To start filling out the BCM, first explain to the team the goal of this exercise and how it’ll help us further align the brand with our target patients.
 
 After that move on to the next steps:
@@ -194,12 +191,12 @@ Let’s see some good examples of brand voices so you have an idea of what a dis
 
 ### Examples of brand voice
 
-**#\~The Joint Chiropractic**: Their voice in social media is **laid-back**, **casual**, and **uplifting.**  
-  
+**#\~The Joint Chiropractic**: Their voice in social media is **laid-back**, **casual**, and **uplifting.**
+
 ![](/assets/images/7-1.jpg)
 
-![](/assets/images/8-1.jpg)  
-  
+![](/assets/images/8-1.jpg)
+
 **Here’s a non-medical example of a brand’s voice.**
 
 A tongue-in-cheek billboard advert for The Economist in 1990 that sympathizes with their target audience: CEOs and company executives.
@@ -212,8 +209,8 @@ The economist’s tone of voice and the message connects deeply with their audie
 
 ![](/assets/images/10.png)
 
-![](/assets/images/12.jpg)  
-  
+![](/assets/images/12.jpg)
+
 Here’s an example of the unique voice of a mobile app from The Desk Magazine. Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
 
 ![](/assets/images/13-2.png)
@@ -277,7 +274,6 @@ Once you’re done, it’s time to solidify your brand’s voice and get a clear
 
 ## 5) Brand Interview Exercise ⏰ \[15-25 minute\]
 
-  
 ![](/assets/images/23.png)
 
 This is the final exercise of this workshop. The brand Interview Exercise aims to test out the voice we’ve developed until now. It's great to flesh out the way the brand speaks.
