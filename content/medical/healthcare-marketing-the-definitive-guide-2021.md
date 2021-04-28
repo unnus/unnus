@@ -18,7 +18,7 @@ title = "Healthcare Marketing: The Definitive Guide (2021) "
 twitterHandle = "/@SlimanBaghouri"
 
 +++
-{{% hook %}} If you’re looking to market your medical business, you’re in luck. This guide will be so valuable you’ll make hard copies out of it and hide them in multiple off-site locations. {{% /hook %}} 
+{{% hook %}} If you’re looking to market your medical business, you’re in luck. This guide will be so valuable you’ll make hard copies out of it and hide them in multiple off-site locations. {{% /hook %}}
 
 <!--more-->
 
@@ -73,7 +73,7 @@ Not only that, but branding can increase your brand preference (BP). Which is a 
 
 It measures to which extent purchasing decisions are made based on the attachment and loyalty to your brand rather than the price, convenience, or regardless of the alternatives.
 
-If you’d like to know the actionable step-by-step process to building a healthcare brand, check out our free [healthcare branding](https://unnus.com/healthcare-branding/) guide.
+If you’d like to know the actionable step-by-step process to building a healthcare brand, check out our free [healthcare branding](https://unnus.com/charismatic-medical-brand/) guide.
 
 ## 2) Positioning: To blend in or to differentiate
 
@@ -364,7 +364,7 @@ According to a recent marketing report Animoto Company, video ads were the numbe
 
 While video ads take more time to produce than text-based ads, they offer higher ROI and a skyrocketing engagement rate. In addition, your campaigns are 69% more likely to be consumed by your patients in a video format than they are in a text.
 
-A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised. It's the best example of great [healthcare advertising](https://unnus.com/medical/healthcare-advertising/). 
+A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised. It's the best example of great [healthcare advertising](https://unnus.com/medical/healthcare-advertising/).
 
 {{< youtube c4Jzb99Bpd0>}}
 
