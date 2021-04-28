@@ -4,9 +4,9 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
+downloads = "https://drive.google.com/drive/folders/1hKob7BE_Qcj487NS2EL0AYyxVMYOwKMq?usp=sharing"
 featImg = "/assets/images/0-1.jpg"
 featImgThumb = "/assets/images/0-1.jpg"
-downloads = "https://drive.google.com/drive/folders/1hKob7BE_Qcj487NS2EL0AYyxVMYOwKMq?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
@@ -101,6 +101,8 @@ Now, with that out of the way, let’s dive into the strategy of how to go about
 
 ## Brand Differentiation Workshop
 
+**Note**: You can access the workshop by [clicking here](https://miro.com/app/board/o9J_lUESbeA=/) 
+
 The goal of the Brand Differentiation Workshop is to single your brand out of the sea of sameness. We’re going to implement 3 exercises that will focus on finding AND highlighting your brand’s unique differentiator. A differentiator that sets you apart and can’t be easily mimicked.
 
 This workshop strategy consists of 3 exercises:
@@ -111,7 +113,6 @@ This workshop strategy consists of 3 exercises:
 
 ## 1) Audience Persona Exercise ⏰ \[15-25 minute\]
 
-  
 Knowing your target audience lets you connect and align yourself with their needs. And for this, we’ll use audience persona exercise; Where we stress your ideal patients and their core characteristics.
 
 The goal here is to get an overview of what makes your target audience tick. You’ll explore what they like, fear, and desire. Knowing this we’ll be key to finding a differentiator that matches their values.
@@ -136,7 +137,6 @@ The audience persona diagram consists of 4 quadrants:
 4. **Desires:**
    * What do they desire? What’s the perfect scenario they want when they visit you?
 
-  
 You and your team start answering the following questions with respect to their quadrant:
 
 * For **goals**: What objectives they have as it relates to your offering?
@@ -150,7 +150,6 @@ Once you’ve done that, use a different color sticky note on the middle circle 
 
 The result should look like this:
 
-  
 ![](/assets/images/5.jpg)
 
 Once you’re done, discuss the finding with your team and move on to the next step.
