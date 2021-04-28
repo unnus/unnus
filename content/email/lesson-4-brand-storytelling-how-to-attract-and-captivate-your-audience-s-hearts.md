@@ -4,9 +4,9 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
+downloads = "https://drive.google.com/drive/folders/1C1HRN4iFANi32xfaDndez4bY7OWoW0n0?usp=sharing"
 featImg = "/assets/images/0-3.jpg"
 featImgThumb = "/assets/images/0-3.jpg"
-downloads = "https://drive.google.com/drive/folders/1C1HRN4iFANi32xfaDndez4bY7OWoW0n0?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
@@ -70,7 +70,7 @@ This refers to the core aspects of your brand. The credo of your medical busines
 
 _![](/assets/images/3-1.jpg)_
 
-Core Messages are all you need your patient to know about your brand, how it can benefit them, and what makes it **different**. These messages will not focus on your brand per se but on what it can do for your audience. 
+Core Messages are all you need your patient to know about your brand, how it can benefit them, and what makes it **different**. These messages will not focus on your brand per se but on what it can do for your audience.
 
 In particular, core messages contain the following:
 
@@ -165,7 +165,6 @@ Or if your brand is a maternity hospital and your target audience are mothers-to
 
 Now, all that is left is selecting what part of the story we’re going to tell next and in what medium or platform the story will be distributed.
 
-  
 ![](/assets/images/14.jpg)
 
 ## Brand Storytelling Workshop
@@ -176,7 +175,6 @@ This workshop is the practical step-by-step process to what we’ve been discuss
 
 ## 1) Brand Messages Exercise ⏰ \[15-25 minute\]
 
-  
 ![](/assets/images/15.png)
 
 In this exercise, we’re going to craft your brand’s Core Messages (CM) and Secondary Messages (SM). These messages will be then used in the communication framework to convey your brand’s characteristics and its differentiators.
@@ -189,7 +187,6 @@ Let’s dive into the exercise.
 
 ### 🔴 Action Step: Fill in the Brand Messages Table
 
-  
 To start the exercise, explain to the team the goal of the Brand Messages and follow the next steps:
 
 1. **In the Core Messages column:**
@@ -232,8 +229,8 @@ After that, follow the next steps:
    * Elaborate on these answer by forming a mini-story out of these answers
    * Derive micro-stories out of the mini-story in the Story Block.
 
-Here are some examples:  
-  
+Here are some examples:
+
 ![](/assets/images/18-1.png)
 
 Once you’re done, it’s time to use these story blocks and your brand Messages to market your medical business.
@@ -258,7 +255,7 @@ Now everything is set and done, you can keep selecting what part of the story yo
 
 ### Last step: Store this info
 
-Since this workshop included a lot of information, you must save them for later use or for your team to do the marketing. And for this, you can access our free storytelling worksheets. These worksheets will help you save the information about your brand storytelling and core messages. This way they are more accessible and easy to hand out.
+Since this workshop included a lot of information, you must save them for later use or for your team to do the marketing. And for this, you can access our free [storytelling worksheets](https://drive.google.com/drive/folders/1JFZrQHrYzoXQaZE3cpbKEWBVEqiqYGk8?usp=sharing). These worksheets will help you save the information about your brand storytelling and core messages. This way they are more accessible and easy to hand out.
 
 ## What’s Next?
 
