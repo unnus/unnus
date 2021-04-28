@@ -4,9 +4,9 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
+downloads = "https://drive.google.com/drive/folders/139dBt-tHa9Tgnb7_GrDBus5MBt7PXkto?usp=sharing"
 featImg = "/assets/images/0-5.jpg"
 featImgThumb = "/assets/images/0-5.jpg"
-downloads = "https://drive.google.com/drive/folders/139dBt-tHa9Tgnb7_GrDBus5MBt7PXkto?usp=sharing"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "12"
@@ -101,7 +101,7 @@ You probably know other medical professionals, so would you mind sharing this fr
 
 I'd love for as many healthcare businesses as possible to learn about this stuff - because, let's face it, a rising tide lifts all boats. The more people who practice these strategies, the more likely we all are to succeed.
 
-Here's the link for "The Charismatic Medical Brand": \[insert link\]
+Here's the link for The Charismatic Medical Brand Course => [https://unnus.com/charismatic-medical-brand/](https://unnus.com/charismatic-medical-brand/ "https://unnus.com/charismatic-medical-brand/")
 
 Thank you. I appreciate it.
 
@@ -113,6 +113,6 @@ In a few days, I'll be sending you a few additional goodies AND I'll be providin
 
 Stay tuned.
 
-I'm looking forward to getting that all over to you in a few days, but for the time being I'd love to hear your review (I read and reply to every email I get) and I'd greatly appreciate you [sharing this course](#) with your friends and peers.
+I'm looking forward to getting that all over to you in a few days, but for the time being I'd love to hear your review (I read and reply to every email I get) and I'd greatly appreciate you [sharing this course](https://unnus.com/charismatic-medical-brand/) with your friends and peers.
 
 To your success.
