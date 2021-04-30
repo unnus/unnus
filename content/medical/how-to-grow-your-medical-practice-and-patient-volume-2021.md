@@ -125,4 +125,68 @@ That’s about 112,000+ monthly website visitors and potential patients.
 
 Online advertising gets a lot of criticism for being intrusive, annoying, and hinders the digital experience. But what if your ads appear only when people need them the most? What if you can pop up in front of your patient the moment they search or look for clinical expertise? This is exactly what Google Adwords is for. It’s an online advertising platform that allows advertisers to bid on their website to appear on the first search result when someone searches for a particular query.
 
-For example, if you’re a dental clinic in New York, and someone searches “Dentist near NYC”, your website’s booking page along with office direction will appear on the first page:![](/assets/images/3-google-adwords.png)
+For example, if you’re a dental clinic in New York, and someone searches “Dentist near NYC”, your website’s booking page along with office direction will appear on the first page:
+
+![](/assets/images/3-google-adwords.png)
+
+And when someone clicks on your ad, you get charged a certain amount of dollars for that click depending on how valuable the keyword is. You pay per click.
+
+Unlike SEO, Google Adwords is a much faster avenue for patient acquisition and comparatively cheaper than traditional TV/Print advertising.
+
+## 7) Attract your ideal patients with Social Media Ads
+
+Unlike Google Adwords, where patients find you in Google search, Social Media ads let _you_ find patients. Social ads allow you to target your ideal patient, within the ideal geographic and with the ideal profile information. Ad platforms like Facebook ads offer a highly targeted audience that you can promote your services to. It’s like cherry-picking who you want to work with and inviting them to your medical office. Like Google Adwords, this method is also cost-effective and result-driven.
+
+And the great thing about social ads is their ease of use. For example, you can create a normal Facebook post and then promote it through the Facebook Ads Platform. Your post can be a video or a link to your website booking page where patients can book appointments with you.
+
+  
+![](/assets/images/dentist-facebook-ad-example-1.png)
+
+## 8) Host educational patient webinars
+
+With the current situation of Covid, hosting a physical event might not be a viable option for many businesses. However, there’s a much flexible and safer option: Webinars.
+
+Webinars are virtually-held seminars that aim to provide value through educating the attendees on certain subjects or problems. The end-goal of this strategy is threefold:
+
+* To trigger action from the audience to purchase your care services.
+* To inform people about their health issues and how they can solve them
+* To build credibility and authority for your medical clinic
+
+The great thing about webinars is that they can be conducted from the leisure of your home or office. And the cost of hosting them is cheap compared to live seminars. It’s a great way to educate people on their health and start driving patients to your doorsteps.
+
+## 9) Increase your referrals using this podcast strategy
+
+With the booming of podcasts in the last 5 years, one out of every five adults in the USA is listening to podcasts regularly, according to Pew Research Center.
+
+![](/assets/images/podcast-stats-1.jpg)
+
+This huge boost in popularity made podcasting one of the best marketing channels to reach audiences from a variety of genres. Not only that, but it’s by far the easiest medium to consume. You can listen to an episode while jogging, washing the dishes, or on your way to work. This consumable trait shapes a huge opportunity for businesses to reach their audience with relative ease.
+
+But podcasting is especially suitable for medical brands and here’s why:
+
+* It doesn’t require too much time to produce and publish compared to other means of promoting your brand
+* Podcasting offers your potential patients a feel for the brand through audible content
+* It’s cost-effective and cheap to host
+* Podcasting is easier for patients to consume and interact with your brand.
+
+![](/assets/images/35-dental-podcasts-examples-2.PNG)
+
+## 10) Cross-promotion strategy
+
+A rising tide lifts all boats. And the same is true in partnerships. Cross-promotion strategy is about partnering with non-competing medical brands to better serve the same patient. Let’s say that you’re a cosmetic dental clinic and your partner is a plastic surgeon, you can both partner up to serve the image-aware people and enhance their health appearance.
+
+Here are some of the tactics involves in this strategy:
+
+* **Using recommendation letters**
+  * Here each participant sends a letter that recommends the other participant services and how the patients can benefit from the services of the other provider.
+* **Email Cross Promotion**
+  * Here is where the partners send email blasts to their subscribers promoting the other partner’s service and thus reaching different audiences.
+* **Launching a mutual-purpose campaign**
+  * A mutual purpose campaign (AKA, cause marketing) is a marketing campaign where both parties unite to launch a campaign that highlights what the two partners share in common. Maybe you and your partner are committed to reducing health risks in your community? Or perhaps you both want to raise awareness of certain diseases? If so, a campaign that promotes both parties while shedding light on what you have in common can expose your clinic to the other’s audience.
+* **Referral partnerships**
+  * This tactic aims to leverage your patient base and refer them to other medical doctors in exchange for a referral back to your clinic. It might take time to establish the right partner for this but once you settle down on 2 to 6 partners, it’ll form a steady patient flow for your clinic.
+
+## The “secret” to a guaranteed growth for your medical clinic
+
+  
+Growing your medical clinic is a process that takes time and [a lot of planning](https://unnus.com/medical/healthcare-strategic-planning/). But the common mistake most medical business owners fall into is to focus on marketing solely and disregard the internal dynamic of the practice. Scaling up your clinic requires a streamlined process, retaining more patients and spotting the hard-to-pinpoint issues. So before you spend all your budget on advertising, make sure that you automated the manual tasks, reduced the unnecessary procedures, and speed up your operations.
