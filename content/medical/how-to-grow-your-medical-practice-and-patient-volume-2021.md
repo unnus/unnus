@@ -18,7 +18,11 @@ title = "How To Grow Your Medical Practice (And Patient Volume) 2021"
 twitterHandle = "#"
 
 +++
-{{% hook %}}Today, I'll share with you battle-tested tips that’ll help you reignite your practice’s growth and catapult it out of the plateau phase. {{% /hook %}}
+{{% hook %}}Today, I'll share with you battle-tested tips that’ll help you reignite your practice’s growth and catapult it out of the plateau phase. {{% /hook %}} 
+
+<!--more-->
+
+***
 
 Let’s face it, running your medical clinic is hard as it is, let alone growing it. Scaling up your practice requires a different approach and each one is taking your attention. Do you focus on the clinical or the business side? How much time and money should you allocate to grow your medical business? What tactics to prioritize and what strategies to skip past?
 
