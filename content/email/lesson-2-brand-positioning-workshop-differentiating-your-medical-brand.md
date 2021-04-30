@@ -101,7 +101,7 @@ Now, with that out of the way, let’s dive into the strategy of how to go about
 
 ## Brand Differentiation Workshop
 
-**Note**: You can access the workshop by [clicking here](https://miro.com/app/board/o9J_lUESbeA=/) 
+**Note**: You can access the workshop by [clicking here](https://miro.com/app/board/o9J_lUESbeA=/)
 
 The goal of the Brand Differentiation Workshop is to single your brand out of the sea of sameness. We’re going to implement 3 exercises that will focus on finding AND highlighting your brand’s unique differentiator. A differentiator that sets you apart and can’t be easily mimicked.
 
@@ -217,7 +217,7 @@ Here are examples from our clients to take inspiration from:
 
 ![](/assets/images/10-1.jpg)
 
-![](/assets/images/11-1.jpg)
+![](/assets/images/positioning.jpg)
 
 ![](/assets/images/12-1.png)
 
