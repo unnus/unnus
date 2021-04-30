@@ -6,7 +6,6 @@ authorBio = "Sara Seirawan, Head of content, manages unnus's content distributio
 category = "healthcare-marketing"
 date = 2021-04-29T23:00:00Z
 description = "If you're looking to attract more patients, expand your medical practice, this article is for you. I'll share with you 10 tips to grow your clinic out of the plateau phase"
-draft = true
 featImg = "/assets/images/featured-0-0.jpg"
 featImgThumb = "/assets/images/featured-0-0.jpg"
 linkedinHandle = "#"
