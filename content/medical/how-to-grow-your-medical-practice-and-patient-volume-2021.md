@@ -127,11 +127,11 @@ Online advertising gets a lot of criticism for being intrusive, annoying, and hi
 
 For example, if you’re a dental clinic in New York, and someone searches “Dentist near NYC”, your website’s booking page along with office direction will appear on the first page:
 
-![](/assets/images/3-google-adwords.png)
+![](/assets/images/ax.jpg)
 
 And when someone clicks on your ad, you get charged a certain amount of dollars for that click depending on how valuable the keyword is. You pay per click.
 
-![](/assets/images/3-google-adwords.png)
+![](/assets/images/3-google-adwords.png)![](/assets/images/xgoogle-adwords.jpg)
 
 Unlike SEO, Google Adwords is a much faster avenue for patient acquisition and comparatively cheaper than traditional TV/Print advertising.
 
@@ -141,7 +141,6 @@ Unlike Google Adwords, where patients find you in Google search, Social Media ad
 
 And the great thing about social ads is their ease of use. For example, you can create a normal Facebook post and then promote it through the Facebook Ads Platform. Your post can be a video or a link to your website booking page where patients can book appointments with you.
 
-  
 ![](/assets/images/dentist-facebook-ad-example-1.png)
 
 ## 8) Host educational patient webinars
@@ -190,5 +189,4 @@ Here are some of the tactics involves in this strategy:
 
 ## The “secret” to a guaranteed growth for your medical clinic
 
-  
 Growing your medical clinic is a process that takes time and [a lot of planning](https://unnus.com/medical/healthcare-strategic-planning/). But the common mistake most medical business owners fall into is to focus on marketing solely and disregard the internal dynamic of the practice. Scaling up your clinic requires a streamlined process, retaining more patients and spotting the hard-to-pinpoint issues. So before you spend all your budget on advertising, make sure that you automated the manual tasks, reduced the unnecessary procedures, and speed up your operations.
