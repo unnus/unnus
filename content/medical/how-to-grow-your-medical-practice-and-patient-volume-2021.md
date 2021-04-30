@@ -131,6 +131,8 @@ For example, if you’re a dental clinic in New York, and someone searches “De
 
 And when someone clicks on your ad, you get charged a certain amount of dollars for that click depending on how valuable the keyword is. You pay per click.
 
+![](/assets/images/3-google-adwords.png)
+
 Unlike SEO, Google Adwords is a much faster avenue for patient acquisition and comparatively cheaper than traditional TV/Print advertising.
 
 ## 7) Attract your ideal patients with Social Media Ads
