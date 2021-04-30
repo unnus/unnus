@@ -23,7 +23,6 @@ twitterHandle = "#"
 
 Let’s face it, running your medical clinic is hard as it is, let alone growing it. Scaling up your practice requires a different approach and each one is taking your attention. Do you focus on the clinical or the business side? How much time and money should you allocate to grow your medical business? What tactics to prioritize and what strategies to skip past?
 
-  
 Without wasting too much time, let’s dive right ahead.
 
 ## 1) Streamline your appointments and reduce unnecessary administrative tasks.
@@ -34,7 +33,7 @@ Growing your clinic isn’t a matter of increasing patient volume alone. One of 
 
 According to a recent study, [51% ](https://nrchealth.com/wp-content/uploads/2018/12/2019-Healthcare-Consumer-Trends-Report.pdf)of all patients say that convenient and easy to access care is the most important factor in their decision-making. A staggering 80% of patients say that they select providers based on convenience factor alone. This is no surprise. People are busier than ever and the last thing they want is to get stifled by inefficient scheduling processes.
 
-Facilitating the appointments for your patients will lower the “friction” of having to visit you. This will lead to speedier scheduling, fewer complaints, efficient processes, and more retained patients. And a great way to streamline your appointment is to use online medical scheduling software.
+Facilitating the appointments for your patients will lower the “friction” of having to visit your office. This will lead to speedier scheduling, fewer complaints, efficient processes, and more retained patients. And a great way to streamline your appointment is to use online medical scheduling software.
 
 Online scheduling offers unmatched advantages when it comes to increasing patient convenience. It saves you the time of having to follow up with people for additional appointments and reduces the burden of the administrative tasks for your staff.
 
@@ -92,12 +91,10 @@ Each email in this automated email sequence will provide value to your would-be 
 
 The following illustration is an example of how email subscribers convert to loyal-patient:
 
-  
 ![](/assets/images/healthcare-email-marketing-example.jpg)
 
 The great thing about this strategy is it’s an automated process. It works 24/7 and generates patients for your clinic on autopilot.
 
-  
 **4) Building a Strong Brand Name for your clinic**
 
 With the skyrocketing increase of care services and the surge of DIY healthcare brands, providers are experiencing an unprecedented competitive environment. This flood of brands has made a big impact when it comes to the patient decision process. Now the patient choice has expanded and people are pickier than ever. This leaves medical business owners fist-fighting for the patient’s attention by cutting prices and brawling for patient volume.
@@ -111,3 +108,21 @@ Building a strong medical brand is about providing patients with razor-sharp cla
 For example, maybe you prioritize patient safety and invest in extra precautions and cleanliness of your office. You can build your brand about safety and how you’re brand is **the only medical clinic that offers the safest care.** This positioning will resonate with safety-minded people and your brand will turn into a risk-free choice. Or maybe you want to claim the most convenient medical clinic by providing same-day care and a no-appointment policy.
 
 Whatever your unique differentiator is, make sure it’s not overly used and is valuable to your patient. This way you don’t have to compete because you provide value for your patients that others can’t fulfill.
+
+## 5) Implement an SEO Strategy
+
+With [83% of internet users ](https://www.pewresearch.org/internet/2013/01/15/health-online-2013/)searching online for health-related information before visiting a care facility, it's a huge opportunity for you to establish a strong digital presence. Helping people through online content and providing them with useful information will rank your site high on Google search and create traction towards your brand. And a great strategy to achieve this is Search Engine Optimization (SEO).
+
+SEO is a strategy that aims at ranking your clinic’s website high in the search result by creating useful blog articles, informational videos, and valuable content. By ranking on the first page for patients queries, you’ll passively gain website visitors that you can then convert into patients.
+
+One of the best examples of medical businesses using this strategy is Orthodontics Limited. They help people with orthodontic-related issues solve these problems and have a better dental appearance through their blog. And as a result, they rank for popular searches like “Causes of bad breath” and “how to use rubber bands for braces”. This alone gained them huge amounts of traffic each month.
+
+![](/assets/images/2-seo-example-to-grow-medical-practice.jpg)
+
+That’s about 112,000+ monthly website visitors and potential patients.
+
+## 6) Leverage Google Adwords
+
+Online advertising gets a lot of criticism for being intrusive, annoying, and hinders the digital experience. But what if your ads appear only when people need them the most? What if you can pop up in front of your patient the moment they search or look for clinical expertise? This is exactly what Google Adwords is for. It’s an online advertising platform that allows advertisers to bid on their website to appear on the first search result when someone searches for a particular query.
+
+For example, if you’re a dental clinic in New York, and someone searches “Dentist near NYC”, your website’s booking page along with office direction will appear on the first page:![](/assets/images/3-google-adwords.png)
