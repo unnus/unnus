@@ -65,14 +65,14 @@ A sales funnel is a marketing model that tracks each step of the patient's journ
 
 It’s divided into 4 main stages:
 
-* **Awareness Stage**
-  * When a would-be patient first knows about your clinic
-* **Interest Stage**
-  * When potential patients are interested in your content (e,g: emails, blog articles, or videos)
-* **Evaluation Stage**
-  * When would-be patients are evaluating their choices
-* **Purchase Stage**
-  * When prospects become patients after booking an appointment with you.
+1. **Awareness Stage**
+   * When a would-be patient first knows about your clinic
+2. **Interest Stage**
+   * When potential patients are interested in your content (e,g: emails, blog articles, or videos)
+3. **Evaluation Stage**
+   * When would-be patients are evaluating their choices
+4. **Purchase Stage**
+   * When prospects become patients after booking an appointment with you.
 
 ![](/assets/images/26-sales-funnel-in-healthcare.jpg)
 
@@ -177,14 +177,14 @@ A rising tide lifts all boats. And the same is true in partnerships. Cross-promo
 
 Here are some of the tactics involves in this strategy:
 
-* **Using recommendation letters**
-  * Here each participant sends a letter that recommends the other participant services and how the patients can benefit from the services of the other provider.
-* **Email Cross Promotion**
-  * Here is where the partners send email blasts to their subscribers promoting the other partner’s service and thus reaching different audiences.
-* **Launching a mutual-purpose campaign**
-  * A mutual purpose campaign (AKA, cause marketing) is a marketing campaign where both parties unite to launch a campaign that highlights what the two partners share in common. Maybe you and your partner are committed to reducing health risks in your community? Or perhaps you both want to raise awareness of certain diseases? If so, a campaign that promotes both parties while shedding light on what you have in common can expose your clinic to the other’s audience.
-* **Referral partnerships**
-  * This tactic aims to leverage your patient base and refer them to other medical doctors in exchange for a referral back to your clinic. It might take time to establish the right partner for this but once you settle down on 2 to 6 partners, it’ll form a steady patient flow for your clinic.
+1. **Using recommendation letters**
+   * Here each participant sends a letter that recommends the other participant services and how the patients can benefit from the services of the other provider.
+2. **Email Cross Promotion**
+   * Here is where the partners send email blasts to their subscribers promoting the other partner’s service and thus reaching different audiences.
+3. **Launching a mutual-purpose campaign**
+   * A mutual purpose campaign (AKA, cause marketing) is a marketing campaign where both parties unite to launch a campaign that highlights what the two partners share in common. Maybe you and your partner are committed to reducing health risks in your community? Or perhaps you both want to raise awareness of certain diseases? If so, a campaign that promotes both parties while shedding light on what you have in common can expose your clinic to the other’s audience.
+4. **Referral partnerships**
+   * This tactic aims to leverage your patient base and refer them to other medical doctors in exchange for a referral back to your clinic. It might take time to establish the right partner for this but once you settle down on 2 to 6 partners, it’ll form a steady patient flow for your clinic.
 
 ## The “secret” to a guaranteed growth for your medical clinic
 
