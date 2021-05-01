@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "8"
 slug = "/how-to-grow-medical-practice"
 socialThumbnail = "/assets/images/featured-0-0.jpg"
-table_of_content = ["3-integrate-an-email-marketing-funnel", "2-use-patient-journey-mapping-to-enhance-the-patient-experience", "1-streamline-your-appointments-and-reduce-unnecessary-administrative-tasks"]
+table_of_content = ["1-streamline-your-appointments-and-reduce-unnecessary-administrative-tasks", "2-use-patient-journey-mapping-to-enhance-the-patient-experience", "3-integrate-an-email-marketing-funnel", "4-building-a-strong-brand-name-for-your-clinic", "5-implement-an-seo-strategy", "6-leverage-google-adwords", "7-attract-your-ideal-patients-with-social-media-ads", "8-host-educational-patient-webinars", "9-increase-your-referrals-using-this-podcast-strategy", "10-cross-promotion-strategy"]
 title = "How To Grow Your Medical Practice (And Patient Volume) 2021"
 twitterHandle = "#"
 
