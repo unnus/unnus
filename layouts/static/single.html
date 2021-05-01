@@ -24,6 +24,10 @@
 	  {{ partial "headers/healthcare-branding-header.html" . }}
 	{{ end }}
 
+	{{ if eq $.Page.Params.which "brand-strategy" }}
+	  {{ partial "headers/brand-strategy-header.html" . }}
+	{{ end }}
+
 	{{ if eq $.Page.Params.which "case-studies" }}
 	  {{ partial "headers/case-studies-header.html" . }}
 	{{ end }}
