@@ -13,12 +13,12 @@ page = "medical/single.html"
 readingTime = "8"
 slug = "/how-to-grow-medical-practice"
 socialThumbnail = "/assets/images/featured-0-0.jpg"
-table_of_content = []
+table_of_content = ["3-integrate-an-email-marketing-funnel", "2-use-patient-journey-mapping-to-enhance-the-patient-experience", "1-streamline-your-appointments-and-reduce-unnecessary-administrative-tasks"]
 title = "How To Grow Your Medical Practice (And Patient Volume) 2021"
 twitterHandle = "#"
 
 +++
-{{% hook %}}Today, I'll share with you battle-tested tips that’ll help you reignite your practice’s growth and catapult it out of the plateau phase. {{% /hook %}} 
+{{% hook %}}Today, I'll share with you battle-tested tips that’ll help you reignite your practice’s growth and catapult it out of the plateau phase. {{% /hook %}}
 
 <!--more-->
 
@@ -98,7 +98,7 @@ The following illustration is an example of how email subscribers convert to loy
 
 The great thing about this strategy is it’s an automated process. It works 24/7 and generates patients for your clinic on autopilot.
 
-**4) Building a Strong Brand Name for your clinic**
+## 4) Building a Strong Brand Name for your clinic
 
 With the skyrocketing increase of care services and the surge of DIY healthcare brands, providers are experiencing an unprecedented competitive environment. This flood of brands has made a big impact when it comes to the patient decision process. Now the patient choice has expanded and people are pickier than ever. This leaves medical business owners fist-fighting for the patient’s attention by cutting prices and brawling for patient volume.
 
