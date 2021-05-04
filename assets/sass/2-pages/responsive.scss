@@ -1795,7 +1795,7 @@
 	}
 }
 
-/* Responsive unnu Magazine Home PAGE */
+/* Responsive unnus Magazine Home PAGE */
 
 // Small 576px~
 // Medium 768px~
@@ -1938,4 +1938,39 @@
 		margin-top: 75%
 	}	
 
+}
+
+
+/* Responsive unnus Brand Strategy page */
+
+// Small 576px~
+// Medium 768px~
+// Large 992px~
+// Extra Large 1200px~
+// Mega large 1500~1600+
+
+@media (max-width: 992px){
+	.brand-strategy-header .second-btn{
+		margin-left:0 !important;
+		margin-top:10px !important;
+	}
+}
+
+
+@media (max-width: 794px){
+	.brand-strategy-holder .first-intro{
+		width:550px;
+	}
+}
+
+@media (max-width: 576px){
+	.brand-strategy-holder .first-intro{
+		width:450px;
+	}
+}
+
+@media (max-width: 450px){
+	.brand-strategy-holder .first-intro{
+		width:325px;
+	}
 }

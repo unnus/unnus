@@ -81,13 +81,9 @@ Here are some examples of feature-driven messages vs meaningful messages:
 
 ## Brand DNA Workshop
 
-Now we understand why purposeful brands attract loyal patients, let’s go into how you’ll infuse meaningful attributes to your medical brand.
+We have a cognitive bias towards meaningful brands. We vouch for their success, we stay loyal and spread the gospel about them. That’s because they reflect our beliefs and reinforce our core characteristics.
 
-In this workshop, we’ll go over the step-by-step process of how to transform your practice to be purpose-oriented. Brand DNA workshop consists of 4 branding exercises that focus on infusing purpose to your brand.
-
-The goal here is to uncover your brand’s **Why** (the reason it exists) and _then_ articulate it in a novel manner. A manner that will resonate with your target patient.
-
-You can conduct these exercises with your team online or on-site. I'll use the virtual aspect for the sake of convenience but it should be the same process in a physical location.
+In this lesson, we’ll go through how you’ll infuse a dash of “meaningful substance” to your medical business and how that will lead you to attract cult-like followings and a loyal patient base.
 
 ### Quick Prep:
 

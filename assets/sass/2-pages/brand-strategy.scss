@@ -1,0 +1,37 @@
+.brand-strategy-holder{
+	.first-intro{
+		display: flex;
+		flex-direction:column;
+		text-align: center;
+		width:750px;
+		margin:0 auto;
+	}
+
+	.workshop-holder{
+		display: flex;
+		flex-direction:column;
+		text-align: center;
+		.title-holder{
+			width:750px;
+			margin: 0 auto;
+			margin-bottom: 50px;
+		}
+		.workshop-content{
+			display: flex;
+			.text-workshop{
+				flex:.5;
+				text-align: left;
+		    padding: 30px;
+		    ul{
+  		    font-size: 1.06em !important;
+		    }
+			}
+			.image-workshop{
+				flex:.5; 				
+				img{
+					width:100%;
+				}
+			}
+		}
+	}
+}
