@@ -31,4 +31,6 @@ Navigate using the content table on your right to jump to a category, or keep re
 
 These are the most interesting Chiropractic stats we think you should know.
 
-{{% stat %}} **1)** A clinical comparative trial conducted at three military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief and a greater reduction in disability than medical care alone. \[3\] {{% /stat %}}
+{{% stat %}} **1)** A clinical comparative trial conducted at three military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief and a greater reduction in disability than medical care alone. \[3\] {{% /stat %}}  
+  
+{{% stat %}} **1)** Three in four people who saw a chiropractor in the last year (77%) described chiropractic care as “very effective."  \[15\] {{% /stat %}}
