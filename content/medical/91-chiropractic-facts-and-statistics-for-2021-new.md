@@ -1,7 +1,7 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = ""
-authorAvatarTop = ""
+authorAvatarBottom = "/assets/images/blog/authors/cc.png"
+authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = ""
 category = "healthcare-statistics"
 date = ""
