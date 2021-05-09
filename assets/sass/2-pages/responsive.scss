@@ -570,6 +570,19 @@
 }
 
 @media (max-width: 576px){
+	.post-body{
+		.stat-component{
+			flex-direction:column;
+			.text-holder{
+				margin-top:22px;
+				&:after{
+			    top: -11px;
+			    left: 5%;
+			    box-shadow: -15px -20px 20px 0 rgba(0, 0,0, 0.12);
+				}
+			}
+		}
+	}
 		.post-details{
 			flex-direction:column;
 		}
