@@ -19,7 +19,7 @@ title = "91 Chiropractic Facts And Statistics For 2021 [NEW]"
 twitterHandle = ""
 
 +++
-{{% hook %}} If you are curious about the state of chiropractic care in 2021, look no further. {{% /hook %}}
+{{% hook %}} Today’s you’ll learn about spine-chilling figures and facts regarding chiropractic care in 2021.. {{% /hook %}}
 
 ***
 
