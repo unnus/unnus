@@ -31,4 +31,4 @@ Navigate using the content table on your right to jump to a category, or keep re
 
 These are the most interesting Chiropractic stats we think you should know.
 
-{{% stat %}} **1)** If you are curious about the state of chiropractic care in 2021, look no further. {{% /stat %}}
+{{% stat %}} **1)** A clinical comparative trial conducted at three military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief and a greater reduction in disability than medical care alone. \[3\] {{% /stat %}}
