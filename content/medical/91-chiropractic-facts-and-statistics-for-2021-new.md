@@ -19,5 +19,6 @@ title = "91 Chiropractic Facts And Statistics For 2021 [NEW]"
 twitterHandle = ""
 
 +++
-
 {{% Stat %}} Important observation here {{% /Stat %}}
+
+Important observationImportant observationImportant observation
