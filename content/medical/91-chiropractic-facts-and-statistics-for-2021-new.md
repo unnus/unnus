@@ -57,4 +57,23 @@ These are the most interesting Chiropractic stats we think you should know.
 
 {{% stat %}} **11)** 35% of the survey respondents said they didn't visit a chiropractor in the last year because the chiropractic care they received earlier was effective and they no longer need it.{{% /stat %}}
 
-{{% stat %}} **12)** Chiropractors are registered as physician-level providers in the majority of states.{{% /stat %}}
+{{% stat %}} **12)** Chiropractors are registered as physician-level providers in the majority of states. {{% /stat %}}
+
+## Chiropractic Patients Statistic
+
+Now, let’s go through some of the interesting stats when it comes to the chiropractic patients:
+
+  
+{{% stat %}} **13)** 3 in 4 people who saw a chiropractor (77%) described the experience as “very effective." {{% /stat %}}
+
+{{% stat %}} **14)** Women are twice as likely to suffer from headaches or migraines than men. {{% /stat %}}
+
+{{% stat %}} **15)** Treatment for low-back pain by a chiropractor costs 40% less than that of a medical doctor {{% /stat %}}
+
+![](/assets/images/3-2.png)
+
+{{% stat %}} **16)** 10% of the world’s population suffers from lower back pain. {{% /stat %}}
+
+{{% stat %}} **17)** 29% of Americans think that stress is the cause of back pain. {{% /stat %}}
+
+{{% stat %}} **18)** More than 100 million back injuries are sustained in the workplace annually. {{% /stat %}}
