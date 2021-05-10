@@ -34,3 +34,26 @@ These are the most interesting Chiropractic stats we think you should know.
 {{% stat %}} **1)** chiropractors treat more than 35 million Americans annually. {{% /stat %}}
 
 {{% stat %}} **2)** when it comes to back pain treatments,  Chiropractic is more effective than medications, massage, yoga, pilates, and OTC drugs. {{% /stat %}}
+
+{{% stat %}} **3)** Replacing doctor visits with chiropractor visits for back pain can save Medicare $83.5 million annually. {{% /stat %}}
+
+{{% stat %}} **4)** visiting a chiropractor regularly reduces your pharmaceutical costs by 85%.{{% /stat %}}
+
+![](/assets/images/1-1.png)
+
+{{% stat %}} **5)** You need to complete a min of 4,200 hours of classroom, lab, and clinical internships during a 4-year doctoral program to become a chiropractor.{{% /stat %}}
+
+{{% stat %}} **6)** Over one 100 million adjustments occur each day, globally.{{% /stat %}}
+
+{{% stat %}} **7)** You are 28 times less likely to perform spinal surgery if you visit a chiropractor rather than a surgeon.{{% /stat %}}
+
+{{% stat %}} **8)** Visiting a chiropractor reduces the likelihood of you having to visit a hospital by 60%.{{% /stat %}}
+
+{{% stat %}} **9)** Chiropractors are the highest-rated healthcare practitioner for low-back pain treatments. {{% /stat %}}
+
+{{% stat %}} **10)** The US chiropractic market is estimated to worth $15+ billion. {{% /stat %}}  
+![](/assets/images/2-1.png)
+
+{{% stat %}} **11)** 35% of the survey respondents said they didn't visit a chiropractor in the last year because the chiropractic care they received earlier was effective and they no longer need it.{{% /stat %}}
+
+{{% stat %}} **12)** Chiropractors are registered as physician-level providers in the majority of states.{{% /stat %}}
