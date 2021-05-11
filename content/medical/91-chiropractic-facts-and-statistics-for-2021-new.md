@@ -52,7 +52,7 @@ These are the most interesting Chiropractic stats we think you should know.
 
 {{% stat %}} **9)** Chiropractors are the highest-rated healthcare practitioner for low-back pain treatments. {{% /stat %}}
 
-{{% stat %}} **10)** The US chiropractic market is estimated to worth $15+ billion. {{% /stat }}
+{{% stat %}} **10)** The US chiropractic market is estimated to worth $15+ billion. {{% /stat %}}
 
 ![](/assets/images/2-1.png)
 
