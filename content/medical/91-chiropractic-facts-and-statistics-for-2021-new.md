@@ -291,3 +291,141 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 **\[21\]** => https://<span></span>nccih.nih.gov/research/results/spotlight/insurance-coverage-patterns
 
 ***
+
+**\[22\]** => https://<span></span>chiromt.biomedcentral.com/articles/10.1186/s12998-019-0255-x
+
+***
+
+**\[23\]** => https://<span></span>forbes.com/sites/andrewdepietro/2019/03/31/chiropractor-salary-state/
+
+***
+
+**\[24\]** => https://<span></span>webmd.com/pain-management/guide/chiropractic-pain-relief
+
+***
+
+**\[25\]** =>https://<span></span>ajmc.com/view/access-to-chiropractic-care-and-the-cost-of-spine-conditions-among-older-adults
+
+***
+
+**\[26\]** => https://<span></span>statista.com/statistics/450353/number-of-chiropractic-licenses-in-the-us/
+
+***
+
+**\[27\]** => https://<span></span>johnsonchiropracticpc.com/chiropractic-facts/
+
+***
+
+**\[28\]** => https://<span></span>acatoday.org/About/History-of-Chiropractic
+
+***
+
+**\[29\]** => https://<span></span>nbce.org
+
+***
+
+**\[30\]** =>https://<span></span>chiroone.com
+
+***
+
+**\[31\]** =>https://<span></span>en.wikipedia.org/wiki/History_of_chiropractic
+
+***
+
+**\[32\]** => Alcoa Family Chiropractic & Wellness Center
+
+***
+
+**\[33\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC2794701/
+
+***
+
+**\[34\]** => https://<span></span>escarpmentmagazine.ca/wellness/posture-and-spinal-hygiene-improves-brain-function/
+
+***
+
+**\[35\]** => https://<span></span>spineuniverse.com/treatments/chiropractic/chiropractic-spinal-adjustment-what-pop
+
+***
+
+**\[36\]** => https://<span></span>ncbi.nlm.nih.gov/pubmed/23720124
+
+***
+
+**\[37\]** => http://<span></span>foundation4chiroeducation.com/studies.php
+
+***
+
+**\[38\]** =>https://<span></span>nbce.org/about-nbce/chiropractic-care/
+
+***
+
+**\[39\]** => https://<span></span>pubmed.ncbi.nlm.nih.gov/24767958/
+
+***
+
+**\[40\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC2647084/
+
+***
+
+**\[41\]** => https://<span></span>nccih.nih.gov/health/spinal-manipulation-what-you-need-to-know
+
+***
+
+**\[42\]** => https://<span></span>chiroeco.com/125-years-of-chiropractic/
+
+***
+
+**\[43\]** => https://<span></span>acatoday.org/Patients/What-is-Chiropractic/Back-Pain-Facts-and-Statistics
+
+***
+
+**\[44\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4033140/
+
+***
+
+**\[45\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4033140/
+
+***
+
+**\[46\]** => https://<span></span>academic.oup.com/ptj/article/97/9/889/3884292
+
+***
+
+**\[47\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4153910/
+
+***
+
+**\[48\]** => https://<span></span>statista.com/statistics/757457/helpfulness-chiropractic-care-various-body-pains-us/
+
+***
+
+**\[49\]**=>https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4326543/
+
+***
+
+**\[50\]**=>https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4326543/
+
+***
+
+**\[51\]** => https://<span></span>nytimes.com/2020/09/04/well/live/ergonomics-work-from-home-injuries.html
+
+***
+
+**\[52\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC2786244/
+
+***
+
+**\[53\]** => https://<span></span>nccih.nih.gov/health/spinal-manipulation-what-you-need-to-know
+
+***
+
+**\[54\]** => The Medical Journal Spine Research
+
+***
+
+**\[55\]** => https://<span></span>ncbi.nlm.nih.gov/books/NBK92521/
+
+***
+
+**\[56\]** => https://<span></span>acatoday.org/Information-Graphics
