@@ -2,21 +2,20 @@
 author = "Sliman M. Baghouri"
 authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
-authorBio = ""
+authorBio = "Sliman M. Baghouri, co-founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-statistics"
-date = ""
-description = ""
-draft = true
-featImg = ""
-featImgThumb = ""
-linkedinHandle = ""
+date = 2021-05-10T23:00:00Z
+description = "You’ll learn about spine-chilling figures and facts regarding chiropractic care in 2021 in this guide"
+featImg = "/assets/images/stat-feature.jpg"
+featImgThumb = "/assets/images/stat-feature-2.jpg"
+linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
-readingTime = ""
-slug = ""
-socialThumbnail = ""
+readingTime = "7"
+slug = "/chiropractic-facts-statistics"
+socialThumbnail = "/assets/images/stat-feature-1.jpg"
 table_of_content = []
 title = "91 Chiropractic Facts And Statistics For 2021 [NEW]"
-twitterHandle = ""
+twitterHandle = "/@SlimanBaghouri"
 
 +++
 {{% hook %}} Today’s you’ll learn about spine-chilling figures and facts regarding chiropractic care in 2021. {{% /hook %}}
