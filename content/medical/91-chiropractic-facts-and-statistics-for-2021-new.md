@@ -208,4 +208,10 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ## Footnotes
 
-https://news.gallup.com/poll/194984/one-four-adults-sought-care-neck-back-pain-last-year.aspx?g_source=Well-Being&g_medium=newsfeed&g_campaign=tiles
+**\[1\]** =>  https://<span></span>news.gallup.com/poll/194984/one-four-adults-sought-care-neck-back-pain-last-year.aspx?g_source=Well-Being&g_medium=newsfeed&g_campaign=tiles
+
+***
+
+**\[2\]** =>  https://<span</span>www.consumerreports.org/cro/2012/04/alternative-treatments/index.htm
+
+***
