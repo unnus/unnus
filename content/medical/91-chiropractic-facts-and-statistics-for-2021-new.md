@@ -212,6 +212,18 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ***
 
-**\[2\]** =>  https://<span</span>www.consumerreports.org/cro/2012/04/alternative-treatments/index.htm
+**\[2\]** =>  https://<span></span>consumerreports.org/cro/2012/04/alternative-treatments/index.htm
+
+***
+
+**\[3\]** => Research by The Journal of the American Board of Family Medicine
+
+***
+
+**\[4\]** => https://<span></span>consumerreports.org/cro/2013/01/relief-for-your-aching-back/index.htm
+
+***
+
+**\[5\]**=> https://<span></span>acatoday.org/News-Publications/Newsroom/Key-Facts
 
 ***
