@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "7"
 slug = "/chiropractic-facts-statistics"
 socialThumbnail = "/assets/images/stat-feature-1.jpg"
-table_of_content = []
+table_of_content = ["top-chiropractic-statistic", "chiropractic-patients-statistic", "the-chiropractic-profession-facts-and-statistics", "interesting-and-fun-chiropractic-facts", "stats-about-disorders-chiropractors-treat", "stats-that-compare-chiropractic-care-to-medical-care", "chiropractic-statistics-by-demographic"]
 title = "65 Chiropractic Facts And Statistics For 2021 [NEW]"
 twitterHandle = "/@SlimanBaghouri"
 
