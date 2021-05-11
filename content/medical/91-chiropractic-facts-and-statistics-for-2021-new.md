@@ -233,3 +233,61 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 ***
 
 **\[7\]** => https://<span></span>acatoday.org/Education-Events/National-Chiropractic-Health-Month/Campaign-Toolkit/NCHM-Key-Facts-and-Figures
+
+***
+
+**\[8\]** => https://<span></span>pubmed.ncbi.nlm.nih.gov/17509435/
+
+***
+
+**\[9\]** => https://<span></span>pubmed.ncbi.nlm.nih.gov/17509435/
+
+***
+
+**\[10\]** => https://<span></span>ibisworld.com/united-states/market-research-reports/chiropractors-industry/
+
+***
+
+**\[11\]** => https://<span></span>statista.com/statistics/757473/main-reasons-not-visiting-chiropractor-us/
+
+***
+
+**\[12\]** => https://<span></span>acatoday.org/Education-Events/National-Chiropractic-Health-Month/Campaign-Toolkit/NCHM-Key-Facts-and-Figures
+
+***
+
+**\[13\]** =>  https://<span></span>news.gallup.com/poll/194984/one-four-adults-sought-care-neck-back-pain-last-year.aspx?g_source=Well-Being&g_medium=newsfeed&g_campaign=tiles
+
+***
+
+**\[14\]** => American Council On Science And Health
+
+***
+
+**\[15\]** => https://<span></span>renzechiro.com/wp-content/uploads/2019/11/Chiropractic_Saves_40_Percent_FEB11.pdf
+
+***
+
+**\[16\]** => The Lancet Journal
+
+***
+
+**\[17\]** => https://<span></span>statista.com/topics/4333/back-pain-in-the-us/
+
+***
+
+**\[18\]** => https://<span></span>news.leavitt.com/business-insurance/preventing-back-injuries
+
+***
+
+**\[19\]** => https://<span></span>acatoday.org/Patients/What-is-Chiropractic/Back-Pain-Facts-and-Statistics/Back-Pain-Facts-and-Statistics
+
+***
+
+**\[20\]** => https://<span></span>acatoday.org/Patients/What-is-Chiropractic/Back-Pain-Facts-and-Statistics/Back-Pain-Facts-and-Statistics
+
+***
+
+**\[21\]** => https://<span></span>nccih.nih.gov/research/results/spotlight/insurance-coverage-patterns
+
+***
