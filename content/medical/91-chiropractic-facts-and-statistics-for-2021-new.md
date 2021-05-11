@@ -20,6 +20,8 @@ twitterHandle = "/@SlimanBaghouri"
 +++
 {{% hook %}} Today’s you’ll learn about spine-chilling figures and facts regarding chiropractic care in 2021. {{% /hook %}}
 
+<!--more-->
+
 ***
 
 We’ve curated, vetted, and categorized a list of up-to-date stats below.
@@ -142,7 +144,6 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ## Stats About disorders chiropractors treat
 
-  
 {{% stat %}} **43)** [Whiplash](https://www.mayoclinic.org/diseases-conditions/whiplash/symptoms-causes/syc-20378921), one of the most common car accident injuries, is treated primarily by chiropractors over 125 years of chiropractic care {{% /stat %}}
 
 {{% stat %}} **44)** Back pain accounts for more than 264 million lost workdays each year. {{% /stat %}}
@@ -157,7 +158,6 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ![](/assets/images/8-chiropractic-facts.png)
 
-  
 {{% stat %}} **48)** Around 41% of the survey respondents said that chiropractic care greatly help deal with neck and back pain. {{% /stat %}}
 
 {{% stat %}} **49)** Chiropractic care has a much lower injury rate than primary care. {{% /stat %}}
@@ -172,7 +172,6 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ## Stats That Compare Chiropractic Care to Medical Care
 
-  
 {{% stat %}} **54)** 56% of patients who went to a doctor saw a 30% reduction in low back pain. But 94% of patients who went through manual-thrust manipulation seen a 30% reduction in low back pain 4 weeks later. {{% /stat %}}
 
 {{% stat %}} **55)** A clinical comparative trial conducted at 3 military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief than medical care alone. {{% /stat %}}
