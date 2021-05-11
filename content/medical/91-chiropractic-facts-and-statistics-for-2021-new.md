@@ -63,7 +63,6 @@ These are the most interesting Chiropractic stats we think you should know.
 
 Now, let’s go through some of the interesting stats when it comes to the chiropractic patients:
 
-  
 {{% stat %}} **13)** 3 in 4 people who saw a chiropractor (77%) described the experience as “very effective." {{% /stat %}}
 
 {{% stat %}} **14)** Women are twice as likely to suffer from headaches or migraines than men. {{% /stat %}}
@@ -92,7 +91,6 @@ Now, let’s go through some of the interesting stats when it comes to the chiro
 
 Now, let’s go through some of the interesting stats when it comes to the chiropractic job:
 
-  
 {{% stat %}} **23)** More than 100,000 chiropractors are registered worldwide. {{% /stat %}}
 
 {{% stat %}} **24)** The average chiropractor earns $85,870 per year. {{% /stat %}}
@@ -117,8 +115,7 @@ Now, let’s go through some of the interesting stats when it comes to the chiro
 
 let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
-  
-{{% stat %}} **31)** “Chiropractic” is greek for “Done by Hand”. {{% /stat %}}
+{{% stat %}} **31)** “Chiropractic” is Greek for “Done by Hand”. {{% /stat %}}
 
 {{% stat %}} **32)** In 1895, Daniel David Palmer gave the first adjustment to Harvey Lillard that helped him regain his hearing after an accident. {{% /stat %}}
 
@@ -128,10 +125,85 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **35)** A Nobel prize winner, Roger Sperry, reported that 90% of the brain’s stimulation and nutrition comes from the spine. {{% /stat %}}
 
-{{% stat %}} **30)** There are 10,000 students in the United States currently enrolled in chiropractic education programs. {{% /stat %}}
+{{% stat %}} **36)** The popping sound you hear in chiropractic treatment is nothing but air bubbles released between two joints.{{% /stat %}}
 
-{{% stat %}} **30)** There are 10,000 students in the United States currently enrolled in chiropractic education programs. {{% /stat %}}
+{{% stat %}} **37)** A recent study showed that chiropractic care was more effective than physical therapy and steroid injections when it came to treating nerve pain. {{% /stat %}}
 
-{{% stat %}} **30)** There are 10,000 students in the United States currently enrolled in chiropractic education programs. {{% /stat %}}
+{{% stat %}} **38)** Since the Foundation for Chiropractic Education and Research was founded it has shown through extensive studies that chiropractic is a significant science backed up by the benefits of adjustment. {{% /stat %}}
 
-{{% stat %}} **30)** There are 10,000 students in the United States currently enrolled in chiropractic education programs. {{% /stat %}}
+{{% stat %}} **39)** Chiropractic care is is the fastest-growing primary health care profession. {{% /stat %}}
+
+![](/assets/images/7-chiropractic-facts.jpg)
+
+{{% stat %}} **40)** Research has proven that chiropractors help with weight loss. {{% /stat %}}
+
+{{% stat %}} **41)** Pregnant women can reduce their back pain by up to 84% percent by going to chiropractor. {{% /stat %}}
+
+{{% stat %}} **42)** Adults aged between 45 and 64 are the most likely to visit a chiropractor. {{% /stat %}}
+
+## Stats About disorders chiropractors treat
+
+  
+{{% stat %}} **43)** [Whiplash](https://www.mayoclinic.org/diseases-conditions/whiplash/symptoms-causes/syc-20378921), one of the most common car accident injuries, is treated primarily by chiropractors over 125 years of chiropractic care {{% /stat %}}
+
+{{% stat %}} **44)** Back pain accounts for more than 264 million lost workdays each year. {{% /stat %}}
+
+![](/assets/images/9-chiropractic-facts.png)
+
+{{% stat %}} **45)** After the common cold, back injuries are the biggest reason for absenteeism from work. {{% /stat %}}
+
+{{% stat %}} **46)** A recent study concluded that one-third of patients are likely to have a recurrent back-injury episode. {{% /stat %}}
+
+{{% stat %}} **47)** The lifetime prevalence of low-back pain is reported to be as high as 85%. {{% /stat %}}
+
+![](/assets/images/8-chiropractic-facts.png)
+
+  
+{{% stat %}} **48)** Around 41% of the survey respondents said that chiropractic care greatly help deal with neck and back pain. {{% /stat %}}
+
+{{% stat %}} **49)** Chiropractic care has a much lower injury rate than primary care. {{% /stat %}}
+
+{{% stat %}} **50)** 92% of chiropractors report worsening neck and back pain for patients during the pandemic. {{% /stat %}}
+
+{{% stat %}} **51)** After extensive research in all available care for low back problems, the Agency for Health Care Research and Quality recommended spinal manipulation as the safest option.{{% /stat %}}
+
+{{% stat %}} **52)** Strong evidence showed that spinal manipulation for back pain is as effective as a combination of medical care and exercise. {{% /stat %}}
+
+{{% stat %}} **53)** Low-back pain costs lost wages and decreased productivity. {{% /stat %}}
+
+## Stats That Compare Chiropractic Care to Medical Care
+
+  
+{{% stat %}} **54)** 56% of patients who went to a doctor saw a 30% reduction in low back pain. But 94% of patients who went through manual-thrust manipulation seen a 30% reduction in low back pain 4 weeks later. {{% /stat %}}
+
+{{% stat %}} **55)** A clinical comparative trial conducted at 3 military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief than medical care alone. {{% /stat %}}
+
+{{% stat %}} **56)** Another comparative trial showed that 94% of chiropractic recipients experienced a 30% reduction in their pain, compared with only 54% of medical care recipients.{{% /stat %}}
+
+{{% stat %}} **57)** The Joint Commission, the organization that accredits more than 20,000 health care systems in the U.S.  recognized the value of non-drug approaches by adding chiropractic to its pain management standard. {{% /stat %}}
+
+{{% stat %}} **58)** 56% of patients were satisfied with the chiropractor, compared to just 13% who were satisfied with the family physician. {{% /stat %}}
+
+![](/assets/images/10-chiropractic-statistics.png)
+
+{{% stat %}} **59)** 40% of Americans with lower back pain will see a chiropractor rather than a medical doctor. {{% /stat %}}
+
+![](/assets/images/11-chiropractic-statistics.png)
+
+## Chiropractic Statistics By Demographic
+
+{{% stat %}} **60)** Nearly 30% of the U.S. population aged 18 and older have used chiropractic.{{% /stat %}}
+
+{{% stat %}} **61)** 65% million Americans suffer from chronic lower back pain. {{% /stat %}}
+
+{{% stat %}} **62)** Worldwide, back pain is the single leading cause of disability, preventing many people from engaging in work as well as other everyday activities. {{% /stat %}}
+
+{{% stat %}} **63)** 58% of all chiropractic patients believe it is a critical consideration when choosing an insurance provider. {{% /stat %}}
+
+![](/assets/images/12-chiropractic-facts.png)
+
+{{% stat %}} **64)** There are more than 100 million visits for spine conditions each year. {{% /stat %}}
+
+![](/assets/images/13-chiropractic-facts.png)
+
+{{% stat %}} **65)** 31 million Americans suffer from low back pain. {{% /stat %}}
