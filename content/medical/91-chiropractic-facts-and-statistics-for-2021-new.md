@@ -14,7 +14,7 @@ readingTime = "7"
 slug = "/chiropractic-facts-statistics"
 socialThumbnail = "/assets/images/stat-feature-1.jpg"
 table_of_content = []
-title = "91 Chiropractic Facts And Statistics For 2021 [NEW]"
+title = "65 Chiropractic Facts And Statistics For 2021 [NEW]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
