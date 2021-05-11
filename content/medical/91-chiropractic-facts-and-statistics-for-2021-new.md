@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "7"
 slug = "/chiropractic-facts-statistics"
 socialThumbnail = "/assets/images/stat-feature-1.jpg"
-table_of_content = ["top-chiropractic-statistic", "chiropractic-patients-statistic", "the-chiropractic-profession-facts-and-statistics", "interesting-and-fun-chiropractic-facts", "stats-about-disorders-chiropractors-treat", "stats-that-compare-chiropractic-care-to-medical-care", "chiropractic-statistics-by-demographic"]
+table_of_content = ["top-chiropractic-statistic", "chiropractic-patients-statistic", "the-chiropractic-profession-facts-and-statistics", "interesting-and-fun-chiropractic-facts", "stats-about-disorders-chiropractors-treat", "stats-that-compare-chiropractic-care-to-medical-care", "chiropractic-statistics-by-demographic", "footnotes"]
 title = "65 Chiropractic Facts And Statistics For 2021 [NEW]"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -205,3 +205,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 ![](/assets/images/13-chiropractic-facts.png)
 
 {{% stat %}} **65)** 31 million Americans suffer from low back pain. {{% /stat %}}
+
+## Footnotes
+
+https://news.gallup.com/poll/194984/one-four-adults-sought-care-neck-back-pain-last-year.aspx?g_source=Well-Being&g_medium=newsfeed&g_campaign=tiles
