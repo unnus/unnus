@@ -429,3 +429,51 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 ***
 
 **\[56\]** => https://<span></span>acatoday.org/Information-Graphics
+
+***
+
+**\[57\]** =>https://<span></span>jamanetwork.com/journals/jamanetworkopen/fullarticle/2680417
+
+***
+
+**\[58\]** => https://<span></span>acatoday.org/Information-Graphics
+
+***
+
+**\[59\]** => https://<span></span>jointcommission.org/assets/1/18/Clarification_of_the_Pain_Management__Standard.pdf
+
+***
+
+**\[60\]** =>https://<span></span>jmptonline.org/article/S0161-4754(05)00227-7/fulltext
+
+***
+
+**\[61\]** => https://<span></span>elitesportsdc.com/why-30-million-people-see-a-chiropractor-each-year/
+
+***
+
+**\[62\]** => Global Burden of Disease study Annals of the Rheumatic Diseases
+
+***
+
+**\[63\]** => The Gallup Organization
+
+***
+
+**\[64\]** => https://<span></span>well.blogs.nytimes.com/2016/03/22/mind-based-therapies-may-ease-lower-back-pain/?_r=0
+
+***
+
+**\[65\]** => https://<span></span>sciencedirect.com/science/article/pii/S088539240700783X
+
+***
+
+**\[66\]** => https://<span></span>ajmc.com/view/access-to-chiropractic-care-and-the-cost-of-spine-conditions-among-older-adults
+
+***
+
+**\[67\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
+
+***
+
+**\[68\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
