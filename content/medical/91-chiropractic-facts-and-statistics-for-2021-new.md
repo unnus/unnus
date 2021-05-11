@@ -227,3 +227,9 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 **\[5\]** => https://<span></span>acatoday.org/News-Publications/Newsroom/Key-Facts
 
 ***
+
+**\[6\]** => https://<span></span>integratedchiroandpt.com
+
+***
+
+**\[7\]** => https://<span></span>acatoday.org/Education-Events/National-Chiropractic-Health-Month/Campaign-Toolkit/NCHM-Key-Facts-and-Figures
