@@ -384,47 +384,47 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ***
 
-**\[45\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4033140/
+**\[45\]** => https://<span></span>academic.oup.com/ptj/article/97/9/889/3884292
 
 ***
 
-**\[46\]** => https://<span></span>academic.oup.com/ptj/article/97/9/889/3884292
+**\[46\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4153910/
 
 ***
 
-**\[47\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4153910/
+**\[47\]** => https://<span></span>statista.com/statistics/757457/helpfulness-chiropractic-care-various-body-pains-us/
 
 ***
 
-**\[48\]** => https://<span></span>statista.com/statistics/757457/helpfulness-chiropractic-care-various-body-pains-us/
+**\[48\]**=>https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4326543/
 
 ***
 
-**\[49\]**=>https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4326543/
+**\[49\]** => https://<span></span>nytimes.com/2020/09/04/well/live/ergonomics-work-from-home-injuries.html
 
 ***
 
-**\[50\]**=>https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC4326543/
+**\[50\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC2786244/
 
 ***
 
-**\[51\]** => https://<span></span>nytimes.com/2020/09/04/well/live/ergonomics-work-from-home-injuries.html
+**\[51\]** => https://<span></span>nccih.nih.gov/health/spinal-manipulation-what-you-need-to-know
 
 ***
 
-**\[52\]** => https://<span></span>ncbi.nlm.nih.gov/pmc/articles/PMC2786244/
+**\[52\]** => The Medical Journal Spine Research
 
 ***
 
-**\[53\]** => https://<span></span>nccih.nih.gov/health/spinal-manipulation-what-you-need-to-know
+**\[53\]** => https://<span></span>ncbi.nlm.nih.gov/books/NBK92521/
 
 ***
 
-**\[54\]** => The Medical Journal Spine Research
+**\[54\]** => https://<span></span>acatoday.org/Information-Graphics
 
 ***
 
-**\[55\]** => https://<span></span>ncbi.nlm.nih.gov/books/NBK92521/
+**\[55\]** =>https://<span></span>jamanetwork.com/journals/jamanetworkopen/fullarticle/2680417
 
 ***
 
@@ -432,48 +432,40 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ***
 
-**\[57\]** =>https://<span></span>jamanetwork.com/journals/jamanetworkopen/fullarticle/2680417
+**\[57\]** => https://<span></span>jointcommission.org/assets/1/18/Clarification_of_the_Pain_Management__Standard.pdf
 
 ***
 
-**\[58\]** => https://<span></span>acatoday.org/Information-Graphics
+**\[58\]** =>https://<span></span>jmptonline.org/article/S0161-4754(05)00227-7/fulltext
 
 ***
 
-**\[59\]** => https://<span></span>jointcommission.org/assets/1/18/Clarification_of_the_Pain_Management__Standard.pdf
+**\[59\]** => https://<span></span>elitesportsdc.com/why-30-million-people-see-a-chiropractor-each-year/
 
 ***
 
-**\[60\]** =>https://<span></span>jmptonline.org/article/S0161-4754(05)00227-7/fulltext
+**\[60\]** => Global Burden of Disease study Annals of the Rheumatic Diseases
 
 ***
 
-**\[61\]** => https://<span></span>elitesportsdc.com/why-30-million-people-see-a-chiropractor-each-year/
+**\[61\]** => The Gallup Organization
 
 ***
 
-**\[62\]** => Global Burden of Disease study Annals of the Rheumatic Diseases
+**\[62\]** => https://<span></span>well.blogs.nytimes.com/2016/03/22/mind-based-therapies-may-ease-lower-back-pain/?_r=0
 
 ***
 
-**\[63\]** => The Gallup Organization
+**\[63\]** => https://<span></span>sciencedirect.com/science/article/pii/S088539240700783X
 
 ***
 
-**\[64\]** => https://<span></span>well.blogs.nytimes.com/2016/03/22/mind-based-therapies-may-ease-lower-back-pain/?_r=0
+**\[64\]** => https://<span></span>ajmc.com/view/access-to-chiropractic-care-and-the-cost-of-spine-conditions-among-older-adults
 
 ***
 
-**\[65\]** => https://<span></span>sciencedirect.com/science/article/pii/S088539240700783X
+**\[65\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
 
 ***
 
-**\[66\]** => https://<span></span>ajmc.com/view/access-to-chiropractic-care-and-the-cost-of-spine-conditions-among-older-adults
-
-***
-
-**\[67\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
-
-***
-
-**\[68\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
+**\[66\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
