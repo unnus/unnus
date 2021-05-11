@@ -224,6 +224,6 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ***
 
-**\[5\]**=> https://<span></span>acatoday.org/News-Publications/Newsroom/Key-Facts
+**\[5\]** => https://<span></span>acatoday.org/News-Publications/Newsroom/Key-Facts
 
 ***
