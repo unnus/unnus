@@ -432,7 +432,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 ***
 
-**\[57\]** => https://<span></span>jointcommission.org/assets/1/18/Clarification_of_the_Pain_Management__Standard.pdf
+**\[57\]** => https://<span></span>bit.ly/3beEnr1
 
 ***
 
