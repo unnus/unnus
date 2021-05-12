@@ -32,6 +32,10 @@
 	  {{ partial "headers/case-studies-header.html" . }}
 	{{ end }}
 
+	{{ if eq $.Page.Params.which "rebrand" }}
+	  {{ partial "headers/rebranded-header.html" . }}
+	{{ end }}
+
 
 		{{ .Content }}
 
