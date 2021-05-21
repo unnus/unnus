@@ -261,10 +261,11 @@
 {{ partial "sidebar.html" }}
 
 <script type="text/javascript" src="{{.Site.BaseURL}}/assets/js/stickyFormPolyfill.js"></script>
-<script type="text/javascript" src="{{.Site.BaseURL}}/assets/js/drawsvgplugin.js"></script>
 <script type="text/javascript" src="{{.Site.BaseURL}}/assets/js/splitText.js"></script>
 <script type="text/javascript" src="{{.Site.BaseURL}}/assets/js/ScrollTrigger.min.js"></script>
 <script type="text/javascript" src="{{.Site.BaseURL}}/assets/js/zoom.js"></script>
+<script type="text/javascript" src="{{.Site.BaseURL}}assets/js/bioep.js"></script>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.0/gsap.min.js"></script>
 <script type="text/javascript" src="{{.Site.BaseURL}}/assets/js/main.js"></script>
 <script>
@@ -274,6 +275,32 @@
 		 scrollOffset: 0,
 	});
 
+bioEp.init({
+	html: '<div id="bio_ep_content">' +
+	  '<div class="pop-img-holder">' +
+		'<img src="https://unnus.com/assets/brand-strategy-media/bg.jpg" alt="Claim your discount!" />' + 
+		'</div>'+
+		'<div class="pop-txt-holder">'+
+		'<span>Free "Plug n Play" Strategies To Attract Loyal Patients, Differentiate Your Brand, and Get Your Message Across</span>' +
+		'<span>Get our free 6-parts series that arms you with strategies to gain a competitive advantage and differentiate your practice.</span>' +
+		'<a href="/charismatic-medical-brand/" class="bio_btn">Get Lesson #1</a>' +
+		'</div>'+
+		'</div>',
+	css: '#bio_ep {width: 850px; height: 600px; color: #333; background-color: #FFF; text-align: center;}' +
+		'#bio_ep_content {width: 100%;height: 100%; display: flex;}' +
+		'.pop-txt-holder {text-align:center;display:flex; flex-direction:column; justify-content:center;flex:.5}' + 
+		'.pop-img-holder {flex:.5}'+
+		'.pop-img-holder img{width:100%;height:100%}'+
+		'#bio_ep_content span:nth-child(1) {display: block; color: #000; font-family:"lato";font-size: 28px; font-weight: 800;}' +
+		'#bio_ep_content span:nth-child(2) {display: block; font-size: 17px;font-family:"droid serif";margin-top:35px;}' +
+		'#bio_ep_content span:nth-child(3) {display: block; margin: -5px 0 0 0; font-size: 16px; font-weight: 600;}' +
+		'.bio_btn {width:50%; display: inline-block; margin: 40px auto; padding: 10px; color: #fff;font-family:"lato"; font-size: 20px; font-weight: 600; background-color: #f22613; -webkit-appearance: none; -moz-appearance: none; border-radius: 0; text-decoration: none;}',
+		showOnDelay:true,
+		delay:60,
+	cookieExp: 1,
+	showOncePerSession: true,
+});
 </script>
+
   </body>
 </html>
