@@ -16,9 +16,9 @@ description: case studies caresect
 					<p>unnus managed to make caresect's freshness and newness its most powerful element.</p>
 					<h3 class="light-headline underline">Work done</h3>
 					<ul>
-						<li>Branding Strategy</li>
+						<li>Branding Identity</li>
 						<li>Website</li>
-						<li>Inbound Marketing</li>
+						<li>Brand Guideline Book</li>
 					</ul>
 				</div>
 			</div>
