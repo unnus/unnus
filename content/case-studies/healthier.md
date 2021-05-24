@@ -10,17 +10,16 @@ description: case studies healthier
 		<div class="container">
 			<div class="company-intro-holder">
 				<div class="headline-row">
-					<h2 class="light reveal-text">Advertise less, <br> Strategize more</h2>
+					<h2 class="light reveal-text">New Start, <br> New Identity</h2>
 				</div>
 				<div class="text-row reveal-text">
-					<p>After countless resources healthier spent on online ads and social media marketing, they faced the underlining problem: patients didn't like ads, they seemed intrusive and out of place.</p>
-					<p>50% of the clicked ads were unintentional which lead to less qualified patients and low conversion rate.</p>
-					<p>We took a different route to healthier's marketing  by implementing a strategic marketing approach focused on creating and distributing valuable content </p> 
-					<p>That alone attracted and retained a clearly defined audience — and, ultimately driving profitable patient actions.</p>
+					<p>After countless resources healthier spent on its visual identity, faced the underlining problem: their external branding doesn't reflect their internal brand.</p>
+					<p>We took a different route to healthier's identity by implementing a strategic branding process to create a more representative visuals</p> 
+			
 					<h3 class="light-headline underline">Work done</h3>
 					<ul>
-						<li>Re-branding</li>
-						<li>Brand Strategy</li>
+						<li>Identity Re-brand</li>
+						<li>Brand guidelines</li>
 						<li>Website</li>
 					</ul>
 				</div>
