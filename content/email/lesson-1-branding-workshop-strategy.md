@@ -4,8 +4,8 @@ authorAvatarBottom = "/assets/images/blog/authors/cc.png"
 authorAvatarTop = "/assets/images/cc-4.jpg"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies"
 date = 2021-04-24T23:00:00Z
-featImg = "/assets/images/0.jpg"
 downloads = "https://drive.google.com/drive/folders/188lVeEiQ1NtOv52jTuiH1EBx4j2VhEY1?usp=sharing"
+featImg = "/assets/images/0.jpg"
 featImgThumb = "/assets/images/0.jpg"
 linkedinHandle = "/slimaneBaghouri"
 page = "email/single.html"
@@ -75,15 +75,19 @@ And because Why Messages are emotional and speak directly to our limbic system, 
 
 Here are some examples of feature-driven messages vs meaningful messages:
 
-![](/assets/images/3.jpg)  
-  
+![](/assets/images/3.jpg)
+
 ![](/assets/images/4.jpg)
 
 ## Brand DNA Workshop
 
-We have a cognitive bias towards meaningful brands. We vouch for their success, we stay loyal and spread the gospel about them. That’s because they reflect our beliefs and reinforce our core characteristics.
+Now we understand why purposeful brands attract loyal patients, let’s go into how you’ll infuse meaningful attributes to your medical brand.
 
-In this lesson, we’ll go through how you’ll infuse a dash of “meaningful substance” to your medical business and how that will lead you to attract cult-like followings and a loyal patient base.
+In this workshop, we’ll go over the step-by-step process of how to transform your practice to be purpose-oriented. Brand DNA workshop consists of 4 branding exercises that focus on infusing purpose to your brand.
+
+The goal here is to uncover your brand’s **Why** (the reason it exists) and _then_ articulate it in a novel manner. A manner that will resonate with your target patient.
+
+You can conduct these exercises with your team online or on-site. I'll use the virtual aspect for the sake of convenience but it should be the same process in a physical location.
 
 ### Quick Prep:
 
@@ -145,7 +149,7 @@ Here are questions to ask yourself and your team:
 * How could this benefit the patient?
 * How can we implement an action plan for our commitments?
 
-{{% note "Note" %}} you must be specific and actionable about the How. Avoid non-practical statements like “To provide patient-centric care” or “delivering personalized care”. Be specific as possible. 
+{{% note "Note" %}} you must be specific and actionable about the How. Avoid non-practical statements like “To provide patient-centric care” or “delivering personalized care”. Be specific as possible.
 
 For example: instead of saying “we provide convenient care”, try to be more elaborate like “we invest in the latest technology for faster healing and same-day care”. This way it’s more clear how you’re going to help the patient.{{% /note %}}
 
@@ -163,8 +167,8 @@ This is the easiest part of the exercise. Here, we try to lay down all of your s
 
 After you finished, your board will look like this:
 
-![](/assets/images/6.jpg)  
-  
+![](/assets/images/6.jpg)
+
 Now that you have a strong idea of your brand, move on to the next exercise where you will consolidate your understanding.
 
 ## 2) Brand Credo Write-Up ⏰ \[15-25 minute\]
@@ -227,7 +231,6 @@ Your result should end up something like this:
 
 ![](/assets/images/10.jpg)
 
-  
 **_Important_**_: again, try to avoid the generic use of common values like honesty, quality, accountability, and so on. While these values are admirable, they are overused and do not differentiate your brand. If one of them is truly one of your brand’s beliefs, that’s okay to add it. But that should be the exception rather than the rule._
 
 ## 4) Future Brand ⏰ \[15-25 minute\]
@@ -258,7 +261,6 @@ On the branding workshop, move on to the Future Brand Timeline and follow the ne
 2. Next, in the aspiration field, Take 5 minutes to write down your ultimate aspiration. If it all goes right, how will you impact the field you’re in? Here you can use superlatives like “The world’s (safest, most loved, most convenient…)”
 3. Finally, define your ideal future state — your final destination or desired end state. What would the world look like if this problem was solved? If you were successful in what you do, how will your medical brand change its community? (make it simple and concrete, and avoid any jargon)
 
-  
 ![](/assets/images/11.jpg)
 
 Share and discuss the notes and the writing with your team and move on to the next part of the exercise.
@@ -291,18 +293,18 @@ Would patients mourn your passing, or would the demise of your brand go unnotice
 
 This creative exercise aims to contrast the previous one. It’s good to set goals for the future but it’s equally as good (if not better) to be proactive and work backward to check if your brand will pass the test of time.
 
-The Brand Obituary exercise aims to force you to think through some of the key elements that make up a charismatic medical brand.  
+The Brand Obituary exercise aims to force you to think through some of the key elements that make up a charismatic medical brand.
 
-The goal here is to write an obituary for your brand denoting its last days. 
+The goal here is to write an obituary for your brand denoting its last days.
 
-The exercise is not meant to dishearten the staff members or your leadership team. It’s simply to extract critical aspects of the brand and to get a razor-sharp picture of its trajectory. 
+The exercise is not meant to dishearten the staff members or your leadership team. It’s simply to extract critical aspects of the brand and to get a razor-sharp picture of its trajectory.
 
 Write down the obituary of your brand as if it were a person who just died yesterday.
 
 Each participant should think of themselves as the journalist who has to report on the accident.
 
-Much like writing the brand credo, each team member will have a paper to write down the obituary.  
-  
+Much like writing the brand credo, each team member will have a paper to write down the obituary.
+
 ![](/assets/images/14.png)
 
 Things you need to include in the obituary:
@@ -317,7 +319,6 @@ Things you need to include in the obituary:
 
 At the end of the exercise, discuss each other’s obituary and see what insights you can gather about your brand.
 
-  
 ![](/assets/images/15.jpg)
 
 ## End the workshop ⏰ \[5-8 minute\]
