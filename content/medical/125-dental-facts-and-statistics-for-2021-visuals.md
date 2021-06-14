@@ -31,6 +31,16 @@ We’ve curated, and categorized a list of up-to-date stats below. Navigate usin
 
 These are some of the weirdest dental facts we think you should know.
 
-{{% stat %}} **1)** Jaw muscles can contract with a force as great as 55 pounds of pressure on anterior incisors, and 200 pounds of pressure on back molars \[1\]. {{% /stat %}}
+{{% stat %}} **1)** Jaw muscles can contract with a force of 55 up to 200 pounds of pressure \[1\]. {{% /stat %}}
 
-{{% stat %}} **2)** In a lifetime, a person produces over 100,000 gallons of saliva. To put that into perspective, that is over 20 semi-trucks worth of saliva or 1.06 million red solo cups. \[1\]. {{% /stat %}}
+{{% stat %}} **2)** In a lifetime,  humans produce over 100,000 gallons of saliva \[1\]. {{% /stat %}}
+
+{{% stat %}} **3)** Ape and human teeth have the same shape. \[1\]. {{% /stat %}}
+
+{{% stat %}} **4)** The American Dental Association was formed In 1859 at Niagra Falls by 26 dentists \[1\]. {{% /stat %}}
+
+{{% stat %}} **5)** Colgate first aromatic toothpaste was inside a jar in 1873.  {{% /stat %}}
+
+![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.png)
+
+{{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth  {{% /stat %}}
