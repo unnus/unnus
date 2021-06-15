@@ -118,3 +118,57 @@ These are some of the weirdest dental facts we think you should know.
 ![A Graph shows dental fact about pediatric speciality](/assets/images/dental-facts-and-statistics-7.png)
 
 {{% stat %}} **35)** mothers-to-be with poor oral hygiene are 7X more likely to deliver premature babies. {{% /stat %}}
+
+## Dental Statistics Related To Covid-19
+
+{{% stat %}} **36)** Patient volume was estimated at 81% of pre-COVID-19 levels on average. {{% /stat %}}
+
+{{% stat %}} **37)** Staffing in dental offices was at 99% of pre-COVID-19 levels. {{% /stat %}}
+
+{{% stat %}} **38)** Over the past month, the most common measure taken by dentists to maintain financial sustainability was raising fees. Others responded to the financial challenges of practice ownership by taking out loans. {{% /stat %}}
+
+{{% stat %}} **39)** Dentists in large group practices have had to take fewer measures to maintain financial sustainability compared to those practicing solo. {{% /stat %}}
+
+{{% stat %}} **40)** More than a third of dentists are practicing some form of teledentistry, most commonly to triage emergencies, do post-ops and follow-up care and for consults.{{% /stat %}}
+
+{{% stat %}} **41)** Approximately 10% of dentists who were enrolled as Medicaid providers prior to the COVID-19 pandemic have since disenrolled. {{% /stat %}}
+
+{{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go. {{% /stat %}}
+
+![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.png)
+
+{{% stat %}} **43)** Despite circulating myths from news outlets that mask-wearing may impact oral health and cause “mask mouth,” a recent survey by ADA found no meaningful change in the for conditions such as bad breath and dry mouth compared to pre-Covid-19. {{% /stat %}}
+
+{{% stat %}} **44)** Dentists see more stress-related conditions during the pandemic. {{% /stat %}}
+
+{{% stat %}} **45)** 40% of dentists think that cost/income will be the biggest challenge facing their practice. {{% /stat %}}
+
+{{% stat %}} **46)** Nearly half of the dentists agree a drop in revenue has been the number #1 impact of the pandemic on their practice. {{% /stat %}}
+
+{{% stat %}} **47)** 71% of dentists made use of the wage subsidy program to help sustain their practice. {{% /stat %}}
+
+{{% stat %}} **48)** 51% of dentists agree the wage subsidy program was helpful in maintaining staffing levels. {{% /stat %}}
+
+{{% stat %}} **49)** Of all dentists who charge a covid-19 fee, over 33% of them charge $10 or lower.{{% /stat %}}
+
+{{% stat %}} **50)** Over 33% of dentists believe infection control/IPAC is the skill covid-19 allowed them to learn more about. {{% /stat %}}
+
+{{% stat %}} **51)** About 50% of dentists have implemented teledentistry into their practice.{{% /stat %}}
+
+{{% stat %}} **52)** 87% of dentists have not implemented a covid-19 fee for their patients.{{% /stat %}}
+
+{{% stat %}} **53)** 46% of dentists are likely to continue using their teledentistry program once things go back to normal. {{% /stat %}}
+
+{{% stat %}} **54)** Over 50% of dentists believe covid-19 has had an impact on their purchases of technology and equipment. {{% /stat %}}
+
+{{% stat %}} **55)** 33% percent of dentists agree practice management is their biggest stressor.{{% /stat %}}
+
+{{% stat %}} **56)** Moving forward, 94% of dentists agree their plans for CE are webinars and virtual online courses. {{% /stat %}}
+
+{{% stat %}} **57)** Of all dentists who charge a covid-19 fee, over 33% of them charge $10 or lower.{{% /stat %}}
+
+{{% stat %}} **58)** Information about COVID cases in dental offices influences patient attendance.{{% /stat %}}
+
+{{% stat %}} **59)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+
+![A pie chart that shows patient satasfaction using telehealth solutions](/assets/images/dental-facts-and-statistics-9.png)
