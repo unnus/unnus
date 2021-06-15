@@ -77,6 +77,8 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **18)** For all age groups, Hispanics and Blacks are most likely to face cost barriers to dental care. {{% /stat %}}
 
+![A Graph shows dental stats illustrating how blacks and hispanics are most likely to face dental cost issues](/assets/images/dental-facts-and-statistics-5.png)
+
 {{% stat %}} **19)** Roughly 25% of American adults have no teeth. {{% /stat %}}
 
 {{% stat %}} **20)** 95% of American adults with diabetes also have periodontal disease. {{% /stat %}}
@@ -94,3 +96,15 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **26)** Nearly one-quarter of dental students are Asian, compared to 18% of dentists overall and 6% of the U.S. population. {{% /stat %}}
 
 {{% stat %}} **27)** Educational debt levels for dental school graduates vary significantly by race. For example, more than 20% of Asian dentists graduate with no student debt compared to less than 1% of Black dentists. Black dentists, by far, graduate with the highest levels of educational debt. {{% /stat %}}
+
+## Pediatric Dental Facts
+
+{{% stat %}} **28)** Children begin to develop their teeth in the womb — just 6 weeks after conception. {{% /stat %}}
+
+{{% stat %}} **29)** An adult tooth that has been knocked out of your child’s mouth starts to die within 15 minutes, but if you put it in milk or hold it in your mouth under the tongue it will survive longer. {{% /stat %}}
+
+{{% stat %}} **30)** Prehistoric children rarely have cavities because they don't eat sugar. {{% /stat %}}
+
+{{% stat %}} **31)** Kids miss 51 million school hours a year due to dental-related illnesses. {{% /stat %}}
+
+![A Graph shows dental fact about kids losing school hours](/assets/images/dental-facts-and-statistics-6.png)
