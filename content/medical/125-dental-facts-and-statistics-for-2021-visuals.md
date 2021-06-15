@@ -75,14 +75,22 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Illustrations shows dental fact that 93% of americans plan to visit dentist in 2021](/assets/images/dental-facts-and-statistics-4.png)
 
-{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+{{% stat %}} **18)** For all age groups, Hispanics and Blacks are most likely to face cost barriers to dental care. {{% /stat %}}
 
-{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+{{% stat %}} **19)** Roughly 25% of American adults have no teeth. {{% /stat %}}
 
-{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+{{% stat %}} **20)** 95% of American adults with diabetes also have periodontal disease. {{% /stat %}}
 
-{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+{{% stat %}} **21)** Adult white people scored the highest percentage of dental visits in the past years followed by Asians. {{% /stat %}}
 
-{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+{{% stat %}} **22)** Racial disparities in dental care use are smallest for children and largest for seniors.{{% /stat %}}
 
-{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+{{% stat %}} **23)** In general, dental care use has increased over time for children and seniors, but not for adults.{{% /stat %}}
+
+{{% stat %}} **24)** Cost barriers to dental care have fallen significantly for children while increasing for adults and seniors.{{% /stat %}}
+
+{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health.{{% /stat %}}
+
+{{% stat %}} **26)** Nearly one-quarter of dental students are Asian, compared to 18% of dentists overall and 6% of the U.S. population. {{% /stat %}}
+
+{{% stat %}} **27)** Educational debt levels for dental school graduates vary significantly by race. For example, more than 20% of Asian dentists graduate with no student debt compared to less than 1% of Black dentists. Black dentists, by far, graduate with the highest levels of educational debt. {{% /stat %}}
