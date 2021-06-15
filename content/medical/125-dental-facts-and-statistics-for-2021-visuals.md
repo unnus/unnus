@@ -108,3 +108,13 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **31)** Kids miss 51 million school hours a year due to dental-related illnesses. {{% /stat %}}
 
 ![A Graph shows dental fact about kids losing school hours](/assets/images/dental-facts-and-statistics-6.png)
+
+{{% stat %}} **32)** About 74%-75% of school kids have dental cavities. {{% /stat %}}
+
+{{% stat %}} **33)** Children smile an average of 400 times a day. {{% /stat %}}
+
+{{% stat %}} **34)** Pediatric dentists form the 3rd biggest specialty area and account for 3.3% of overall dentists. {{% /stat %}}
+
+![A Graph shows dental fact about pediatric speciality](/assets/images/dental-facts-and-statistics-7.png)
+
+{{% stat %}} **35)** mothers-to-be with poor oral hygiene are 7X more likely to deliver premature babies. {{% /stat %}}
