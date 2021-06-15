@@ -69,7 +69,7 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
 
-## Dental Statistics And Facts By Demographics & Ethnicity.
+## Dental Statistics And Facts By Demographics & Ethnicity
 
 {{% stat %}} **17)** 93% of Americans plan to visit the dentist in 2021. {{% /stat %}}
 
