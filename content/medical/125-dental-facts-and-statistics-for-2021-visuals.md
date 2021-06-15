@@ -1,22 +1,22 @@
 +++
-author = ""
-authorAvatarBottom = ""
-authorAvatarTop = ""
-authorBio = ""
+author = "Sara Seirawan"
+authorAvatarBottom = "/assets/images/avatar/sss.jpg"
+authorAvatarTop = "/assets/images/avatar/s.jpg"
+authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-statistics"
 date = ""
 description = ""
 draft = true
 featImg = ""
 featImgThumb = ""
-linkedinHandle = ""
+linkedinHandle = "#"
 page = "medical/single.html"
-readingTime = ""
-slug = ""
+readingTime = "9"
+slug = "/dental-facts-statistics"
 socialThumbnail = ""
 table_of_content = []
 title = "125 Dental Facts And Statistics For 2021 [+ Visuals]"
-twitterHandle = ""
+twitterHandle = "#"
 
 +++
 {{% hook %}} Are you looking for “jaw-dropping” facts and statistics regarding dentistry in 2021? Look no further. {{% /hook %}}
