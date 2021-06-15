@@ -68,3 +68,21 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion .{{% /stat %}}
 
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
+
+## Dental Statistics And Facts By Demographics & Ethnicity.
+
+{{% stat %}} **17)** 93% of Americans plan to visit the dentist in 2021. {{% /stat %}}
+
+![Illustrations shows dental fact that 93% of americans plan to visit dentist in 2021](/assets/images/dental-facts-and-statistics-4.png)
+
+{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+
+{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+
+{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+
+{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+
+{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
+
+{{% stat %}} **17)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. {{% /stat %}}
