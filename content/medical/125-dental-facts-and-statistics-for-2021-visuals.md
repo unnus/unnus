@@ -91,7 +91,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **24)** Cost barriers to dental care have fallen significantly for children while increasing for adults and seniors.{{% /stat %}}
 
-{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health.{{% /stat %}}
+{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health. {{% /stat %}}
 
 {{% stat %}} **26)** Nearly one-quarter of dental students are Asian, compared to 18% of dentists overall and 6% of the U.S. population. {{% /stat %}}
 
