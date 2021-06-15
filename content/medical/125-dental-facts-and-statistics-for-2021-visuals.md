@@ -165,10 +165,8 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **56)** Moving forward, 94% of dentists agree their plans for CE are webinars and virtual online courses. {{% /stat %}}
 
-{{% stat %}} **57)** Of all dentists who charge a covid-19 fee, over 33% of them charge $10 or lower.{{% /stat %}}
+{{% stat %}} **57)** Information about COVID cases in dental offices influences patient attendance.{{% /stat %}}
 
-{{% stat %}} **58)** Information about COVID cases in dental offices influences patient attendance.{{% /stat %}}
-
-{{% stat %}} **59)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
 
 ![A pie chart that shows patient satasfaction using telehealth solutions](/assets/images/dental-facts-and-statistics-9.png)
