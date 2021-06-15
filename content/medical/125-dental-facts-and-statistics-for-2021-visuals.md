@@ -44,3 +44,21 @@ These are some of the weirdest dental facts we think you should know.
 ![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.png)
 
 {{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth  {{% /stat %}}
+
+{{% stat %}} **7)** Tooth prints are unique to each person. Same as fingerprints. {{% /stat %}}
+
+{{% stat %}} **8)** Dental floss is sturdy. And it has been used by prisoners to climb buildings and escape in 1994. {{% /stat %}}
+
+{{% stat %}} **9)** Right-handed people tend to chew on the right side of the mouth, and left-handed people tend to chew on the left side. {{% /stat %}}
+
+{{% stat %}} **10)** On average, the woman smiles 68 times in a day. While men smile 8 times a day. {{% /stat %}}
+
+![Picture of dental fact that shows women smiling more than men](/assets/images/dental-facts-and-statistics-2.png)
+
+{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+
+{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+
+{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+
+{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
