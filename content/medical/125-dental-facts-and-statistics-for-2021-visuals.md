@@ -65,6 +65,6 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **15)** The cotton candy machine was co-invented by a dentist.{% /stat %}}
 
-{{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion .{% /stat %}}
+{{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion .{{% /stat %}}
 
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
