@@ -55,10 +55,16 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Picture of dental fact that shows women smiling more than men](/assets/images/dental-facts-and-statistics-2.png)
 
-{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+{{% stat %}} **11)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually.{% /stat %}}
 
-{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+{{% stat %}} **12)** People prefer blue toothbrushes to red ones.{% /stat %}}
 
-{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+{{% stat %}} **13)** It takes 43 muscles to frown and 17 to smile.{% /stat %}}
 
-{{% stat %}} **11)** Americans buy more than 14 million gallons of toothpaste every year.{% /stat %}}
+{{% stat %}} **14)** By drinking 1 soda can each day, the average American gains 6.8 Killos yearly.{% /stat %}}
+
+{{% stat %}} **15)** The cotton candy machine was co-invented by a dentist.{% /stat %}}
+
+{{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion .{% /stat %}}
+
+![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
