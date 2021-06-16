@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "9"
 slug = "/dental-facts-statistics"
 socialThumbnail = ""
-table_of_content = ["weird-dental-facts", "dental-statistics-and-facts-by-demographics--ethnicity", "pediatric-dental-facts", "dental-statistics-related-to-covid-19", "dental-industry-statistics", "dental-patients-facts", "dental-profession-facts-and-statistics", "statistics-about-dental-conditions"]
+table_of_content = ["weird-dental-facts", "dental-statistics-and-facts-by-demographics--ethnicity", "pediatric-dental-facts", "dental-statistics-related-to-covid-19", "dental-industry-statistics", "dental-patients-facts", "dental-profession-facts-and-statistics", "statistics-about-dental-conditions", "footnotes"]
 title = "95 Dental Facts And Statistics For 2021 [+ Visuals]"
 twitterHandle = "#"
 
@@ -265,6 +265,8 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **94)** 40% of hospital emergency department visits for dental conditions among adults in the United States are paid for by Medicaid. \[5\] {{% /stat %}}
 
 {{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States are paid for by Medicaid. \[5\] {{% /stat %}}
+
+***
 
 ## Footnotes
 
