@@ -183,12 +183,41 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **62)** Dental implants have a 97% success rate {{% /stat %}}
 
-{{% stat %}} **63)** Over 3 million miles of dental floss is purchased in North America each year. {{% /stat %}}
+{{% stat %}} **63)** More than 3,000,000 (3M) of floss is bought in North America each year. {{% /stat %}}
 
-{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+{{% stat %}} **64)** 64.3% of healthcare companies do not use patient data to measure their performance.  
+ {{% /stat %}}
 
-{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+## Dental Patients Facts
 
-{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+{{% stat %}} **65)** Patients’ comfort level for dental visits depends on the type of procedure {{% /stat %}}
 
-{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+{{% stat %}} **66)** 3/4 of adults experience dental anxiety or fear. {{% /stat %}}
+
+![An illustration that shows dental statistics about patients using online reviews to choose their dentists](/assets/images/dental-facts-and-statistics-12.png)
+
+{{% stat %}} **67)** More than half of patients will switch medical providers for better online service. {{% /stat %}}
+
+{{% stat %}} **68)** 57% of patients anticipate medical professionals to make appointments, reminders, and follow-ups via text automation, voice or email. {{% /stat %}}
+
+![Illustration that shows dental statistics about patient expectation when it comes to digital service](/assets/images/dental-facts-and-statistics-11.png)
+
+{{% stat %}} **69)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than uninsured patients and accept twice the amount of treatment. {{% /stat %}}
+
+{{% stat %}} **70)** In a survey of 1005 adults, most Americans said that they used a multiple ways of methods of getting rid of the food in their teeth: fingernails (61%), cards (40%), cutlery (21%), pins (14%), and strands of hair (7%). {{% /stat %}}
+
+{{% stat %}} **71)** In adults, 16% said that they flossed at least 1 time a day, 20% said they flossed when they needed to and 8% said that they never did floss. The reasons for not flossing was that it takes a lot of time (55%), 16% said it was pain-inducing and 9% said they find it repulsive. {{% /stat %}}
+
+{{% stat %}} **72)** Among adults aged 20-64, 91% had decayed teeth areas and 27% had permanently damaged areas in thier teeth. {{% /stat %}}
+
+{{% stat %}} **72)** More than 90% of bad breath originates in the mouth. {{% /stat %}}
+
+{{% stat %}} **73)** People who drink \~4 cups of soda daily are 62% likely to suffer from tooth loss. {{% /stat %}}
+
+{{% stat %}} **74)** The average person brushes 44-70 seconds/day while the recommended time is 2-4 minutes. {{% /stat %}}
+
+{{% stat %}} **75)** People who smoke are 2.7 times more likely to develop periodontal disease.{{% /stat %}}
+
+{{% stat %}} **76)** People with periodontal disease are 2X more likely to develop heart disease. {{% /stat %}}
+
+{{% stat %}} **77)** 90% of system diseases have oral manifestations. {{% /stat %}}
