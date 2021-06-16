@@ -262,6 +262,6 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **93)** $2.7 Billion is the total amount of dollars spent on hospital emergency department visits in the U.S in 2017. {{% /stat %}}
 
-{{% stat %}} **94)** 40% of hospital emergency department visits for dental conditions among adults in the United States that are paid for by Medicaid. {{% /stat %}}
+{{% stat %}} **94)** 40% of hospital emergency department visits for dental conditions among adults in the United States are paid for by Medicaid. {{% /stat %}}
 
-{{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States that are paid for by Medicaid. {{% /stat %}}
+{{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States are paid for by Medicaid. {{% /stat %}}
