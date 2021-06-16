@@ -249,3 +249,19 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **89)** 10.4% of the U.S. dentists were affiliated with dental service organizations (DSOs) in 2019. {{% /stat %}}
 
 ![An illustration that shows dental statisticaboutng percentage of dentist working for DSOs](/assets/images/dental-facts-and-statistics-14.png)
+
+## Statistics About Dental Conditions
+
+{{% stat %}} **90)** On average, every 15 seconds, someone visits a hospital emergency department for dental conditions in the U.S. {{% /stat %}}
+
+![An illustration that shows dental fact about the frequency of dental condition in U.S](/assets/images/dental-facts-and-statistics-15.png)
+
+{{% stat %}} **91)** 2.1 Million is the total number of hospital emergency department visits for dental conditions in the United States. {{% /stat %}}
+
+{{% stat %}} **92)** 70% of hospital emergency department visits for dental conditions occurring outside of normal business hours. {{% /stat %}}
+
+{{% stat %}} **93)** $2.7 Billion is the total amount of dollars spent on hospital emergency department visits in the U.S in 2017. {{% /stat %}}
+
+{{% stat %}} **94)** 40% of hospital emergency department visits for dental conditions among adults in the United States that are paid for by Medicaid. {{% /stat %}}
+
+{{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States that are paid for by Medicaid. {{% /stat %}}
