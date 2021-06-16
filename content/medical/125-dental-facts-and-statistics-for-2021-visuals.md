@@ -4,8 +4,8 @@ authorAvatarBottom = "/assets/images/avatar/ss.jpg"
 authorAvatarTop = "/assets/images/avatar/s.jpg"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-statistics"
-date = ""
-description = ""
+date = 2021-06-15T23:00:00Z
+description = "You’ll learn of jaw-dropping figures and facts regarding dentistry 2021 in this guide. "
 draft = true
 featImg = ""
 featImgThumb = ""
@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "9"
 slug = "/dental-facts-statistics"
 socialThumbnail = ""
-table_of_content = []
+table_of_content = ["weird-dental-facts", "dental-statistics-and-facts-by-demographics--ethnicity", "pediatric-dental-facts", "dental-statistics-related-to-covid-19", "dental-industry-statistics", "dental-patients-facts", "dental-profession-facts-and-statistics", "statistics-about-dental-conditions"]
 title = "95 Dental Facts And Statistics For 2021 [+ Visuals]"
 twitterHandle = "#"
 
@@ -25,7 +25,7 @@ twitterHandle = "#"
 
 ***
 
-We’ve curated, and categorized a list of up-to-date stats below. Navigate using the content table on your right to jump to a category.
+We’ve categorized and illustrated a list of up-to-date dental facts & stats below. Navigate using the content table on your right to jump to a category.
 
 ## Weird Dental Facts
 
