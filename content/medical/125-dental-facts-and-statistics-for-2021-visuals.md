@@ -33,7 +33,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **1)** Jaw muscles can contract with a force of 55 up to 200 pounds of pressure \[1\]. {{% /stat %}}
 
-{{% stat %}} **2)** In a lifetime,  humans produce over 100,000 gallons of saliva \[1\]. {{% /stat %}}
+{{% stat %}} **2)** In a lifetime,  humans produce over 100,000 gallons of saliva \[2\]. {{% /stat %}}
 
 {{% stat %}} **3)** Ape and human teeth have the same shape. \[1\]. {{% /stat %}}
 
@@ -43,131 +43,131 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.png)
 
-{{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth. \[1\] {{% /stat %}}
+{{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth. \[2\] {{% /stat %}}
 
-{{% stat %}} **7)** Tooth prints are unique to each person. Same as fingerprints. \[1\] {{% /stat %}}
+{{% stat %}} **7)** Tooth prints are unique to each person. Same as fingerprints. \[2\] {{% /stat %}}
 
-{{% stat %}} **8)** Dental floss is sturdy. And it has been used by prisoners to climb buildings and escape in 1994. \[1\] {{% /stat %}}
+{{% stat %}} **8)** Dental floss is sturdy. And it has been used by prisoners to climb buildings and escape in 1994. \[2\] {{% /stat %}}
 
-{{% stat %}} **9)** Right-handed people tend to chew on the right side of the mouth, and left-handed people tend to chew on the left side. \[1\] {{% /stat %}}
+{{% stat %}} **9)** Right-handed people tend to chew on the right side of the mouth, and left-handed people tend to chew on the left side. \[2\] {{% /stat %}}
 
-{{% stat %}} **10)** On average, the woman smiles 68 times in a day. While men smile 8 times a day. \[1\] {{% /stat %}}
+{{% stat %}} **10)** On average, the woman smiles 68 times in a day. While men smile 8 times a day. \[2\] {{% /stat %}}
 
 ![Picture of dental fact that shows women smiling more than men](/assets/images/dental-facts-and-statistics-2.png)
 
-{{% stat %}} **11)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. \[1\] {{% /stat %}}
+{{% stat %}} **11)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. \[3\] {{% /stat %}}
 
-{{% stat %}} **12)** People prefer blue toothbrushes to red ones. {{% /stat %}}
+{{% stat %}} **12)** People prefer blue toothbrushes to red ones. \[3\]{{% /stat %}}
 
-{{% stat %}} **13)** It takes 43 muscles to frown and 17 to smile. {{% /stat %}}
+{{% stat %}} **13)** It takes 43 muscles to frown and 17 to smile. \[3\] {{% /stat %}}
 
-{{% stat %}} **14)** By drinking 1 soda can each day, the average American gains 6.8 Killos yearly. {{% /stat %}}
+{{% stat %}} **14)** By drinking 1 soda can each day, the average American gains 6.8 Killos yearly. \[3\] {{% /stat %}}
 
-{{% stat %}} **15)** The cotton candy machine was co-invented by a dentist. {{% /stat %}}
+{{% stat %}} **15)** The cotton candy machine was co-invented by a dentist. \[3\] {{% /stat %}}
 
-{{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion .{{% /stat %}}
+{{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion. \[3\] {{% /stat %}}
 
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
 
 ## Dental Statistics And Facts By Demographics & Ethnicity
 
-{{% stat %}} **17)** 93% of Americans plan to visit the dentist in 2021. {{% /stat %}}
+{{% stat %}} **17)** 93% of Americans plan to visit the dentist in 2021. \[4\] {{% /stat %}}
 
 ![Illustrations shows dental fact that 93% of americans plan to visit dentist in 2021](/assets/images/dental-facts-and-statistics-4.png)
 
-{{% stat %}} **18)** For all age groups, Hispanics and Blacks are most likely to face cost barriers to dental care. {{% /stat %}}
+{{% stat %}} **18)** For all age groups, Hispanics and Blacks are most likely to face cost barriers to dental care. \[5\] {{% /stat %}}
 
 ![A Graph shows dental stats illustrating how blacks and hispanics are most likely to face dental cost issues](/assets/images/dental-facts-and-statistics-5.png)
 
-{{% stat %}} **19)** Roughly 25% of American adults have no teeth. {{% /stat %}}
+{{% stat %}} **19)** Roughly 25% of American adults have no teeth \[3\]. {{% /stat %}}
 
-{{% stat %}} **20)** 95% of American adults with diabetes also have periodontal disease. {{% /stat %}}
+{{% stat %}} **20)** 95% of American adults with diabetes also have periodontal disease. \[3\] {{% /stat %}}
 
-{{% stat %}} **21)** Adult white people scored the highest percentage of dental visits in the past years followed by Asians. {{% /stat %}}
+{{% stat %}} **21)** Adult white people scored the highest percentage of dental visits in the past years followed by Asians. \[5\] {{% /stat %}}
 
-{{% stat %}} **22)** Racial disparities in dental care use are smallest for children and largest for seniors.{{% /stat %}}
+{{% stat %}} **22)** Racial disparities in dental care use are smallest for children and largest for seniors. \[5\] {{% /stat %}}
 
-{{% stat %}} **23)** In general, dental care use has increased over time for children and seniors, but not for adults.{{% /stat %}}
+{{% stat %}} **23)** In general, dental care use has increased over time for children and seniors, but not for adults. \[5\] {{% /stat %}}
 
-{{% stat %}} **24)** Cost barriers to dental care have fallen significantly for children while increasing for adults and seniors.{{% /stat %}}
+{{% stat %}} **24)** Cost barriers to dental care have fallen significantly for children while increasing for adults and seniors. \[5\] {{% /stat %}}
 
-{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health. {{% /stat %}}
+{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health.  \[4\] {{% /stat %}}
 
-{{% stat %}} **26)** Nearly one-quarter of dental students are Asian, compared to 18% of dentists overall and 6% of the U.S. population. {{% /stat %}}
+{{% stat %}} **26)** Nearly one-quarter of dental students are Asian, compared to 18% of dentists overall and 6% of the U.S. population. \[5\] {{% /stat %}}
 
-{{% stat %}} **27)** Educational debt levels for dental school graduates vary significantly by race. For example, more than 20% of Asian dentists graduate with no student debt compared to less than 1% of Black dentists. Black dentists, by far, graduate with the highest levels of educational debt. {{% /stat %}}
+{{% stat %}} **27)** Educational debt levels for dental school graduates vary significantly by race. For example, more than 20% of Asian dentists graduate with no student debt compared to less than 1% of Black dentists. Black dentists, by far, graduate with the highest levels of educational debt. \[5\] {{% /stat %}}
 
 ## Pediatric Dental Facts
 
-{{% stat %}} **28)** Children begin to develop their teeth in the womb — just 6 weeks after conception. {{% /stat %}}
+{{% stat %}} **28)** Children begin to develop their teeth in the womb — just 6 weeks after conception. \[1\]  {{% /stat %}}
 
-{{% stat %}} **29)** An adult tooth that has been knocked out of your child’s mouth starts to die within 15 minutes, but if you put it in milk or hold it in your mouth under the tongue it will survive longer. {{% /stat %}}
+{{% stat %}} **29)** An adult tooth that has been knocked out of your child’s mouth starts to die within 15 minutes, but if you put it in milk or hold it in your mouth under the tongue it will survive longer. \[1\] {{% /stat %}}
 
-{{% stat %}} **30)** Prehistoric children rarely have cavities because they don't eat sugar. {{% /stat %}}
+{{% stat %}} **30)** Prehistoric children rarely have cavities because they don't eat sugar. \[1\]  {{% /stat %}}
 
-{{% stat %}} **31)** Kids miss 51 million school hours a year due to dental-related illnesses. {{% /stat %}}
+{{% stat %}} **31)** Kids miss 51 million school hours a year due to dental-related illnesses. \[3\] {{% /stat %}}
 
 ![A Graph shows dental fact about kids losing school hours](/assets/images/dental-facts-and-statistics-6.png)
 
-{{% stat %}} **32)** About 74%-75% of school kids have dental cavities. {{% /stat %}}
+{{% stat %}} **32)** About 74%-75% of school kids have dental cavities. \[3\] {{% /stat %}}
 
-{{% stat %}} **33)** Children smile an average of 400 times a day. {{% /stat %}}
+{{% stat %}} **33)** Children smile an average of 400 times a day. \[6\]{{% /stat %}}
 
-{{% stat %}} **34)** Pediatric dentists form the 3rd biggest specialty area and account for 3.3% of overall dentists. {{% /stat %}}
+{{% stat %}} **34)** Pediatric dentists form the 3rd biggest specialty area and account for 3.3% of overall dentists. \[5\] {{% /stat %}}
 
 ![A Graph shows dental fact about pediatric speciality](/assets/images/dental-facts-and-statistics-7.png)
 
-{{% stat %}} **35)** mothers-to-be with poor oral hygiene are 7X more likely to deliver premature babies. {{% /stat %}}
+{{% stat %}} **35)** mothers-to-be with poor oral hygiene are 7X more likely to deliver premature babies. \[3\] {{% /stat %}}
 
 ## Dental Statistics Related To Covid-19
 
-{{% stat %}} **36)** Patient volume was estimated at 81% of pre-COVID-19 levels on average. {{% /stat %}}
+{{% stat %}} **36)** Patient volume was estimated at 81% of pre-COVID-19 levels on average. \[7\] {{% /stat %}}
 
-{{% stat %}} **37)** Staffing in dental offices was at 99% of pre-COVID-19 levels. {{% /stat %}}
+{{% stat %}} **37)** Staffing in dental offices was at 99% of pre-COVID-19 levels.  \[7\] {{% /stat %}}
 
-{{% stat %}} **38)** Over the past month, the most common measure taken by dentists to maintain financial sustainability was raising fees. Others responded to the financial challenges of practice ownership by taking out loans. {{% /stat %}}
+{{% stat %}} **38)** Over the past month, the most common measure taken by dentists to maintain financial sustainability was raising fees. Others responded to the financial challenges of practice ownership by taking out loans. \[7\] {{% /stat %}}
 
-{{% stat %}} **39)** Dentists in large group practices have had to take fewer measures to maintain financial sustainability compared to those practicing solo. {{% /stat %}}
+{{% stat %}} **39)** Dentists in large group practices have had to take fewer measures to maintain financial sustainability compared to those practicing solo. \[7\] {{% /stat %}}
 
-{{% stat %}} **40)** More than a third of dentists are practicing some form of teledentistry, most commonly to triage emergencies, do post-ops and follow-up care and for consults.{{% /stat %}}
+{{% stat %}} **40)** More than a third of dentists are practicing some form of teledentistry, most commonly to triage emergencies, do post-ops and follow-up care and for consults.  \[7\] {{% /stat %}}
 
-{{% stat %}} **41)** Approximately 10% of dentists who were enrolled as Medicaid providers prior to the COVID-19 pandemic have since disenrolled. {{% /stat %}}
+{{% stat %}} **41)** Approximately 10% of dentists who were enrolled as Medicaid providers prior to the COVID-19 pandemic have since disenrolled.  \[7\] {{% /stat %}}
 
-{{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go. {{% /stat %}}
+{{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go.  \[7\] {{% /stat %}}
 
 ![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.png)
 
-{{% stat %}} **43)** Despite circulating myths from news outlets that mask-wearing may impact oral health and cause “mask mouth,” a recent survey by ADA found no meaningful change in the for conditions such as bad breath and dry mouth compared to pre-Covid-19. {{% /stat %}}
+{{% stat %}} **43)** Despite circulating myths from news outlets that mask-wearing may impact oral health and cause “mask mouth,” a recent survey by ADA found no meaningful change in the for conditions such as bad breath and dry mouth compared to pre-Covid-19.  \[7\] {{% /stat %}}
 
-{{% stat %}} **44)** Dentists see more stress-related conditions during the pandemic. {{% /stat %}}
+{{% stat %}} **44)** Dentists see more stress-related conditions during the pandemic.  \[7\] {{% /stat %}}
 
-{{% stat %}} **45)** 40% of dentists think that cost/income will be the biggest challenge facing their practice. {{% /stat %}}
+{{% stat %}} **45)** 40% of dentists think that cost/income will be the biggest challenge facing their practice.  \[7\] {{% /stat %}}
 
-{{% stat %}} **46)** Nearly half of the dentists agree a drop in revenue has been the number #1 impact of the pandemic on their practice. {{% /stat %}}
+{{% stat %}} **46)** Nearly half of the dentists agree a drop in revenue has been the number #1 impact of the pandemic on their practice. \[8\] {{% /stat %}}
 
-{{% stat %}} **47)** 71% of dentists made use of the wage subsidy program to help sustain their practice. {{% /stat %}}
+{{% stat %}} **47)** 71% of dentists made use of the wage subsidy program to help sustain their practice. \[8\] {{% /stat %}}
 
-{{% stat %}} **48)** 51% of dentists agree the wage subsidy program was helpful in maintaining staffing levels. {{% /stat %}}
+{{% stat %}} **48)** 51% of dentists agree the wage subsidy program was helpful in maintaining staffing levels. \[8\] {{% /stat %}}
 
-{{% stat %}} **49)** Of all dentists who charge a covid-19 fee, over 33% of them charge $10 or lower.{{% /stat %}}
+{{% stat %}} **49)** Of all dentists who charge a covid-19 fee, over 33% of them charge $10 or lower. \[8\] {{% /stat %}}
 
-{{% stat %}} **50)** Over 33% of dentists believe infection control/IPAC is the skill covid-19 allowed them to learn more about. {{% /stat %}}
+{{% stat %}} **50)** Over 33% of dentists believe infection control/IPAC is the skill covid-19 allowed them to learn more about. \[8\] {{% /stat %}}
 
-{{% stat %}} **51)** About 50% of dentists have implemented teledentistry into their practice.{{% /stat %}}
+{{% stat %}} **51)** About 50% of dentists have implemented teledentistry into their practice. \[8\] {{% /stat %}}
 
-{{% stat %}} **52)** 87% of dentists have not implemented a covid-19 fee for their patients.{{% /stat %}}
+{{% stat %}} **52)** 87% of dentists have not implemented a covid-19 fee for their patients. \[8\] {{% /stat %}}
 
-{{% stat %}} **53)** 46% of dentists are likely to continue using their teledentistry program once things go back to normal. {{% /stat %}}
+{{% stat %}} **53)** 46% of dentists are likely to continue using their teledentistry program once things go back to normal. \[8\] {{% /stat %}}
 
-{{% stat %}} **54)** Over 50% of dentists believe covid-19 has had an impact on their purchases of technology and equipment. {{% /stat %}}
+{{% stat %}} **54)** Over 50% of dentists believe covid-19 has had an impact on their purchases of technology and equipment. \[8\] {{% /stat %}}
 
-{{% stat %}} **55)** 33% percent of dentists agree practice management is their biggest stressor.{{% /stat %}}
+{{% stat %}} **55)** 33% percent of dentists agree practice management is their biggest stressor. \[8\] {{% /stat %}}
 
-{{% stat %}} **56)** Moving forward, 94% of dentists agree their plans for CE are webinars and virtual online courses. {{% /stat %}}
+{{% stat %}} **56)** Moving forward, 94% of dentists agree their plans for CE are webinars and virtual online courses. \[8\] {{% /stat %}}
 
-{{% stat %}} **57)** Information about COVID cases in dental offices influences patient attendance.{{% /stat %}}
+{{% stat %}} **57)** Information about COVID cases in dental offices influences patient attendance. \[10\] {{% /stat %}}
 
-{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes. \[11\] {{% /stat %}}
 
 ![A pie chart that shows patient satasfaction using telehealth solutions](/assets/images/dental-facts-and-statistics-9.png)
 
@@ -268,4 +268,24 @@ These are some of the weirdest dental facts we think you should know.
 
 ## Footnotes
 
-**\[1\]** →  https://<span></span>warrpda.org/fun-facts-dentistry/
+**\[1\]** **→**  https://<span></span>warrpda.org/fun-facts-dentistry/
+
+**\[2\]** **→**  https://<span></span>omahadentists.net/blog/interesting-teeth-and-dentistry-facts/
+
+**\[3\]** **→**  https://<span></span>www.imagine-smiles.com/fun-dental-facts.html
+
+**\[4\]** **→**  Delta Dental's Oral Health & Wellness Survey was conducted December 28, 2020, through January 8, 2021, among a nationally representative sample of 1,000+ Americans ages 18+, with a margin of error of +/- 3%
+
+**\[5\]** **→**  https://<span></span>ada.org/en/science-research/health-policy-institute/publications/infographics
+
+**\[6\]** **→**  https://<span></span>thejournal.ie/mental-health-smile-1550017-Jul2014/
+
+**\[7\]** **→**  https://<span></span>ada.org/en/publications/ada-news/2021-archive/march/hpi-poll-dentists-see-increased-prevalence-of-stress-related-oral-health-conditions
+
+**\[8\]** **→**  https://<span></span>oralhealthgroup.com/features/data-driven-dentistry-2021-a-summary/
+
+**\[9\]** **→**  https://<span></span>nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
+
+**\[10\]** **→**  https://<span></span>nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
+
+**\[11\]** **→**  https://<span></span>pubmed.ncbi.nlm.nih.gov/26269131/
