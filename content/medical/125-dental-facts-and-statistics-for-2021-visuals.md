@@ -230,18 +230,22 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **81)** Dentists’ average age at retirement was 68.2 in 2020. {{% /stat %}}
 
-{{% stat %}} **82)**The percentage of female dentists in the workforce increased from 24% to 35%. This increase is expected to continue for several more years, as is evident in the growth of the proportion of female dental school graduates. {{% /stat %}}
+{{% stat %}} **82)** The percentage of female dentists in the workforce increased from 24% to 35%. This increase is expected to continue for several more years, as is evident in the growth of the proportion of female dental school graduates. {{% /stat %}}
 
-![](/assets/images/dental-facts-and-statistics-13-1.png)
+![Illustration that shows dental statistics regarding the increase of female workforce ](/assets/images/dental-facts-and-statistics-13-1.png)
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **83)** 50% of private practice dentists work solo. {{% /stat %}}
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **84)** Female dentists have been consistently less likely than male dentists to own their practice. {{% /stat %}}
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **85)** Fewer dentists are working as solo practitioners. About 2 in 3 dentists were in solo practice in 1999. That proportion decreased to 1 in 2 in 2019. {{% /stat %}}
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **86)** The average general practitioner wait times increased to 7.9 days for new patients and 5.9 for a patient of record. {{% /stat %}}
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **87)** dentists are increasingly practicing in groups, particularly younger dentists. In 2019, only 1 in 4 dentists under 35 was in solo practice. {{% /stat %}}
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **88)** The average net income has increased over the years for both general practitioners up to $204,710 and specialists up to $343,410. {{% /stat %}}
+
+{{% stat %}} **89)** 10.4% of the U.S. dentists were affiliated with dental service organizations (DSOs) in 2019. {{% /stat %}}
+
+![An illustration that shows dental statisticaboutng percentage of dentist working for DSOs](/assets/images/dental-facts-and-statistics-14.png)
