@@ -186,7 +186,7 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **63)** More than 3,000,000 (3M) of floss is bought in North America each year. \[3\] {{% /stat %}}
 
 {{% stat %}} **64)** 64.3% of healthcare companies do not use patient data to measure their performance. \[15\]  
- {{% /stat %}}
+{{% /stat %}}
 
 ## Dental Patients Facts
 
@@ -198,7 +198,7 @@ These are some of the weirdest dental facts we think you should know.
 
 ![An illustration that shows dental statistics about patients using online reviews to choose their dentists](/assets/images/dental-facts-and-statistics-12.png)
 
-{{% stat %}} **68)** More than half of patients will switch medical providers for better online service. \[18\] {{% /stat %}} 
+{{% stat %}} **68)** More than half of patients will switch medical providers for better online service. \[18\] {{% /stat %}}
 
 {{% stat %}} **69)** 57% of patients anticipate medical professionals to make appointments, reminders, and follow-ups via text automation, voice or email. \[19\] {{% /stat %}}
 
@@ -234,7 +234,7 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Illustration that shows dental statistics regarding the increase of female workforce ](/assets/images/dental-facts-and-statistics-13-1.png)
 
-{{% stat %}} **83)** 50% of private practice dentists work solo. \[5\] {{% /stat %}} 
+{{% stat %}} **83)** 50% of private practice dentists work solo. \[5\] {{% /stat %}}
 
 {{% stat %}} **84)** Female dentists have been consistently less likely than male dentists to own their practice. \[5\] {{% /stat %}}
 
@@ -272,7 +272,7 @@ These are some of the weirdest dental facts we think you should know.
 
 **\[2\]** **→**  https://<span></span>omahadentists.net/blog/interesting-teeth-and-dentistry-facts/
 
-**\[3\]** **→**  https://<span></span>www.imagine-smiles.com/fun-dental-facts.html
+**\[3\]** **→**  https://<span></span>imagine-smiles.com/fun-dental-facts.html
 
 **\[4\]** **→**  Delta Dental's Oral Health & Wellness Survey was conducted December 28, 2020, through January 8, 2021, among a nationally representative sample of 1,000+ Americans ages 18+, with a margin of error of +/- 3%
 
@@ -302,12 +302,12 @@ These are some of the weirdest dental facts we think you should know.
 
 **\[17\]** **→**  https://<span></span>softwareadvice.com/resources/how-patients-use-online-reviews/#1
 
-**\[18\]** **→**  https://<span></span>intuit.com/company/press-room/press-releases/2011/IntuitHealthSurveyAmericansWorriedAboutCostsWantGreaterAccesstoPhysicians/
+**\[18\]** **→**  https://<span></span>intuit.me/3gEjmbl
 
 **\[19\]** **→**  https://<span></span>insight.intrado.com/10-ways-patient-wish-list-white-paper
 
 **\[20\]** **→**  https://<span></span>ada.org/en/publications/ada-news/2017-archive/october/new-survey-highlights-unusual-flossing-habits
 
- **\[21\]** **→**  https://<span></span>cdc.gov/nchs/data/databriefs/db197.pdf
+**\[21\]** **→**  https://<span></span>cdc.gov/nchs/data/databriefs/db197.pdf
 
- **\[22\]** **→**  https://<span></span>rpdo.com/blog/10-fun-dental-facts
+**\[22\]** **→**  https://<span></span>rpdo.com/blog/10-fun-dental-facts
