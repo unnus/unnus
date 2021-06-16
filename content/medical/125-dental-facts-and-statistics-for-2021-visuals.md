@@ -170,3 +170,25 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
 
 ![A pie chart that shows patient satasfaction using telehealth solutions](/assets/images/dental-facts-and-statistics-9.png)
+
+## Dental Industry Statistics
+
+{{% stat %}} **59)** 72% of dentists choose referrals as a potent method to generate patients.{{% /stat %}}
+
+{{% stat %}} **60)** 77% of dentists choose websites as their first marketing channel, followed by  68% that preferred social media, 48% who used emails marketing, 34% print ads,  21% used digital advertising platforms, and 18% for direct mails. {{% /stat %}}
+
+![A bar graph that shows statistic related to dentists using marketing channels ](/assets/images/dental-facts-and-statistics-10.png)
+
+{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024 {{% /stat %}}
+
+{{% stat %}} **62)** Dental implants have a 97% success rate {{% /stat %}}
+
+{{% stat %}} **63)** Over 3 million miles of dental floss is purchased in North America each year. {{% /stat %}}
+
+{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+
+{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+
+{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
+
+{{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes.{{% /stat %}}
