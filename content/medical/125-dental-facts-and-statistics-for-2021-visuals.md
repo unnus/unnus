@@ -232,7 +232,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **82)**The percentage of female dentists in the workforce increased from 24% to 35%. This increase is expected to continue for several more years, as is evident in the growth of the proportion of female dental school graduates. {{% /stat %}}
 
-![](/assets/images/dental-facts-and-statistics-13.png)
+![](/assets/images/dental-facts-and-statistics-13-1.png)
 
 {{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
 
