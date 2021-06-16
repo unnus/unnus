@@ -173,98 +173,98 @@ These are some of the weirdest dental facts we think you should know.
 
 ## Dental Industry Statistics
 
-{{% stat %}} **59)** 72% of dentists choose referrals as a potent method to generate patients.{{% /stat %}}
+{{% stat %}} **59)** 72% of dentists choose referrals as a potent method to generate patients. \[12\] {{% /stat %}}
 
-{{% stat %}} **60)** 77% of dentists choose websites as their first marketing channel, followed by  68% that preferred social media, 48% who used emails marketing, 34% print ads,  21% used digital advertising platforms, and 18% for direct mails. {{% /stat %}}
+{{% stat %}} **60)** 77% of dentists choose websites as their first marketing channel, followed by  68% that preferred social media, 48% who used emails marketing, 34% print ads,  21% used digital advertising platforms, and 18% for direct mails. \[12\] {{% /stat %}}
 
 ![A bar graph that shows statistic related to dentists using marketing channels ](/assets/images/dental-facts-and-statistics-10.png)
 
-{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024 {{% /stat %}}
+{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024  \[13\] {{% /stat %}}
 
-{{% stat %}} **62)** Dental implants have a 97% success rate {{% /stat %}}
+{{% stat %}} **62)** Dental implants have a 97% success rate \[14\] {{% /stat %}}
 
-{{% stat %}} **63)** More than 3,000,000 (3M) of floss is bought in North America each year. {{% /stat %}}
+{{% stat %}} **63)** More than 3,000,000 (3M) of floss is bought in North America each year. \[3\] {{% /stat %}}
 
-{{% stat %}} **64)** 64.3% of healthcare companies do not use patient data to measure their performance.  
+{{% stat %}} **64)** 64.3% of healthcare companies do not use patient data to measure their performance. \[15\]  
  {{% /stat %}}
 
 ## Dental Patients Facts
 
-{{% stat %}} **65)** Patients’ comfort level for dental visits depends on the type of procedure {{% /stat %}}
+{{% stat %}} **65)** Patients’ comfort level for dental visits depends on the type of procedure \[9\] {{% /stat %}}
 
-{{% stat %}} **66)** 3/4 of adults experience dental anxiety or fear. {{% /stat %}}
+{{% stat %}} **66)** 3/4 of adults experience dental anxiety or fear. \[16\] {{% /stat %}}
 
-{{% stat %}} **67)** 3/4 of patients use web reviews to choose new dentist. {{% /stat %}}
+{{% stat %}} **67)** 3/4 of patients use web reviews to choose new dentist. \[17\] {{% /stat %}}
 
 ![An illustration that shows dental statistics about patients using online reviews to choose their dentists](/assets/images/dental-facts-and-statistics-12.png)
 
-{{% stat %}} **68)** More than half of patients will switch medical providers for better online service. {{% /stat %}} 
+{{% stat %}} **68)** More than half of patients will switch medical providers for better online service. \[18\] {{% /stat %}} 
 
-{{% stat %}} **69)** 57% of patients anticipate medical professionals to make appointments, reminders, and follow-ups via text automation, voice or email. {{% /stat %}}
+{{% stat %}} **69)** 57% of patients anticipate medical professionals to make appointments, reminders, and follow-ups via text automation, voice or email. \[19\] {{% /stat %}}
 
 ![Illustration that shows dental statistics about patient expectation when it comes to digital service](/assets/images/dental-facts-and-statistics-11.png)
 
-{{% stat %}} **70)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than uninsured patients and accept twice the amount of treatment. {{% /stat %}}
+{{% stat %}} **70)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than uninsured patients and accept twice the amount of treatment. \[12\] {{% /stat %}}
 
-{{% stat %}} **71)** In a survey of 1005 adults, most Americans said that they used a multiple ways of methods of getting rid of the food in their teeth: fingernails (61%), cards (40%), cutlery (21%), pins (14%), and strands of hair (7%). {{% /stat %}}
+{{% stat %}} **71)** In a survey of 1005 adults, most Americans said that they used a multiple ways of methods of getting rid of the food in their teeth: fingernails (61%), cards (40%), cutlery (21%), pins (14%), and strands of hair (7%).  \[20\] {{% /stat %}}
 
-{{% stat %}} **72)** In adults, 16% said that they flossed at least 1 time a day, 20% said they flossed when they needed to and 8% said that they never did floss. The reasons for not flossing was that it takes a lot of time (55%), 16% said it was pain-inducing and 9% said they find it repulsive. {{% /stat %}}
+{{% stat %}} **72)** In adults, 16% said that they flossed at least 1 time a day, 20% said they flossed when they needed to and 8% said that they never did floss. The reasons for not flossing was that it takes a lot of time (55%), 16% said it was pain-inducing and 9% said they find it repulsive. \[20\] {{% /stat %}}
 
-{{% stat %}} **73)** Among adults aged 20-64, 91% had decayed teeth areas and 27% had permanently damaged areas in thier teeth. {{% /stat %}}
+{{% stat %}} **73)** Among adults aged 20-64, 91% had decayed teeth areas and 27% had permanently damaged areas in thier teeth. \[21\] {{% /stat %}}
 
-{{% stat %}} **74)** More than 90% of bad breath originates in the mouth. {{% /stat %}}
+{{% stat %}} **74)** More than 90% of bad breath originates in the mouth. \[2\] {{% /stat %}}
 
-{{% stat %}} **75)** People who drink \~4 cups of soda daily are 62% likely to suffer from tooth loss. {{% /stat %}}
+{{% stat %}} **75)** People who drink \~4 cups of soda daily are 62% likely to suffer from tooth loss. \[2\] {{% /stat %}}
 
-{{% stat %}} **76)** The average person brushes 44-70 seconds/day while the recommended time is 2-4 minutes. {{% /stat %}}
+{{% stat %}} **76)** The average person brushes 44-70 seconds/day while the recommended time is 2-4 minutes.  \[22\] {{% /stat %}}
 
-{{% stat %}} **77)** People who smoke are 2.7 times more likely to develop periodontal disease.{{% /stat %}}
+{{% stat %}} **77)** People who smoke are 2.7 times more likely to develop periodontal disease. \[3\] {{% /stat %}}
 
-{{% stat %}} **78)** People with periodontal disease are 2X more likely to develop heart disease. {{% /stat %}}
+{{% stat %}} **78)** People with periodontal disease are 2X more likely to develop heart disease. \[3\] {{% /stat %}}
 
-{{% stat %}} **79)** 90% of system diseases have oral manifestations. {{% /stat %}}
+{{% stat %}} **79)** 90% of system diseases have oral manifestations. \[3\] {{% /stat %}}
 
 ## Dental Profession Facts And Statistics
 
-{{% stat %}} **80)** The average dentist’s age was 49 in 2020. {{% /stat %}}
+{{% stat %}} **80)** The average dentist’s age was 49 in 2020. \[5\] {{% /stat %}}
 
-{{% stat %}} **81)** Dentists’ average age at retirement was 68.2 in 2020. {{% /stat %}}
+{{% stat %}} **81)** Dentists’ average age at retirement was 68.2 in 2020. \[5\] {{% /stat %}}
 
-{{% stat %}} **82)** The percentage of female dentists in the workforce increased from 24% to 35%. This increase is expected to continue for several more years, as is evident in the growth of the proportion of female dental school graduates. {{% /stat %}}
+{{% stat %}} **82)** The percentage of female dentists in the workforce increased from 24% to 35%. This increase is expected to continue for several more years, as is evident in the growth of the proportion of female dental school graduates. \[5\] {{% /stat %}}
 
 ![Illustration that shows dental statistics regarding the increase of female workforce ](/assets/images/dental-facts-and-statistics-13-1.png)
 
-{{% stat %}} **83)** 50% of private practice dentists work solo. {{% /stat %}}
+{{% stat %}} **83)** 50% of private practice dentists work solo. \[5\] {{% /stat %}} 
 
-{{% stat %}} **84)** Female dentists have been consistently less likely than male dentists to own their practice. {{% /stat %}}
+{{% stat %}} **84)** Female dentists have been consistently less likely than male dentists to own their practice. \[5\] {{% /stat %}}
 
-{{% stat %}} **85)** Fewer dentists are working as solo practitioners. About 2 in 3 dentists were in solo practice in 1999. That proportion decreased to 1 in 2 in 2019. {{% /stat %}}
+{{% stat %}} **85)** Fewer dentists are working as solo practitioners. About 2 in 3 dentists were in solo practice in 1999. That proportion decreased to 1 in 2 in 2019. \[5\] {{% /stat %}}
 
-{{% stat %}} **86)** The average general practitioner wait times increased to 7.9 days for new patients and 5.9 for a patient of record. {{% /stat %}}
+{{% stat %}} **86)** The average general practitioner wait times increased to 7.9 days for new patients and 5.9 for a patient of record. \[5\] {{% /stat %}}
 
-{{% stat %}} **87)** dentists are increasingly practicing in groups, particularly younger dentists. In 2019, only 1 in 4 dentists under 35 was in solo practice. {{% /stat %}}
+{{% stat %}} **87)** dentists are increasingly practicing in groups, particularly younger dentists. In 2019, only 1 in 4 dentists under 35 was in solo practice. \[5\] {{% /stat %}}
 
-{{% stat %}} **88)** The average net income has increased over the years for both general practitioners up to $204,710 and specialists up to $343,410. {{% /stat %}}
+{{% stat %}} **88)** The average net income has increased over the years for both general practitioners up to $204,710 and specialists up to $343,410. \[5\] {{% /stat %}}
 
-{{% stat %}} **89)** 10.4% of the U.S. dentists were affiliated with dental service organizations (DSOs) in 2019. {{% /stat %}}
+{{% stat %}} **89)** 10.4% of the U.S. dentists were affiliated with dental service organizations (DSOs) in 2019. \[5\] {{% /stat %}}
 
 ![An illustration that shows dental statisticaboutng percentage of dentist working for DSOs](/assets/images/dental-facts-and-statistics-14.png)
 
 ## Statistics About Dental Conditions
 
-{{% stat %}} **90)** On average, every 15 seconds, someone visits a hospital emergency department for dental conditions in the U.S. {{% /stat %}}
+{{% stat %}} **90)** On average, every 15 seconds, someone visits a hospital emergency department for dental conditions in the U.S.  \[5\] {{% /stat %}}
 
 ![An illustration that shows dental fact about the frequency of dental condition in U.S](/assets/images/dental-facts-and-statistics-15.png)
 
-{{% stat %}} **91)** 2.1 Million is the total number of hospital emergency department visits for dental conditions in the United States. {{% /stat %}}
+{{% stat %}} **91)** 2.1 Million is the total number of hospital emergency department visits for dental conditions in the United States.  \[5\] {{% /stat %}}
 
-{{% stat %}} **92)** 70% of hospital emergency department visits for dental conditions occurring outside of normal business hours. {{% /stat %}}
+{{% stat %}} **92)** 70% of hospital emergency department visits for dental conditions occurring outside of normal business hours. \[5\] {{% /stat %}}
 
-{{% stat %}} **93)** $2.7 Billion is the total amount of dollars spent on hospital emergency department visits in the U.S in 2017. {{% /stat %}}
+{{% stat %}} **93)** $2.7 Billion is the total amount of dollars spent on hospital emergency department visits in the U.S in 2017. \[5\] {{% /stat %}}
 
-{{% stat %}} **94)** 40% of hospital emergency department visits for dental conditions among adults in the United States are paid for by Medicaid. {{% /stat %}}
+{{% stat %}} **94)** 40% of hospital emergency department visits for dental conditions among adults in the United States are paid for by Medicaid. \[5\] {{% /stat %}}
 
-{{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States are paid for by Medicaid. {{% /stat %}}
+{{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States are paid for by Medicaid. \[5\] {{% /stat %}}
 
 ## Footnotes
 
@@ -289,3 +289,25 @@ These are some of the weirdest dental facts we think you should know.
 **\[10\]** **→**  https://<span></span>nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
 
 **\[11\]** **→**  https://<span></span>pubmed.ncbi.nlm.nih.gov/26269131/
+
+**\[12\]** **→**  https://<span></span>aegisdentalnetwork.com/id/2019/01/trends-in-dentistry/
+
+**\[13\]** **→**  https://<span></span>globenewswire.com/news-release/2019/07/15/1882684/0/en/Global-Share-of-Dental-Implants-Market-to-Gain-USD-721-0-Million-By-2024-Zion-Market-Research.html
+
+**\[14\]** **→**  https://<span></span>trendstatistics.com/health/dental-implants-facts-statistics/
+
+**\[15\]** **→**  https://<span></span>digitalcommerce360.com/2019/07/28/put-health-data-into-the-right-context/
+
+**\[16\]** **→**  https://<span></span>sciencedirect.com/science/article/abs/pii/S0272735816302331
+
+**\[17\]** **→**  https://<span></span>softwareadvice.com/resources/how-patients-use-online-reviews/#1
+
+**\[18\]** **→**  https://<span></span>intuit.com/company/press-room/press-releases/2011/IntuitHealthSurveyAmericansWorriedAboutCostsWantGreaterAccesstoPhysicians/
+
+**\[19\]** **→**  https://<span></span>insight.intrado.com/10-ways-patient-wish-list-white-paper
+
+**\[20\]** **→**  https://<span></span>ada.org/en/publications/ada-news/2017-archive/october/new-survey-highlights-unusual-flossing-habits
+
+ **\[21\]** **→**  https://<span></span>cdc.gov/nchs/data/databriefs/db197.pdf
+
+ **\[22\]** **→**  https://<span></span>rpdo.com/blog/10-fun-dental-facts
