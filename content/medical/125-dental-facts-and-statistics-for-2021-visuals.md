@@ -268,4 +268,4 @@ These are some of the weirdest dental facts we think you should know.
 
 ## Footnotes
 
-**\[1\]** =>  https://<span></span>warrpda.org/fun-facts-dentistry/
+**\[1\]** →  https://<span></span>warrpda.org/fun-facts-dentistry/
