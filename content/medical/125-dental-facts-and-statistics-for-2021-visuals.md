@@ -1,6 +1,6 @@
 +++
 author = "Sara Seirawan"
-authorAvatarBottom = "/assets/images/ss.jpg"
+authorAvatarBottom = "/assets/images/avatar/ss.jpg"
 authorAvatarTop = "/assets/images/avatar/s.jpg"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-statistics"
