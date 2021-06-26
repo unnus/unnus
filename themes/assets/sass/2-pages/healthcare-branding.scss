@@ -1,0 +1,157 @@
+.course-home-header{
+	h1{
+		font-size:2.2em;
+	}
+	.ul-checklist, p{
+		    margin: 0 0 10px;
+	}
+	height:100vh;
+	.black-header{
+		position:absolute;
+		top:0;
+		right:0;
+		width:40%;
+		background:$sc;
+		height:100vh;
+		.header-testimonial{
+		    position: absolute;
+		    top: 42%;
+		    left: 17%;
+		    transform: translateY(-50%);			
+		    width: 364px;			
+		    .left-quote{
+					left: -34%;
+			    top: -31%;
+		    }
+		    .right-quote{
+			    right: -30%;
+			    bottom: -35%;		    	
+		    }
+		}
+	
+		blockquote{
+		position:relative;
+	  font-family: 'Droid Serif';
+	  color:#FFF;
+	  font-style: italic;  
+	 	font-size:1.45em; 
+	    svg{
+	    	width:80px;
+	    	position: absolute;
+	    	path{
+		    	fill-opacity:1;
+	    	}
+	    }
+		}
+
+		.avatar-testimonial{
+	    display: flex;
+	    align-items: flex-end;
+
+			.avatar-image{
+		    background: url('../assets/images/avatar/Ibrahim-Coban.jpg');
+		    width: 100px;
+		    height: 100px;
+		    background-size: contain;
+		    margin-top: 15%;
+		    border-radius: 50%;
+			}
+			span{
+		    color: white;
+		    transform: translate(21px,-25px);
+		    font-size: 1.2em;
+
+			}
+		}
+	}
+
+	.header-content{
+			width:590px;
+			margin-top:4%;
+	}
+}
+
+
+
+.course-check{
+
+	list-style: none;
+	padding:0;
+	svg{
+		width: 35px;
+    height: 29px;
+    position: absolute;
+    left: 26px;
+    top: 28px;
+    padding: 5px;
+    background: black;
+    path{
+    	fill:#FFF;
+    }
+	}
+	li{
+    line-height: 2;
+    padding-left: 15%;
+    box-shadow: 0 10px 50px rgba(25, 37, 52, 0.14), 0 2px 5px rgba(25, 37, 52, 0.03);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    padding-right: 14%;
+    position: relative;
+	}
+
+	li:nth-child(1){
+		p{
+			font-size:1em;
+			margin:0;
+			// padding:0;
+			// display: none;
+		}
+	}
+}
+
+.updated-course-intro-holder{
+	img{
+		width:100%;
+		margin:5px 0 10px 0;
+	}
+}
+
+.course-content{
+  background:#000; // fall back color
+  background: linear-gradient(351deg, #920c00 0%, black 96%);
+	padding-top: 80px;
+	padding-bottom: 80px;
+	margin-bottom:0;
+	h2{
+		text-align:center;
+		color:#FFF;
+	}
+
+	.module-holder{
+		display: flex;
+		flex-direction:column;
+	}
+
+	.row{
+		display: flex;
+		text-align: center;
+		margin-top:5%;
+		svg{
+			width:80px;
+			height:80px;
+			 path {
+			    stroke: #FFF;
+			    stroke-width: 0px;
+			}
+		}
+	}
+
+	.lesson {
+		h4{
+			color:#FFF;
+		}
+		p{padding: 0 30px 0 30px}
+	}
+
+}

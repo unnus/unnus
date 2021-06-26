@@ -36,6 +36,10 @@
 	  {{ partial "headers/rebranded-header.html" . }}
 	{{ end }}
 
+	{{ if eq $.Page.Params.which "ux" }}
+	  {{ partial "headers/one-dollar-ux.html" . }}
+	{{ end }}
+
 
 		{{ .Content }}
 
