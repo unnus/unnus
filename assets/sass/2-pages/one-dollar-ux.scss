@@ -1,3 +1,20 @@
-// .ux-logo{
-//    float: left;
-// }
+.ux-header{
+.stroked-brush {
+    background: url(../assets/images/red-brush-stroke-banner.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 56px 0;
+}
+
+
+	.header-content-contact{
+		width:750px;
+		.ux-logo{
+			width:125px;
+		}
+		margin:0 auto;
+	}
+	.form-container{
+		margin: 0 auto;
+	}
+}
