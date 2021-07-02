@@ -1954,7 +1954,7 @@
 }
 
 
-/* Responsive unnus Brand Strategy page */
+/* Responsive unnus four dollar ux page */
 
 // Small 576px~
 // Medium 768px~
@@ -1962,28 +1962,119 @@
 // Extra Large 1200px~
 // Mega large 1500~1600+
 
-@media (max-width: 992px){
-	.brand-strategy-header .second-btn{
-		margin-left:0 !important;
-		margin-top:10px !important;
+
+@media (max-width: 1200px){
+	.ux-main-header{
+			nav #logo img{
+				width:120px !important;
+			}
+	}
+	.ux-header{
+		h1{
+			margin-top:0;
+			font-size:2em;
+		}
+		.btn-s{
+			width:205px !important;
+		}
 	}
 }
 
 
-@media (max-width: 794px){
-	.brand-strategy-holder .first-intro{
-		width:550px;
+@media (max-width: 768px){
+	.ux-header{
+		height: auto;
+		h1{
+			margin-top:0;
+			font-size:2em;
+		}
+		.gumroad-button{
+			width:100%;
+		}
+		.btn-s{
+			width:100% !important;
+		}
+		.btn-s:last-child{
+			margin-left:0 !important;
+			margin-top:3%;
+		}
+	}
+
+	.ux-section{
+		.last-holder{
+			img{
+				width:100%;
+			}
+		}
+	}
+
+}
+
+@media (max-width: 992px){
+	.ux-section{
+		.ux-holder{
+			flex-direction:column;
+			align-items:center;
+		}
+		.ux-holder:not(.last-holder){
+			width:500px;
+			margin:0 auto;
+			.ux-img{
+				order:2
+			}
+		}
+	}
+}
+
+@media (max-width: 557px){
+
+	.last-form{
+		h2{
+			font-size:2em;
+		}
+		button{
+			width:304px !important;
+			svg{display: none;}
+		}
+		.ux-logo-img{
+			margin-top: 30%;
+		}
+	}
+
+	.ux-section{
+		.ux-text h2{
+			font-size:2em;
+		}
+		.ux-holder:not(.last-holder){
+			width:100%;
+			margin:0 auto;
+			.ux-img{
+				order:2;
+				img{
+					width:100%
+				}
+			}
+		}
+	}
+}
+
+/* Responsive unnus ux thank you page */
+
+// Small 576px~
+// Medium 768px~
+// Large 992px~
+// Extra Large 1200px~
+// Mega large 1500~1600+
+
+
+@media (max-width: 992px){
+	.ux-confirmation .header-content-contact{
+		width:500px;	
 	}
 }
 
 @media (max-width: 576px){
-	.brand-strategy-holder .first-intro{
-		width:450px;
-	}
-}
-
-@media (max-width: 450px){
-	.brand-strategy-holder .first-intro{
-		width:325px;
+	.ux-confirmation .header-content-contact{
+		width:310px;	
 	}
 }

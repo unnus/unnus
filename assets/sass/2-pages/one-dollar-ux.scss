@@ -1,20 +1,175 @@
+.ux-main-header{
+	.black-header{
+		width:49%;
+	  background: url(../assets/images/ux-report.png);
+	  background-size:cover;
+	}
+}
+
 .ux-header{
-.stroked-brush {
+	height: 100vh;
+	.stroked-brush {
+	    background: url(../assets/images/red-brush-stroke-banner.svg);
+	    background-repeat: no-repeat;
+	    background-size: 100% 100%;
+	    padding: 56px 0%;
+	}
+
+	.gumroad-button{
+		background:none !important;
+		box-shadow: none;
+		border-radius: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    text-shadow: none !important;
+    text-decoration: none !important;	
+
+		.gumroad-button-logo{
+			display: none !important;
+		}
+		.btn-s{
+			width:290px;
+	    font-family: 'lato';
+	    overflow: hidden;
+	    font-size:1.2em !important;
+		}
+
+	}
+
+}
+
+// .ux-header{
+// 	height: 100vh;
+// .stroked-brush {
+//     background: url(../assets/images/red-brush-stroke-banner.svg);
+//     background-repeat: no-repeat;
+//     background-size: 100% 100%;
+//     padding: 56px 0%;
+// }
+// 	.header-content-contact{
+// 		width:750px;
+// 		.ux-logo{
+// 			width:170px;
+// 		}
+// 		margin:0 auto;
+// 	}
+// 	.form-container{
+// 		margin: 0 auto;
+// 	}
+// 	form{
+// 		text-align: center;
+// 		.btn-s{
+// 			margin-top:1%;
+// 			width:254px;
+// 		}
+// 	}
+// }
+
+.ux-section{
+	margin-top:0;
+	padding-top:0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+
+	h2.reveal-text{
+		text-align: center;
+    margin-bottom: 10%;
+	}
+	.ux-holder:nth-child(odd){
+		.ux-text{
+			margin-left: 5%;
+		}
+	}
+	.ux-holder:nth-child(even){
+		.ux-text{
+			margin-right: 5%;
+		}
+	}	
+	.ux-holder{
+		margin-top:5%;
+		padding:10px;
+		display: flex;
+		img{
+			width:600px;
+			border-radius: 10px;
+			// box-shadow: 0 10px 50px rgba(25, 37, 52, 0.10), 0 2px 5px rgba(25, 37, 52, 0.03);
+		}
+	}
+
+	.last-holder{
+		display: block !important;
+		text-align:center;
+		img{
+			width:auto;
+		}		
+	}
+}
+
+.last-form{
+	.stroked-brush {
     background: url(../assets/images/red-brush-stroke-banner.svg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    padding: 56px 0;
+    padding: 56px 1%;
 }
 
+	h2{
+		text-align: center;
+	}
+	p{
+    color: #333;
+    font-family: lato;
+    font-size: 16px;
+    line-height:0;
+    margin: auto;		
+    text-align: center;
+	}
 
-	.header-content-contact{
-		width:750px;
-		.ux-logo{
-			width:125px;
+		.gumroad-button{
+		background:none !important;
+		box-shadow: none;
+		border-radius: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    text-shadow: none !important;
+    text-decoration: none !important;	
+
+		.gumroad-button-logo{
+			display: none !important;
 		}
-		margin:0 auto;
+		.btn-s{
+			width:420px;
+	    font-family: 'lato';
+	    overflow: hidden;
+	    font-size:1.3em !important;
+		}
+
 	}
-	.form-container{
-		margin: 0 auto;
+
+		.btn-s{
+			width:420px;
+			margin-left:1%;
+			overflow: hidden;
+		}
+
+}
+
+.ux-logo-img{
+	text-align: center;
+	margin-top:10%;
+	h3{
+		color:#000;
 	}
+	h4{
+		color:rgba(#000, .7);
+		font-weight: 100;
+	}
+	a{
+		color:rgba(blue, .7)
+	}
+}
+
+.ux-confirmation .header-content-contact{
+	width: 800px;
+	margin:0 auto;
 }

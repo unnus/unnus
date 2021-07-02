@@ -17,6 +17,13 @@
 
 	{{ end }}
 
+	{{ if eq $.Page.Params.which "ux-success" }}
+	  {{ partial "headers/ux-success-header.html" . }}
+	  {{ partial "sidebar.html" . }}
+	  {{ partial "goup.html" . }}
+
+	{{ end }}
+
   <body>
 
 		{{ .Content }}
