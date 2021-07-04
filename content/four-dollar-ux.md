@@ -22,10 +22,9 @@ weight: 6
 <h2 class="reveal-text">What's Inside?</h2>
 <div class="ux-holder">
 <div class="ux-text">
-<h2>1) A complete Run down of your user experience</h2>
+<h2>1) A complete Rundown of your user experience</h2>
 <p>
-	Simple & straightforward color-coding to visually group comments for your team and prioritize usability issues.
-	Simple & straightforward color-coding to visually group comments for you.
+	User experience (UX) focuses on having a deep understanding of users, what they need, what they value, their abilities, and also their limitations. By buying our report, you'll get a comprhansive rundown of your page's UX and how to improve each and every aspect of it. 
 </p>
 </div>
 <div class="ux-img">
@@ -40,8 +39,7 @@ weight: 6
 <div class="ux-text">
 <h2>2) Comprhensive PDF report + Action-steps</h2>
 <p>
-	Simple & straightforward color-coding to visually group comments for your team and prioritize usability issues.
-	Simple & straightforward color-coding to visually group comments for you.
+	Our team will prepare a compact PDF report that contains design issues, action plans, and expert advice on how to solve them. Not only that, but the PDF will also provide you with additional resources and helpful guides.
 </p>
 </div>
 
@@ -52,8 +50,7 @@ weight: 6
 <div class="ux-text">
 <h2>3) Done For You By UX Experts</h2>
 <p>
-	Simple & straightforward color-coding to visually group comments for your team and prioritize usability issues.
-	Simple & straightforward color-coding to visually group comments for you.
+	Best part? This is done by real UX expert. There are no automated bots, one-size-fit-all solutions. Our expert will manually review your page and provide professional critic of it. 
 </p>
 </div>
 
@@ -71,9 +68,7 @@ weight: 6
 <div class="ux-text">
 <h2>4) Increase Your Conversion, SEO Ranking & More</h2>
 <p>
-	Simple & straightforward color-coding to visually group comments for your team and prioritize usability issues.
-	Simple & straightforward color-coding to visually group comments for you.
-</p>
+A well thought out UX experience can improve the satisfaction of your customers when interacting with your digital platform and websites, which translates into higher conversion rates, high ranking on Google and greater revenue.</p>
 </div>
 </div>		
 
@@ -91,9 +86,12 @@ weight: 6
 
 <button class="btn-s btn-1">Scroll Up & Buy It Now <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button> 
 </a>
+<p>
+	
+<a href="https://drive.google.com/file/d/1cXt_2w-xdadPPHlN4SXyjkh2xLK8RxFE/view?usp=sharing" target="_blank">
+<button style="background:#000;" class="btn-s btn-1">Or Download Report Sample<svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button></a>
 
-<button style="background:#000;" class="btn-s btn-1">Or Download Report Sample<svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button>
-
+</p>
 
 <div class="ux-logo-img">
 		<img class="ux-logo" draggable="false" alt="Four Dollar UX Logo" src="/assets/images/four-dollar-ux-logo.png">
