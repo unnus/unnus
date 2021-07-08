@@ -1,3 +1,10 @@
+.stroked-brush {
+    background: url(../assets/images/red-brush-stroke-banner.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 56px 0%;
+}
+
 .ux-main-header{
 	.black-header{
 		width:49%;
@@ -8,12 +15,6 @@
 
 .ux-header{
 	height: 100vh;
-	.stroked-brush {
-	    background: url(../assets/images/red-brush-stroke-banner.svg);
-	    background-repeat: no-repeat;
-	    background-size: 100% 100%;
-	    padding: 56px 0%;
-	}
 
 	.gumroad-button{
 		background:none !important;
