@@ -102,7 +102,7 @@ weight: 4
 
 <div class="form-content">
 
-<form method="post" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl" class="fixed-form af-form-wrapper">
+<form style="height:330px;" method="post" accept-charset="UTF-8" action="https://www.aweber.com/scripts/addlead.pl" class="fixed-form af-form-wrapper">
 	<p class="light-headline">Receive proven branding strategies that drive growth to your practice</p>
 <!-- multi step -->
 
@@ -124,7 +124,7 @@ weight: 4
 </div>
 <!-- multi step -->
 
-<div class="form-quote">
+<!-- <div class="form-quote">
 	<p>"The in-depth knowledge we got from these strategies has been instrumental to our success as a medical practice"</p>
 	<div class="mini-avatar-testimonial">
 			<div class="mini-avatar-image">
@@ -132,6 +132,7 @@ weight: 4
 	    <span>— Dr. Ibrahim Coban. Pediatric</span>
 	  </div>
 </div>
+ -->
 <div style="display: none;">
 <input type="hidden" name="meta_web_form_id" value="812149649" />
 <input type="hidden" name="meta_split_id" value="" />
