@@ -711,3 +711,42 @@ body.light .progress-wrap svg.progress-circle path {
 .Econfirmation-screenshot{
   width:100%;
 }
+
+
+/* Shortcut */
+
+.post-body .free-course{
+  position:relative;
+  box-shadow: -10px 3px 12px 16px rgba(0,0,0, 0.08);
+  padding: 42px;
+  border-radius: 7px;
+  padding-bottom:60px;
+  h2{
+    font-size:2em;
+  }
+  .text-container{
+    width: 508px;
+    .sub-text-p{
+      width: 410px;
+    }
+  }
+  a{
+    margin-top: 10%;
+    overflow: hidden;
+  }
+  a::after{
+    display:none;
+  }
+  a::before{
+    display: none;
+  }
+  p:not(.sub-text-p){
+    font-size:1em; 
+    width:none;
+  }
+  img{
+    position: absolute;
+    top: 39%;
+    right: 1%;
+  }
+}

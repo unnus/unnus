@@ -34,6 +34,17 @@ By the end of this article, you’ll have a clear understanding of
 
 Without wasting time, let’s dive in.
 
+<div class="free-course">
+	<h2>Attract Loyal Audience And <span class="stroked-brush">Differentiate</span> Your Pharma Brand With Free Course</h2>
+	<div class="text-container">		
+	<p class="sub-text-p">Get our <b>free</b> 6-parts series that arms you with strategies to establish your company as market leader<p>
+	<img alt="attracting patients" src="/assets/images/attracting-patients.png">		
+	<a target="_blank" href="/charismatic-medical-brand">
+	<button style="width: 232px;" class="btn-s">Get Lesson #1 <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button>			
+		</a>
+	</div>
+</div>
+
 ## Threats the pharmaceutical industry is facing
 
 The pharma industry is experiencing a profound change in multiple aspects. From increased competition, constant change in regulation, lack of innovation, and the rapid price increase of the R&D to name a few.

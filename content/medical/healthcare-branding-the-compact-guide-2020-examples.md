@@ -43,6 +43,10 @@ What is healthcare branding?
 6. How to measure your branding efforts
 7. Example of branding in other healthcare fields
 
+Let's start.
+
+{{% course-promotion %}} {{% /course-promotion %}}
+
 ## **What is healthcare branding?**
 
 Healthcare branding is the management of all components that make a healthcare brand for which patients believe there’s no substitute.

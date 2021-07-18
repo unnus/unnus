@@ -71,6 +71,10 @@ _(To save you some time, you can navigate to any section that caught your intere
 
 Bring your cup of coffee or tea, and let’s start with it means...
 
+
+{{% course-promotion %}} {{% /course-promotion %}}
+
+
 ## What is a mission statement in healthcare?
 
 A mission statement in healthcare is a short statement that summarizes the commitments of your hospital or practice to achieve a higher vision.

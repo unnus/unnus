@@ -40,6 +40,9 @@ Other topics I will discuss are:
 
 Let us dive in.
 
+{{% course-promotion %}} {{% /course-promotion %}}
+
+
 ## What is a Patient Journey?
 
 ![Illustration of patient journey mapping](/assets/images/3-patient-journey-map-illustration.jpg "Patient journey")

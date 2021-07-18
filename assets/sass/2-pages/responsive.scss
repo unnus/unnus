@@ -61,10 +61,6 @@
 			width:400px;
 			margin-left:16%;
 	}
-
-
-
-
 }
 
 
@@ -2076,5 +2072,57 @@
 @media (max-width: 576px){
 	.ux-confirmation .header-content-contact{
 		width:310px;	
+	}
+}
+
+/* Free Course Promotion shortcut */
+
+// Small 576px~
+// Medium 768px~
+// Large 992px~
+// Extra Large 1200px~
+// Mega large 1500~1600+
+
+
+@media (max-width: 631px){
+
+.post-body .free-course{
+	padding: 27px;
+  width: 380px;
+  h2{
+	  font-size: 1.7em;
+    width: 350px;
+  }
+  .text-container{
+    width: 326px;
+      .sub-text-p{
+  	width:320px;
+  }
+
+  }
+  img{
+    width: 257px;
+    display: block;
+    position:static;
+  }
+  a{
+  	margin-top:0;
+  }
+
+}
+
+}
+
+@media (max-width: 576px){
+	.post-body .free-course{
+	  width: 320px;
+	  h2{
+	    width: 320px;
+	  }
+	  .text-container{
+			.sub-text-p{
+	  	width:279px;
+	  	}
+	  }
 	}
 }

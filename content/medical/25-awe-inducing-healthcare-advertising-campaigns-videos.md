@@ -43,6 +43,19 @@ These ads we will discuss today are:
 
 Let’s start.
 
+
+<div class="free-course">
+	<h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Medical Brand With Free Course</h2>
+	<div class="text-container">		
+	<p class="sub-text-p">Get our <b>free</b> 6-parts series that arms you with strategies to attract cult-like patient loyalty<p>
+	<img alt="attracting patients" src="/assets/images/attracting-patients.png">		
+	<a target="_blank" href="/charismatic-medical-brand">
+	<button style="width: 232px;" class="btn-s">Get Lesson #1 <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button>			
+		</a>
+	</div>
+</div>
+
+
 ## Hospital adverts examples
 
 ### 1) “You’re freaking us out” by One Medical

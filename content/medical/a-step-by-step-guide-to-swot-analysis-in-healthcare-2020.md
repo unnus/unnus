@@ -44,9 +44,14 @@ SWOT Analysis arms you with a clear overview of critical metrics that are key fo
 
 ![swot-analysis-in-healthcare](/assets/images/swot-analysis-in-healthcare.png "swot-analysis-in-healthcare")
 
+{{% course-promotion %}} {{% /course-promotion %}}
+
+
 ## **Benefits of SWOT Analysis in healthcare**
 
 There are countless benefits of conducting a SWOT analysis for your medical business. we’ll start by exploring a number of them.
+
+
 
 ### **1) SWOT Analysis arms you against future obstacles**
 
@@ -151,6 +156,7 @@ You can use the same principle to determine your brand’s weaknesses:
 7. What resources do your competitors have that you do not? (even if it is intangible like better brand awareness)
 
 This could be a little hard to get through but it’s worth the collective effort. You and your team should be able to uncover hidden inefficiencies in your practice.
+
 
 **#\~3) Snipe the opportunities and mitigate threats:**
 
