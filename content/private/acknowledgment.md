@@ -1,6 +1,6 @@
 ---
 page: privte/single.html
-title: Thank you for your trust
+title: Thank you, You're almost there
 which: acknowledgment
 description: unnus acknowledgment  
 private: true
@@ -15,6 +15,9 @@ private: true
 		display: none;
 	}
 </style>
+
+
+
 
 <footer style="margin-top:10%">	
 	<div class="footer-black">

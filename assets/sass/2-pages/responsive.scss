@@ -1447,7 +1447,18 @@
 @media (max-width: 576px ){
 	.email-confirmation-header{
 		  .header-content-contact{
-		    width:350px;
+		    flex-direction: column;
+		    .img-confirm{
+		    	height:auto;
+		    	order:0;
+		    }
+			  .img-confirm img{
+			  	margin:0;
+			  	width:33%;
+			  }
+			  .text-confirm{
+			  	width:100%;
+			  }
 		  }
 		.header-content-contact h1{
 				font-size:1.5em	
