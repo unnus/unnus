@@ -34,6 +34,8 @@ Topics that I’ll cover are:
 
 Without wasting too much time, let's dig in.
 
+{{% course-promotion %}} {{% /course-promotion %}}
+
 ## **What is SWOT analysis in healthcare?**
 
 While it might sound like you’re calling on a hostage-rescue law enforcement team, S.W.O.T is a strategic planning technique.
@@ -43,8 +45,6 @@ It is used to define your healthcare organization’s (or practice’s) **Streng
 SWOT Analysis arms you with a clear overview of critical metrics that are key for your performance and the overall success of your medical business.
 
 ![swot-analysis-in-healthcare](/assets/images/swot-analysis-in-healthcare.png "swot-analysis-in-healthcare")
-
-{{% course-promotion %}} {{% /course-promotion %}}
 
 
 ## **Benefits of SWOT Analysis in healthcare**
