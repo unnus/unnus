@@ -93,13 +93,17 @@ Healthier, community hospital, Orlando
 
 **How We Do It (Mission Statement):** In an age where malpractice threatens the lives of our community, we aim to create a safe environment by emphasizing precautions, safety, and welfare of our patients. We do that by striving to lower medical errors, reduce readmission rates, and educate our patients on how to live a healthy lifestyle.
 
+![Picture of hospital mission statement](/assets/images/hospital-mission-statement-1.jpg)
+
 ***
 
 Caresect, Psychiatric Hospital
 
 **Why We Exist (Purpose Statement):** To rekindle our patient’s lost hope.
 
-**How We Do It (Mission Statement):** Because not all wounds are visible, we, Caresect, are dedicated to healing the unseen. We do that by helping our patients overcome mental health challenges. We’re committed to being confidential, sympathetic, and approachable in our communications and treatment.
+**How We Do It (Mission Statement):** Because not all wounds are visible, we, are dedicated to healing the unseen. We do that by helping our patients overcome mental health challenges. We’re committed to being confidential, sympathetic, and approachable in our communications and treatment.
+
+![Picture of hospital mission statement](/assets/images/hospital-mission-statement-2.jpg)
 
 ***
 
@@ -109,6 +113,8 @@ Future’s Youth, Pediatric Hospital (ex)
 
 **How We Do It (Mission Statement):** They inspire us to be better, push us to fight harder, and drive us to bring our best. We treat your kids like our own. We do that by being family-focused in our treatment and assuring that they’re in a friendly and protected environment.
 
+![Picture of hospital mission statement](/assets/images/hospital-mission-statement-3.jpg)
+
 ## Dental mission statement
 
 Confidental™, Dental practice
@@ -116,6 +122,8 @@ Confidental™, Dental practice
 **Why We Exist (Purpose Statement):** To enable our patients to lead a stress-free lifestyle.
 
 **How We Do It (Mission Statement):** What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile.
+
+![Picture of dental mission statement](/assets/images/dental-mission-statement-1.jpg)
 
 ***
 
@@ -125,6 +133,8 @@ Odentia, Dental practice
 
 **How We Do It (Mission Statement):** Forget the dental horror show and step into a fantasy world of seamless dentistry. Odentia is committed to providing a painless patient experience. We do that by gently delivering our care service, seamless shots, and a magic touch.
 
+![Picture of dental mission statement](/assets/images/dental-mission-statement-2.jpg)
+
 ***
 
 Utile Teeth, Dental practice (ex)
@@ -132,6 +142,8 @@ Utile Teeth, Dental practice (ex)
 **Why We Exist (Purpose Statement):** To spread oral hygiene and facilitate its accessibility.
 
 **How We Do It (Mission Statement):** Most practices claim convenience, we live by it. We strive to make oral care as convenient as a light switch. We do that by improving our availability, increasing patient choice, and lowering wait time. We’re committed to investing in the latest technology for faster dentistry and same-day care for our patients.
+
+![Picture of dental mission statement](/assets/images/dental-mission-statement-3.jpg)
 
 ## Chiropractic mission statement
 
@@ -141,6 +153,8 @@ Naturalis, Chiropractic practice (ex)
 
 **How We Do It (Mission Statement):** When your life is stifled by discomfort; We come to the rescue. We peel off the layers of physical restriction through a natural approach to healthcare and healthy lifestyle modifications.
 
+![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-1.jpg)
+
 ***
 
 The Joint Chiropractic
@@ -148,6 +162,8 @@ The Joint Chiropractic
 **Why We Exist (Purpose Statement):** To improve the quality of life.
 
 **How We Do It (Mission Statement):** Our mission is to improve the quality of life through routine and affordable chiropractic care. We’re committed to our no-appointment policy, convenient hours and locations to make care more accessible.
+
+![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-2.jpg)
 
 ***
 
@@ -157,11 +173,15 @@ Complete Wellness Chiropractic
 
 **How We Do It (Mission Statement):** To educate and adjust as many families as possible back toward optimal health through natural chiropractic care.
 
+![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-3.jpg)
+
 ## Pharmacy mission statement
 
 PharmaPlus (ex)
 
 **How We Do It (Mission Statement):** To improve everyone's comfort and well-being by providing the most convenient pharmaceutical services for patients.
+
+![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-1.jpg)
 
 ***
 
@@ -169,11 +189,15 @@ FFA Drugs (ex)
 
 **How We Do It (Mission Statement):** To increase patients accessibility to pharmaceutical drugs by provide quality products at the most affordable price.
 
+![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-2.jpg)
+
 ## Nursing home mission statement
 
 Lively Clam (ex)
 
 **How We Do It (Mission Statement):** To leave a legacy of excellence by helping seniors lead comfortable lives and achieve independence.
+
+![Picture of nursing home mission statement](/assets/images/nursing-home-mission-statement-1.jpg)
 
 ***
 
@@ -181,17 +205,23 @@ Nostalgic Homes (ex)
 
 **How We Do It (Mission Statement):** We're here to create authentic atmosphere where residents feel right at home.
 
+![Picture of nursing home mission statement](/assets/images/nursing-home-mission-statement-2.jpg)
+
 ## Hospice mission statement
 
 Light Places Hospice (ex)
 
 **How We Do It (Mission Statement):** We don’t know if there is life after death. But we know there is life before death. And this is where we come in. We provide patients seamless experience in their ending journey. We aim to honor the patients' dignity and empower them in their hardest time.
 
+![Picture of hospice mission statement](/assets/images/hospice-mission-statement-1.jpg)
+
 ***
 
 Right Moments Hospice (ex)
 
 **How We Do It (Mission Statement):** It was never about the end, it's about the current moment. We're here to enable patients live their life to its fullest, experience love and what it means to be understood during hardships.
+
+![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.jpg)
 
 ## What is a mission statement in healthcare?
 
