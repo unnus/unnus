@@ -137,7 +137,7 @@ PharmaPlus (ex)
 
 FFA Drugs (ex)
 
-**How We Do It (Mission Statement):** To increase patients accessibility to pharmaceutical drugs by provide quality products at the most affordable price.
+**How We Do It (Mission Statement):** To increase patients accessibility to pharmaceutical drugs by providing quality products at affordable prices.
 
 ![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-2.jpg)
 
