@@ -69,11 +69,93 @@ This article covers:
 
 _(To save you some time, you can navigate to any section that caught your interests from the table of content on your right)_
 
-Bring your cup of coffee or tea, and let’s start with it means...
-
+Bring your cup of coffee or tea, and let’s start with some examples...
 
 {{% course-promotion %}} {{% /course-promotion %}}
 
+## Healthcare Mission Statement Examples
+
+**A quick disclaimer**: As we started searching for mission statements to list here, we found that most of the statements are repetitive and sometimes uninspiring.
+
+So, to make going through the list worthwhile, we decided to share with you our client’s statements that we developed ourselves at unnus™.
+
+In addition to our work, we took the time to create fictional examples for other practices in different fields. The goal was to inspire other medical professionals with how this could be applied to their respective fields.
+
+Fictitious examples will be marked with (ex)**.**
+
+So let’s start:
+
+## Hospital Mission Statement
+
+Healthier, community hospital, Orlando
+
+**Why We Exist (Purpose Statement):** To make our community safer.
+
+**How We Do It (Mission Statement):** In an age where malpractice threatens the lives of our community, we aim to create a safe environment by emphasizing precautions, safety, and welfare of our patients. We do that by striving to lower medical errors, reduce readmission rates, and educate our patients on how to live a healthy lifestyle.
+
+***
+
+Caresect, Psychiatric Hospital
+
+**Why We Exist (Purpose Statement):** To rekindle our patient’s lost hope.
+
+**How We Do It (Mission Statement):** Because not all wounds are visible, we, Caresect, are dedicated to healing the unseen. We do that by helping our patients overcome mental health challenges. We’re committed to being confidential, sympathetic, and approachable in our communications and treatment.
+
+***
+
+Future’s Youth, Pediatric Hospital (ex)
+
+**Why We Exist (Purpose Statement):** To make a healthier future generation
+
+**How We Do It (Mission Statement):** They inspire us to be better, push us to fight harder, and drive us to bring our best. We treat your kids like our own. We do that by being family-focused in our treatment and assuring that they’re in a friendly and protected environment.
+
+## Dental mission statement
+
+Confidental™, Dental practice
+
+**Why We Exist (Purpose Statement):** To enable our patients to lead a stress-free lifestyle.
+
+**How We Do It (Mission Statement):** What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile.
+
+***
+
+Odentia, Dental practice
+
+**Why We Exist (purpose Statement):** To provide a pain-free lifestyle for patients
+
+**How We Do It (Mission Statement):** Forget the dental horror show and step into a fantasy world of seamless dentistry. Odentia is committed to providing a painless patient experience. We do that by gently delivering our care service, seamless shots, and a magic touch.
+
+***
+
+Utile Teeth, Dental practice (ex)
+
+**Why We Exist (Purpose Statement):** To spread oral hygiene and facilitate its accessibility.
+
+**How We Do It (Mission Statement):** Most practices claim convenience, we live by it. We strive to make oral care as convenient as a light switch. We do that by improving our availability, increasing patient choice, and lowering wait time. We’re committed to investing in the latest technology for faster dentistry and same-day care for our patients.
+
+## Chiropractic mission statement
+
+Naturalis, Chiropractic practice (ex)
+
+**Why We Exist (Purpose Statement):** To help people live life without restrictions.
+
+**How We Do It (Mission Statement):** When your life is stifled by discomfort; We come to the rescue. We peel off the layers of physical restriction through a natural approach to healthcare and healthy lifestyle modifications.
+
+***
+
+The Joint Chiropractic
+
+**Why We Exist (Purpose Statement):** To improve the quality of life.
+
+**How We Do It (Mission Statement):** Our mission is to improve the quality of life through routine and affordable chiropractic care. We’re committed to our no-appointment policy, convenient hours and locations to make care more accessible.
+
+***
+
+Complete Wellness Chiropractic
+
+**Why We Exist (Purpose Statement):** We exist to radically re-energize the health of our community to restore the beauty in families.
+
+**How We Do It (Mission Statement):** To educate and adjust as many families as possible back toward optimal health through natural chiropractic care.
 
 ## What is a mission statement in healthcare?
 
@@ -359,90 +441,6 @@ Share and discuss the notes and the writing with your team and move on to the ne
 ![Healthcare vision statement example](/assets/images/healthcare-brand-vision.jpg "Healthcare vision statement example")
 
 [You can access the free pdf version here](https://drive.google.com/file/d/1MhNB7JPoWumuH8awgygLK0SFPKOciBQ-/view?usp=sharing "Healthcare brand vision exercise")
-
-## Healthcare Mission Statement Examples
-
-**A quick disclaimer**: As we started searching for mission statements to list here, we found that most of the statements are repetitive and sometimes uninspiring.
-
-So, to make going through the list worthwhile, we decided to share with you our client’s statements that we developed ourselves at unnus™.
-
-In addition to our work, we took the time to create fictional examples for other practices in different fields. The goal was to inspire other medical professionals with how this could be applied to their respective fields.
-
-Fictitious examples will be marked with (ex)**.**
-
-So let’s start:
-
-## Hospital Mission Statement
-
-Healthier, community hospital, Orlando
-
-**Why We Exist (Purpose Statement):** To make our community safer.
-
-**How We Do It (Mission Statement):** In an age where malpractice threatens the lives of our community, we aim to create a safe environment by emphasizing precautions, safety, and welfare of our patients. We do that by striving to lower medical errors, reduce readmission rates, and educate our patients on how to live a healthy lifestyle.
-
-***
-
-Caresect, Psychiatric Hospital
-
-**Why We Exist (Purpose Statement):** To rekindle our patient’s lost hope.
-
-**How We Do It (Mission Statement):** Because not all wounds are visible, we, Caresect, are dedicated to healing the unseen. We do that by helping our patients overcome mental health challenges. We’re committed to being confidential, sympathetic, and approachable in our communications and treatment.
-
-***
-
-Future’s Youth, Pediatric Hospital (ex)
-
-**Why We Exist (Purpose Statement):** To make a healthier future generation
-
-**How We Do It (Mission Statement):** They inspire us to be better, push us to fight harder, and drive us to bring our best. We treat your kids like our own. We do that by being family-focused in our treatment and assuring that they’re in a friendly and protected environment.
-
-## Dental mission statement
-
-Confidental™, Dental practice
-
-**Why We Exist (Purpose Statement):** To enable our patients to lead a stress-free lifestyle.
-
-**How We Do It (Mission Statement):** What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile.
-
-***
-
-Odentia, Dental practice
-
-**Why We Exist (purpose Statement):** To provide a pain-free lifestyle for patients
-
-**How We Do It (Mission Statement):** Forget the dental horror show and step into a fantasy world of seamless dentistry. Odentia is committed to providing a painless patient experience. We do that by gently delivering our care service, seamless shots, and a magic touch.
-
-***
-
-Utile Teeth, Dental practice (ex)
-
-**Why We Exist (Purpose Statement):** To spread oral hygiene and facilitate its accessibility.
-
-**How We Do It (Mission Statement):** Most practices claim convenience, we live by it. We strive to make oral care as convenient as a light switch. We do that by improving our availability, increasing patient choice, and lowering wait time. We’re committed to investing in the latest technology for faster dentistry and same-day care for our patients.
-
-## Chiropractic mission statement
-
-Naturalis, Chiropractic practice (ex)
-
-**Why We Exist (Purpose Statement):** To help people live life without restrictions.
-
-**How We Do It (Mission Statement):** When your life is stifled by discomfort; We come to the rescue. We peel off the layers of physical restriction through a natural approach to healthcare and healthy lifestyle modifications.
-
-***
-
-The Joint Chiropractic
-
-**Why We Exist (Purpose Statement):** To improve the quality of life.
-
-**How We Do It (Mission Statement):** Our mission is to improve the quality of life through routine and affordable chiropractic care. We’re committed to our no-appointment policy, convenient hours and locations to make care more accessible.
-
-***
-
-Complete Wellness Chiropractic
-
-**Why We Exist (Purpose Statement):** We exist to radically re-energize the health of our community to restore the beauty in families.
-
-**How We Do It (Mission Statement):** To educate and adjust as many families as possible back toward optimal health through natural chiropractic care.
 
 ## The truth about mission statements in healthcare
 
