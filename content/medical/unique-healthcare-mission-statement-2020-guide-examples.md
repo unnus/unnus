@@ -31,11 +31,7 @@ Bring your cup of coffee or tea, and let’s start with some examples...
 
 ## Healthcare Mission Statement Examples
 
-**A quick disclaimer**: As we started searching for mission statements to list here, we found that most of the statements are repetitive and sometimes uninspiring.
-
-So, to make going through the list worthwhile, we decided to share with you our client’s statements that we developed ourselves at unnus™.
-
-Fictitious examples will be marked with (ex)**.**
+**A quick disclaimer**: Fictitious examples will be marked with (ex)**.**
 
 So let’s start:
 
