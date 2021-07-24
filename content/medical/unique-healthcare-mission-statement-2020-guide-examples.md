@@ -27,59 +27,13 @@ twitterHandle = "/@SlimanBaghouri"
 
 ***
 
-I’m sure you noticed.
-
-People today are suspicious of corporate values and philosophy.
-
-And you can’t blame them.
-
-Medical businesses try to develop mission statements or values and end up looking ingenuine and hardly anyone is committed to it.
-
-Want to know why?
-
-Try and Google “healthcare mission statements examples”.
-
-Without fail, every “mission” statement looks like a duplicate of the previous one.
-
-We believe in \[Insert a morally good virtue\].
-
-We strive to provide \[Quality Care, patient-centered, timely care\].
-
-Our values are \[Integrity, Accountability, Honesty\].
-
-You get the point.
-
-Today, you’ll see the common pitfalls when developing a mission statement.
-
-We’ll also go into how to develop one that stands out.
-
-You’ll craft a mission statement that is unique, memorable, and—authentic.
-
-More than that, we’ll see the practical use cases of a mission statement and how it will benefit your practice.
-
-This article covers:
-
-* What is a mission statement in healthcare?
-* Why most medical businesses fail to develop an authentic mission statement
-* The practical importance of a mission statement
-* What you need to do **BEFORE** forming a mission statement
-* How to develop a mission statement
-* Examples of mission statements in healthcare (Hospitals, dentists, chiropractic, etc..)
-* What to do and what **NOT** to do with your mission statement.
-
-_(To save you some time, you can navigate to any section that caught your interests from the table of content on your right)_
-
 Bring your cup of coffee or tea, and let’s start with some examples...
-
-{{% course-promotion %}} {{% /course-promotion %}}
 
 ## Healthcare Mission Statement Examples
 
 **A quick disclaimer**: As we started searching for mission statements to list here, we found that most of the statements are repetitive and sometimes uninspiring.
 
 So, to make going through the list worthwhile, we decided to share with you our client’s statements that we developed ourselves at unnus™.
-
-In addition to our work, we took the time to create fictional examples for other practices in different fields. The goal was to inspire other medical professionals with how this could be applied to their respective fields.
 
 Fictitious examples will be marked with (ex)**.**
 
