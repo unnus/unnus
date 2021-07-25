@@ -57,6 +57,10 @@ Caresect, Psychiatric Hospital
 
 ***
 
+{{% course-promotion %}} {{% /course-promotion %}}
+
+***
+
 Future’s Youth, Pediatric Hospital (ex)
 
 **Why We Exist (Purpose Statement):** To make a healthier future generation
