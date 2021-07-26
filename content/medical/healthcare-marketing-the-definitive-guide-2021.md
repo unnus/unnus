@@ -293,7 +293,7 @@ This model has 4 stages
 1. **Awareness Stage**
    * When a potential patient knows about your healthcare brand
 2. **Interest Stage**
-   * When potential patients are interested in your content (e,g: emails, blog articles, or videos)
+   * When potential patients are interested in your content (e,g: emails, [blog articles](https://digitalnovas.com/start-blog/), or videos)
 3. **Evaluation Stage**
    * When potential patients are evaluating their options/choices
 4. **Purchase Stage**
@@ -384,7 +384,7 @@ Here’s why:
 1. It’s easy to set up and don’t require too much hassle as oppose to producing ad campaigns and social media publications
 2. It provides your patients a feel for the “living brand” through audio content
 3. It’s the most inexpensive channel when it comes to marketing
-4. It’s easy to syndicate episodes into other forms of media. You can make one episode and then turn it into a blog article, social media posts, snippets, and so on…
+4. It’s easy to syndicate episodes into other forms of media. You can make one episode and then turn it into a blog articles, social media posts, snippets, and so on…
 5. It’s time-saving and requires only 20-minute to 1 hour a day from the host.
 6. It makes it easy for patients to consume your content and interact with your brand.
 
