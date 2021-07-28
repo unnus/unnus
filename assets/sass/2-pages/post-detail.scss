@@ -312,11 +312,11 @@ iframe{
 	    }
 		}
 		img{
-			width:80px;
-			height:80px;
-			margin:0;
-			box-shadow: none;
-	    margin-right: 30px;
+			width:80px !important;
+			height:80px !important;
+			margin:0 !important;
+			box-shadow: none !important;
+	    		margin-right: 30px !important;
 		}
 	}
 
