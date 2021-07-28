@@ -32,3 +32,9 @@ Let’s start with our first site.
 ![](/assets/images/1.PNG)
 
 Our first design comes from [Spring Art Studio](https://dribbble.com/shots/16076596-Medical-Dental-Web-App-Website). What I like about this concept is the intersection between the main image and the website elements that gives it this “overlapping” effect. And while the contrast between the white text and the background needs a little bit more work, it makes for an intriguing dental website.
+
+## 2) Aesthetics Dental Laboratory
+
+![](/assets/images/best-dental-websites-2.PNG)
+
+Again, our friends at Spring art studio made a second concept for an aesthetics dental lab. What makes this one unique lies in its use of the modern design of 3D Model. This interactive model makes browsing the website more enjoyable to the user.
