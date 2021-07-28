@@ -98,3 +98,65 @@ The Polish Dental Clinic Machniak redesigned their website to match the current 
 ![](/assets/images/best-dental-websites-12.PNG)
 
 Our next website is designed by the indian based UX designer [Abir Mahmood](https://dribbble.com/shots/6455215-Dental-Landing-Page-Design). What I like the most about this piece of art is its unconventional layout. Instead of the boring “bricks-boxes-like” layout, Abir managed to craft an appealing and interesting arrangement of content.
+
+## 13) 20/32 Dental Studio
+
+![](/assets/images/best-dental-websites-13.PNG)
+
+The detroit-based dental clinic 20/32 knows that a great digital experience is critical for increased patient satisfaction. And with this in mind, they launched [their new website](https://dribbble.com/shots/10013727-20-32-Dental-Studio-Website) with a patient-first approach. The sleek web design and the ease of use made it one of the best dental websites on the market.
+
+## 14) Divine Care
+
+![](/assets/images/best-dental-websites-14.PNG)
+
+Designed by the skilled UX designer [Siman](https://dribbble.com/shots/5620885/), Divine Care is a new concept that makes creative use of vector images for captivating web visuals. With its great use of white spaces, visual hierarchy, and harmonious color contrast, this one had to be on this list.
+
+## 15) Dental Academy
+
+![](/assets/images/best-dental-websites-15.PNG)
+
+[The Callour Team ](https://dribbble.com/shots/14826533--Exploration-Dental-Web-Responsive/)is known for their unorthodox web design concepts, and this is no different. The Dental Academy website makes the best use of animation along with creative element placement. With the clear CTA buttons and explanation video on the left, the user engagement will soar through the roofs.
+
+## 16) Dent Equip Store
+
+![](/assets/images/best-dental-websites-16.jpg)
+
+The Serbia based design agency, [Mayo Design](https://dribbble.com/shots/15399706-Dental-Equipment-Website) made one of the sleekest dental equipment websites. This one is for an e-commerce platform selling equipment for dental practices. The design is clean with playful but discrete accents, whether in typography or colors.
+
+## 17) One Smile Dental
+
+![](/assets/images/best-dental-websites-17.jpg)
+
+Our next design comes from the [Digital agency Claw](https://dribbble.com/shots/16059750/). What differentiates 1 Smile Dental website is the use of smooth header animation. This little known web effect makes for a great way to increase patient engagement online.
+
+## 18) Refresh DDS
+
+![](/assets/images/best-dental-websites-18.PNG)
+
+Seahawk studio is killing it with their new [dental design ](https://dribbble.com/shots/7025486-Sleep-Apnea-Treatment-Dentist-Website)of Refresh DDS. With their focus on being future-oriented practice, their new website reflects this futuristic aspect of the practice. With the clear call to action buttons, creative layout and artificial-like feel, this one's definitely one of the best designs out there.
+
+## 19) Dr. Sam Boston Website
+
+![](/assets/images/best-dental-websites-19.PNG)
+
+This is the second [Seahawk studio’s design ](https://dribbble.com/shots/6990163/)with their work for dental surgeon Sam Boston. What I like the most about this one is the brilliant use of color gradients. This made the website’s objects stand out and added a little bit of “depth” to the homepage.
+
+## 20) Dental Plus
+
+![](/assets/images/best-dental-websites-20.PNG)
+
+The next website is designed by [Spiral Studio](https://dribbble.com/shots/15217706-Dental-Landing-Page). While this one is no different in terms of design than the one we’ve shown before, it stands out in terms of animation. Spiral studio made the work come to life by adding the smooth fade in/out transitions along with the soft scroll effect.
+
+## 21) Untu Dental
+
+![](/assets/images/best-dental-websites-21.PNG)The next one is done by the same agency [Spiral Studio](https://dribbble.com/shots/15237791-Dental-Landing-Page-Exploration). This one is less focused on the animation but more on the actual aesthetics. The well-thought out content layout, the clear “book appointment” buttons, and the wisely-placed testimonials, make the website perfect for converting visitors into recurring patients.
+
+## 22) Dr.Rocco's Dental Center
+
+![](/assets/images/best-dental-websites-22.PNG)
+
+The last one we have in today’s list is by the creative studio [Vision Trust](https://dribbble.com/shots/14953714-Dr-Rocco-Specialized-Dental-Center). This one is a combination of rest works: from the creative layout, clean look, bold typography, and the glossy animations, Dr. Recco’s dental center website is truly the best one so far.
+
+## Looking for a new website design for your practice?
+
+Your website is a critical asset that you can use to grow your dental practice. And if you’re looking to redesign/launch your website to increase patient volume, streamline your booking process, and scale your business, please [feel free to say hello](https://unnus.com/contact/). We’d love to help you craft a premium and result-driven website.
