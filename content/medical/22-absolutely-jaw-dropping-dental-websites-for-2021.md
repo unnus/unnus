@@ -56,19 +56,19 @@ The next design is from the talented UX/UI designer {{% no-follow-link "https://
 
 ![screenshot of website Dental Care DSO](/assets/images/best-dental-websites-5.PNG)
 
-The Huston texas based creative [Tino Agency](https://dribbble.com/shots/9173229-Dental-care-Web-design) has decided to switch it off a little bit by using costume illustration to their dental website concept. The well placed email form and the minimalist aspect of the home page makes it easy for the visitors to take action and sign up immediately upon their landing.
+The Huston texas based creative {{% no-follow-link "https://dribbble.com/shots/9173229-Dental-care-Web-design/" %}}Tino Agency{{% /no-follow-link %}} has decided to switch it off a little bit by using costume illustration to their dental website concept. The well placed email form and the minimalist aspect of the home page makes it easy for the visitors to take action and sign up immediately upon their landing.
 
 ## 6) 24 Dentist
 
 ![screenshot of website 24 Dentist](/assets/images/best-dental-websites-6.PNG)
 
-[Merix Studio ](https://dribbble.com/shots/10809125-Dental-Care-layout-concept)is known for their simplicity when it comes to web design. And this dazzling dashboard is their way of showing why simple design works. Instead of bombarding the user with unending pop ups and texts, Merix decided to declutter the website and give enough room for all the elements to breathe. This makes the website a breeze to use and highly effective.
+{{% no-follow-link "https://dribbble.com/shots/10809125-Dental-Care-layout-concept" %}} Merix Studio{{% /no-follow-link %}}is known for their simplicity when it comes to web design. And this dazzling dashboard is their way of showing why simple design works. Instead of bombarding the user with unending pop ups and texts, Merix decided to declutter the website and give enough room for all the elements to breathe. This makes the website a breeze to use and highly effective.
 
 ## 7) Smile Wow Dental
 
 ![screenshot of website Smile Wow Dental](/assets/images/best-dental-websites-7.PNG)
 
-Our next website comes from the professional UI designer [Naresh](https://dribbble.com/shots/11227626-WowSmile-Homepage-Design-V2/) and his concept of Smile Wow dental website. What stands out in this layout is the perfect use of visual hierarchy and the well placed call to action buttons. This kind of conversion-focused design makes smile wow’s website perfect for attracting more patients online.
+Our next website comes from the professional UI designer{{% no-follow-link "https://dribbble.com/shots/11227626-WowSmile-Homepage-Design-V2/" %}} Naresh {{% /no-follow-link %}} and his concept of Smile Wow dental website. What stands out in this layout is the perfect use of visual hierarchy and the well placed call to action buttons. This kind of conversion-focused design makes smile wow’s website perfect for attracting more patients online.
 
 ## 8) Dentora Dental Care
 
