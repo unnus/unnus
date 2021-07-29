@@ -104,31 +104,31 @@ Our next website is designed by the indian based UX designer {{% no-follow-link 
 
 ![screenshot of 20/32 Dental Studio](/assets/images/best-dental-websites-13.PNG)
 
-The detroit-based dental clinic 20/32 knows that a great digital experience is critical for increased patient satisfaction. And with this in mind, they launched [their new website](https://dribbble.com/shots/10013727-20-32-Dental-Studio-Website) with a patient-first approach. The sleek web design and the ease of use made it one of the best dental websites on the market.
+The detroit-based dental clinic 20/32 knows that a great digital experience is critical for increased patient satisfaction. And with this in mind, they launched {{% no-follow-link "https://dribbble.com/shots/10013727-20-32-Dental-Studio-Website" %}} their new website{{% /no-follow-link %}} with a patient-first approach. The sleek web design and the ease of use made it one of the best dental websites on the market.
 
 ## 14) Divine Care
 
 ![screenshot of Divine Care Website](/assets/images/best-dental-websites-14.PNG)
 
-Designed by the skilled UX designer [Siman](https://dribbble.com/shots/5620885/), Divine Care is a new concept that makes creative use of vector images for captivating web visuals. With its great use of white spaces, visual hierarchy, and harmonious color contrast, this one had to be on this list.
+Designed by the skilled UX designer {{% no-follow-link "https://dribbble.com/shots/5620885/" %}} Siman{{% /no-follow-link %}} , Divine Care is a new concept that makes creative use of vector images for captivating web visuals. With its great use of white spaces, visual hierarchy, and harmonious color contrast, this one had to be on this list.
 
 ## 15) Dental Academy
 
 ![screenshot of Dental Academy website](/assets/images/best-dental-websites-15.PNG)
 
-[The Callour Team ](https://dribbble.com/shots/14826533--Exploration-Dental-Web-Responsive/)is known for their unorthodox web design concepts, and this is no different. The Dental Academy website makes the best use of animation along with creative element placement. With the clear CTA buttons and explanation video on the left, the user engagement will soar through the roofs.
+{{% no-follow-link "https://dribbble.com/shots/14826533--Exploration-Dental-Web-Responsive/" %}} The Callour Team {{% /no-follow-link %}} is known for their unorthodox web design concepts, and this is no different. The Dental Academy website makes the best use of animation along with creative element placement. With the clear CTA buttons and explanation video on the left, the user engagement will soar through the roofs.
 
 ## 16) Dent Equip Store
 
 ![screenshot of Dent Equip Store](/assets/images/best-dental-websites-16.jpg)
 
-The Serbia based design agency, [Mayo Design](https://dribbble.com/shots/15399706-Dental-Equipment-Website) made one of the sleekest dental equipment websites. This one is for an e-commerce platform selling equipment for dental practices. The design is clean with playful but discrete accents, whether in typography or colors.
+The Serbia based design agency, {{% no-follow-link "https://dribbble.com/shots/15399706-Dental-Equipment-Website" %}} Mayo Design {{% /no-follow-link %}} made one of the sleekest dental equipment websites. This one is for an e-commerce platform selling equipment for dental practices. The design is clean with playful but discrete accents, whether in typography or colors.
 
 ## 17) One Smile Dental
 
 ![screenshot of One Smile Dental](/assets/images/best-dental-websites-17.jpg)
 
-Our next design comes from the [Digital agency Claw](https://dribbble.com/shots/16059750/). What differentiates 1 Smile Dental website is the use of smooth header animation. This little known web effect makes for a great way to increase patient engagement online.
+Our next design comes from the {{% no-follow-link "https://dribbble.com/shots/16059750/" %}} Digital agency Claw{{% /no-follow-link %}}. What differentiates 1 Smile Dental website is the use of smooth header animation. This little known web effect makes for a great way to increase patient engagement online.
 
 ## 18) Refresh DDS
 
