@@ -134,19 +134,19 @@ Our next design comes from the {{% no-follow-link "https://dribbble.com/shots/16
 
 ![screenshot of Refresh DDS](/assets/images/best-dental-websites-18.PNG)
 
-Seahawk studio is killing it with their new [dental design ](https://dribbble.com/shots/7025486-Sleep-Apnea-Treatment-Dentist-Website)of Refresh DDS. With their focus on being future-oriented practice, their new website reflects this futuristic aspect of the practice. With the clear call to action buttons, creative layout and artificial-like feel, this one's definitely one of the best designs out there.
+Seahawk studio is killing it with their new {{% no-follow-link "https://dribbble.com/shots/7025486-Sleep-Apnea-Treatment-Dentist-Website" %}} dental design {{% /no-follow-link %}} of Refresh DDS. With their focus on being future-oriented practice, their new website reflects this futuristic aspect of the practice. With the clear call to action buttons, creative layout and artificial-like feel, this one's definitely one of the best designs out there.
 
 ## 19) Dr. Sam Boston Website
 
 ![screenshot of Dr. Sam Boston](/assets/images/best-dental-websites-19.PNG)
 
-This is the second [Seahawk studio’s design ](https://dribbble.com/shots/6990163/)with their work for dental surgeon Sam Boston. What I like the most about this one is the brilliant use of color gradients. This made the website’s objects stand out and added a little bit of “depth” to the homepage.
+This is the second {{% no-follow-link "https://dribbble.com/shots/6990163/" %}} Seahawk studio’s design {{% /no-follow-link %}} with their work for dental surgeon Sam Boston. What I like the most about this one is the brilliant use of color gradients. This made the website’s objects stand out and added a little bit of “depth” to the homepage.
 
 ## 20) Dental Plus
 
 ![screenshot of Dental Plus website](/assets/images/best-dental-websites-20.PNG)
 
-The next website is designed by [Spiral Studio](https://dribbble.com/shots/15217706-Dental-Landing-Page). While this one is no different in terms of design than the one we’ve shown before, it stands out in terms of animation. Spiral studio made the work come to life by adding the smooth fade in/out transitions along with the soft scroll effect.
+The next website is designed by {{% no-follow-link "https://dribbble.com/shots/15217706-Dental-Landing-Page" %}} Spiral Studio {{% /no-follow-link %}}. While this one is no different in terms of design than the one we’ve shown before, it stands out in terms of animation. Spiral studio made the work come to life by adding the smooth fade in/out transitions along with the soft scroll effect.
 
 ## 21) Untu Dental
 
