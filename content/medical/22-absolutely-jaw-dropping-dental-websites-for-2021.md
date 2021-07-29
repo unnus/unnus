@@ -86,13 +86,13 @@ What happens when a creative powerhouse collaborates with the smartest dentist i
 
 ![screenshot of website Profimed Dental Store](/assets/images/best-dental-websites-10.PNG)
 
-The [SMDK Design agency](https://dribbble.com/shots/11008054-Profimed-Design-Concept) Turned Profimed dental store into a premium brand by adapting a minimalist design to reflect modern feel and look for the company. And while the website is beautifully made, what makes this one different is its accessibility and how easy it is to use for dental product shoppers.
+The {{% no-follow-link "https://dribbble.com/shots/11008054-Profimed-Design-Concept/" %}} SMDK Design agency{{% /no-follow-link %}} Turned Profimed dental store into a premium brand by adapting a minimalist design to reflect modern feel and look for the company. And while the website is beautifully made, what makes this one different is its accessibility and how easy it is to use for dental product shoppers.
 
 ## 11) Machniak Orthodontics Clinic
 
 ![screenshot of website Machniak Clinic](/assets/images/best-dental-websites-11.jpg)
 
-The Polish Dental Clinic Machniak redesigned their website to match the current aesthetic standards of the competitive landscape. What differentiates the website is the flawless aggregation of content and the seamless scrolling experience. This trendy piece of work was designed by [Daniel Jędrzejczyk](https://dribbble.com/shots/8248701/).
+The Polish Dental Clinic Machniak redesigned their website to match the current aesthetic standards of the competitive landscape. What differentiates the website is the flawless aggregation of content and the seamless scrolling experience. This trendy piece of work was designed by {{% no-follow-link "https://dribbble.com/shots/8248701/" %}} Daniel Jędrzejczyk{{% /no-follow-link %}}.
 
 ## 12) VC Dentistry Clinic
 
