@@ -80,7 +80,7 @@ The next website is designed by the Bangladesh based web designer {{% no-follow-
 
 ![screenshot of website Channel Dental Platform](/assets/images/best-dental-websites-9.png)
 
-What happens when a creative powerhouse collaborates with the smartest dentist in Washington? Well, the Channel :D platform. The dental engagement platform has differentiated itself from the “lookalike” by adopting a unique black & white style to their website. Along with the bespoke illustration, [Shakuro ](https://dribbble.com/shots/14842406/)agency has made a masterpiece.
+What happens when a creative powerhouse collaborates with the smartest dentist in Washington? Well, the Channel :D platform. The dental engagement platform has differentiated itself from the “lookalike” by adopting a unique black & white style to their website. Along with the bespoke illustration, {{% no-follow-link "https://dribbble.com/shots/14842406/" %}} Shakuro {{% /no-follow-link %}} agency has made a masterpiece.
 
 ## 10) Profimed Dental Store
 
