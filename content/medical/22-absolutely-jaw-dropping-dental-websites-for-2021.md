@@ -68,7 +68,7 @@ The Huston texas based creative {{% no-follow-link "https://dribbble.com/shots/9
 
 ![screenshot of website Smile Wow Dental](/assets/images/best-dental-websites-7.PNG)
 
-Our next website comes from the professional UI designer{{% no-follow-link "https://dribbble.com/shots/11227626-WowSmile-Homepage-Design-V2/" %}} Naresh {{% /no-follow-link %}} and his concept of Smile Wow dental website. What stands out in this layout is the perfect use of visual hierarchy and the well placed call to action buttons. This kind of conversion-focused design makes smile wow’s website perfect for attracting more patients online.
+Our next website comes from the professional UI designer {{% no-follow-link "https://dribbble.com/shots/11227626-WowSmile-Homepage-Design-V2/" %}} Naresh {{% /no-follow-link %}} and his concept of Smile Wow dental website. What stands out in this layout is the perfect use of visual hierarchy and the well placed call to action buttons. This kind of conversion-focused design makes smile wow’s website perfect for attracting more patients online.
 
 ## 8) Dentora Dental Care
 
