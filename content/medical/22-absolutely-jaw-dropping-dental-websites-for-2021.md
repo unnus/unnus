@@ -146,7 +146,7 @@ This is the second {{% no-follow-link "https://dribbble.com/shots/6990163/" %}} 
 
 ![screenshot of Dental Plus website](/assets/images/best-dental-websites-20.PNG)
 
-The next website is designed by {{% no-follow-link "https://dribbble.com/shots/15217706-Dental-Landing-Page" %}} Spiral Studio {{% /no-follow-link %}}. While this one is no different in terms of design than the one we’ve shown before, it stands out in terms of animation. Spiral studio made the work come to life by adding the smooth fade in/out transitions along with the soft scroll effect.
+The next website is designed by {{% no-follow-link "https://dribbble.com/shots/15217706-Dental-Landing-Page" %}} Spiral Studio{{% /no-follow-link %}}. While this one is no different in terms of design than the one we’ve shown before, it stands out in terms of animation. Spiral studio made the work come to life by adding the smooth fade in/out transitions along with the soft scroll effect.
 
 ## 21) Untu Dental
 
