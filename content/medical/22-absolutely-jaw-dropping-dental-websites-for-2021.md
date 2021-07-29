@@ -74,7 +74,7 @@ Our next website comes from the professional UI designer{{% no-follow-link "http
 
 ![screenshot of website Dentora Dental Care](/assets/images/best-dental-websites-8.PNG)
 
-The next website is designed by the Bangladesh based web designer [Dibbendo Pranto](https://dribbble.com/shots/6417654-Dental-Medical-Website) and his concept of Dentora Dental. Dibbendo nailed the design in a variety of ways, from the hovering video section, the divided header and the modern feel of the website.
+The next website is designed by the Bangladesh based web designer {{% no-follow-link "https://dribbble.com/shots/6417654-Dental-Medical-Website" %}} Dibbendo Pranto {{% /no-follow-link %}}and his concept of Dentora Dental. Dibbendo nailed the design in a variety of ways, from the hovering video section, the divided header and the modern feel of the website.
 
 ## 9) Channel Dental Platform
 
