@@ -50,7 +50,7 @@ Our next design is done by the Australian based agency {{% no-follow-link "https
 
 ![screenshot of website San Francisco Dental](/assets/images/best-dental-websites-4.PNG)
 
-The next design is from the talented UX/UI designer [Songeez](https://dribbble.com/shots/15276194/). What this website gets right is the creative use of imagery. While using white coats and office spaces images can inform the user of the business, San Francisco Dental focuses its imagery more on the patient.
+The next design is from the talented UX/UI designer {{% no-follow-link "https://dribbble.com/shots/15276194/" %}} Songeez{{% /no-follow-link %}}. What this website gets right is the creative use of imagery. While using white coats and office spaces images can inform the user of the business, San Francisco Dental focuses its imagery more on the patient.
 
 ## 5) Dental Care DSO
 
