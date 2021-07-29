@@ -150,13 +150,13 @@ The next website is designed by {{% no-follow-link "https://dribbble.com/shots/1
 
 ## 21) Untu Dental
 
-![screenshot of Untu Dental Website](/assets/images/best-dental-websites-21.PNG)The next one is done by the same agency [Spiral Studio](https://dribbble.com/shots/15237791-Dental-Landing-Page-Exploration). This one is less focused on the animation but more on the actual aesthetics. The well-thought out content layout, the clear “book appointment” buttons, and the wisely-placed testimonials, make the website perfect for converting visitors into recurring patients.
+![screenshot of Untu Dental Website](/assets/images/best-dental-websites-21.PNG)The next one is done by the same agency {{% no-follow-link "https://dribbble.com/shots/15237791-Dental-Landing-Page-Exploration" %}} Spiral Studio {{% /no-follow-link %}}. This one is less focused on the animation but more on the actual aesthetics. The well-thought out content layout, the clear “book appointment” buttons, and the wisely-placed testimonials, make the website perfect for converting visitors into recurring patients.
 
 ## 22) Dr. Rocco's Dental Center
 
 ![screenshot of Dr. Rocco's Dental Center website](/assets/images/best-dental-websites-22.PNG)
 
-The last one we have in today’s list is by the creative studio [Vision Trust](https://dribbble.com/shots/14953714-Dr-Rocco-Specialized-Dental-Center). This one is a combination of rest works: from the creative layout, clean look, bold typography, and the glossy animations, Dr. Recco’s dental center website is truly the best one so far.
+The last one we have in today’s list is by the creative studio {{% no-follow-link "https://dribbble.com/shots/14953714-Dr-Rocco-Specialized-Dental-Center" %}} Vision Trust {{% /no-follow-link %}}. This one is a combination of rest works: from the creative layout, clean look, bold typography, and the glossy animations, Dr. Recco’s dental center website is truly the best one so far.
 
 ## Looking for a new website design for your practice?
 
