@@ -150,7 +150,7 @@ The next website is designed by {{% no-follow-link "https://dribbble.com/shots/1
 
 ## 21) Untu Dental
 
-![screenshot of Untu Dental Website](/assets/images/best-dental-websites-21.PNG)The next one is done by the same agency {{% no-follow-link "https://dribbble.com/shots/15237791-Dental-Landing-Page-Exploration" %}} Spiral Studio {{% /no-follow-link %}}. This one is less focused on the animation but more on the actual aesthetics. The well-thought out content layout, the clear “book appointment” buttons, and the wisely-placed testimonials, make the website perfect for converting visitors into recurring patients.
+![screenshot of Untu Dental Website](/assets/images/best-dental-websites-21.PNG)The next one is done by the same agency {{% no-follow-link "https://dribbble.com/shots/15237791-Dental-Landing-Page-Exploration" %}} Spiral Studio{{% /no-follow-link %}}. This one is less focused on the animation but more on the actual aesthetics. The well-thought out content layout, the clear “book appointment” buttons, and the wisely-placed testimonials, make the website perfect for converting visitors into recurring patients.
 
 ## 22) Dr. Rocco's Dental Center
 
