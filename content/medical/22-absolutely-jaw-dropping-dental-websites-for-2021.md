@@ -98,7 +98,7 @@ The Polish Dental Clinic Machniak redesigned their website to match the current 
 
 ![screenshot of Dentistry Clinic](/assets/images/best-dental-websites-12.PNG)
 
-Our next website is designed by the indian based UX designer [Abir Mahmood](https://dribbble.com/shots/6455215-Dental-Landing-Page-Design). What I like the most about this piece of art is its unconventional layout. Instead of the boring “bricks-boxes-like” layout, Abir managed to craft an appealing and interesting arrangement of content.
+Our next website is designed by the indian based UX designer {{% no-follow-link "https://dribbble.com/shots/6455215-Dental-Landing-Page-Design" %}} Abir Mahmood{{% /no-follow-link %}}. What I like the most about this piece of art is its unconventional layout. Instead of the boring “bricks-boxes-like” layout, Abir managed to craft an appealing and interesting arrangement of content.
 
 ## 13) 20/32 Dental Studio
 
