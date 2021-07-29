@@ -30,7 +30,9 @@ Let’s start with our first site.
 
 ![screenshot of website aesthetics dental ](/assets/images/best-dental-websites-1.PNG)
 
-Our first design comes from [Spring Art Studio](https://dribbble.com/shots/16076596-Medical-Dental-Web-App-Website). What I like about this concept is the intersection between the main image and the website elements that gives it this “overlapping” effect. And while the contrast between the white text and the background needs a little bit more work, it makes for an intriguing dental website.
+Our first design comes from {{% no-follow-link "https://dribbble.com/shots/16076596-Medical-Dental-Web-App-Website" %}} Spring Art Studio {{% /no-follow-link %}} . What I like about this concept is the intersection between the main image and the website elements that gives it this “overlapping” effect. And while the contrast between the white text and the background needs a little bit more work, it makes for an intriguing dental website.
+
+{{% course-promotion %}} {{% /course-promotion %}}
 
 ## 2) Aesthetics Dental Laboratory
 
