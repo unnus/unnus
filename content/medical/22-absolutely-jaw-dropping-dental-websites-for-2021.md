@@ -30,7 +30,7 @@ Let’s start with our first site.
 
 ![screenshot of website aesthetics dental ](/assets/images/best-dental-websites-1.PNG)
 
-Our first design comes from {{% no-follow-link "https://dribbble.com/shots/16076596-Medical-Dental-Web-App-Website" %}} Spring Art Studio {{% /no-follow-link %}} . What I like about this concept is the intersection between the main image and the website elements that gives it this “overlapping” effect. And while the contrast between the white text and the background needs a little bit more work, it makes for an intriguing dental website.
+Our first design comes from {{% no-follow-link "https://dribbble.com/shots/16076596-Medical-Dental-Web-App-Website" %}} Spring Art Studio {{% /no-follow-link %}}. What I like about this concept is the intersection between the main image and the website elements that gives it this “overlapping” effect. And while the contrast between the white text and the background needs a little bit more work, it makes for an intriguing dental website.
 
 {{% course-promotion %}} {{% /course-promotion %}}
 
@@ -44,7 +44,7 @@ Again, our friends at Spring art studio made a second concept for an aesthetics 
 
 ![screenshot of website D-care](/assets/images/best-dental-websites-3.PNG)
 
-Our next design is done by the Australian based agency [Studio Express](https://dribbble.com/shots/14650049/). The well-thought out website structure from its headline, Call To Action button and patient reviews makes it perfect for the user to use. In addition, the minimalist approach and the use of white spaces made the website radiate a modern feel.
+Our next design is done by the Australian based agency {{% no-follow-link "https://dribbble.com/shots/14650049/" %}} Studio Express{{% /no-follow-link %}}. The well-thought out website structure from its headline, Call To Action button and patient reviews makes it perfect for the user to use. In addition, the minimalist approach and the use of white spaces made the website radiate a modern feel.
 
 ## 4) San Francisco Dental
 
