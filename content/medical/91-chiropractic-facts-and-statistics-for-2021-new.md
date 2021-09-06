@@ -206,7 +206,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **65)** 31 million Americans suffer from low back pain. \[65\] {{% /stat %}}
 
-## Footnotes
+<div class="footnotes">
 
 **\[1\]** =>  https://<span></span>news.gallup.com/poll/194984/one-four-adults-sought-care-neck-back-pain-last-year.aspx?g_source=Well-Being&g_medium=newsfeed&g_campaign=tiles
 
@@ -465,3 +465,4 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 ***
 
 **\[65\]** => https://<span></span>wahpetondailynews.com/health/million-americans-experience-low-back-pain-at-any-given-time/article_752b754e-0156-11e8-ac51-2fa3ce942563.html
+</div>

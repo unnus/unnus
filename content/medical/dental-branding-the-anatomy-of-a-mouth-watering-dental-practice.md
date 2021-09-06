@@ -281,7 +281,7 @@ A **communication framework** is a branding strategy that allows you and your st
 
 Within this communication framework, we use techniques like Storytelling, Messaging, Main Narrative, etc...
 
-If you’d like to see how this unfolds in detail, check our free [healthcare branding series](/healthcare-branding "Healthcare branding series")
+If you’d like to see how this unfolds in detail, check our free [healthcare branding series](/charismatic-medical-brand "Healthcare branding series")
 
 ## Advantages of building a charismatic dental brand
 
@@ -351,7 +351,7 @@ Building a tribe around your dental brand is not some wishy-washy riffs.
 
 Here at unnus, we implement design-thinking strategies to achieve the same effect for our clients.
 
-If you’d like to dig deep into details of the “how”, again, we highly recommend checking out this free [5 part series on healthcare branding](/healthcare-branding "Healthcare branding series").
+If you’d like to dig deep into details of the “how”, again, we highly recommend checking out this free [5 part series on healthcare branding](/charismatic-medical-brand "Healthcare branding series").
 
 ### IV) It spark up operational efficiencies
 
