@@ -2094,6 +2094,12 @@
 // Extra Large 1200px~
 // Mega large 1500~1600+
 
+@media (max-width: 776px ){
+	.footnotes{
+		display: none;
+	}
+}
+
 
 @media (max-width: 631px){
 
