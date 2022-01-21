@@ -2,7 +2,7 @@
 author = "InVideo Team"
 authorAvatarBottom = "/assets/images/invideo.png"
 authorAvatarTop = "/assets/images/invideo.png"
-authorBio = "Article is comes to you by the InVideo platform team. InVideo is an online video editor that helps you promote your business online with the right tools."
+authorBio = "This article comes to you by the InVideo team. InVideo is an online video editor that helps you promote your business online with the right tools."
 category = "healthcare-marketing"
 date = 2022-01-20T23:00:00Z
 description = "You can use the best video editor tool for creating healthcare videos and seize the chance to connect with patients authentically and educate them on different ways of living a healthy and hearty life."
