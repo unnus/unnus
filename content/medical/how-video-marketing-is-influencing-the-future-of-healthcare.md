@@ -7,7 +7,7 @@ category = "healthcare-marketing"
 date = 2022-01-20T23:00:00Z
 description = ""
 draft = true
-featImg = ""
+featImg = "/assets/images/featured-video-marketing.png"
 featImgThumb = ""
 linkedinHandle = "/invideoio"
 page = "medical/single.html"
@@ -79,7 +79,7 @@ Using medical content videos to inform patients about medical issues and provide
 
 Healthcare organizations are now going a step further and clarifying which products and services they provide so that patients get a clearer understanding of their practice and the way it can benefit them. All this and more is being achieved through the best [video marketing statistics](https://invideo.io/blog/video-marketing-statistics/).
 
-**3. Video Quality is Crucial Here!**
+**3. Video Quality is Crucial Here**
 
 Simply limiting yourself to using videos you've edited using video editing tools and thinking 'this is the best video maker tool for healthcare', will not bring you success. Make a great video that instantly works in attracting the target audience's attention.
 
