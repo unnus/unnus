@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "6"
 slug = "/healthcare-video-marketing"
 socialThumbnail = ""
-table_of_content = ["Why-Video-Marketing-is-Effective-in-the-Healthcare-Industry", "Different-Ways-of-Using-Video-Marketing-for-Educating-and-Influencing-Patients", "Different-Ways-in-Which-Video-Marketing-is-Influencing Medical-Practice", "Conclusion"]
+table_of_content = ["why-video-marketing-is-effective-in-the-healthcare-industry", "different-ways-of-using-video-marketing-for-educating-and-influencing-patients", "different-ways-in-which-video-marketing-is-influencing medical-practice", "conclusion"]
 title = "How Video Marketing is influencing the future of Healthcare"
 twitterHandle = "/InVideoOfficial"
 
