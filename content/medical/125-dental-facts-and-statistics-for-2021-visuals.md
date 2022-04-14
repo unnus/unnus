@@ -203,7 +203,7 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Illustration that shows dental statistics about patient expectation when it comes to digital service](/assets/images/dental-facts-and-statistics-11.png)
 
-{{% stat %}} **70)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than uninsured patients and accept twice the amount of treatment. \[12\] {{% /stat %}}
+{{% stat %}} **70)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than [uninsured ](https://www.insurancily.com/)patients and accept twice the amount of treatment. \[12\] {{% /stat %}}
 
 {{% stat %}} **71)** In a survey of 1005 adults, most Americans said that they used a multiple ways of methods of getting rid of the food in their teeth: fingernails (61%), cards (40%), cutlery (21%), pins (14%), and strands of hair (7%).  \[20\] {{% /stat %}}
 
