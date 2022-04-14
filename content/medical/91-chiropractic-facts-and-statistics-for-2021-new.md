@@ -82,7 +82,7 @@ Now, let’s go through some of the interesting stats when it comes to chiroprac
 
 {{% stat %}} **20)** About 20% of chiropractic patients are receiving treatment for neck pain. \[20\] {{% /stat %}}
 
-{{% stat %}} **21)** 60% of people who receive chiropractic care have insurance coverage. \[21\] {{% /stat %}}
+{{% stat %}} **21)** 60% of people who receive chiropractic care have [insurance coverage](https://www.insurancily.com/see-how-easily-you-can-understand-legal-and-general-life-insurance-2022-updates/). \[21\] {{% /stat %}}
 
 ![screenshot of a chiropractic fact that says 60% of people receive insured chiropractic care ](/assets/images/4-3.png)
 
