@@ -65,6 +65,9 @@
 
 
 @media (max-width: 992px){
+	nav #menu{
+		display: block;
+	}
 
 	// hero
 	.header-home{
@@ -84,6 +87,9 @@
 		.btn-s{
 			margin-top:0;
 		}
+	}
+	.navbar-links{
+		display: none;
 	}
 	.header-home .black-header{
 		position:static ;
@@ -113,6 +119,7 @@
 			margin-top:2%;
 		}
 	}
+	
 
 	.form-content .form-container .submission{
 		width:247px;
@@ -152,6 +159,15 @@
 
 
 
+}
+
+
+@media (max-width:1400px){
+	.course-home-header{
+		.black-header{
+			width:36vw;
+		}
+	}
 }
 
 @media (max-width: 768px){
@@ -1262,6 +1278,14 @@
 
 }
 
+@media(max-width:1400px){
+	.brand-intensive-header{
+		.black-header{
+			width:55vw;
+		}
+	}
+}
+
 @media (max-width: 1200px){
 	.brand-intensive-header{
 		.header-content{
@@ -1303,11 +1327,9 @@
 
 			width: 410px;
 			h1{
-				color:#FFF;
 				font-size:2.5em;
 			}
 			p{
-				color:#ffffff94;
 				font-size:1.4em;
 			}
 		}
