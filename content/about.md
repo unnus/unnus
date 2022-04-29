@@ -1,8 +1,8 @@
 ---
 type: static
 page: static/single.html
-title: Manifesto | unnus
-which: manifesto
+title: About | unnus
+which: about
 description: unnus is a healthcare branding agency aiming to establish medical brand that drive growth and build awareness  
 menu: main
 weight: 1
@@ -12,18 +12,20 @@ weight: 1
 
 <section class="manifesto">
 <div class="container">
-	<h2 class="reveal-text">Helping The Purveyors Of Modern Miracles</h2>
-	<p class="reveal-text">unnus is a healthcare branding agency aiming to set your medical brand for success and to drive growth, build awareness and create uniquness for your business, all through creative design thinking</p>
+	<h2 class="reveal-text">We're helping The Purveyors Of Modern Miracles</h2>
+	<p class="reveal-text">unnus is a fully-remote healthcare branding agency aiming to set your medical brand for success and to drive growth, build awareness and create uniquness for your business, all through creative design thinking</p>
 	<div class="reveal-text">
-		<h2>Healthcare focused</h2>
+		<h2>We're healthcare focused</h2>
 		<p>Unlike most ad agencies, our approach is healthcare-focused.</p>
 		<p>With strategic profiling, we establish your healthcare business and set it apart from the rest.</p>
 		<p>We strive to help you to find a "why" for your brand and create an authentic business plans that drive growth, attract high-value patients and create advocacy for your institution/practice.</p>
 		
 </div>
-<h2 class="reveal-text">No other big claims here, that's all we do</h2>
-<div class="reveal-text">	
-	<p>Thank you for your readership</p>
+<h2 class="reveal-text">Meet our director</h2>
+<div style="display:flex;flex-direction:column;align-items:center;" class="reveal-text">	
+<img style="height:300px" alt="unnus director" src="https://slimanbaghouri.com/work/about/fg.png">
+	<p>Hi there! I’m Sliman Baghouri, The lead director and co-founder at unnus branding agency. Today, I work with healthcare companies and businesses around the world, building their brand, Web interfaces, design systems, and digital products with focus on their business-growth, modern design, and cutting-edge tech. Want to grab a phone call and discuss your project with me? hit me up at sliman@unnus.com
+</p>
 </div>
 </div>
 </section>

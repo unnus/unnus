@@ -7,8 +7,7 @@
 
   <!-- use the same parent template but include different header to each static page -->
   <body>
-
-	{{ if eq $.Page.Params.which "manifesto" }}
+	{{ if eq $.Page.Params.which "about" }}
 	  {{ partial "headers/manifesto-header.html" . }}
 	{{ end }}
 
@@ -36,8 +35,8 @@
 	  {{ partial "headers/rebranded-header.html" . }}
 	{{ end }}
 
-	{{ if eq $.Page.Params.which "ux" }}
-	  {{ partial "headers/four-dollar-ux.html" . }}
+	{{ if eq $.Page.Params.which "privacy" }}
+	  {{ partial "headers/privacy-header.html" . }}
 	{{ end }}
 
 
