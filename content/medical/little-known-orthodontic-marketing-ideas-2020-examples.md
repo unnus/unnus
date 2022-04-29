@@ -14,7 +14,7 @@ readingTime = "7"
 slug = "/orthodontic-marketing"
 socialThumbnail = "/assets/images/orthodontic-marketing.jpg"
 table_of_content = ["the-risk-of-not-being-seen-in-the-dental-industry", "this-is-why-most-orthodontic-marketing-efforts-fail", "orthodontic-marketing-ideas", "leverage-social-media-i-know-but-hear-me-out", "utilize-brand-storytelling-strategy-with-content-marketing", "online-paid-advertising-for-your-orthodontic-practice", "the-secret-to-orthodontic-marketing"]
-title = "Little-known Orthodontic Marketing Ideas 2021 (+Examples)"
+title = "Little-known Orthodontic Marketing Ideas 2022 (+Examples)"
 twitterHandle = "@SaraSeirawan"
 
 +++
