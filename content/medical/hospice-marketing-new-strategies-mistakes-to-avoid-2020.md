@@ -14,7 +14,7 @@ readingTime = "10"
 slug = "/hospice-marketing"
 socialThumbnail = "/assets/images/hospice-marketing-1.jpg"
 table_of_content = ["mistakes-to-avoid-in-hospice-marketing", "before-marketing-your-hospice-do-this", "hospice-marketing-ideas", "the-secret-to-a-successful-hospice-marketing-campaign"]
-title = "Hospice Marketing: New Strategies (+ Mistakes To Avoid) 2021 "
+title = "Hospice Marketing: New Strategies (+ Mistakes To Avoid) 2022"
 twitterHandle = "/@SaraSeirawan"
 
 +++
