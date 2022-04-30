@@ -12,6 +12,8 @@
   gtag('config', 'UA-179495905-1');
 </script>
 
+
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#f22613">
@@ -103,4 +105,36 @@
 {{ $style := $sass | resources.ToCSS | resources.Minify | resources.Fingerprint}}
 
 <link rel="stylesheet" href="{{ $style.Permalink}}">
+
 </head>
+
+<div class="wrapper">
+  <div class="content">
+    <div class="header-cookie">Do you accept Cookies?</div>
+    <p>By continuing to browse this site, you agree to our use of cookies</p>
+    <div class="buttons">
+      <button class="item">I understand</button>
+      <a href="/privacy-policy/" class="item">Learn more</a>
+    </div>
+  </div>
+</div>
+
+
+<script>
+  const cookieBox = document.querySelector(".wrapper"),
+      acceptBtn = cookieBox.querySelector("button");
+
+acceptBtn.onclick = ()=>{
+  //setting cookie for 1 month, after one month it'll be expired automatically
+  document.cookie = "CookieBy=CodingNepal; max-age="+60*60*24*30;
+  if(document.cookie){ //if cookie is set
+    cookieBox.classList.add("hide"); //hide cookie box
+  }else{ //if cookie not set then alert an error
+    alert("Cookie can't be set! Please unblock this site from the cookie setting of your browser.");
+  }
+}
+let checkCookie = document.cookie.indexOf("CookieBy=CodingNepal"); //checking our cookie
+//if cookie is set then hide the cookie box else show it
+checkCookie != -1 ? cookieBox.classList.add("hide") : cookieBox.classList.remove("hide");
+
+</script>
