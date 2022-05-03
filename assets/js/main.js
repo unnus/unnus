@@ -1,5 +1,7 @@
 window.onload = function(){
 
+	
+
 	/*BLING JS*/
 
 	window.$ = document.querySelectorAll.bind(document);
