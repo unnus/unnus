@@ -135,8 +135,14 @@ display: none;
 }
 }
 
-// Navbar Links color
+// Navbar Links Colors
 
 .hColor{
 color:#FFF
+}
+// Magazine Navbar Links Colors
+.magazine-header nav {
+	.hColor, .mColor{
+		color:white;
+	}
 }
