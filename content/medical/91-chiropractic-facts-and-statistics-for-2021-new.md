@@ -42,6 +42,9 @@ These are the most interesting Chiropractic stats we think you should know.
 
 ![Picture of chiropractic Statistics and facts ](/assets/images/1-1.png)
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 {{% stat %}} **5)** You need to complete a min of 4,200 hours of classroom, lab, and clinical internships during a 4-year doctoral program to become a chiropractor. \[5\] {{% /stat %}}
 
 {{% stat %}} **6)** Over one 100 million adjustments occur each day, globally. \[6\]{{% /stat %}}
@@ -71,6 +74,9 @@ Now, let’s go through some of the interesting stats when it comes to chiroprac
 {{% stat %}} **15)** Treatment for low-back pain by a chiropractor costs 40% less than that of a medical doctor \[15\]{{% /stat %}}
 
 ![Picture of chiropractic Statistics that shows how much DC costs less than MD ](/assets/images/3-2.png)
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 {{% stat %}} **16)** 10% of the world’s population suffers from lower back pain. \[16\]{{% /stat %}}
 
@@ -173,6 +179,8 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 ## Stats That Compare Chiropractic Care to Medical Care
 
 {{% stat %}} **54)** 56% of patients who went to a doctor saw a 30% reduction in low back pain. But 94% of patients who went through manual-thrust manipulation seen a 30% reduction in low back pain 4 weeks later. \[54\] {{% /stat %}}
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 {{% stat %}} **55)** A clinical comparative trial conducted at 3 military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief than medical care alone. \[55\] {{% /stat %}}
 

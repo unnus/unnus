@@ -36,6 +36,9 @@ Our first design comes from {{% no-follow-link "https://dribbble.com/shots/16076
 
 ![screenshot of website aesthetics dental laboratory](/assets/images/best-dental-websites-2.PNG)
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 Again, our friends at Spring art studio made a second concept for an aesthetics dental lab. What makes this one unique lies in its use of the modern design of 3D Model. This interactive model makes browsing the website more enjoyable to the user.
 
 ## 3) D-Care landing page
@@ -72,6 +75,7 @@ Our next website comes from the professional UI designer {{% no-follow-link "htt
 
 ![screenshot of website Dentora Dental Care](/assets/images/best-dental-websites-8.PNG)
 
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 The next website is designed by the Bangladesh based web designer {{% no-follow-link "https://dribbble.com/shots/6417654-Dental-Medical-Website" %}} Dibbendo Pranto {{% /no-follow-link %}}and his concept of Dentora Dental. Dibbendo nailed the design in a variety of ways, from the hovering video section, the divided header and the modern feel of the website.
