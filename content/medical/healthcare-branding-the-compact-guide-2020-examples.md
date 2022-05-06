@@ -45,7 +45,7 @@ What is healthcare branding?
 
 Let's start.
 
-{{% course-promotion %}} {{% /course-promotion %}}
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## **What is healthcare branding?**
 
@@ -92,6 +92,8 @@ Example: Our practice is The Only Cosmetic Service That puts its patient's confi
 If you can check all of the 6 points above, I suggest you do not waste your time reading this article. You are already ahead.
 
 If not, stick around. I’ll provide you with a complete roadmap to revamp your whole practice into a dazzling healthcare brand.
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## **Patient cognitive bias and why we favor a medical brand over another**
 
@@ -178,6 +180,9 @@ Being mission-driven requires gaining external and internal buy-ins to your medi
 Marketing is **inviting** somebody on a date; Branding is the **reason** they say yes.
 
 ![Difference between healthcare branding and healthcare marketing](/assets/images/12bbc2245153651e50ffad04938b7c57.png "Difference between healthcare branding and healthcare marketing")
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 **Marketing without branding is a mere tactic that comes with an expiration date.**
 
