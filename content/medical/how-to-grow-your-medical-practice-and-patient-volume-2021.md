@@ -44,6 +44,9 @@ Plus, because such software works 24/7, it allows patients to make appointments 
 
 If your clinic is not using online booking appointments, it’s time to integrate such a tool within your medical business. It will gain your practice a competitive advantage and increase patient preference towards your brand.
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 ## 2) Use Patient Journey Mapping to enhance the patient experience.
 
 ![](/assets/images/3-patient-journey-map-illustration.jpg)
@@ -78,6 +81,8 @@ It’s divided into 4 main stages:
    * When prospects become patients after booking an appointment with you.
 
 ![](/assets/images/26-sales-funnel-in-healthcare.jpg)
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 Now we understand sales funnels, let’s see how it is utilized to drive patients to your clinic.
 

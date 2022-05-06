@@ -391,7 +391,7 @@ To craft a purpose and a mission statement, we’ll use the Golden Circle Model.
 [You can access the free pdf version here](https://drive.google.com/file/d/1n1LFoqO0Vbtwkf-f96lHe8XCHxV-D1OV/view?usp=sharing "Healthcare mission statement exercise link")
 
 {{% ad-unit %}} {{% /ad-unit %}}
-
+   
 The **why** will be considered as a **Purpose Statement**.
 
 The **how** will be considered as a **Mission Statement**.

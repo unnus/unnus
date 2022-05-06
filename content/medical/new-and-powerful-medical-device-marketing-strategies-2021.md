@@ -40,6 +40,8 @@ This article contains:
 8. How to build a brand preference for your firm?
 9. The truth about medical device marketing
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
 ## Brand Storytelling Strategy: The New way of marketing your medical device firm and products
 
 I’m sure you’ve heard of the term “storytelling” before. I’m also equally sure that you’re still wondering about the practical application of this strategy and its validity in a closely-regulated industry like healthcare.
@@ -90,6 +92,8 @@ Medical professionals must trust your brand and the product it sells. If you can
 Now that you have a good idea of what this strategy is about, let’s see its four components. Brand DNA Development, Core Messages, Secondary Messages, Communication Framework.
 
 ![Brand Storytelling Strategy Diagram](/assets/images/1-storytelling-diagram.jpg "Brand Storytelling Strategy Diagram")
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ### Stage 1: Cultivating a Brand DNA
 

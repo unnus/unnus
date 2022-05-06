@@ -47,6 +47,9 @@ This article covers:
 
 The below strategies consist of little different but effective ways to market your practice.
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 ## Personal Brand Strategy for doctors
 
 ![Illustrations of personal branding for doctors](/assets/images/personal-branding-for-doctors-1.jpg "Personal Branding For Doctors")
@@ -109,6 +112,8 @@ Launching your medical show will take your medical business to the next level. A
 * Podcasting is easy to syndicate: the beauty of this medium is that you can convert your episode into other mediums like blog articles, social media posts, Youtube videos just with one recording
 * Podcasting will work as a flywheel that attracts new patient consistently
 * Establish you as an authority in the field
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## Podcast Tours Strategy
 

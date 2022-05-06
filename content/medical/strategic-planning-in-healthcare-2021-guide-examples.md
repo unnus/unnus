@@ -32,16 +32,8 @@ Here’s a brief outline of what I’ll cover:
 * The best 8 healthcare planning strategies
 * ‘Secret’ to a fruitful healthcare planning campaigns
 
-<div class="free-course">
-	<h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Medical Brand With Free Course</h2>
-	<div class="text-container">		
-	<p class="sub-text-p">Get our <b>free</b> 6-parts series that arms you with strategies to attract cult-like patient loyalty<p>
-	<img alt="attracting patients" src="/assets/images/attracting-patients.png">		
-	<a target="_blank" href="/charismatic-medical-brand">
-	<button style="width: 232px;" class="btn-s">Get Lesson #1 <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button>			
-		</a>
-	</div>
-</div>
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ## What is strategic planning in healthcare?
 
@@ -76,6 +68,9 @@ This enhanced workflow will accelerate the rate at which your medical business g
 The next graph illustrates how business growth rate correlates with operational efficiency.
 
 ![Growth rate as it relates to your operational performance](/assets/images/2-2-healthcare-strategic-planning-importance.jpg "Growth rate as it relates to your operational performance")
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ### 3) It creates a cohesive workplace for your medical business
 
@@ -150,6 +145,8 @@ Let’s see some examples of SWOT Diagrams in healthcare.
 ### Strategic planning in nursing: SWOT Example
 
 ![](/assets/images/swot-analysis-for-nurses.jpg)
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ### 2) S.W.O.T Strategy Canvas™
 

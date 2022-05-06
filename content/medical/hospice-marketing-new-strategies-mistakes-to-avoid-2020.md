@@ -41,6 +41,9 @@ without further ado, let’s start.
 
 ## Mistakes to Avoid in hospice marketing
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 Before we dig into the marketing ideas, let’s see common pitfalls so you can avoid them.
 
 ### 1) Focusing on the features and benefits in your marketing
@@ -104,6 +107,9 @@ If you can be the go-to resource for patients to answer their hospice-related qu
 This is a huge advantage for your agency to differentiate itself from the competition and a little-used strategy to acquire more patients.
 
 Another way that this could benefit you, is that the online experience is a great channel to have conversations with potential patients. This could be your chance to educate, debunk the myths, and lure customers into your hospice.
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ## Before Marketing your Hospice, Do This
 

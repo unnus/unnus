@@ -38,17 +38,7 @@ This article covers:
 
 Without wasting too much time, let’s start.
 
-<div class="free-course">
-	<h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Chiropractic Brand With Free Course</h2>
-	<div class="text-container">		
-	<p class="sub-text-p">Get our <b>free</b> 6-parts series that arms you with strategies to attract cult-like patient loyalty<p>
-	<img alt="attracting patients" src="/assets/images/attracting-patients.png">		
-	<a target="_blank" href="/charismatic-medical-brand">
-	<button style="width: 232px;" class="btn-s">Get Lesson #1 <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button>			
-		</a>
-	</div>
-</div>
-
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## **Why Most Chiropractic Marketing Campaigns Fail**
@@ -116,6 +106,9 @@ We shouldn’t be slaves to the growth curves. Instead of focusing on the short-
 
 To learn more about future-proof metrics, check this [guide](https://unnus.com/medical/healthcare-branding/#how-to-measure-branding-success).
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 ### **4) Misalignment between the marketing and the patient experience**
 
 ![consistent chiropractic marketing vs out of sync chiropractic marketing](/assets/images/consistant-chiropractic-marketing.jpg "consistent chiropractic marketing vs out of sync chiropractic marketing")
@@ -167,6 +160,10 @@ The second pitch doesn't sell you what they do. They’re selling you **why** th
 ![healthcare purposeful messages and how they are perceived](/assets/images/why-messaging-and-limbic-system.png "healthcare purposeful messages and how they are perceived")
 
 If you’d like to know how you develop a DNA and integrate it into your marketing communication, Here's a [free guide ](https://unnus.com/medical/healthcare-mission-statement/#brand-dna-creating-a-mission-and-a-purpose-statement)to implement it within your business.
+
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ## **2) Developing a Brand Positioning Strategy**
 

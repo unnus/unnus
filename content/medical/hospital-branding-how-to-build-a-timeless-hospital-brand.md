@@ -35,7 +35,9 @@ twitterHandle = "/@SlimanBaghouri"
 <li>Example of an established hospital brand</li>
 <li>Pivoting your hospital during this pandemic</li>
 </ul>
-<p>Let’s dive in.</p>
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 <div class="free-course">
 <h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Hospital Brand With Free Course</h2>
@@ -207,6 +209,9 @@ Having a unique principle that your hospital fights for, gives it that <b>substa
 Brand culture is the culture that a company cultivates in order to powerfully and consistently deliver its brand to the market. It's how people work together to bring the brand alive for customers.
 <p><cite>—Mark Di Somma</cite>
 </blockquote>
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 <p>Medical businesses routinely separate functions or hierarchical levels to achieve efficiencies, However...</p>
 <p>These divides lead to confusion, anxiety, and distrust.</p>
