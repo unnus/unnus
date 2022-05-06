@@ -34,7 +34,7 @@ Topics that I’ll cover are:
 
 Without wasting too much time, let's dig in.
 
-{{% course-promotion %}} {{% /course-promotion %}}
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## **What is SWOT analysis in healthcare?**
 
