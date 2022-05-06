@@ -43,17 +43,6 @@ These ads we will discuss today are:
 
 Let’s start.
 
-<div class="free-course">
-<h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Medical Brand With Free Course</h2>
-<div class="text-container">		
-<p class="sub-text-p">Get our <b>free</b> 6-parts series that arms you with strategies to attract cult-like patient loyalty<p>
-<img alt="attracting patients" src="/assets/images/attracting-patients.png">		
-<a target="_blank" href="/charismatic-medical-brand">
-<button style="width: 232px;" class="btn-s">Get Lesson #1 <svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"/></g></svg></button>			
-</a>
-</div>
-</div>
-
 ## Hospital adverts examples
 
 ### 1) “You’re freaking us out” by One Medical
@@ -61,6 +50,8 @@ Let’s start.
 ![healthcare-commercial-examples-1](/assets/images/medical-advert-1.jpg "healthcare-commercial-examples-1")**What’s great about it:** Instead of the usual advice “Masks are good for your safety”, One Medical took a different approach to raise the importance of wearing masks against Covid-19. This depicts a “seemingly menacing” lumberjack chasing the “seemingly normal” person. The plot twist is that the lumberjack was the one who was running _from_ the normal person. It is a brilliant idea that conveys even the scariest people are afraid of the unintentional harm a person without a mask can cause.
 
 **The video:**
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 {{< youtube TmQnuuqqZN4 >}}
 
@@ -107,6 +98,9 @@ Toronto is called the city of neighborhoods. To succeed, they need to unite them
 Taking it to the streets, with larger-than-life murals of patients rallying their loved ones to join at fundthefight.ca. As donors provided funds, their digital flags were proudly planted on a virtual map of the city.
 
 **The video:**
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 {{< youtube c4Jzb99Bpd0>}}
 
@@ -299,6 +293,9 @@ Their advertising campaign relays this sense of freedom, beginning with the logo
 This ad presents them as more approachable than typical Health Plans.
 
 **The video:**
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 {{< youtube qSp0yIyj6Hc>}}
 
