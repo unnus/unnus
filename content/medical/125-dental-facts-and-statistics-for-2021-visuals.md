@@ -278,46 +278,46 @@ These are some of the weirdest dental facts we think you should know.
 
 ## Footnotes
 
-**\[1\]** **→**  https://<span></span>warrpda.org/fun-facts-dentistry/
+**\[1\]** **→**  warrpda.org/fun-facts-dentistry/
 
-**\[2\]** **→**  https://<span></span>omahadentists.net/blog/interesting-teeth-and-dentistry-facts/
+**\[2\]** **→**  omahadentists.net/blog/interesting-teeth-and-dentistry-facts/
 
-**\[3\]** **→**  https://<span></span>imagine-smiles.com/fun-dental-facts.html
+**\[3\]** **→**  imagine-smiles.com/fun-dental-facts.html
 
 **\[4\]** **→**  Delta Dental's Oral Health & Wellness Survey was conducted December 28, 2020, through January 8, 2021, among a nationally representative sample of 1,000+ Americans ages 18+, with a margin of error of +/- 3%
 
-**\[5\]** **→**  https://<span></span>ada.org/en/science-research/health-policy-institute/publications/infographics
+**\[5\]** **→**  ada.org/en/science-research/health-policy-institute/publications/infographics
 
-**\[6\]** **→**  https://<span></span>thejournal.ie/mental-health-smile-1550017-Jul2014/
+**\[6\]** **→**  thejournal.ie/mental-health-smile-1550017-Jul2014/
 
-**\[7\]** **→**  https://<span></span>ada.org/en/publications/ada-news/2021-archive/march/hpi-poll-dentists-see-increased-prevalence-of-stress-related-oral-health-conditions
+**\[7\]** **→**  ada.org/en/publications/ada-news/2021-archive/march/hpi-poll-dentists-see-increased-prevalence-of-stress-related-oral-health-conditions
 
-**\[8\]** **→**  https://<span></span>oralhealthgroup.com/features/data-driven-dentistry-2021-a-summary/
+**\[8\]** **→**  oralhealthgroup.com/features/data-driven-dentistry-2021-a-summary/
 
-**\[9\]** **→**  https://<span></span>nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
+**\[9\]** **→**  nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
 
-**\[10\]** **→**  https://<span></span>nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
+**\[10\]** **→**  nadentalgroup.com/2020/04/21/new-study-reveals-patients-uncertain-about-dental-care-during-covid-19/
 
-**\[11\]** **→**  https://<span></span>pubmed.ncbi.nlm.nih.gov/26269131/
+**\[11\]** **→**  pubmed.ncbi.nlm.nih.gov/26269131/
 
-**\[12\]** **→**  https://<span></span>aegisdentalnetwork.com/id/2019/01/trends-in-dentistry/
+**\[12\]** **→**  aegisdentalnetwork.com/id/2019/01/trends-in-dentistry/
 
-**\[13\]** **→**  https://<span></span>globenewswire.com/news-release/2019/07/15/1882684/0/en/Global-Share-of-Dental-Implants-Market-to-Gain-USD-721-0-Million-By-2024-Zion-Market-Research.html
+**\[13\]** **→**  globenewswire.com/news-release/2019/07/15/1882684/0/en/Global-Share-of-Dental-Implants-Market-to-Gain-USD-721-0-Million-By-2024-Zion-Market-Research.html
 
-**\[14\]** **→**  https://<span></span>trendstatistics.com/health/dental-implants-facts-statistics/
+**\[14\]** **→**  trendstatistics.com/health/dental-implants-facts-statistics/
 
-**\[15\]** **→**  https://<span></span>digitalcommerce360.com/2019/07/28/put-health-data-into-the-right-context/
+**\[15\]** **→**  digitalcommerce360.com/2019/07/28/put-health-data-into-the-right-context/
 
-**\[16\]** **→**  https://<span></span>sciencedirect.com/science/article/abs/pii/S0272735816302331
+**\[16\]** **→**  sciencedirect.com/science/article/abs/pii/S0272735816302331
 
-**\[17\]** **→**  https://<span></span>softwareadvice.com/resources/how-patients-use-online-reviews/#1
+**\[17\]** **→**  softwareadvice.com/resources/how-patients-use-online-reviews/#1
 
-**\[18\]** **→**  https://<span></span>intuit.me/3gEjmbl
+**\[18\]** **→**  intuit.me/3gEjmbl
 
-**\[19\]** **→**  https://<span></span>insight.intrado.com/10-ways-patient-wish-list-white-paper
+**\[19\]** **→**  insight.intrado.com/10-ways-patient-wish-list-white-paper
 
-**\[20\]** **→**  https://<span></span>ada.org/en/publications/ada-news/2017-archive/october/new-survey-highlights-unusual-flossing-habits
+**\[20\]** **→**  ada.org/en/publications/ada-news/2017-archive/october/new-survey-highlights-unusual-flossing-habits
 
-**\[21\]** **→**  https://<span></span>cdc.gov/nchs/data/databriefs/db197.pdf
+**\[21\]** **→**  cdc.gov/nchs/data/databriefs/db197.pdf
 
-**\[22\]** **→**  https://<span></span>rpdo.com/blog/10-fun-dental-facts
+**\[22\]** **→**  rpdo.com/blog/10-fun-dental-facts
