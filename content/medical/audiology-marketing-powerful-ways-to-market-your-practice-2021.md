@@ -54,6 +54,8 @@ The refutation in this competitive environment lies within the **service** you p
 
 Focusing on the care service instead of the device is the first step to singling yourself out from the sea of sameness. This will give patients new reasons as to **why** they should come to you.
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
 ## Differentiate, Differentiate, Differentiate
 
 Differentiation works because of how our brains function. Our brain filters the “lookalike” and tends to pay attention to what’s different as a way to protect us from the plethora of irrelevant information.
@@ -117,6 +119,9 @@ According to recent research, viewers [retain 95% of a message ](https://www.ins
 So, although, making a video is a little more expensive than a normal ad, the results are well worth it. Since you’re guaranteed a high retention rate for your video ad (if it’s well made), that means you’re more likely to get higher ROI on your advertisement spend on video marketing platforms like Youtube than a text-based one.
 
 Here’s a heart-stirring ad from Bay Audiology:
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 {{< youtube iUPTOWST-6M>}}
 
