@@ -34,7 +34,6 @@ Topics that I’ll cover are:
 
 Without wasting too much time, let's dig in.
 
-{{% ad-unit %}} {{% /ad-unit %}}
 
 ## **What is SWOT analysis in healthcare?**
 
@@ -46,6 +45,7 @@ SWOT Analysis arms you with a clear overview of critical metrics that are key fo
 
 ![swot-analysis-in-healthcare](/assets/images/swot-analysis-in-healthcare.png "swot-analysis-in-healthcare")
 
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## **Benefits of SWOT Analysis in healthcare**
 
@@ -124,6 +124,9 @@ A simple example of a SWOT grid should be like this:
 ![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.jpg "Healthcare SWOT Analysis template")
 
 You can use our free [healthcare SWOT Analysis Template](https://drive.google.com/file/d/1LgZj5L5N3rI13n21JRdP1Nyb3qgn2tTh/view?usp=sharing)
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ### **Gather the information**
 
@@ -261,6 +264,9 @@ An example of a SWOT analysis for a hospital will look like this:
 Another example from one of our client:
 
 ![Hospital SWOT ANALYSIS EXAMPLE ](/assets/images/hospital-swot-analysis-example.jpg "Hospital SWOT ANALYSIS EXAMPLE ")
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ## **SWOT analysis for nurses example**
 
