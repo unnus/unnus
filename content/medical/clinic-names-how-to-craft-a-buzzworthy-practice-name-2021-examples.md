@@ -61,6 +61,18 @@ The right name can be a brand’s most valuable property, driving differentiatio
 
 Another good example is Smuckers, The jam manufacturer company. The name benefits strongly from onomatopoeia. “Smuckers” sounds like smacking lips, a preverbal testament to a yummy jam. The name is also unique, short, spellable, pronounceable, likable, portable, and legally-defensible.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2627299206345945"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2627299206345945"
+     data-ad-slot="7890855276"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 As we can see, a great name radically increases the memorability of your medical business in the minds of patients. It can provide a vivid picture of everything you stand for and the values you hold.
 
 ## How NOT to name your medical brand
