@@ -60,9 +60,6 @@ The right name can be a brand’s most valuable property, driving differentiatio
 {{% blockquote "Marty Neumeier" %}}An example of a great name is Carl Zeiss, the maker of optical lenses. Does Zeiss make great lenses? Who knows? But the name makes the lenses “sound” great. The word “Zeiss” has hints of “glass” and “precise,” and evokes thoughts of German technological superiority{{% /blockquote %}}
 
 Another good example is Smuckers, The jam manufacturer company. The name benefits strongly from onomatopoeia. “Smuckers” sounds like smacking lips, a preverbal testament to a yummy jam. The name is also unique, short, spellable, pronounceable, likable, portable, and legally-defensible.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2627299206345945"
-     crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
