@@ -123,14 +123,14 @@ iframe{
 }
 
 .post-cta{
-	flex:.45;
+  flex:.45;
   position: relative;
   display: flex;
   justify-content: flex-end;
   .cta-holder{
 		position:sticky;
 		top:-3vh;
-		height: 550px;
+		max-height: 550px !important;
 		.btn-s{
 			overflow: hidden;
 			width:100%;
