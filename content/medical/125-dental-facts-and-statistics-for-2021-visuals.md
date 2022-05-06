@@ -275,7 +275,7 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States are paid for by Medicaid. \[5\] {{% /stat %}}
 
 ***
-
+<!-- 
 ## Footnotes
 
 **\[1\]** **→**  warrpda.org/fun-facts-dentistry/
@@ -320,4 +320,4 @@ These are some of the weirdest dental facts we think you should know.
 
 **\[21\]** **→**  cdc.gov/nchs/data/databriefs/db197.pdf
 
-**\[22\]** **→**  rpdo.com/blog/10-fun-dental-facts
+**\[22\]** **→**  rpdo.com/blog/10-fun-dental-facts -->
