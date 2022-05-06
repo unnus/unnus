@@ -2165,3 +2165,9 @@
 	  }
 	}
 }
+
+// Ads Responsive
+
+.article-banner-ad { width: 320px; height: 100px; }
+@media(min-width: 500px) { .article-banner-ad { width: 468px; height: 60px; } }
+@media(min-width: 800px) { .article-banner-ad { width: 728px; height: 90px; } }
