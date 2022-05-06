@@ -42,6 +42,9 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.png)
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 {{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth. \[2\] {{% /stat %}}
 
 {{% stat %}} **7)** Tooth prints are unique to each person. Same as fingerprints. \[2\] {{% /stat %}}
@@ -65,6 +68,9 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **15)** The cotton candy machine was co-invented by a dentist. \[3\] {{% /stat %}}
 
 {{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion. \[3\] {{% /stat %}}
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
 
@@ -133,6 +139,9 @@ These are some of the weirdest dental facts we think you should know.
 {{% stat %}} **41)** Approximately 10% of dentists who were enrolled as Medicaid providers prior to the COVID-19 pandemic have since disenrolled.  \[7\] {{% /stat %}}
 
 {{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go.  \[7\] {{% /stat %}}
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.png)
 
