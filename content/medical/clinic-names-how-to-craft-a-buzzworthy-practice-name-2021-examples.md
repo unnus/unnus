@@ -174,6 +174,16 @@ Use a ranking score of 1 or 0 (yes or no). Try also giving this to friends/famil
 
 After you finish, you’ll have a total score for each name. The highest scored name wins.
 
+<ins class="adsbygoogle in-article-ad"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2627299206345945"
+     data-ad-slot="7890855276"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Medical brand name examples
 
 If you google clinic names or medical business names, you’ll find 100+ randomly generated and half-assed brand names that might give you a visceral response of disgust. For this reason, I decided to share with you a couple of medical brand names I’ve crafted with my clients. Some are real medical businesses and others are prototypes.
