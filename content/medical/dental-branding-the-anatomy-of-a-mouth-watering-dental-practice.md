@@ -64,6 +64,9 @@ Again, That’s NOT what a brand is.
 
 The above definition is a more literal meaning.
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
+
 ## So, what is dental branding?
 
 Simply: **A brand is a customer’s GUT FEELING about your organization and your care service.**
@@ -75,6 +78,7 @@ A [brand ](https://unnus.com/charismatic-medical-brand/)is a gut feeling because
 And your patients base their buying decisions on trust or confidence they get from your communication channels.
 
 {{% blockquote "Marty Neumeier, The brand gap" %}} A brand is not what you say it is, it's what they say it is. {{% /blockquote %}}
+
 
 Branding, on the other hand, is the management of all elements that make your dental practice charismatic.
 
@@ -155,6 +159,7 @@ That’s what we call **positioning**.
 
 {{% note "CASE STUDY" %}}
 
+
 Confidental™, a client of ours that provides cosmetic dentistry to its patients in napa valley, CA.
 
 We positioned the practice as the only dental practice that empowers its patients with confidence through dental appearance.
@@ -166,6 +171,9 @@ Patients go to Confidental™ not because of oral care, but because they are emp
 They went there to get confident.
 
 {{% /note %}}
+
+{{% ad-unit %}} {{% /ad-unit %}}
+
 
 ### IV) They are not strategic in communicating with patients.
 
