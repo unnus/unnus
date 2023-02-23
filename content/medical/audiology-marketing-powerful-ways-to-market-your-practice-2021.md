@@ -14,7 +14,7 @@ readingTime = "7"
 slug = "audiology-marketing"
 socialThumbnail = "/assets/images/audio-featured.jpg"
 table_of_content = ["what-to-do-before-marketing-your-audiology-practice", "hone-in-on-the-service-and-separate-yourself-from-the-device", "differentiate-differentiate-differentiate", "build-your-brand", "audiology-marketing-ideas", "generate-patients-using-google-adwords", "using-video-advertising-to-raise-awareness", "attract-patient-using-social-media-targeting-ads", "launch-your-audiology-podcast-and-use-it-as-a-referral-source", "be-a-guest-on-other-healthcare-related-podcasts", "establish-referral-programs", "expand-your-network-with-pcp-and-family-doctors", "go-beyond-age-related-hearing-loss-cases", "the-secret-to-a-fruitful-audiology-marketing"]
-title = "Audiology Marketing: Powerful ways to Market Your Practice 2022"
+title = "Audiology Marketing: Powerful ways to Market Your Practice 2023"
 twitterHandle = "/@SlimanBaghouri"
 
 +++

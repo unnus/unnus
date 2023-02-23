@@ -14,7 +14,7 @@ readingTime = "8"
 slug = "/healthcare-swot-analysis"
 socialThumbnail = "/assets/images/healthcare-swot-analysis.jpg"
 table_of_content = ["what-is-swot-analysis-in-healthcare", "benefits-of-swot-analysis-in-healthcare", "the-4-swot-analysis-process", "how-to-conduct-swot-analysis-in-healthcare", "introducing-the-swot-strategy-canvas-a-visual-representation-to-measure-your-success", "examples-of-swot-analysis-in-healthcare", "hospital-swot-analysis-example", "swot-analysis-for-nurses-example", "the-secret-to-a-battle-proven-healthcare-swot-analysis"]
-title = "A Step-By-Step Guide To SWOT Analysis In Healthcare [2022]"
+title = "A Step-By-Step Guide To SWOT Analysis In Healthcare [2023]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
