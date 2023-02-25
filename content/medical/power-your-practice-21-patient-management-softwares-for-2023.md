@@ -235,8 +235,7 @@ Platinum System is a chiropractic software that offers a wide range of features 
 
 What sets Platinum System apart is its focus on ease-of-use. The software is designed to be user-friendly, making it easy for chiropractors to manage their practices.
 
-##   
-Patient mangments softwares for Cardiologists
+## Patient mangments softwares for Cardiologists
 
 As a Cardiologist, managing patient data and medical records is crucial to providing the best care possible. With the advancement of technology, patient management softwares have become a popular solution to streamline this process. In this article, we will discuss 5 patient management softwares specifically designed for Cardiologists.
 
