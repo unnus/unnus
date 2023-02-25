@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "12"
 slug = "patient-software-management"
 socialThumbnail = ""
-table_of_content = []
+table_of_content = ["patient-mangments-softwares-for-general-practices", "patient-mangments-softwares-for-dentists"]
 title = "Power Your Practice: 27 Patient Management Softwares for 2023"
 twitterHandle = "SlimanBaghouri"
 
