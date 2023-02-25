@@ -15,7 +15,7 @@ readingTime = ""
 slug = "patient-software-management"
 socialThumbnail = ""
 table_of_content = []
-title = "Power Your Practice: 21 Patient Management Softwares for 2023"
+title = "Power Your Practice: 27 Patient Management Softwares for 2023"
 twitterHandle = ""
 
 +++
