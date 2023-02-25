@@ -535,6 +535,6 @@ The market offers a wide range of options, each with its unique features and ben
 
 It is important to carefully evaluate your needs and compare the different software options before making a decision. 
 
-With the right patient management software, you can provide your patients with the highest level of care and run your practice smoothly and efficiently. 
+With the right patient management software, you can provide your patients with the highest level of care and run your practice smoothly and efficiently.
 
 Need help choosing which one suits your practice? Say hello, we'll help you out :) free of charge.
