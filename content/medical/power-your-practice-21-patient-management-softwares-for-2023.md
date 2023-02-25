@@ -14,7 +14,7 @@ page = "medical/single.html"
 readingTime = "12"
 slug = "patient-software-management"
 socialThumbnail = ""
-table_of_content = ["patient-mangments-softwares-for-general-practices", "patient-mangments-softwares-for-dentists"]
+table_of_content = ["patient-mangments-softwares-for-general-practices", "patient-mangments-softwares-for-dentists", "patient-mangments-softwares-for-chiropractors", "patient-mangments-softwares-for-cardiologists", "patient-mangments-softwares-for-dermatologists", "patient-mangments-softwares-for-mental-health-practitioners", "patient-mangments-softwares-for-ophthalmologists"]
 title = "Power Your Practice: 27 Patient Management Softwares for 2023"
 twitterHandle = "SlimanBaghouri"
 
