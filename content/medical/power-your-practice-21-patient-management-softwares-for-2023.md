@@ -291,7 +291,7 @@ What sets Platinum System apart is its focus on ease-of-use. The software is des
 
 **Pricing:**
 
-You can contact their sales team for more information on the pricing.
+Pricing starts at $74.99 per month, essential plan starts at $199.99 monthly and Complete plan starts at $274.99 per month. 
 
 ## Patient mangments softwares for Cardiologists
 
