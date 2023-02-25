@@ -9,14 +9,14 @@ description = "Discover the top patient management software solutions for variou
 draft = true
 featImg = ""
 featImgThumb = ""
-linkedinHandle = "/slimaneBaghouri"
+linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "12"
 slug = "patient-software-management"
 socialThumbnail = ""
 table_of_content = []
 title = "Power Your Practice: 27 Patient Management Softwares for 2023"
-twitterHandle = "/SlimanBaghouri"
+twitterHandle = "SlimanBaghouri"
 
 +++
 {{% hook %}} You’re probably tired of drowning in paperwork and administrative tasks. Today you’ll discover 21 solutions catered to your practice.{{% /hook %}}
