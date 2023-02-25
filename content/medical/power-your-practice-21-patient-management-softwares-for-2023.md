@@ -1,22 +1,22 @@
 +++
 author = "Sliman M Baghouri"
-authorAvatarBottom = ""
-authorAvatarTop = ""
-authorBio = ""
+authorAvatarBottom = "/assets/images/blog/authors/cc.png"
+authorAvatarTop = "/assets/images/cc-1.jpg"
+authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2023-02-24T23:00:00Z
-description = ""
+description = "Discover the top patient management software solutions for various medical specialties including psychiatry, dental, cardiology, and more. Learn about their unique features, benefits, and pricing to find the perfect fit for your practice."
 draft = true
 featImg = ""
 featImgThumb = ""
-linkedinHandle = ""
+linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
-readingTime = ""
+readingTime = "12"
 slug = "patient-software-management"
 socialThumbnail = ""
 table_of_content = []
 title = "Power Your Practice: 27 Patient Management Softwares for 2023"
-twitterHandle = ""
+twitterHandle = "/SlimanBaghouri"
 
 +++
 {{% hook %}} You’re probably tired of drowning in paperwork and administrative tasks. Today you’ll discover 21 solutions catered to your practice.{{% /hook %}}
