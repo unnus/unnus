@@ -170,12 +170,11 @@ Practice-Web Dental is a cloud-based dental practice management software that of
 
 What makes Practice-Web Dental different from other dental practice management software options is its focus on providing a customizable and scalable software solution that can grow with your dental practice.
 
-##   
-Patient mangments softwares for Chiropractors
+## Patient mangments softwares for Chiropractors
 
 As a chiropractor, managing patient care and keeping track of important information can be a daunting task. However, with the help of patient management software, you can streamline your practice, improve efficiency, and provide better care to your patients. In this article, we’ll explore five different patient management software options specifically designed for chiropractors.
 
-### **ChiroTouch**
+### ChiroTouch
 
 ChiroTouch is a comprehensive chiropractic software that is designed to help chiropractors improve their workflow, automate patient care, and simplify billing processes. Here are some of the
 
@@ -233,4 +232,48 @@ Platinum System is a chiropractic software that offers a wide range of features 
 * Customizable EHR templates that allow you to create personalized treatment plans
 * Automated appointment reminders that help reduce missed appointments
 * Detailed reports that provide insight into the financial health of your practice
-* 
+
+What sets Platinum System apart is its focus on ease-of-use. The software is designed to be user-friendly, making it easy for chiropractors to manage their practices.
+
+##   
+Patient mangments softwares for Cardiologists
+
+As a Cardiologist, managing patient data and medical records is crucial to providing the best care possible. With the advancement of technology, patient management softwares have become a popular solution to streamline this process. In this article, we will discuss 5 patient management softwares specifically designed for Cardiologists.
+
+### Lumed
+
+Lumed is a cloud-based software that helps Cardiologists manage patient data, medical records, and scheduling. One unique feature of Lumed is its integrated reporting system, which allows for the generation of detailed reports on patient demographics, medical history, and more.
+
+**Benefits of Lumed include:**
+
+* HIPAA compliant
+* Automated appointment reminders
+* Easy-to-use interface
+
+### CardioSoft
+
+Developed by GE Healthcare, CardioSoft is a comprehensive patient management software designed specifically for Cardiologists. The software includes modules for managing patient data, diagnostic tests, and treatment plans. Additionally, 
+
+**Benefits of using CardioSoft:**
+
+* Efficient workflow: CardioSoft streamlines the workflow of cardiology practices by automating routine tasks, such as data entry, report generation, and appointment scheduling, allowing physicians to focus on patient care.
+* Comprehensive data management: The software provides a comprehensive view of patients' cardiac health, including ECGs, stress tests, Holter monitors, and other diagnostic data, allowing physicians to make informed treatment decisions.
+* Accurate diagnosis: With its advanced analysis and interpretation tools, CardioSoft helps physicians accurately diagnose cardiac conditions, leading to better patient outcomes.
+
+**Medlytix**: Medlytix is a patient management software that utilizes artificial intelligence to provide Cardiologists with real-time insights into patient data. This allows for quick and accurate diagnosis, as well as the ability to track patient progress over time.
+
+**Other features of Medlytix include:**
+
+Electronic prescribing capabilities
+
+Secure messaging for patient communication
+
+Advanced data encryption for security
+
+DocSpera: DocSpera is a patient management software that focuses on collaboration between healthcare providers. In addition to managing patient data and medical records, DocSpera includes features for communication and collaboration between Cardiologists, nurses, and other healthcare professionals. Other **benefits of DocSpera include:**
+
+Mobile app for on-the-go access to patient data
+
+Integrated video conferencing capabilities
+
+Customizable patient intake forms
