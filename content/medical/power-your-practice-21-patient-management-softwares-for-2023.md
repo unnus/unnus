@@ -169,3 +169,68 @@ Practice-Web Dental is a cloud-based dental practice management software that of
 * Patient communication tools that include automated appointment reminders and two-way text messaging
 
 What makes Practice-Web Dental different from other dental practice management software options is its focus on providing a customizable and scalable software solution that can grow with your dental practice.
+
+##   
+Patient mangments softwares for Chiropractors
+
+As a chiropractor, managing patient care and keeping track of important information can be a daunting task. However, with the help of patient management software, you can streamline your practice, improve efficiency, and provide better care to your patients. In this article, we’ll explore five different patient management software options specifically designed for chiropractors.
+
+### **ChiroTouch**
+
+ChiroTouch is a comprehensive chiropractic software that is designed to help chiropractors improve their workflow, automate patient care, and simplify billing processes. Here are some of the
+
+**Benefits of using ChiroTouch:**
+
+* Customizable electronic health records (EHR) that allow you to create personalized treatment plans for each patient
+* Automated appointment reminders that help reduce missed appointments
+* Detailed reports that provide insight into the financial health of your practice
+
+What sets ChiroTouch apart is its focus on automation and customization. With ChiroTouch, you can automate repetitive tasks, allowing you to focus on providing the best care to your patients. You can also customize the software to fit your specific practice needs.
+
+### ECLIPSE
+
+ECLIPSE is a chiropractic software that offers a wide range of features to help you manage your practice. From patient scheduling to billing and collections, ECLIPSE has got you covered. Here are
+
+**Benefits of using ECLIPSE**:
+
+* Easy-to-use scheduling tools that help you manage patient appointments
+* Customizable EHR templates that allow you to create personalized treatment plans
+* Integrated billing and collections features that help you streamline your financial processes
+* What sets ECLIPSE apart is its focus on simplifying processes. With ECLIPSE, you can easily manage every aspect of your practice from one platform.
+
+What makes it different from other patient management software is that it offers advanced reporting capabilities that allow chiropractors to track their practice's financial performance and patient outcomes. This can help practices identify areas for improvement and make data-oriented decisions to enhance patient care and practice efficiency.
+
+### ChiroFusion
+
+ChiroFusion is an all-in-one chiropractic software that helps chiropractors manage their patients, automate their workflow, and simplify billing processes.
+
+**Benefits of using ChiroFusion:**
+
+* Customizable EHR templates that allow you to create personalized treatment plans
+* Automated appointment reminders that help reduce no-shows
+* Integrated billing and collections features that help you manage your finances
+
+What sets ChiroFusion apart is its user-friendly interface. The software is easy to use, making it simple to navigate and manage all aspects of your practice.
+
+### Atlas
+
+Atlas is a cloud-based chiropractic software that is designed to help chiropractors manage their practices from anywhere. With Atlas, you can access your patient data and practice information from any device with an internet connection.
+
+**Benefits of using Atlas:**
+
+* Customizable EHR templates that allow you to create personalized treatment plans
+* Integrated billing and collections features that help you manage your finances
+* Mobile access that allows you to manage your practice from anywhere
+
+What sets Atlas apart is its cloud-based platform. With Atlas, you can access your patient data and practice information from any device with an internet connection, making it easy to manage your practice on-the-go.
+
+### Platinum System
+
+Platinum System is a chiropractic software that offers a wide range of features to help chiropractors manage their practices. From scheduling to billing and collections, Platinum System has got you covered.
+
+**Benefits of using Platinum System:**
+
+* Customizable EHR templates that allow you to create personalized treatment plans
+* Automated appointment reminders that help reduce missed appointments
+* Detailed reports that provide insight into the financial health of your practice
+* 
