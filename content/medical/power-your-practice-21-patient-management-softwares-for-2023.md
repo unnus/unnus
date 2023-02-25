@@ -45,6 +45,10 @@ DrChrono is a cloud-based EHR software designed for general practices. It featur
 * Integrates with over 150 healthcare apps and devices
 * Built-in revenue cycle management features
 
+**Pricing:** 
+
+DrChrono offers four pricing plans for their EHR and practice management software, starting at $199 per provider per month for the Basic plan, up to $499 per provider per month for the Advanced plan. They also offer a custom Enterprise plan for larger practices or organizations.
+
 ### 2) Athenahealth
 
 Athenahealth is a cloud-based EHR software designed for small to medium-sized practices. It includes features such as appointment scheduling, e-prescriptions, and patient communication tools. athenahealth also includes population health management tools to help practices track patient populations and improve outcomes.
@@ -60,6 +64,10 @@ Athenahealth is a cloud-based EHR software designed for small to medium-sized pr
 * Focus on population health management
 * Includes revenue cycle management tools
 * Offers a network of medical billing experts for additional support
+
+**Pricing:** 
+
+Athenahealth offers a flexible pricing model based on the size and needs of your practice. Pricing is not disclosed on their website, but you can contact their sales team to get a personalized quote.
 
 ### 3) AdvancedMD
 
@@ -77,6 +85,10 @@ AdvancedMD is a cloud-based EHR software designed for general practices. It incl
 * Customizable templates for various specialties
 * Includes patient kiosk feature for streamlined check-in process
 
+**Pricing:** 
+
+AdvancedMD offers three pricing plans for their EHR and practice management software, starting at $729 per provider per month for the Basic plan, up to $1,299 per provider per month for the Advanced plan. They also offer a custom Enterprise plan for larger practices or organizations.
+
 ### 4) Kareo
 
 Kareo is a cloud-based EHR software designed for small to medium-sized practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of Kareo is its patient engagement tools, which help practices stay connected with patients between visits. This software also includes billing and revenue cycle management tools to help practices manage finances.
@@ -92,6 +104,10 @@ Kareo is a cloud-based EHR software designed for small to medium-sized practices
 * Focus on patient engagement
 * User-friendly interface
 * Includes built-in billing and revenue cycle management features
+
+**Pricing:**
+
+Kareo offers three pricing plans for their EHR and practice management software, starting at $150 per provider per month for the Basic plan, up to $300 per provider per month for the Pro plan. They also offer a custom Enterprise plan for larger practices or organizations.
 
 ### 5) NextGen Healthcare
 
@@ -109,6 +125,10 @@ NextGen Healthcare is a cloud-based EHR software designed for general practices.
 * Built-in revenue cycle management features
 * Offers a network of medical billing experts for additional support
 
+**Pricing:**
+
+NextGen Healthcare offers customized pricing based on the size and needs of your practice. They offer both on-premise and cloud-based software options.
+
 ## Patient mangments softwares for dentists
 
 ### 6) Dentrix
@@ -123,6 +143,10 @@ Dentrix is a popular dental practice management software that offers a comprehen
 
 What makes Dentrix different from other dental practice management software options is its customizable interface that can be tailored to the unique needs of your dental practice.
 
+**Pricing:**
+
+Dentrix offers a range of pricing options depending on the specific needs of your practice. They do not disclose pricing on their website, but you can contact their sales team for more information.
+
 ### 7) Open Dental
 
 Open Dental is another popular dental practice management software that offers a robust set of features.
@@ -133,6 +157,10 @@ Open Dental is another popular dental practice management software that offers a
 * Integrated e-prescribing that enables dental practices to easily prescribe medications to patients
 
 What sets Open Dental apart from other dental practice management software options is its affordable pricing and its ability to integrate with a wide range of third-party tools and services.
+
+**Pricing:**
+
+Open Dental offers a cloud-based software solution with pricing starting at $169 per month for a single user. They also offer discounts for multi-user practices and for practices that pay annually.
 
 ### 8) Curve Dental
 
@@ -146,6 +174,10 @@ Curve Dental is a cloud-based dental practice management software that offers a 
 
 What makes Curve Dental unique is its focus on simplicity and ease-of-use, which makes it an ideal choice for dental practices that want a user-friendly software solution.
 
+**Pricing:**
+
+Curve Dental offers a cloud-based software solution with pricing starting at $495 per month for a single user. They also offer discounts for multi-user practices and for practices that pay annually.
+
 ### 9) Eaglesoft
 
 Eaglesoft is a dental practice management software that offers a wide range of features designed to help dental practices streamline their operations.
@@ -158,6 +190,10 @@ Eaglesoft is a dental practice management software that offers a wide range of f
 
 What sets Eaglesoft apart from other dental practice management software options is its extensive library of educational resources and training materials, which can help dental practices get up and running quickly.
 
+**Pricing:**
+
+Eaglesoft offers a range of pricing options depending on the specific needs of your practice. But much like Dentrix, They do not disclose pricing on their website, but you can contact their sales team for more information.
+
 ### 10) Practice-Web Dental
 
 Practice-Web Dental is a cloud-based dental practice management software that offers a wide range of features and benefits. Here are some of the key
@@ -169,6 +205,10 @@ Practice-Web Dental is a cloud-based dental practice management software that of
 * Patient communication tools that include automated appointment reminders and two-way text messaging
 
 What makes Practice-Web Dental different from other dental practice management software options is its focus on providing a customizable and scalable software solution that can grow with your dental practice.
+
+**Pricing:**
+
+They do not disclose pricing on their website, but you can contact their sales team for more information.
 
 ## Patient mangments softwares for Chiropractors
 
@@ -184,6 +224,10 @@ ChiroTouch is a comprehensive chiropractic software that is designed to help chi
 
 What sets ChiroTouch apart is its focus on automation and customization. With ChiroTouch, you can automate repetitive tasks, allowing you to focus on providing the best care to your patients. You can also customize the software to fit your specific practice needs.
 
+**Pricing:**
+
+ChiroTouch offers a cloud-based software solution with pricing starting at $129 per month for a single user. They also offer discounts for multi-user practices and for practices that pay annually.
+
 ### 12) ECLIPSE
 
 ECLIPSE is a chiropractic software that offers a wide range of features to help you manage your practice. From patient scheduling to billing and collections, ECLIPSE has got you covered. Here are
@@ -197,6 +241,10 @@ ECLIPSE is a chiropractic software that offers a wide range of features to help 
 
 What makes it different from other patient management software is that it offers advanced reporting capabilities that allow chiropractors to track their practice's financial performance and patient outcomes. This can help practices identify areas for improvement and make data-oriented decisions to enhance patient care and practice efficiency.
 
+**Pricing:**
+
+Again, the only way to get their pricing is by contacting their sales team.
+
 ### 13) ChiroFusion
 
 ChiroFusion is an all-in-one chiropractic software that helps chiropractors manage their patients, automate their workflow, and simplify billing processes.
@@ -208,6 +256,10 @@ ChiroFusion is an all-in-one chiropractic software that helps chiropractors mana
 * Integrated billing and collections features that help you manage your finances
 
 What sets ChiroFusion apart is its user-friendly interface. The software is easy to use, making it simple to navigate and manage all aspects of your practice.
+
+**Pricing:**
+
+ChiroFusion offers a cloud-based software solution with pricing starting at $99 per month for a single user. They also offer discounts for multi-user practices and for practices that pay annually.
 
 ### 14) Atlas
 
@@ -221,6 +273,10 @@ Atlas is a cloud-based chiropractic software that is designed to help chiropract
 
 What sets Atlas apart is its cloud-based platform. With Atlas, you can access your patient data and practice information from any device with an internet connection, making it easy to manage your practice on-the-go.
 
+**Pricing:**
+
+Atlas Chiropractic offers a cloud-based software solution with pricing starting at $99 per month for a single user. 
+
 ### 15) Platinum System
 
 Platinum System is a chiropractic software that offers a wide range of features to help chiropractors manage their practices. From scheduling to billing and collections, Platinum System has got you covered.
@@ -232,6 +288,10 @@ Platinum System is a chiropractic software that offers a wide range of features 
 * Detailed reports that provide insight into the financial health of your practice
 
 What sets Platinum System apart is its focus on ease-of-use. The software is designed to be user-friendly, making it easy for chiropractors to manage their practices.
+
+**Pricing:**
+
+You can contact their sales team for more information on the pricing.
 
 ## Patient mangments softwares for Cardiologists
 
@@ -245,6 +305,10 @@ Lumed is a cloud-based software that helps Cardiologists manage patient data, me
 * Automated appointment reminders
 * Easy-to-use interface
 
+**Pricing:**
+
+Again, you can contact their sales team for more information on the pricing.
+
 ### 17) CardioSoft
 
 Developed by GE Healthcare, CardioSoft is a comprehensive patient management software designed specifically for Cardiologists. The software includes modules for managing patient data, diagnostic tests, and treatment plans. Additionally, 
@@ -255,7 +319,11 @@ Developed by GE Healthcare, CardioSoft is a comprehensive patient management sof
 * Comprehensive data management: The software provides a comprehensive view of patients' cardiac health, including ECGs, stress tests, Holter monitors, and other diagnostic data, allowing physicians to make informed treatment decisions.
 * Accurate diagnosis: With its advanced analysis and interpretation tools, CardioSoft helps physicians accurately diagnose cardiac conditions, leading to better patient outcomes.
 
-### 18) Medlytix: 
+**Pricing:** 
+
+CardioSoft offers a range of pricing options depending on the specific needs of your practice.
+
+### 18) Medlytix
 
 Medlytix is a patient management software that utilizes artificial intelligence to provide Cardiologists with real-time insights into patient data. This allows for quick and accurate diagnosis, as well as the ability to track patient progress over time.
 
@@ -264,6 +332,10 @@ Medlytix is a patient management software that utilizes artificial intelligence 
 * The software allows physicians to easily create and manage electronic health records, including medical history, medications, allergies, and lab results.
 * Medlytix offers real-time collaboration and communication features, enabling physicians and other healthcare providers to share patient data and collaborate on patient care.
 * With Medlytix, physicians can access patient data from anywhere at any time, using any device with an internet connection
+
+**Pricing:**
+
+It's best to check directly with the company for current pricing and subscription options.
 
 ### 19) DocSpera
 
@@ -274,6 +346,12 @@ DocSpera is a patient management software that focuses on collaboration between 
 * Mobile app for on-the-go access to patient data
 * Integrated video conferencing capabilities
 * Customizable patient intake forms
+
+**Pricing:**
+
+* Standard: $49/month/provider
+* Pro: $99/month/provider
+* Enterprise: Custom pricing
 
 ## Patient mangments softwares for dermatologists
 
@@ -292,6 +370,11 @@ Modernizing Medicine is a comprehensive patient management software designed spe
 * Uses AI technology to recommend ICD-10 codes and provide clinical decision support
 * Offers telemedicine capabilities through the patient portal
 
+**Pricing:**
+
+* For Dermatology, Orthopedics, Ophthalmology, Plastic Surgery, and Gastroenterology they offer custom pricing.
+* Urgent Care and Primary Care: Starts at $249/provider/month
+
 ### 21) Nextech
 
 Nextech is a cloud-based patient management software that includes features such as electronic medical records, e-prescribing, appointment scheduling, and billing. It also includes a patient portal, which allows patients to securely access their medical records and communicate with their doctor.
@@ -306,6 +389,12 @@ Nextech is a cloud-based patient management software that includes features such
 
 * Offers a mobile app for physicians to access patient records and schedule appointments on-the-go
 * Includes a marketing module to help practices attract new patients
+
+**Pricing:**
+
+* For Dermatology, Plastic Surgery, and Ophthalmology, they offer custom pricing for each field.
+* Specialty-specific modules: Additional cost
+* Practice Management only: Starts at $249/month
 
 ### 22) Compulink
 
@@ -322,6 +411,10 @@ Compulink is an all-in-one patient management software solution that includes el
 * Offers telemedicine capabilities through the patient portal
 * Includes a performance dashboard to help practices track key metrics and improve patient care
 
+**Pricing:**
+
+You need to contact sales team.
+
 ### 23) CureMD
 
 CureMD is a cloud-based patient management software that includes features such as electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
@@ -336,6 +429,11 @@ CureMD is a cloud-based patient management software that includes features such 
 
 * Offers an AI-powered virtual assistant to help physicians manage their schedule and patient records
 * Includes a mobile app for patients to access their medical records and communicate with their doctor
+
+**Pricing:**
+
+* Starts at $195/user/month
+* Custom pricing for specialty-specific modules
 
 ## Patient mangments softwares for mental health practitioners
 
@@ -355,6 +453,11 @@ Valant is a patient management software designed specifically for mental health 
 * Patient engagement tools: Valant includes patient portals and communication tools that facilitate patient engagement and communication between appointments.
 * Collaborative care features: Valant's platform allows for easy collaboration and information sharing between care team members, including therapists, psychiatrists, and primary care physicians.
 
+**Pricing:**
+
+* Pricing is based on the number of providers and modules required
+* Contact for pricing details
+
 ### 25) Luminello
 
 Luminello is a cloud-based patient management software designed for mental health providers, including psychiatrists. Luminello offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telehealth capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Luminello is its treatment planning tool, which can help psychiatrists create customized treatment plans for their patients.
@@ -372,6 +475,12 @@ Luminello is a cloud-based patient management software designed for mental healt
 * User-friendly interface: Luminello has a modern, user-friendly interface that is easy to navigate, making it simple to manage patient records and appointments.
 * Secure messaging: Luminello provides a secure messaging feature that allows you to communicate with patients and other providers in a HIPAA-compliant manner.
 * Integration with other software: Luminello integrates with other software commonly used by mental health providers, such as electronic prescribing tools and patient portal software.
+
+**Pricing:**
+
+* Solo: $49/month
+* Group: $99/month for first clinician, $25/month for each additional clinician
+* Enterprise: Custom pricing
 
 ## Patient mangments softwares for ophthalmologists
 
@@ -394,6 +503,10 @@ EyeMD EMR Healthcare Systems is a comprehensive software solution that allows op
 * Practice analytics: The software offers advanced analytics and reporting features, which can help practices track patient demographics, referral sources, and financial performance.
 * Patient portal: EyeMD EMR Healthcare includes a secure patient portal, which allows patients to access their medical records, schedule appointments, and communicate with their providers.
 
+**Pricing:**
+
+Contact their sales team for pricing details
+
 ### 27) Eyefinity EHR
 
 Eyefinity EHR is a cloud-based EHR system that offers a range of features designed specifically for eye care professionals. The software includes modules for patient management, e-prescribing, and inventory management. Eyefinity EHR is user-friendly and customizable, allowing you to create templates that fit your workflow.
@@ -409,6 +522,10 @@ Eyefinity EHR is a cloud-based EHR system that offers a range of features design
 **What makes it different:**
 
 Eyefinity EHR is designed specifically for eye care professionals and offers an inventory management module, making it a great option for ophthalmologists who also sell glasses or contacts.
+
+**Pricing:**
+
+Same as EyeMD, you need to contact their sales team to get pricing. 
 
 ## It's really an long term investment
 
