@@ -415,3 +415,7 @@ Eyefinity EHR is a cloud-based EHR system that offers a range of features design
 **What makes it different:**
 
 Eyefinity EHR is designed specifically for eye care professionals and offers an inventory management module, making it a great option for ophthalmologists who also sell glasses or contacts.
+
+## It's really an long term investment
+
+Think of these solutions as a long term investment in your practice. With the right software, it can significantly improve the efficiency of healthcare providers in managing patient records, scheduling appointments, billing, and communication with patients. The market offers a wide range of options, each with its unique features and benefits. Whether you are a small practice or a large hospital, choosing the right patient management software can help streamline your operations, increase productivity, and improve patient outcomes. It is important to carefully evaluate your needs and compare the different software options before making a decision. With the right patient management software, you can provide your patients with the highest level of care and run your practice smoothly and efficiently. Need help choosing which one suits your practice? Say hello, we'll help you out :) charge-free.
