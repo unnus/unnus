@@ -21,6 +21,10 @@ twitterHandle = "SlimanBaghouri"
 +++
 {{% hook %}} You’re probably tired of drowning in paperwork and administrative tasks. Today you’ll discover 21 solutions catered to your practice. {{% /hook %}}
 
+<!--more-->
+
+<hr></hr>
+
 Patient management software has become an essential tool for healthcare providers to manage their patients' medical records, appointments, and communications.
 
 With the advancement of technology, there are now many patient management software options available to healthcare providers.
