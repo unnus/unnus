@@ -33,7 +33,7 @@ In this article, we will discuss 21 different patient management software, their
 
 ## what is a patient management software?
 
-Patient management software, also known as medical practice management software, is a type of software that helps healthcare providers manage their patient's medical information, treatment plans, appointments, and billing. 
+Patient management software, also known as medical practice management software, is a type of software that helps healthcare providers manage their patient's medical information, treatment plans, appointments, and billing.
 
 It allows providers to streamline their workflows, automate administrative tasks, and improve patient care. Patient management software typically includes features such as electronic health records (EHR), scheduling tools, billing and coding support, and reporting and analytics capabilities.
 
@@ -301,6 +301,8 @@ ChiroFusion offers a cloud-based software solution with pricing starting at $99 
 
 ### 14) Atlas
 
+![Atlas chiropractic interface](/assets/images/14-atlas.png)
+
 Atlas is a cloud-based chiropractic software that is designed to help chiropractors manage their practices from anywhere. With Atlas, you can access your patient data and practice information from any device with an internet connection.
 
 **Benefits of using Atlas:**
@@ -316,6 +318,8 @@ What sets Atlas apart is its cloud-based platform. With Atlas, you can access yo
 Atlas Chiropractic offers a cloud-based software solution with pricing starting at $99 per month for a single user.
 
 ### 15) Platinum System
+
+![Platinum System interface](/assets/images/15-platinum-system.webp)
 
 Platinum System is a chiropractic software that offers a wide range of features to help chiropractors manage their practices. From scheduling to billing and collections, Platinum System has got you covered.
 
@@ -335,6 +339,8 @@ Pricing starts at $74.99 per month, essential plan starts at $199.99 monthly and
 
 ### 16) Lumed
 
+![Lumed interface](/assets/images/16-lumed.webp)
+
 Lumed is a cloud-based software that helps Cardiologists manage patient data, medical records, and scheduling. One unique feature of Lumed is its integrated reporting system, which allows for the generation of detailed reports on patient demographics, medical history, and more.
 
 **Benefits of Lumed include:**
@@ -348,6 +354,8 @@ Lumed is a cloud-based software that helps Cardiologists manage patient data, me
 Again, you can contact their sales team for more information on the pricing.
 
 ### 17) DocSpera
+
+![DocSpera interface](/assets/images/17-docspera.png)
 
 DocSpera is a patient management software that focuses on collaboration between healthcare providers. In addition to managing patient data and medical records, DocSpera includes features for communication and collaboration between Cardiologists, nurses, and other healthcare professionals.
 
@@ -366,6 +374,8 @@ DocSpera is a patient management software that focuses on collaboration between 
 ## Patient mangments softwares for dermatologists
 
 ### 18) Modernizing Medicine
+
+![Modernizing Medicine interface](/assets/images/18-modernizing-medicine.jpg)
 
 Modernizing Medicine is a comprehensive patient management software designed specifically for dermatology practices. It includes features such as electronic medical records, e-prescribing, appointment scheduling, and billing. The software also comes with a built-in patient portal, which allows patients to securely access their medical records and communicate with their doctor.
 
@@ -386,6 +396,8 @@ Modernizing Medicine is a comprehensive patient management software designed spe
 * Urgent Care and Primary Care: Starts at $249/provider/month
 
 ### 19) Nextech
+
+![Nextech interface ](/assets/images/19-nextech.webp)
 
 Nextech is a cloud-based patient management software that includes features such as electronic medical records, e-prescribing, appointment scheduling, and billing. It also includes a patient portal, which allows patients to securely access their medical records and communicate with their doctor.
 
@@ -408,6 +420,8 @@ Nextech is a cloud-based patient management software that includes features such
 
 ### 20) Compulink
 
+![Compulink interface](/assets/images/20-compulink.jpeg)
+
 Compulink is an all-in-one patient management software solution that includes electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
 
 **Benefits:**
@@ -426,6 +440,8 @@ Compulink is an all-in-one patient management software solution that includes el
 You need to contact sales team.
 
 ### 21) CureMD
+
+![CureMD interface](/assets/images/21-curemd.jpg)
 
 CureMD is a cloud-based patient management software that includes features such as electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
 
@@ -449,6 +465,8 @@ CureMD is a cloud-based patient management software that includes features such 
 
 ### 22) Valant
 
+![Valant interface](/assets/images/22-valant.webp)
+
 Valant is a patient management software designed specifically for mental health providers, including psychiatrists. Valant offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telemedicine capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Valant is its mobile app, which allows psychiatrists to access patient records and manage appointments from their smartphone or tablet.
 
 **Benefits:**
@@ -469,6 +487,8 @@ Valant is a patient management software designed specifically for mental health 
 * Contact for pricing details
 
 ### 23) Luminello
+
+![Luminello interface](/assets/images/23-luminello.jpg)
 
 Luminello is a cloud-based patient management software designed for mental health providers, including psychiatrists. Luminello offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telehealth capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Luminello is its treatment planning tool, which can help psychiatrists create customized treatment plans for their patients.
 
@@ -496,6 +516,8 @@ Luminello is a cloud-based patient management software designed for mental healt
 
 ### 24) EyeMD Healthcare Systems
 
+![EyeMD interface](/assets/images/24-eyemd.jpeg)
+
 EyeMD EMR Healthcare Systems is a comprehensive software solution that allows ophthalmologists to manage their patient records, prescriptions, and appointments with ease. The software also includes a range of features such as e-prescriptions, insurance verification, and an integrated billing system. EyeMD EMR Healthcare Systems is cloud-based, ensuring that your data is secure and accessible from anywhere.
 
 **Benefits:**
@@ -518,6 +540,8 @@ EyeMD EMR Healthcare Systems is a comprehensive software solution that allows op
 Contact their sales team for pricing details
 
 ### 25) Eyefinity EHR
+
+![Eyefinity interface](/assets/images/25-eyefinity.png)
 
 Eyefinity EHR is a cloud-based EHR system that offers a range of features designed specifically for eye care professionals. The software includes modules for patient management, e-prescribing, and inventory management. Eyefinity EHR is user-friendly and customizable, allowing you to create templates that fit your workflow.
 
