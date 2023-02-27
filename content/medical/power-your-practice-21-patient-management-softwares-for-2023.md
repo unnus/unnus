@@ -43,6 +43,8 @@ It is used by a wide range of healthcare providers, including doctors, dentists,
 
 ### 1) DrChrono
 
+![DrChrono Interface](/assets/images/1-drchrono.png)
+
 DrChrono is a cloud-based EHR software designed for general practices. It features customizable templates, appointment scheduling, e-prescriptions, and a patient portal. One unique feature of DrChrono is its speech-to-text capability, which allows physicians to dictate notes using a mobile device. This software also includes revenue cycle management, which helps practices streamline billing and payment processes.
 
 **Benefits:**
@@ -321,35 +323,7 @@ Lumed is a cloud-based software that helps Cardiologists manage patient data, me
 
 Again, you can contact their sales team for more information on the pricing.
 
-### 17) CardioSoft
-
-Developed by GE Healthcare, CardioSoft is a comprehensive patient management software designed specifically for Cardiologists. The software includes modules for managing patient data, diagnostic tests, and treatment plans. Additionally,
-
-**Benefits of using CardioSoft:**
-
-* Efficient workflow: CardioSoft streamlines the workflow of cardiology practices by automating routine tasks, such as data entry, report generation, and appointment scheduling, allowing physicians to focus on patient care.
-* Comprehensive data management: The software provides a comprehensive view of patients' cardiac health, including ECGs, stress tests, Holter monitors, and other diagnostic data, allowing physicians to make informed treatment decisions.
-* Accurate diagnosis: With its advanced analysis and interpretation tools, CardioSoft helps physicians accurately diagnose cardiac conditions, leading to better patient outcomes.
-
-**Pricing:**
-
-CardioSoft offers a range of pricing options depending on the specific needs of your practice.
-
-### 18) Medlytix
-
-Medlytix is a patient management software that utilizes artificial intelligence to provide Cardiologists with real-time insights into patient data. This allows for quick and accurate diagnosis, as well as the ability to track patient progress over time.
-
-**Benefits of Medlytix include:**
-
-* The software allows physicians to easily create and manage electronic health records, including medical history, medications, allergies, and lab results.
-* Medlytix offers real-time collaboration and communication features, enabling physicians and other healthcare providers to share patient data and collaborate on patient care.
-* With Medlytix, physicians can access patient data from anywhere at any time, using any device with an internet connection
-
-**Pricing:**
-
-It's best to check directly with the company for current pricing and subscription options.
-
-### 19) DocSpera
+### 17) DocSpera
 
 DocSpera is a patient management software that focuses on collaboration between healthcare providers. In addition to managing patient data and medical records, DocSpera includes features for communication and collaboration between Cardiologists, nurses, and other healthcare professionals.
 
@@ -367,7 +341,7 @@ DocSpera is a patient management software that focuses on collaboration between 
 
 ## Patient mangments softwares for dermatologists
 
-### 20) Modernizing Medicine
+### 18) Modernizing Medicine
 
 Modernizing Medicine is a comprehensive patient management software designed specifically for dermatology practices. It includes features such as electronic medical records, e-prescribing, appointment scheduling, and billing. The software also comes with a built-in patient portal, which allows patients to securely access their medical records and communicate with their doctor.
 
@@ -387,7 +361,7 @@ Modernizing Medicine is a comprehensive patient management software designed spe
 * For Dermatology, Orthopedics, Ophthalmology, Plastic Surgery, and Gastroenterology they offer custom pricing.
 * Urgent Care and Primary Care: Starts at $249/provider/month
 
-### 21) Nextech
+### 19) Nextech
 
 Nextech is a cloud-based patient management software that includes features such as electronic medical records, e-prescribing, appointment scheduling, and billing. It also includes a patient portal, which allows patients to securely access their medical records and communicate with their doctor.
 
@@ -408,7 +382,7 @@ Nextech is a cloud-based patient management software that includes features such
 * Specialty-specific modules: Additional cost
 * Practice Management only: Starts at $249/month
 
-### 22) Compulink
+### 20) Compulink
 
 Compulink is an all-in-one patient management software solution that includes electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
 
@@ -427,7 +401,7 @@ Compulink is an all-in-one patient management software solution that includes el
 
 You need to contact sales team.
 
-### 23) CureMD
+### 21) CureMD
 
 CureMD is a cloud-based patient management software that includes features such as electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
 
@@ -449,7 +423,7 @@ CureMD is a cloud-based patient management software that includes features such 
 
 ## Patient mangments softwares for mental health practitioners
 
-### 24) Valant
+### 22) Valant
 
 Valant is a patient management software designed specifically for mental health providers, including psychiatrists. Valant offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telemedicine capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Valant is its mobile app, which allows psychiatrists to access patient records and manage appointments from their smartphone or tablet.
 
@@ -470,7 +444,7 @@ Valant is a patient management software designed specifically for mental health 
 * Pricing is based on the number of providers and modules required
 * Contact for pricing details
 
-### 25) Luminello
+### 23) Luminello
 
 Luminello is a cloud-based patient management software designed for mental health providers, including psychiatrists. Luminello offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telehealth capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Luminello is its treatment planning tool, which can help psychiatrists create customized treatment plans for their patients.
 
@@ -496,7 +470,7 @@ Luminello is a cloud-based patient management software designed for mental healt
 
 ## Patient mangments softwares for ophthalmologists
 
-### 26) EyeMD Healthcare Systems
+### 24) EyeMD Healthcare Systems
 
 EyeMD EMR Healthcare Systems is a comprehensive software solution that allows ophthalmologists to manage their patient records, prescriptions, and appointments with ease. The software also includes a range of features such as e-prescriptions, insurance verification, and an integrated billing system. EyeMD EMR Healthcare Systems is cloud-based, ensuring that your data is secure and accessible from anywhere.
 
@@ -519,7 +493,7 @@ EyeMD EMR Healthcare Systems is a comprehensive software solution that allows op
 
 Contact their sales team for pricing details
 
-### 27) Eyefinity EHR
+### 25) Eyefinity EHR
 
 Eyefinity EHR is a cloud-based EHR system that offers a range of features designed specifically for eye care professionals. The software includes modules for patient management, e-prescribing, and inventory management. Eyefinity EHR is user-friendly and customizable, allowing you to create templates that fit your workflow.
 
