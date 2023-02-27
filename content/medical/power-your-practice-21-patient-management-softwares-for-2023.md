@@ -65,6 +65,8 @@ DrChrono offers four pricing plans for their EHR and practice management softwar
 
 ### 2) Athenahealth
 
+![Athenahealth interface](/assets/images/2-athenahealth.jpg "Athenahealth interface")
+
 Athenahealth is a cloud-based EHR software designed for small to medium-sized practices. It includes features such as appointment scheduling, e-prescriptions, and patient communication tools. athenahealth also includes population health management tools to help practices track patient populations and improve outcomes.
 
 **Benefits:**
@@ -84,6 +86,8 @@ Athenahealth is a cloud-based EHR software designed for small to medium-sized pr
 Athenahealth offers a flexible pricing model based on the size and needs of your practice. Pricing is not disclosed on their website, but you can contact their sales team to get a personalized quote.
 
 ### 3) AdvancedMD
+
+![AdvancedMD interface](/assets/images/3-advancedmd.jpg)
 
 AdvancedMD is a cloud-based EHR software designed for general practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of AdvancedMD is its telemedicine capabilities, which allow practices to offer virtual consultations to patients. This software also includes a patient kiosk feature, which allows patients to check-in and complete forms electronically.
 
@@ -105,6 +109,8 @@ AdvancedMD offers three pricing plans for their EHR and practice management soft
 
 ### 4) Kareo
 
+![Kareo interface](/assets/images/4-kareo.png)
+
 Kareo is a cloud-based EHR software designed for small to medium-sized practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of Kareo is its patient engagement tools, which help practices stay connected with patients between visits. This software also includes billing and revenue cycle management tools to help practices manage finances.
 
 **Benefits**:
@@ -124,6 +130,8 @@ Kareo is a cloud-based EHR software designed for small to medium-sized practices
 Kareo offers three pricing plans for their EHR and practice management software, starting at $150 per provider per month for the Basic plan, up to $300 per provider per month for the Pro plan. They also offer a custom Enterprise plan for larger practices or organizations.
 
 ### 5) NextGen Healthcare
+
+![NextGen-Healthcare interface](/assets/images/5-nextgen-healthcare.jpg)
 
 NextGen Healthcare is a cloud-based EHR software designed for general practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of NextGen Healthcare is its patient intake management tools, which allow practices to manage patient registration and check-in processes. This software also includes revenue cycle management features to help practices manage finances.
 
@@ -147,6 +155,8 @@ NextGen Healthcare offers customized pricing based on the size and needs of your
 
 ### 6) Dentrix
 
+![Dentrix interface](/assets/images/6-dentrix.png)
+
 Dentrix is a popular dental practice management software that offers a comprehensive range of features, from appointment scheduling to patient communication.
 
 **Some of the benefits of Dentrix include:**
@@ -162,6 +172,8 @@ What makes Dentrix different from other dental practice management software opti
 Dentrix offers a range of pricing options depending on the specific needs of your practice. They do not disclose pricing on their website, but you can contact their sales team for more information.
 
 ### 7) Open Dental
+
+![Open Dental interface](/assets/images/7-open-dental.png)
 
 Open Dental is another popular dental practice management software that offers a robust set of features.
 
