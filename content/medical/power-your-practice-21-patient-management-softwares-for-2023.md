@@ -6,6 +6,7 @@ authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding st
 category = "healthcare-marketing"
 date = 2023-02-24T23:00:00Z
 description = "Discover the top patient management software solutions for various medical specialties including psychiatry, dental, cardiology, and more. Learn about their unique features, benefits, and pricing to find the perfect fit for your practice."
+draft = true
 featImg = "/assets/images/featured-softwares-2.png"
 featImgThumb = "/assets/images/featured-softwares-2.png"
 linkedinHandle = "slimaneBaghouri"
@@ -24,7 +25,7 @@ twitterHandle = "SlimanBaghouri"
 
 <hr></hr>
 
-Patient management software has become an essential tool for healthcare providers to manage their patients' medical records, appointments, and communications.
+Patient management software has become an [essential tool](https://unnus.com/medical/healthcare-swot-analysis/) for healthcare providers to manage their patients' medical records, appointments, and communications.
 
 With the advancement of technology, there are now many patient management software options available to healthcare providers.
 
@@ -409,7 +410,7 @@ Nextech is a cloud-based patient management software that includes features such
 **What makes it different:**
 
 * Offers a mobile app for physicians to access patient records and schedule appointments on-the-go
-* Includes a marketing module to help practices attract new patients
+* Includes a [marketing ](https://unnus.com/medical/healthcare-marketing/)module to help practices attract new patients
 
 **Pricing:**
 
@@ -489,7 +490,7 @@ Valant is a patient management software designed specifically for mental health 
 
 ![Luminello interface](/assets/images/23-luminello.jpg)
 
-Luminello is a cloud-based patient management software designed for mental health providers, including psychiatrists. Luminello offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telehealth capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Luminello is its treatment planning tool, which can help psychiatrists create customized treatment plans for their patients.
+Luminello is a cloud-based patient management software designed for mental health providers, including psychiatrists. Luminello offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telehealth capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Luminello is its treatment [planning ](https://unnus.com/medical/healthcare-strategic-planning/)tool, which can help psychiatrists create customized treatment plans for their patients.
 
 **Benefits:**
 
