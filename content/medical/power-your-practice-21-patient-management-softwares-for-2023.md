@@ -190,6 +190,8 @@ Open Dental offers a cloud-based software solution with pricing starting at $169
 
 ### 8) Curve Dental
 
+![Curve Dental interface](/assets/images/8-curve-dental.webp)
+
 Curve Dental is a cloud-based dental practice management software that offers a wide range of features and benefits.
 
 **Here are some of the key benefits of using Curve Dental:**
@@ -206,6 +208,8 @@ Curve Dental offers a cloud-based software solution with pricing starting at $49
 
 ### 9) Eaglesoft
 
+![Eaglesoft interface](/assets/images/9-eaglesoft.jpg)
+
 Eaglesoft is a dental practice management software that offers a wide range of features designed to help dental practices streamline their operations.
 
 **Here are some of the benefits of using Eaglesoft:**
@@ -221,6 +225,8 @@ What sets Eaglesoft apart from other dental practice management software options
 Eaglesoft offers a range of pricing options depending on the specific needs of your practice. But much like Dentrix, They do not disclose pricing on their website, but you can contact their sales team for more information.
 
 ### 10) Practice-Web Dental
+
+![Practice-Web Dental interface](/assets/images/10-practice-web-dental.jpg)
 
 Practice-Web Dental is a cloud-based dental practice management software that offers a wide range of features and benefits. Here are some of the key
 
@@ -240,6 +246,8 @@ They do not disclose pricing on their website, but you can contact their sales t
 
 ### 11) ChiroTouch
 
+![ChiroTouch interface](/assets/images/11-chirotouch.jpeg)
+
 ChiroTouch is a comprehensive chiropractic software that is designed to help chiropractors improve their workflow, automate patient care, and simplify billing processes. Here are some of the
 
 **Benefits of using ChiroTouch:**
@@ -255,6 +263,8 @@ What sets ChiroTouch apart is its focus on automation and customization. With Ch
 ChiroTouch offers a cloud-based software solution with pricing starting at $129 per month for a single user. They also offer discounts for multi-user practices and for practices that pay annually.
 
 ### 12) ECLIPSE
+
+![ECLIPSE interface](/assets/images/12-eclipse.png)
 
 ECLIPSE is a chiropractic software that offers a wide range of features to help you manage your practice. From patient scheduling to billing and collections, ECLIPSE has got you covered. Here are
 
@@ -272,6 +282,8 @@ What makes it different from other patient management software is that it offers
 Again, the only way to get their pricing is by contacting their sales team.
 
 ### 13) ChiroFusion
+
+![ChiroFusion interface](/assets/images/13-chirofusion.png)
 
 ChiroFusion is an all-in-one chiropractic software that helps chiropractors manage their patients, automate their workflow, and simplify billing processes.
 
