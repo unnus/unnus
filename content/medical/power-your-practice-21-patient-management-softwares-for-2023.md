@@ -30,7 +30,7 @@ With the advancement of technology, there are now many patient management softwa
 
 In this article, we will discuss 21 different patient management software, their features, benefits, and what sets them apart from each other.
 
-## what is a patient management software?
+## What is a patient management software?
 
 Patient management software, also known as medical practice management software, is a type of software that helps healthcare providers manage their patient's medical information, treatment plans, appointments, and billing.
 
