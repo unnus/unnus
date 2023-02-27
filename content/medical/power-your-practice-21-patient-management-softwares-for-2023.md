@@ -570,4 +570,4 @@ It is important to carefully evaluate your needs and compare the different softw
 
 With the right patient management software, you can provide your patients with the highest level of care and run your practice smoothly and efficiently.
 
-Need help choosing which one suits your practice? Say hello, we'll help you out :) free of charge.
+Need help choosing which one suits your practice? [say hello](https://unnus.com/contact/), we'll help you out :) free of charge.
