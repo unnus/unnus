@@ -116,13 +116,13 @@ These unique marketing tactics can help you stand out and attract potential clie
 
 As we established earlier, marketing this kind of business is a little bit tricky due to the sensible nature of the audience we’re targeting. So it is crucial to avert common pitfalls during your marketing campaigns
 
-* Making false or exaggerated claims: It is important to be truthful and transparent in your marketing messaging. Avoid making false or exaggerated claims about the effectiveness of your treatment programs, success rates, or credentials.
-* Using stigmatizing language: Avoid using stigmatizing language such as "addict" or "junkie" in your marketing materials. Instead, use person-first language that puts the individual before their addiction.
-* Targeting vulnerable populations: It is important to be ethical in your marketing practices and avoid targeting vulnerable populations such as those in financial distress or individuals who are homeless.
-* Offering financial incentives: Offering financial incentives or kickbacks for referrals can be seen as unethical and may undermine the trust and credibility of your rehab center.
-* Focusing solely on amenities: While it is important to highlight the amenities and facilities offered by your rehab center, it is equally important to emphasize the quality of care and support provided. Avoid focusing solely on the material aspects of your center and instead emphasize the personalized and comprehensive approach to addiction treatment.
-* Ignoring aftercare: Aftercare is a critical component of addiction treatment and recovery. Avoid neglecting the importance of aftercare support and resources in your marketing messaging.
-* Lack of diversity and inclusion: It is important to ensure that your marketing materials are inclusive and diverse. Avoid using imagery or language that excludes or marginalizes certain populations.
+* **Making false or exaggerated claims**: It is important to be truthful and transparent in your marketing messaging. Avoid making false or exaggerated claims about the effectiveness of your treatment programs, success rates, or credentials.
+* **Using stigmatizing language**: Avoid using stigmatizing language such as "addict" or "junkie" in your marketing materials. Instead, use person-first language that puts the individual before their addiction.
+* **Targeting vulnerable populations**: It is important to be ethical in your marketing practices and avoid targeting vulnerable populations such as those in financial distress or individuals who are homeless.
+* **Offering financial incentives**: Offering financial incentives or kickbacks for referrals can be seen as unethical and may undermine the trust and credibility of your rehab center.
+* **Focusing solely on amenities**: While it is important to highlight the amenities and facilities offered by your rehab center, it is equally important to emphasize the quality of care and support provided. Avoid focusing solely on the material aspects of your center and instead emphasize the personalized and comprehensive approach to addiction treatment.
+* **Ignoring aftercare**: Aftercare is a critical component of addiction treatment and recovery. Avoid neglecting the importance of aftercare support and resources in your marketing messaging.
+* **Lack of diversity and inclusion**: It is important to ensure that your marketing materials are inclusive and diverse. Avoid using imagery or language that excludes or marginalizes certain populations.
 
 By avoiding these common mistakes, you can establish your rehab center as an ethical and trustworthy resource for individuals seeking addiction treatment and recovery support.
 
