@@ -30,6 +30,8 @@ With the advancement of technology, there are now many patient management softwa
 
 In this article, we will discuss 21 different patient management software, their features, benefits, and what sets them apart from each other.
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
 ## What is a patient management software?
 
 Patient management software, also known as medical practice management software, is a type of software that helps healthcare providers manage their patient's medical information, treatment plans, appointments, and billing.
@@ -261,6 +263,8 @@ What sets ChiroTouch apart is its focus on automation and customization. With Ch
 
 ChiroTouch offers a cloud-based software solution with pricing starting at $129 per month for a single user. They also offer discounts for multi-user practices and for practices that pay annually.
 
+{{% ad-unit %}} {{% /ad-unit %}}
+
 ### 12) ECLIPSE
 
 ![ECLIPSE interface](/assets/images/12-eclipse.png)
@@ -437,6 +441,8 @@ Compulink is an all-in-one patient management software solution that includes el
 **Pricing:**
 
 You need to contact sales team.
+
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ### 21) CureMD
 
