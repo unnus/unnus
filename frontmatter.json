@@ -1,0 +1,122 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "Avatar Bottom",
+          "name": "authorAvatarBottom",
+          "type": "image"
+        },
+        {
+          "title": "Avatar Top",
+          "name": "authorAvatarTop",
+          "type": "image"
+        },
+        {
+          "title": "Author bio",
+          "name": "authorBio",
+          "type": "string"
+        },
+        {
+          "title": "category",
+          "name": "category",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+
+        {
+          "title": "Featured Image",
+          "name": "featImg",
+          "type": "image"
+        },
+        {
+          "title": "Featured Thumbnail",
+          "name": "featImgThumb",
+          "type": "image"
+        },
+        {
+          "title": "Linkedin Handle",
+          "name": "linkedinHandle",
+          "type": "string"
+        },
+        {
+          "title": "page",
+          "name": "page",
+          "type": "string"
+        },
+        {
+          "title": "Reading time",
+          "name": "readingTime",
+          "type": "string"
+        },
+        {
+          "title": "Slug",
+          "name": "slug",
+          "type": "string"
+        },
+        {
+          "title": "Social Media Thumbnail",
+          "name": "socialThumbnail",
+          "type": "string"
+        },
+        {
+          "title": "Table Of Content",
+          "name": "table_of_content",
+          "type": "list"
+        },
+        {
+          "title": "Article Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Twitter Handle",
+          "name": "twitterHandle",
+          "type": "string"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+     
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "medical",
+      "path": "[[workspace]]/content/medical"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": []
+}
