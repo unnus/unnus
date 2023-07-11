@@ -16,8 +16,8 @@ weight: 4
 				<h3 style="margin-top:0;">1) You'll see how to craft the unmatched advantage of being purposeful medical business</h3>
 				<p>People have a cognitive bias towards meaningful brands. Brands that are purpose-driven and possess a high sense of mission. We vouch for their success, we stay loyal and spread the gospel about them. That’s because they reflect our beliefs and reinforce our core characteristics.</p>
 				<p>In the first lesson, we’ll go through how you’ll infuse a dash of “meaningful substance” to your medical business and how that will lead you to attract cult-like followings and a loyal patient base.</p>
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/1.png">
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/2.png">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/1.webp">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/2.webp">
 				<p>Branding Exercises included in this lesson are:</p>
 				<ul>
 						<li>Brand Golden Circle Exercise 📝</li>
@@ -31,8 +31,8 @@ weight: 4
 				<p>In an age where the patient choice is expanding rapidly, where people are time-poor and information-rich; Where everyone is fist-fighting for your patient’s short attention, not differentiating your medical business is the same as being invisible.</p>
 				<p>And in this lesson, we’re going to find strategic ways for you to cut through the “me too” brands and highlight what’s unique about yours.</p>
 				<p>We’ll also experiment with positioning strategies and how to provide your would-be patient with razor-sharp clarity about what differentiates your practice from the “lookalikes”.</p>
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/3.png">
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/4.png">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/3.webp">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/4.webp">
 				<p>Branding Exercises included in this lesson are:</p>
 				<ul>
 						<li>Audience Persona Exercise 📝</li>
@@ -43,8 +43,8 @@ weight: 4
 				<p>When your patients connect to your brand that aligns with their most deeply-held beliefs and sense of identity, they are essentially both pulling that brand into their own world and entering the world of that brand.</p>
 				<p>And if your brand truly represents an ethos and worldview that are attractive to your patients, they will not just patronize your brand, they will not just prefer you, they will not just be loyal to your brand, they will embrace that brand as part of their own identity.</p>
 				<p>So how do you go about creating such alignment of belief systems and sparking relationships with your target patient and your brand? Well, this is the goal of <b>Brand Archetypes</b>. In the third lesson of this course, we’ll explore brand archetype exercises and brand persona and how they’ll help you align with your patients’ core attributes.</p>
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/5.png">
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/6.png">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/5.webp">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/6.webp">
 				<p>Branding Exercises included in this lesson are:</p>
 				<ul>
 						<li>Brand Archetypal Mix Exercise 📝</li>
@@ -56,8 +56,8 @@ weight: 4
 				<h3>4) Brand Storytelling: A Framework to Attract And Captivate your patients hearts.</h3>
 				<p>Imagine what you want to say to your patient goes through intact - crystal clear and potent? What if your messages are perceived straight into people’s brains without distortion, noise, or the need to think too much about it?</p>
 				<p>This is exactly what we’ll accomplish in the fourth lesson. We’ll see how you can use practical storytelling to shrink the “psychic distance” between your medical business and your ideal patient so that a relationship can begin to develop.</p>
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/7.png">
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/8.png">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/7.webp">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/8.webp">
 				<p>Branding Exercises included in this lesson are:</p>
 				<ul>
 						<li>Brand Core Messages Exercise 📝</li>
@@ -68,8 +68,8 @@ weight: 4
 				<p>Your visuals can turn your medical business into a premium brand. And the reason for that is because of how our brain interprets visual elements. We are visual beings and we’re biased towards what is visually appealing and aesthetically meaningful.</p>
 				<p>Your visual identity should reflect and give meaning to your medical brand. It’s the first interaction the patient has with your practice. Think of it as an “optical communication” with your audience.</p>
 				<p>In the fifth lesson, we’ll try to portray meaning and messages through visual elements and design exercises. you’ll break the outdated and predictable healthcare aesthetics and give your brand a fresh, costume look that is based on your unique position in the market.</p>
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/9.png">
-				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/10.png">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/9.webp">
+				<img alt="Screenshot of the exercies" src="/assets/course-media/landing/10.webp">
 				<p>Branding Exercises included in this lesson are:</p>
 				<ul>
 						<li>Brand Keyword Essence Exercise 📝</li>

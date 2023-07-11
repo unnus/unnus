@@ -1,17 +1,17 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
 downloads = "https://drive.google.com/drive/folders/1IDD7pxtAKbMg2pFVKRRC4c6LOHnt0wOg?usp=sharing"
-featImg = "/assets/images/0-4.jpg"
-featImgThumb = "/assets/images/0-4.jpg"
+featImg = "/assets/images/0-4.webp"
+featImgThumb = "/assets/images/0-4.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "7"
 slug = "brand-identity"
-socialThumbnail = "/assets/images/0-4.jpg"
+socialThumbnail = "/assets/images/0-4.webp"
 table_of_content = ["brand-art-direction-workshop", "1-brand-keyword-essence-exercise--15-25-minute", "2-brand-visualization-exercise--15-25-minute", "3-brand-creative-process--15-25-minute", "whats-next"]
 title = "Lesson 5): Brand Art Direction: How To Craft A Mesmerizing Brand Visuals"
 twitterHandle = "/@SlimanBaghouri"
@@ -53,7 +53,7 @@ The goal of this exercise is to distill your brand’s core attributes to catego
 
 ### 🔴 Action Step: Fill in the brand keyword map:
 
-![](/assets/images/1.png)
+![](/assets/images/1.webp)
 
 The brand keyword map will allow you to brainstorm a bunch of keywords related to different aspects of your brand. Each branch represents a different element of the brand and the keywords that are related to that element.
 
@@ -64,7 +64,7 @@ The brand keyword map will allow you to brainstorm a bunch of keywords related t
 
 After you’re done, you’ll be left with something like this:
 
-![](/assets/images/2.png)
+![](/assets/images/2.webp)
 
 ## 2) Brand Visualization Exercise ⏰ \[15-25 minute\]
 
@@ -82,7 +82,7 @@ You’ll apply the same technique for each keyword you chose.
 
 ### 🔴 Action Step: Fill in the Visualization table:
 
-![](/assets/images/3-1.png)
+![](/assets/images/3-1.webp)
 
 Take the keywords you chose in the last step and apply the same visualization technique to each one of them.
 
@@ -93,7 +93,7 @@ Take the keywords you chose in the last step and apply the same visualization te
 
 After you’re done, your result should look like this:
 
-![](/assets/images/4-2.png)
+![](/assets/images/4-2.webp)
 
 ## 3) Brand Creative Process ⏰ \[15-25 minute\]
 
@@ -105,7 +105,7 @@ Let us start.
 
 ### 🔴 Action Step: Fill in the Creative Process table:
 
-![](/assets/images/5-2.png)
+![](/assets/images/5-2.webp)
 
 To create the external branding guidelines, we’ll need to finish establishing the characteristics of each branding aspect of your business. For the sake of brevity, I’ll cover how to write guidelines for the logo, Color Schemes, Typography, and Imagery Style.
 
@@ -120,7 +120,7 @@ To create the external branding guidelines, we’ll need to finish establishing 
 
 Apply the same method for the four identity items. Once you’re done, you’ll end up with something like this:
 
-![](/assets/images/6-2.png)
+![](/assets/images/6-2.webp)
 
 Now that the art direction is done, you can hand the guidelines to your designer and he’ll take care of the execution.
 

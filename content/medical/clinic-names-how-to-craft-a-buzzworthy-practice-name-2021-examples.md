@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnus magazine and regular contributor in the healthcare marketing industry."
 category = "healthcare-marketing"
 date = 2021-03-14T23:00:00Z
 description = "In this article I’ll provide you with the key elements that make for a timeless brand name and a step-by-step process to help you craft a buzzworthy name."
-featImg = "/assets/images/featured-names-0.jpg"
-featImgThumb = "/assets/images/featured-names-0.jpg"
+featImg = "/assets/images/featured-names-0.webp"
+featImgThumb = "/assets/images/featured-names-0.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "6"
 slug = "/clinic-names"
-socialThumbnail = "/assets/images/featured-names-0.jpg"
+socialThumbnail = "/assets/images/featured-names-0.webp"
 table_of_content = ["can-a-name-do-all-that", "how-not-to-name-your-medical-brand", "the-7-pillars-of-a-great-medical-brand-name", "how-to-name-your-medical-business-step-by-step-process", "medical-brand-name-examples", "dental-clinic-names", "physical-therapy-clinic-names", "medical-clinic-names", "pediatric-clinic-names", "chiropractic-clinic-names", "veterinary-clinic-names", "mental-health-clinic-names", "the-secret-to-an-unforgettable-medical-business-name"]
 title = "Clinic Names: How to Craft A Buzzworthy Practice Name +Examples"
 twitterHandle = "/@SlimanBaghouri"
@@ -136,13 +136,13 @@ In this stage, we get a summary about your medical brand, what it stands for, wh
 
 You can [download this worksheet](https://drive.google.com/file/d/1vlxrmYwFH_-JvXIEBEx5U7gVnv1iKiF0/view?usp=sharing "Download Medical Business Naming Worksheet") to start gathering some insights about your brand.
 
-![Medical business naming worksheet](/assets/images/naming-worksheet-1.jpg "Medical business naming worksheet")
+![Medical business naming worksheet](/assets/images/naming-worksheet-1.webp "Medical business naming worksheet")
 
 Just like people, your brand's personality draws some to it and repels others. defining it in human terms makes it easier to identify the ideal patient that will be attracted to it.
 
 Using the next sheet and try to decide on a brand personality for your business. Is your brand playful? Authoritative? Sympathetic? Or is it serious and to the point? These personalities will help us pick a name that suits your brand and its attributes.
 
-![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-2.jpg "Screenshot of the Medical business naming worksheet")
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-2.webp "Screenshot of the Medical business naming worksheet")
 
 ### Stage 1: Brainstorming a Word Bank ⏰ \[15-25 minute\]
 
@@ -150,7 +150,7 @@ Now we have all the needed prep, let’s create a word bank or a tree of words t
 
 Use this mind-map template to create your word bank.
 
-![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-3-1.jpg "Screenshot of the Medical business naming worksheet")
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-3-1.webp "Screenshot of the Medical business naming worksheet")
 
 If you’re stuck, use [Powerthesaurus ](https://www.powerthesaurus.org/)and [Rhymebrain](https://rhymebrain.com/). These tools will provide you with endless words and synonyms.
 
@@ -160,7 +160,7 @@ After you’ve got your word bank, it’s time to start generating names. Use th
 
 Brainstorm as many names as you can and put them in their respective column. If you get stuck, return to your word bank to get some ideas.
 
-![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-4.jpg "Screenshot of the Medical business naming worksheet")
+![Screenshot of the Medical business naming worksheet](/assets/images/naming-worksheet-4.webp "Screenshot of the Medical business naming worksheet")
 
 ### Stage 3: Name Evaluation ⏰ \[10-15 minute\]
 
@@ -170,7 +170,7 @@ Using the name evaluation sheet, pick your top 5 names and start ranking them ba
 
 Use a ranking score of 1 or 0 (yes or no). Try also giving this to friends/family for more insights. Make sure that the name you pick ticks all of the important attributes of a great name.
 
-![](/assets/images/naming-worksheet-5.jpg)
+![](/assets/images/naming-worksheet-5.webp)
 
 After you finish, you’ll have a total score for each name. The highest scored name wins.
 
@@ -192,70 +192,70 @@ If you google clinic names or medical business names, you’ll find 100+ randoml
 
 Odentia
 
-![Dental Clinic Names Example](/assets/images/dental-clinic-names-1.jpg "Dental Clinic Names Example")
+![Dental Clinic Names Example](/assets/images/dental-clinic-names-1.webp "Dental Clinic Names Example")
 
 Confidental
 
-![](/assets/images/dental-clinic-names-2.jpg)
+![](/assets/images/dental-clinic-names-2.webp)
 
 ## Physical therapy clinic names
 
 Magic Motion  
-![physical therapy clinic names examples](/assets/images/phsycial-therapy-clinic-names-1.jpg "physical therapy clinic names examples")
+![physical therapy clinic names examples](/assets/images/phsycial-therapy-clinic-names-1.webp "physical therapy clinic names examples")
 
 Theramove
 
-![physical therapy clinic names examples](/assets/images/physical-therapy-clinic-names-2.jpg "physical therapy clinic names examples")
+![physical therapy clinic names examples](/assets/images/physical-therapy-clinic-names-2.webp "physical therapy clinic names examples")
 
 ## Medical Clinic Names
 
 Woven Care
 
-![medical clinic names examples](/assets/images/medical-clinic-names-1.jpg "medical clinic names examples")
+![medical clinic names examples](/assets/images/medical-clinic-names-1.webp "medical clinic names examples")
 
 Tender Treat
 
-![medical clinic names examples](/assets/images/medical-clinic-names-2.jpg "medical clinic names examples")
+![medical clinic names examples](/assets/images/medical-clinic-names-2.webp "medical clinic names examples")
 
 ## Pediatric clinic names
 
 Care Rangers
 
-![pediatric clinic names examples](/assets/images/pediatric-clinic-names-1.jpg "pediatric clinic names examples")
+![pediatric clinic names examples](/assets/images/pediatric-clinic-names-1.webp "pediatric clinic names examples")
 
 Kinder Aid
 
-![pediatric clinic names examples](/assets/images/pediatric-clinic-names-2.jpg "pediatric clinic names examples")
+![pediatric clinic names examples](/assets/images/pediatric-clinic-names-2.webp "pediatric clinic names examples")
 
 ## Chiropractic clinic names
 
 Fluid Forms
 
-![chiropractic clinic names examples](/assets/images/chiropractic-clinic-names-1.jpg "chiropractic clinic names examples")
+![chiropractic clinic names examples](/assets/images/chiropractic-clinic-names-1.webp "chiropractic clinic names examples")
 
 Jolly Joints
 
-![chiropractic clinic names examples](/assets/images/chiropractic-clinic-names-2.jpg "chiropractic clinic names examples")
+![chiropractic clinic names examples](/assets/images/chiropractic-clinic-names-2.webp "chiropractic clinic names examples")
 
 ## Veterinary clinic names
 
 Fauna
 
-![veterinary clinic names examples](/assets/images/veterinary-clinic-names-1.jpg "veterinary clinic names examples")
+![veterinary clinic names examples](/assets/images/veterinary-clinic-names-1.webp "veterinary clinic names examples")
 
 Barking Burr
 
-![veterinary clinic names examples](/assets/images/veterinary-clinic-names-2.jpg "veterinary clinic names examples")
+![veterinary clinic names examples](/assets/images/veterinary-clinic-names-2.webp "veterinary clinic names examples")
 
 ## Mental health clinic names
 
 Restful Minds
 
-![mental health clinic names examples](/assets/images/mental-health-clinic-names-1.jpg "mental health clinic names examples")
+![mental health clinic names examples](/assets/images/mental-health-clinic-names-1.webp "mental health clinic names examples")
 
 Caresect
 
-![mental health clinic names examples](/assets/images/mental-health-clinic-names-2.jpg "mental health clinic names examples")
+![mental health clinic names examples](/assets/images/mental-health-clinic-names-2.webp "mental health clinic names examples")
 
 ## The secret to an unforgettable medical business name
 

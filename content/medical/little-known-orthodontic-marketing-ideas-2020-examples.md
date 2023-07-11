@@ -1,18 +1,18 @@
 +++
 author = "Sara Seirawan"
-authorAvatarBottom = "/assets/images/ss-1.jpg"
-authorAvatarTop = "/assets/images/s.jpg"
+authorAvatarBottom = "/assets/images/ss-1.webp"
+authorAvatarTop = "/assets/images/s.webp"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-marketing"
 date = 2020-11-16T23:00:00Z
 description = "If you're looking for ways to market your orthodontic practice, Look no further. I’ll share with you creative orthodontics marketing tips for a profitable practice."
-featImg = "/assets/images/orthodontic-marketing.jpg"
-featImgThumb = "/assets/images/orthodontic-marketing.jpg"
+featImg = "/assets/images/orthodontic-marketing.webp"
+featImgThumb = "/assets/images/orthodontic-marketing.webp"
 linkedinHandle = "SaraSeirawan"
 page = "medical/single.html"
 readingTime = "7"
 slug = "/orthodontic-marketing"
-socialThumbnail = "/assets/images/orthodontic-marketing.jpg"
+socialThumbnail = "/assets/images/orthodontic-marketing.webp"
 table_of_content = ["the-risk-of-not-being-seen-in-the-dental-industry", "this-is-why-most-orthodontic-marketing-efforts-fail", "orthodontic-marketing-ideas", "leverage-social-media-i-know-but-hear-me-out", "utilize-brand-storytelling-strategy-with-content-marketing", "online-paid-advertising-for-your-orthodontic-practice", "the-secret-to-orthodontic-marketing"]
 title = "Little-known Orthodontic Marketing Ideas 2023 (+Examples)"
 twitterHandle = "@SaraSeirawan"
@@ -72,7 +72,7 @@ Branding your dental practice is all about sending trust signals to your patient
 
 **_This is not to say that marketing is not important. Just that marketing is more sizable, more profitable, and more dependable when you focus on long term relationships of building your brand instead of short-term revenues._**
 
-![Difference between healthcare marketing and branding](/assets/images/12bbc2245153651e50ffad04938b7c57.png "Difference between healthcare marketing and branding")
+![Difference between healthcare marketing and branding](/assets/images/12bbc2245153651e50ffad04938b7c57.webp "Difference between healthcare marketing and branding")
 
 If you want a deep dive into the unmatched advantages of building your medical brand, check our article on [branding in healthcare](https://www.unnus.com/medical/healthcare-branding/)
 
@@ -117,7 +117,7 @@ Using the Brand Voice Template, plot down the manner in which your brand should 
 
 Is your brand’s voice formal or playful? Serious or authoritative? Your communication should be consistent throughout all social media pages.
 
-![Brand voice in orthodontic marketing](/assets/images/brand-voice-orthodontic.jpg "Brand voice in orthodontic marketing")
+![Brand voice in orthodontic marketing](/assets/images/brand-voice-orthodontic.webp "Brand voice in orthodontic marketing")
 
 You can access the [Brand Voice template](https://drive.google.com/file/d/1aLt2RU7thCXC6O_v7kVxR412a8BGTSbp/view?usp=sharing) here
 
@@ -140,13 +140,13 @@ We're _______ But We're Not ________.
 
 **Here's an example of Tone Projection**
 
-![Brand voice in orthodontic marketing](/assets/images/orthodontic-branding.jpg "Brand voice in orthodontic marketing")
+![Brand voice in orthodontic marketing](/assets/images/orthodontic-branding.webp "Brand voice in orthodontic marketing")
 
 You can access [the tone projection template](https://drive.google.com/file/d/1gdpQe2URo4I2IPpUu_SIYKDIJGTUmNDh/view?usp=sharing) here
 
 Here's a simplified description of what a brand voice will look like
 
-![Brand voice in orthodontic marketing](/assets/images/brand-voice.jpg "Brand voice in orthodontic marketing")
+![Brand voice in orthodontic marketing](/assets/images/brand-voice.webp "Brand voice in orthodontic marketing")
 
 After defining a brand voice for your brand or social page, you can then **add a dash of** personality to your posts using a unique way of communicating.
 
@@ -156,31 +156,31 @@ After defining a brand voice for your brand or social page, you can then **add a
 
 Their voice in social media is **frisky**, **humorous**, and **unsolicited**
 
-![Social media for orthodontists](/assets/images/orthodontic-marketing-social-media-example.jpg "Social media for orthodontists")
+![Social media for orthodontists](/assets/images/orthodontic-marketing-social-media-example.webp "Social media for orthodontists")
 
-![Social media for orthodontists](/assets/images/orthodontic-marketing-examples.png "Social media for orthodontists")
+![Social media for orthodontists](/assets/images/orthodontic-marketing-examples.webp "Social media for orthodontists")
 
 **#The Joint Chiropractic,** providing convenient and affordable chiropractic care and solutions for back pain, neck pain, and more...
 
 Their voice in social media is **relaxed**, **casual**, and **uplifting**
 
-![social media for orthodontist ](/assets/images/orthodontic-marketing-example-social-media-1.jpg "social media for orthodontist ")
+![social media for orthodontist ](/assets/images/orthodontic-marketing-example-social-media-1.webp "social media for orthodontist ")
 
-![social media example for orthodontist ](/assets/images/chiro3.jpg "social media example for orthodontist ")
+![social media example for orthodontist ](/assets/images/chiro3.webp "social media example for orthodontist ")
 
 Their Brand Voice is consistent in their Facebook page
 
-![social media example for orthodontist ](/assets/images/orthodontic-marketing-facebook.jpg "social media example for orthodontist ")
+![social media example for orthodontist ](/assets/images/orthodontic-marketing-facebook.webp "social media example for orthodontist ")
 
-![social media example for orthodontist ](/assets/images/orthodontic-marketing-facebook-example.jpg "social media example for orthodontist ")
+![social media example for orthodontist ](/assets/images/orthodontic-marketing-facebook-example.webp "social media example for orthodontist ")
 
 **#One medical,** membership-based primary care practice on a mission to make getting quality care more accessible, and enjoyable.
 
 Their voice in social media is **caring**, **warm**, and **thoughtful**
 
-![Brand voice example in orthodontic marketing](/assets/images/orthodontic-marketing-social-media-example-23.png "Brand voice example in orthodontic marketing")
+![Brand voice example in orthodontic marketing](/assets/images/orthodontic-marketing-social-media-example-23.webp "Brand voice example in orthodontic marketing")
 
-![Brand voice example in orthodontic marketing](/assets/images/orthodontic-marketing-social-media-example-three.jpg "Brand voice example in orthodontic marketing")
+![Brand voice example in orthodontic marketing](/assets/images/orthodontic-marketing-social-media-example-three.webp "Brand voice example in orthodontic marketing")
 
 ### **Share your practice’s culture on, social media**
 
@@ -188,8 +188,8 @@ Sharing your practice’s culture and work environment in social media adds tran
 
 Tulsa Braces regularly share pictures of their team on Facebook as a way of introducing themselves to patients
 
-![Facebook for orthodontics](/assets/images/social-media-marketing-orthodontic.jpg "Facebook for orthodontics")  
-![Facebook for orthodontics](/assets/images/social-media-marketing-orthodontic-1.jpg "Facebook for orthodontics")
+![Facebook for orthodontics](/assets/images/social-media-marketing-orthodontic.webp "Facebook for orthodontics")  
+![Facebook for orthodontics](/assets/images/social-media-marketing-orthodontic-1.webp "Facebook for orthodontics")
 
 ## **Utilize Brand Storytelling Strategy with content marketing**
 
@@ -213,17 +213,17 @@ Considering [83% of adult internet users](https://www.pewresearch.org/internet/2
 
 Here’s an example of topics and orthodontic blog posts:
 
-![orthodontic blog examples](/assets/images/blogposts.jpg "orthodontic blog examples")  
+![orthodontic blog examples](/assets/images/blogposts.webp "orthodontic blog examples")  
 **Iorthosd, San Diego-based Orthodontic Practice blog**
 
-![orthodontic blog examples](/assets/images/orthodontic-marketing-blog-posts.jpg "orthodontic blog examples")
+![orthodontic blog examples](/assets/images/orthodontic-marketing-blog-posts.webp "orthodontic blog examples")
 
 Another great example is Dr. Charles Gemmi from Orthodontics Limited, He regularly writes about all things orthodontic.
 
-![orthodontic blog examples](/assets/images/orthodontic-marketing-blog-writing.jpg "orthodontic blog examples")  
+![orthodontic blog examples](/assets/images/orthodontic-marketing-blog-writing.webp "orthodontic blog examples")  
 As a result, His practice website, gain massive amounts of traffic each month from Google.
 
-![orthodontic seo examples](/assets/images/orthodontic-marketing-seo.jpg "orthodontic seo examples")
+![orthodontic seo examples](/assets/images/orthodontic-marketing-seo.webp "orthodontic seo examples")
 
 That’s roughly 113,000 monthly visitors and potential patients.
 
@@ -269,7 +269,7 @@ You then take these secondary messages and make marketing campaigns for each one
 
 A visualized version of this will look like this:
 
-![orthodontic marketing storytelling ](/assets/images/orthodontic-marketing-and-branding.jpg "orthodontic marketing storytelling ")  
+![orthodontic marketing storytelling ](/assets/images/orthodontic-marketing-and-branding.webp "orthodontic marketing storytelling ")  
 This is the power of storytelling, it—asynchronously— feeds your potential patients with small sets of stories that make up your bigger core message.
 
 ## **Online paid advertising for your orthodontic practice**
@@ -290,7 +290,7 @@ The good news is that it’s cheap compared to other means of advertising. For e
 
 **Alpan Orthodontics**, A California-based orthodontic practice, is using Google Adwords to acquire more patients.
 
-![Google ads for orthodontic](/assets/images/orthodontic-advertising.png "Google ads for orthodontic")
+![Google ads for orthodontic](/assets/images/orthodontic-advertising.webp "Google ads for orthodontic")
 
 ### **2) Facebook Ads**
 
@@ -304,9 +304,9 @@ When it comes to the difference between Google AdWords and Facebook Ads, you can
 
 **Example of orthodontic Facebook ads**
 
-![Facebook ads for orthodontic](/assets/images/facebook-retargeting-campaign-1.png "Facebook ads for orthodontic")
+![Facebook ads for orthodontic](/assets/images/facebook-retargeting-campaign-1.webp "Facebook ads for orthodontic")
 
-![Facebook ads for orthodontic](/assets/images/dentist-facebook-ad-example-1.png "Facebook ads for orthodontic")
+![Facebook ads for orthodontic](/assets/images/dentist-facebook-ad-example-1.webp "Facebook ads for orthodontic")
 
 ## **The “secret” to orthodontic marketing**
 

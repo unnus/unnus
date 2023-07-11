@@ -1,18 +1,18 @@
 +++
 author = "InVideo Team"
-authorAvatarBottom = "/assets/images/invideo.png"
-authorAvatarTop = "/assets/images/invideo.png"
+authorAvatarBottom = "/assets/images/invideo.webp"
+authorAvatarTop = "/assets/images/invideo.webp"
 authorBio = "This article comes to you by the InVideo team. InVideo is an online video editor that helps you promote your business online with the right tools."
 category = "healthcare-marketing"
 date = 2022-01-20T23:00:00Z
 description = "You can use the best video editor tool for creating healthcare videos and seize the chance to connect with patients authentically and educate them on different ways of living a healthy and hearty life."
-featImg = "/assets/images/featured-video-marketing.png"
-featImgThumb = "/assets/images/featured-video-marketing.png"
+featImg = "/assets/images/featured-video-marketing.webp"
+featImgThumb = "/assets/images/featured-video-marketing.webp"
 linkedinHandle = "/company/invideoio"
 page = "medical/single.html"
 readingTime = "6"
 slug = "/healthcare-video-marketing"
-socialThumbnail = "/assets/images/featured-video-marketing.png"
+socialThumbnail = "/assets/images/featured-video-marketing.webp"
 table_of_content = ["why-video-marketing-is-effective-in-the-healthcare-industry", "different-ways-of-using-video-marketing-for-educating-and-influencing-patients", "different-ways-in-which-video-marketing-is-influencing medical-practice", "conclusion"]
 title = "How Video Marketing is influencing the future of Healthcare"
 twitterHandle = "/InVideoOfficial"

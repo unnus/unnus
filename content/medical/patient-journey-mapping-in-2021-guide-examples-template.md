@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnus magazine and regular contributor in the healthcare marketing industry."
 category = "healthcare-marketing"
 date = 2021-03-02T23:00:00Z
 description = "Patient Journey Maps are the secret ingredient to a thriving medical business. Let’s discuss how to implement this strategy for your practice in under 3 days. "
-featImg = "/assets/images/featured-6.jpg"
-featImgThumb = "/assets/images/featured-7.jpg"
+featImg = "/assets/images/featured-6.webp"
+featImgThumb = "/assets/images/featured-7.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "7"
 slug = "patient-journey-mapping"
-socialThumbnail = "/assets/images/featured-7.jpg"
+socialThumbnail = "/assets/images/featured-7.webp"
 table_of_content = ["what-is-a-patient-journey", "what-is-a-patient-journey-mapping", "what-are-the-benefits-of-patient-journey-mapping", "step-by-step-process-how-to-create-a-patient-journey-map", "patient-journey-example", "the-secret-to-a-result-driven-patient-journey-map"]
 title = "Patient Journey Mapping In 2023, Guide + [Examples & Template]"
 twitterHandle = "/@SlimanBaghouri"
@@ -43,9 +43,10 @@ Let us dive in.
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
+
 ## What is a Patient Journey?
 
-![Illustration of patient journey mapping](/assets/images/3-patient-journey-map-illustration.jpg "Patient journey")
+![Illustration of patient journey mapping](/assets/images/3-patient-journey-map-illustration.webp "Patient journey")
 
 A Patient Journey (A.K.A customer journey) is a series of events the patient goes through from his/her first interaction with your medical business up until post-treatment. It outlines every touchpoint (point of contact) the patient comes across during the whole patient experience.
 
@@ -170,13 +171,13 @@ The first thing to do is to present the patient’s journey map. The map consist
 
 Here’s roughly how the digital version of the patient journey should look like:
 
-![illustration of Patient Journey Template](/assets/images/1-patient-journey-example-illustration.png "Patient Journey Template")  
+![illustration of Patient Journey Template](/assets/images/1-patient-journey-example-illustration.webp "Patient Journey Template")  
 If you’re running the workshop in person, the PJM might look like this:
 
-![picture of patient journey mapping workshop ](/assets/images/4-patient-journey-workshop.jpg "patient journey mapping workshop ")  
+![picture of patient journey mapping workshop ](/assets/images/4-patient-journey-workshop.webp "patient journey mapping workshop ")  
 For each step ask participants to use sticky notes to answer the above questions. At the end of the exercise you should have something like this:
 
-![picture of patient journey mapping workshop example](/assets/images/5-patient-journey-mapping-example.png "patient journey mapping workshop example")  
+![picture of patient journey mapping workshop example](/assets/images/5-patient-journey-mapping-example.webp "patient journey mapping workshop example")  
 After you finish the first draft of the map, discuss with your team the observation and insights they made. It’s important to create a sense of collaboration during this exercise. Your team should feel involved and invested in the success of the strategy.
 
 #### Wrap up the workshop ⏰ \[5-10 minute\]
@@ -191,7 +192,7 @@ Now that the map is finished, all is left is to finalize the Map and provide a c
 * Provide the team with a video or write-up about the strategy and the purpose behind it. Make sure to include how this can benefit the whole team and the brand overall
 * Turn the insights and the results you got out of the PJM into an action plan. This plan should include what to do next at each step of the patient journey and what are the things that need to change. This is a critical part of the PJM. You want to act out the strategy to start seeing improvement and profit results for your medical business.
 
-![Illustration of Patient Journey Mapping Strategy](/assets/images/2-patient-journey-map-recap.png "Patient Journey Mapping Workshop Recap")
+![Illustration of Patient Journey Mapping Strategy](/assets/images/2-patient-journey-map-recap.webp "Patient Journey Mapping Workshop Recap")
 
 ## Patient Journey Example
 

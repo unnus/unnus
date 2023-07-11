@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2021-02-06T23:00:00Z
 description = "If you’re looking for a resilient way to market your nursing home facility, Look no further. This article contains proven marketing strategies for senior living facilities."
-featImg = "/assets/images/nursing-home-featured.jpg"
-featImgThumb = "/assets/images/nursing-home-featured.jpg"
+featImg = "/assets/images/nursing-home-featured.webp"
+featImgThumb = "/assets/images/nursing-home-featured.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "7"
 slug = "/nursing-home-marketing"
-socialThumbnail = "/assets/images/nursing-home-featured.jpg"
+socialThumbnail = "/assets/images/nursing-home-featured.webp"
 table_of_content = ["mistakes-to-avoid-when-marketing-your-nursing-home", "nursing-home-marketing-ideas", "multi-channel-marketing", "targeting-the-decision-makers-with-trust-creation-messaging", "cross-promotion-marketing-strategy", "video-storytelling", "print-advertising", "local-seo", "pay-per-click-advertising", "sponsor-a-community-event", "youtube-advertising", "the-secret-to-a-result-driven-nursing-home-marketing"]
 title = "Proven Nursing Home Marketing Ideas + (Traps to Avoid) [2023]"
 twitterHandle = "/@SlimanBaghouri"
@@ -81,7 +81,7 @@ Before we go into the details of marketing your nursing home, let’s first tack
 
 ## Multi-Channel Marketing
 
-![Multi-marketing channel illustration](/assets/images/1-multi-channel-marketing-for-nursing-homes.jpg "Multi-marketing channel illustration")
+![Multi-marketing channel illustration](/assets/images/1-multi-channel-marketing-for-nursing-homes.webp "Multi-marketing channel illustration")
 
 According to recent [research](https://business.linkedin.com/marketing-solutions/blog/n/new-marketing-leadership-report-from-linkedin-salesforce), 86% of senior-level marketers think that it’s important to create a cohesive customer journey across all touchpoints and channels. And for this reason, multi-channel marketing is a great way to add a holistic experience for your customers.
 
@@ -93,7 +93,7 @@ However, despite the clear advantage this strategy provides, it may prove to be 
 
 ## Targeting the decision-makers with trust-creation messaging
 
-![Illustration for trust creation marketing](/assets/images/2-trust-creation-marketing-for-nursing-homes.jpg "Illustration for trust creation marketing")
+![Illustration for trust creation marketing](/assets/images/2-trust-creation-marketing-for-nursing-homes.webp "Illustration for trust creation marketing")
 
 Another strategy is to target the decision-makers for senior people. So instead of marketing directed at your primary audience, you can switch the messaging to be catered towards their children or caretakers.
 
@@ -103,13 +103,13 @@ According to Sales expert and author Neil Rackham, the bigger the decision someo
 
 Here’s a graph that illustrates how trust correlates with buying decisions:
 
-![illustration of how trust plays bigger role as the decision size gets more important](/assets/images/trust-of-buying-decision.jpg "illustration of how trust plays bigger role as the decision size gets more important")
+![illustration of how trust plays bigger role as the decision size gets more important](/assets/images/trust-of-buying-decision.webp "illustration of how trust plays bigger role as the decision size gets more important")
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
 ## Cross-Promotion Marketing Strategy
 
-![Cross-promotion marketing illustration](/assets/images/3-cross-promotion-marketing-for-nursing-homes.jpg "Cross-promotion marketing illustration")
+![Cross-promotion marketing illustration](/assets/images/3-cross-promotion-marketing-for-nursing-homes.webp "Cross-promotion marketing illustration")
 
 In terms of effectiveness, cost, and viability, cross-promotion is a strong [marketing strategy](https://unnus.com/medical/healthcare-marketing/) for nursing homes. This strategy revolves around teaming up with non-competing healthcare facilities to better reach the same audience.
 
@@ -130,7 +130,7 @@ Cross-promotion can take many forms. The most effective ones are:
 
 ## **Video Storytelling**
 
-![Video storytelling illustration for nursing homes](/assets/images/4-video-storytelling-marketing-for-nursing-homes.jpg "Video storytelling illustration for nursing homes")
+![Video storytelling illustration for nursing homes](/assets/images/4-video-storytelling-marketing-for-nursing-homes.webp "Video storytelling illustration for nursing homes")
 
 According to a [study](https://www.slideshare.net/Headstream/the-power-of-brand-storytelling) done by Headstream, great stories created purchase intent in 55 % of surveyed consumers. And the reason for this is simple:
 
@@ -144,7 +144,7 @@ Nursing homes must take advantage of the nature of their business model and form
 
 ## Print Advertising
 
-![Print advertising illustration for nursing homes](/assets/images/5-advertising-for-nursing-homes.jpg "Print advertising illustration for nursing homes")
+![Print advertising illustration for nursing homes](/assets/images/5-advertising-for-nursing-homes.webp "Print advertising illustration for nursing homes")
 
 According to [Neilson](https://www.nielsen.com/us/en/insights/article/2014/todays-empowered-shopper-and-opportunities-to-reach-them/), an information data and measurement firm, print is still the largest contributor to customer engagement.
 
@@ -165,7 +165,7 @@ Here are some types of print advertising:
 
 ## Local SEO
 
-![Local SEO illustration for nursing homes](/assets/images/6-local-seo-for-nursing-homes.jpg "Local SEO illustration for nursing homes")
+![Local SEO illustration for nursing homes](/assets/images/6-local-seo-for-nursing-homes.webp "Local SEO illustration for nursing homes")
 
 According to Pew Research Center, [83% of adult](https://www.pewresearch.org/internet/2009/06/11/the-social-life-of-health-information/) internet users search online for health information. Which makes Local SEO a no-brainer strategy for your facility.
 
@@ -173,19 +173,19 @@ SEO stands for search engine optimization. SEO strategy aims to build a strong o
 
 Local SEO however, is more focused on making your facility location visible to the searchers. For example, if your target audience searches “Nursing home near me”, it would be a missed opportunity for your business to not show up in the search result:
 
-![Local SEO example for nursing homes](/assets/images/nursing-home-marketing-local-seo.png "Local SEO example for nursing homes")
+![Local SEO example for nursing homes](/assets/images/nursing-home-marketing-local-seo.webp "Local SEO example for nursing homes")
 
 Many healthcare centers are taking advantage of local SEO to appear in the top search results. Being on the top page means you’ll have more chances of acquiring residents and driving customers to your location.
 
 ## Pay Per Click Advertising
 
-![Pay Per Click Advertising illustration for nursing homes](/assets/images/7-pay-per-click-advertising-for-nursing-homes.jpg "Pay Per Click Advertising illustration for nursing homes")
+![Pay Per Click Advertising illustration for nursing homes](/assets/images/7-pay-per-click-advertising-for-nursing-homes.webp "Pay Per Click Advertising illustration for nursing homes")
 
 PPC (Pay Per Click) is a digital advertising strategy that aims to attract customers using paid online clicks. When someone clicks on your ad, your account is charged for that click. A good example of this strategy is Google’s Adwords platform.
 
 Google Adwords allows you to appear in the search results when someone searches for a query that relates to your nursing home. For example, if someone looks up the phrase “Nursing home near me”, your ad will appear on the top result.
 
-![Pay Per Click example for nursing homes](/assets/images/nursing-home-marketing-ppc.png "Pay Per Click example for nursing homes")
+![Pay Per Click example for nursing homes](/assets/images/nursing-home-marketing-ppc.webp "Pay Per Click example for nursing homes")
 
 The difference between this strategy and local SEO is that when you’re paying to be on the top result, you’re more or less guaranteed to appear within the top search results. In addition to that, you can pick and choose which queries you want to rank for.
 
@@ -193,7 +193,7 @@ This strategy is comparatively cheaper than traditional TV/Media advertising and
 
 ## Sponsor a community event
 
-![Event Marketing illustration for nursing homes](/assets/images/8-event-marketing-for-nursing-homes.jpg "Event Marketing illustration for nursing homes")
+![Event Marketing illustration for nursing homes](/assets/images/8-event-marketing-for-nursing-homes.webp "Event Marketing illustration for nursing homes")
 
 According to Bizzabo tech company, 85% of executives and senior managers believe that in-person events are essential to their company’s success.
 
@@ -203,7 +203,7 @@ Educational events about nursing homes and how they benefit the local community 
 
 ## Youtube advertising
 
-![Youtube Advertising illustration for nursing homes](/assets/images/9-youtube-advertising-for-nursing-homes.jpg "Youtube Advertising illustration for nursing homes")
+![Youtube Advertising illustration for nursing homes](/assets/images/9-youtube-advertising-for-nursing-homes.webp "Youtube Advertising illustration for nursing homes")
 
 Youtube is the world’s second most popular website, attracting [2 billion visitors](https://www.youtube.com/intl/en-GB/about/press/) a month. This surge of popularity makes it an undeniably valuable place for healthcare facilities to advertise on.
 

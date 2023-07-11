@@ -1,18 +1,18 @@
 +++
 author = "Sara Seirawan"
-authorAvatarBottom = "/assets/images/ss-1.jpg"
-authorAvatarTop = "/assets/images/s.jpg"
+authorAvatarBottom = "/assets/images/ss-1.webp"
+authorAvatarTop = "/assets/images/s.webp"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-marketing"
 date = 2020-12-22T23:00:00Z
 description = "This guide contains new healthcare planning strategies, why it's important, examples, traps to avoid, and all you need."
-featImg = "/assets/images/feautre-2.jpg"
-featImgThumb = "/assets/images/feautre-2.jpg"
+featImg = "/assets/images/feautre-2.webp"
+featImgThumb = "/assets/images/feautre-2.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "8"
 slug = "/healthcare-strategic-planning"
-socialThumbnail = "/assets/images/feautre-2.jpg"
+socialThumbnail = "/assets/images/feautre-2.webp"
 table_of_content = ["what-is-strategic-planning-in-healthcare", "the-benefit-of-strategic-planning-in-healthcare", "3-common-mistakes-when-implementing-healthcare-strategic-planning", "best-healthcare-planning-strategies-with-examples", "the-secret-to-a-fruitful-healthcare-strategic-plan"]
 title = "Strategic Planning In Healthcare: 2023 Guide + Examples"
 twitterHandle = "/@SlimanBaghouri"
@@ -37,7 +37,7 @@ Here’s a brief outline of what I’ll cover:
 
 ## What is strategic planning in healthcare?
 
-![what is strategic planning in healthcare](/assets/images/1-what-is-strategic-planning-in-healthcare-1.jpg "what is strategic planning in healthcare")
+![what is strategic planning in healthcare](/assets/images/1-what-is-strategic-planning-in-healthcare-1.webp "what is strategic planning in healthcare")
 
 Strategic planning in healthcare is setting long-term objectives for your medical business and an action plan to hit your target goals. It’s about taking a proactive approach to building a future-proof medical brand.
 
@@ -49,7 +49,7 @@ With a good strategic approach comes great advantages for your medical business.
 
 ### 1) It protect your medical business from unforeseen risks
 
-![importance of strategic planning in healthcare is to protect your medical business from unforeseen risks](/assets/images/2-1-healthcare-strategic-planning-importance.jpg "importance of strategic planning in healthcare is to protect your medical business from unforeseen risks")
+![importance of strategic planning in healthcare is to protect your medical business from unforeseen risks](/assets/images/2-1-healthcare-strategic-planning-importance.webp "importance of strategic planning in healthcare is to protect your medical business from unforeseen risks")
 
 With the Covid-19 situation, healthcare providers no longer can afford to function reactively. And this is where SP (strategic planning) comes into place. SP, by nature, is a proactive approach. It is focused on long-term goals and future-oriented planning.
 
@@ -67,14 +67,14 @@ This enhanced workflow will accelerate the rate at which your medical business g
 
 The next graph illustrates how business growth rate correlates with operational efficiency.
 
-![Growth rate as it relates to your operational performance](/assets/images/2-2-healthcare-strategic-planning-importance.jpg "Growth rate as it relates to your operational performance")
+![Growth rate as it relates to your operational performance](/assets/images/2-2-healthcare-strategic-planning-importance.webp "Growth rate as it relates to your operational performance")
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
 ### 3) It creates a cohesive workplace for your medical business
 
-![illustration that explains the cohesiveness of your workplace](/assets/images/2-3-healthcare-strategic-planning-importance.jpg "illustration that explains the cohesiveness of your workplace")
+![illustration that explains the cohesiveness of your workplace](/assets/images/2-3-healthcare-strategic-planning-importance.webp "illustration that explains the cohesiveness of your workplace")
 
 Medical businesses routinely separate functions to hierarchical levels to achieve efficiencies, However...
 
@@ -90,7 +90,7 @@ To combat this, putting a strategic vision for your business ensures cohesivenes
 
 ### 4) It increases your profit margin
 
-![illustration that shows an increased in profit margin as result of strategic planning in healthcare](/assets/images/2-4-healthcare-strategic-planning-importance.jpg "illustration that shows an increased in profit margin ")
+![illustration that shows an increased in profit margin as result of strategic planning in healthcare](/assets/images/2-4-healthcare-strategic-planning-importance.webp "illustration that shows an increased in profit margin ")
 
 Great medical business owners aim for the stars and land on the moon. And this is what makes strategic financial planning great. It forces you to aim high. This kind of planning breaks the chains of the self-limiting beliefs that are preventing you and your staff from achieving a higher rate of profit margins.
 
@@ -110,7 +110,7 @@ Does your strategy align perfectly with your brand’s core attribute? Does this
 
 If you’d like to learn more about brand building and how can you build a mouth-watering brand, you can check our free [healthcare branding guide](https://unnus.com/medical/healthcare-branding).
 
-![illustrations explains importance of branding in strategic healthcare planning](/assets/images/3-1-strategic-planning-in-healthcare-common-mistakes.PNG "illustrations explains importance of branding in strategic healthcare planning")
+![illustrations explains importance of branding in strategic healthcare planning](/assets/images/3-1-strategic-planning-in-healthcare-common-mistakes.webp "illustrations explains importance of branding in strategic healthcare planning")
 
 ### 2) Focusing on too many metrics and KPIs
 
@@ -130,7 +130,7 @@ Let’s go through some of the essentials of strategic planning methods in healt
 
 ### 1) S.W.O.T Analysis Strategy
 
-![Healthcare Planning Strategies SWOT Analysis example](/assets/images/4-2-strategic-planning-in-healthcare-examples.png "Healthcare Planning Strategies SWOT Analysis example")
+![Healthcare Planning Strategies SWOT Analysis example](/assets/images/4-2-strategic-planning-in-healthcare-examples.webp "Healthcare Planning Strategies SWOT Analysis example")
 
 S.W.O.T is a strategic planning technique used to define your healthcare organization’s (or practice’s) **Strengths**, **Weaknesses**, **Opportunities**, and **Threats** in the competitive landscape.
 
@@ -140,17 +140,17 @@ Let’s see some examples of SWOT Diagrams in healthcare.
 
 ### Hospital strategic plan: SWOT example
 
-![](/assets/images/hospital-swot-analysis-example.jpg)
+![](/assets/images/hospital-swot-analysis-example.webp)
 
 ### Strategic planning in nursing: SWOT Example
 
-![](/assets/images/swot-analysis-for-nurses.jpg)
+![](/assets/images/swot-analysis-for-nurses.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
 ### 2) S.W.O.T Strategy Canvas™
 
-![](/assets/images/swot-strategy-canvas-graph.jpg)
+![](/assets/images/swot-strategy-canvas-graph.webp)
 
 SWOT Analysis is not enough to measure the success of your efforts.
 
@@ -164,7 +164,7 @@ If you’d like to know more about the how-tos and other details of SWOT analysi
 
 ### 3) Brand Vision Strategy
 
-![Healthcare strategic planning example - brand vision strategy illustration](/assets/images/4-2-strategic-planning-in-healthcare-examples-jpg.jpg "Brand vision strategy")
+![Healthcare strategic planning example - brand vision strategy illustration](/assets/images/4-2-strategic-planning-in-healthcare-examples-jpg.webp "Brand vision strategy")
 
 Brand Vision Strategy is a planning method used to define concrete objectives for your medical brand and set up trackable metrics for the overarching vision.
 
@@ -196,7 +196,7 @@ This exercise will force you to think through some of the key elements that make
 
 Here’s an example of this technique from our client, a dental practice Confidental™.
 
-![Healthcare strategic planning example - brand vision strategy illustration](/assets/images/persona-obituary-1.jpg "Healthcare brand obituary strategy")  
+![Healthcare strategic planning example - brand vision strategy illustration](/assets/images/persona-obituary-1.webp "Healthcare brand obituary strategy")  
 **#Third\~ Brand Vision Matrix**
 
 In this stage, we get strategic by defining a set of metrics to track and check back against your overarching vision. This stage focuses on tracking and measuring your progress towards the final goal of the strategy.
@@ -221,13 +221,12 @@ Each category will contain the following:
 
 Here’s an example of a hospital’s Brand Vision Matrix:
 
-![](/assets/images/4-8-strategic-planning-in-healthcare-examples.jpg)
+![](/assets/images/4-8-strategic-planning-in-healthcare-examples.webp)
 
-[Click here](https://miro.com/app/board/o9J_la9q6Lc=/) for larger version.
 
 ### 4) Brand Cause And Effect Strategy
 
-![Healthcare strategic planning example - cause and effect strategy in healthcare illustration](/assets/images/4-3-strategic-planning-in-healthcare-examples.jpg "Brand Cause And Effect Strategy")
+![Healthcare strategic planning example - cause and effect strategy in healthcare illustration](/assets/images/4-3-strategic-planning-in-healthcare-examples.webp "Brand Cause And Effect Strategy")
 
 This strategy helps you pinpoint the root causes of complex problems that are hindering your business growth. The premise of this strategy is to take on a big problem and start dissecting it into categorical components or “sub issues”.
 
@@ -241,11 +240,11 @@ The benefits of this strategy are:
 
 Here's an example for this strategic planning technique for a hospital
 
-![healthcare strategic planning example for a hospital](/assets/images/4-9-strategic-planning-in-healthcare-examples.jpg "Example of cause and effect in healthcare")
+![healthcare strategic planning example for a hospital](/assets/images/4-9-strategic-planning-in-healthcare-examples.webp "Example of cause and effect in healthcare")
 
 ### 5) Patient Journey Strategy
 
-![Healthcare strategic planning example - Patient Journey Strategy illustration](/assets/images/4-4-strategic-planning-in-healthcare-examples.jpg "Patient Journey Strategy Illustration")
+![Healthcare strategic planning example - Patient Journey Strategy illustration](/assets/images/4-4-strategic-planning-in-healthcare-examples.webp "Patient Journey Strategy Illustration")
 
 The patient journey strategy (PJS) is a visual representation strategy of your patient's experience. It allows you to capture the path that a patient follows when they book an appointment, sign up for a care service membership, or otherwise interact with your medical business.
 
@@ -264,12 +263,12 @@ Some of the benefits of using this strategy are:
 
 Here’s a snapshot of a patient journey of medical practice and how the team identified potential issues and problems
 
-![Healthcare strategic planning example - patient journey example](/assets/images/4-10-strategic-planning-in-healthcare-examples.jpg "example of patient journey ")  
+![Healthcare strategic planning example - patient journey example](/assets/images/4-10-strategic-planning-in-healthcare-examples.webp "example of patient journey ")  
 Click here for to [larger version](https://miro.com/app/board/o9J_laHx8CE=/).
 
 ### 6) Risk Assessment Matrix Framework
 
-![Healthcare strategic planning - Risk assessment matrix framework ](/assets/images/4-5-strategic-planning-in-healthcare-examples.jpg "Risk assessment matrix framework illustration")
+![Healthcare strategic planning - Risk assessment matrix framework ](/assets/images/4-5-strategic-planning-in-healthcare-examples.webp "Risk assessment matrix framework illustration")
 
 The Risk Assessment Matrix creates a framework where you can assess the urgency and the likelihood of any potential threat that might affect your business.
 
@@ -279,13 +278,13 @@ Risks in this framework should be ranked according to low probability and severi
 
 Here’s an example of this framework:
 
-![healthcare planning strategy - Risk Assessment Matrix](/assets/images/4-11-strategic-planning-in-healthcare-examples.jpg "healthcare planning strategy - Risk Assessment Matrix")
+![healthcare planning strategy - Risk Assessment Matrix](/assets/images/4-11-strategic-planning-in-healthcare-examples.webp "healthcare planning strategy - Risk Assessment Matrix")
 
 You can access the full version [here](https://miro.com/app/board/o9J_laHB1Ec=/).
 
 ### 7) OKR (Objectives & Key Results) Framework
 
-![Healthcare strategic planning - Objectives & Key Results Strategy ](/assets/images/4-6-strategic-planning-in-healthcare-examples.jpg "Healthcare strategic planning - Objectives & Key Results Strategy ")
+![Healthcare strategic planning - Objectives & Key Results Strategy ](/assets/images/4-6-strategic-planning-in-healthcare-examples.webp "Healthcare strategic planning - Objectives & Key Results Strategy ")
 
 OKRs stands for Objectives & Key Results. An OKR framework helps medical businesses solve their critical organizational problems. As a framework, OKRs also help healthcare leadership teams discuss how the work of the staff **ties back** to the overall business strategy.
 
@@ -297,7 +296,7 @@ OKRs should be transparent to everyone: top-down, bottom-up, and cross-functiona
 
 ### 8) Brand Prioritization Framework
 
-### ![Healthcare Strategic Planning - Brand Prioritization Framework Illustration](/assets/images/4-7-strategic-planning-in-healthcare-examples.jpg "Healthcare Strategic Planning - Brand Prioritization Framework Illustration")
+### ![Healthcare Strategic Planning - Brand Prioritization Framework Illustration](/assets/images/4-7-strategic-planning-in-healthcare-examples.webp "Healthcare Strategic Planning - Brand Prioritization Framework Illustration")
 
 The Brand Prioritization Framework (BPF), or priority matrix, helps your medical teams prioritize initiatives or service lines based on their **impact** on your medical brand and the level of **effort** needed for success.
 
@@ -307,7 +306,7 @@ As a visual framework, the Brand Prioritization Framework helps you promptly rea
 
 An example of the BPF for might be:
 
-![Healthcare planning strategy - Brand Prioritization Framework Example](/assets/images/4-12-strategic-planning-in-healthcare-examples.jpg "healthcare planning strategy - Brand Prioritization Framework  Example")
+![Healthcare planning strategy - Brand Prioritization Framework Example](/assets/images/4-12-strategic-planning-in-healthcare-examples.webp "healthcare planning strategy - Brand Prioritization Framework  Example")
 
 You can access a large resolution [here](https://miro.com/app/board/o9J_laHJ46w=/).
 
@@ -315,6 +314,6 @@ You can access a large resolution [here](https://miro.com/app/board/o9J_laHJ46w=
 
 A great healthcare strategy is always directed by the brand’s attributes. A strategic plan won’t take any business anywhere if it is not guided by your branding strategy.
 
-A planning strategy could potentially hurt your healthcare brand equity (your perceived worth) if it veers off from your brand’s [positioning in the market]( "https://unnus.com/medical/healthcare-marketing/"). If you’d like to learn more about branding in healthcare and how it can overhaul your strategic plan, you can check our guide [here](https://unnus.com/medical/healthcare-branding).
+A planning strategy could potentially hurt your healthcare brand equity (your perceived worth) if it veers off from your brand’s [positioning](https://unnus.com/medical/healthcare-marketing/). If you’d like to learn more about branding in healthcare and how it can overhaul your strategic plan, you can check our guide [here](https://unnus.com/medical/healthcare-branding).
 
 If you’re busy and looking for great healthcare brand strategy facilitators, [contact us here](https://unnus.com/contact/) and we’d gladly help you.

@@ -1,12 +1,12 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies"
 date = 2021-04-24T23:00:00Z
 downloads = "https://drive.google.com/drive/folders/188lVeEiQ1NtOv52jTuiH1EBx4j2VhEY1?usp=sharing"
-featImg = "/assets/images/0.jpg"
-featImgThumb = "/assets/images/0.jpg"
+featImg = "/assets/images/0.webp"
+featImgThumb = "/assets/images/0.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "email/single.html"
 readingTime = "8"
@@ -63,21 +63,21 @@ What Messages are perceived by the neocortex, the part of the brain that’s res
 
 However, when it comes to healthcare, the decision size is much bigger and trust is needed for patients to choose the provider.
 
-![](/assets/images/trust-of-buying-decision.jpg)
+![](/assets/images/trust-of-buying-decision.webp)
 
 In such serious matters, a more effective way of messaging is **Why Messages** (WYM): Messages that are trust-signaling and carry a high sense of purpose.
 
 And because Why Messages are emotional and speak directly to our limbic system, the part of the brain that’s responsible for emotional responses, they are **10x** more impactful in attracting people.
 
-![](/assets/images/why-messaging-and-limbic-system.png)
+![](/assets/images/why-messaging-and-limbic-system.webp)
 
 ## Examples of Why Messages VS What Messages
 
 Here are some examples of feature-driven messages vs meaningful messages:
 
-![](/assets/images/3.jpg)
+![](/assets/images/3.webp)
 
-![](/assets/images/4.jpg)
+![](/assets/images/4.webp)
 
 ## Brand DNA Workshop
 
@@ -116,7 +116,7 @@ Let’s start.
 
 ### #\~Step 1) brainstorming the Why:
 
-![](/assets/images/5.png)
+![](/assets/images/5.webp)
 
 On the Why circle, you and your team try to think as to why the brand has come to fruition. What’s the purpose behind its existence and why should people care?
 
@@ -167,7 +167,7 @@ This is the easiest part of the exercise. Here, we try to lay down all of your s
 
 After you finished, your board will look like this:
 
-![](/assets/images/6.jpg)
+![](/assets/images/6.webp)
 
 Now that you have a strong idea of your brand, move on to the next exercise where you will consolidate your understanding.
 
@@ -183,7 +183,7 @@ Each participant will have a blank paper where he or she can write down the cred
 
 Here’s the basic template of a Brand Credo:
 
-![](/assets/images/7.png)
+![](/assets/images/7.webp)
 
 Take 10-15 minutes and let the participant write their version of the credo. To help you write one here are some tips:
 
@@ -195,7 +195,7 @@ Take 10-15 minutes and let the participant write their version of the credo. To 
 
 Here are some examples for inspirations:
 
-![](/assets/images/8.jpg)  
+![](/assets/images/8.webp)  
 After you finish writing the credo, using the red voting above the exercise in miro, vote for what you think is the best credo that truly represents the brand.
 
 Each participant vote counts as 1 point while the founder/owner’s vote counts as 2 points.
@@ -204,7 +204,7 @@ The highest-rated credo is the winner.
 
 ## 3) Brand Pillars ⏰ \[10-20 minute\]
 
-![](/assets/images/9.png)  
+![](/assets/images/9.webp)  
 In this exercise, you’re going to jot down your Brand’s Pillars. Brand Pillars are a set of guiding principles that shape every aspect of your business. They're placed at the very core of your brand and are there to dictate your brand message, identity, and personality.
 
 These pillars will stem from your brand’s credo. The goal here is to reduce the philosophy of your credo to one or two words so we end up with a shorter & purified version.
@@ -229,7 +229,7 @@ The highest-rated principal will be considered a Brand Pillar.
 
 Your result should end up something like this:
 
-![](/assets/images/10.jpg)
+![](/assets/images/10.webp)
 
 **_Important_**_: again, try to avoid the generic use of common values like honesty, quality, accountability, and so on. While these values are admirable, they are overused and do not differentiate your brand. If one of them is truly one of your brand’s beliefs, that’s okay to add it. But that should be the exception rather than the rule._
 
@@ -249,7 +249,7 @@ Let’s start.
 
 ### **#\~Step 1) Future Brand Timeline:**
 
-![](/assets/images/11-5.png)
+![](/assets/images/11-5.webp)
 
 On the branding workshop, move on to the Future Brand Timeline and follow the next 3 steps:
 
@@ -261,13 +261,13 @@ On the branding workshop, move on to the Future Brand Timeline and follow the ne
 2. Next, in the aspiration field, Take 5 minutes to write down your ultimate aspiration. If it all goes right, how will you impact the field you’re in? Here you can use superlatives like “The world’s (safest, most loved, most convenient…)”
 3. Finally, define your ideal future state — your final destination or desired end state. What would the world look like if this problem was solved? If you were successful in what you do, how will your medical brand change its community? (make it simple and concrete, and avoid any jargon)
 
-![](/assets/images/11.jpg)
+![](/assets/images/11.webp)
 
 Share and discuss the notes and the writing with your team and move on to the next part of the exercise.
 
 ### #\~Step 2) Future Vision Statement:
 
-![](/assets/images/12.png)
+![](/assets/images/12.webp)
 
 Here we’re going to formulate a vision statement for the brand using the findings from Future Brand Timeline.
 
@@ -279,7 +279,7 @@ After you brainstorm as many statements as possible, participants should use the
 
 The highest-ranked statement is the winner.
 
-![](/assets/images/13.png)
+![](/assets/images/13.webp)
 
 ## 5) Brand Obituary ⏰ \[15-25 minute\]
 
@@ -305,7 +305,7 @@ Each participant should think of themselves as the journalist who has to report 
 
 Much like writing the brand credo, each team member will have a paper to write down the obituary.
 
-![](/assets/images/14.png)
+![](/assets/images/14.webp)
 
 Things you need to include in the obituary:
 
@@ -319,7 +319,7 @@ Things you need to include in the obituary:
 
 At the end of the exercise, discuss each other’s obituary and see what insights you can gather about your brand.
 
-![](/assets/images/15.jpg)
+![](/assets/images/15.webp)
 
 ## End the workshop ⏰ \[5-8 minute\]
 

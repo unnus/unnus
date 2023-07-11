@@ -4,7 +4,7 @@ description = "Today Dr. Wortz share with us the importance of personal branding
 episodeIframe = "https://open.spotify.com/embed-podcast/episode/2lN20AGT2tUYUSJBn2sLQx"
 guest = "Dr. Gary Wortz"
 guestContact = ["Follow him on Twitter=twitter.com/cataractmd", "Omega Ophthalmics website=omegaophthalmics.com", "Visit commonwealtheyes's website=commonwealtheyes.com/"]
-guestPicture = "/assets/images/garywortz.jpg"
+guestPicture = "/assets/images/garywortz.webp"
 guestResources = ["Tune in to his podcast Ophthalmology off the Grid=eyetube.net/podcasts/ophthalmology-off-the-grid", "Visit interventional mindset website=interventionalmindset.com", "Listen to Interventional Mindset podcast =anchor.fm/interventional-mindset/episodes/What-is-the-Interventional-Mindset-all-about-el8gui", "Dr Wortz's laser refractive cataract calculator=lricalc.com"]
 page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/2lN20AGT2tUYUSJBn2sLQx?si=I4umgAnXRmOjZv3h4LOX8w", "https://podcasts.apple.com/dz/podcast/personal-branding-for-doctors-with-dr-gary-wortz/id1545378762?i=1000506655681", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/M2VkMzkzNDEtYmJjMC00MGVhLWE2OGYtNjk1NTliMjA2Yzll?sa=X&ved=0CA0QkfYCahcKEwjQzsqX3cDuAhUAAAAAHQAAAAAQAQ"]

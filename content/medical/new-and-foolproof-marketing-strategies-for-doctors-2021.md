@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2021-01-20T23:00:00Z
 description = "Are you bored with the \"be on social media\" advice? This article outlines new & powerful marketing ideas for doctors."
-featImg = "/assets/images/featured-5.jpg"
-featImgThumb = "/assets/images/featured-5.jpg"
+featImg = "/assets/images/featured-5.webp"
+featImgThumb = "/assets/images/featured-5.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "8"
 slug = "/marketing-for-doctors"
-socialThumbnail = "/assets/images/featured-5.jpg"
+socialThumbnail = "/assets/images/featured-5.webp"
 table_of_content = ["personal-brand-strategy-for-doctors", "storytelling-strategy", "launching-your-medical-podcast-show", "podcast-tours-strategy", "sales-funnel-for-doctors", "online-marketing-for-doctors-inbound-marketing", "doctor-office-advertising-outbound-marketing", "creating-an-email-autoresponder-strategy", "positioning-strategy-for-doctors", "generate-patients-with-published-articles", "how-much-should-a-medical-practice-spend-on-marketing", "what-is-the-best-way-to-market-a-doctors-office", "how-to-build-a-marketing-plan-for-medical-practice", "why-is-marketing-important-for-doctors", "the-secret-to-medical-practice-marketing"]
 title = "New (And Foolproof) Marketing Strategies For Doctors (2023)"
 twitterHandle = "/@SlimanBaghouri"
@@ -52,7 +52,7 @@ The below strategies consist of little different but effective ways to market yo
 
 ## Personal Brand Strategy for doctors
 
-![Illustrations of personal branding for doctors](/assets/images/personal-branding-for-doctors-1.jpg "Personal Branding For Doctors")
+![Illustrations of personal branding for doctors](/assets/images/personal-branding-for-doctors-1.webp "Personal Branding For Doctors")
 
 An overabundance of “me too” care services and DIY products are commoditizing the healthcare industry. And as of 2021, the competition is surging faster than it ever has been. For these reasons and many others, not having a unique personal brand is the same as being invisible.
 
@@ -82,7 +82,7 @@ Building a personal brand is not about harvesting social media followers and tra
 
 ## Storytelling strategy
 
-![A diagram of storytelling strategy in healthcare](/assets/images/1-storytelling-diagram.jpg "Storytelling strategy")
+![A diagram of storytelling strategy in healthcare](/assets/images/1-storytelling-diagram.webp "Storytelling strategy")
 
 Imagine what you want to say to your ideal patient goes through intact - crystal clear and potent? **What if your messages are perceived straight into people's brains without distortion, noise, or the need to think too much about it?** Brand Storytelling Strategy shrinks the "psychic distance” between your medical business and your ideal patient so that a relationship can begin to develop.
 
@@ -96,11 +96,11 @@ If you’d like to see examples and step-by-step processes for this strategy, vi
 
 ## Launching your medical podcast show
 
-![An illustrations that shows podcasting strategy for medical doctors](/assets/images/podcasting-for-doctors.jpg "Podcasting for doctors")
+![An illustrations that shows podcasting strategy for medical doctors](/assets/images/podcasting-for-doctors.webp "Podcasting for doctors")
 
 Podcasting is booming right now. [With 1 out of every 5 adults](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf) in the USA listening to podcasts regularly:
 
-![A podcast graph ](/assets/images/podcast-stats-1.jpg "Podcast statistics ")  
+![A podcast graph ](/assets/images/podcast-stats-1.webp "Podcast statistics ")  
 Launching your medical show will take your medical business to the next level. According to [Dr. Ernesto](https://unnus.com/podcast/season-one/healthcare-entrepreneurship/), Founder of PGFormula, podcasting is the easiest medium for doctors to start marketing their practice and attract new patients.
 
 ### #\~Advantages of launching your medical podcast
@@ -117,7 +117,7 @@ Launching your medical show will take your medical business to the next level. A
 
 ## Podcast Tours Strategy
 
-![illustrations that shows guest podcasting for doctors](/assets/images/guest-podcasting-for-doctors.jpg "Podcast Tours Strategy")
+![illustrations that shows guest podcasting for doctors](/assets/images/guest-podcasting-for-doctors.webp "Podcast Tours Strategy")
 
 Another alternative to creating your show is to be a guest on other podcasts. It takes little to no time to get a great amount of exposure to you and your business.
 
@@ -134,7 +134,7 @@ If you’d like a step-by-step guide on how to pitch your episode to other medic
 
 ## Sales funnel for doctors
 
-![An illustrations of a sales funnel for medical doctors](/assets/images/sales-funnel-for-doctors-1.jpg "Sales funnel for doctors")
+![An illustrations of a sales funnel for medical doctors](/assets/images/sales-funnel-for-doctors-1.webp "Sales funnel for doctors")
 
 A Sale funnel is a potent strategy for passive [patient acquisition](https://unnus.com/medical/healthcare-marketing/). The strategy optimizes the journey potential patients go through on the way to purchase your services.
 
@@ -151,7 +151,7 @@ The journey this strategy tracks and optimizes for are:
 
 Here's basic example of sales funnel:
 
-![An example of a sales funnel for doctors](/assets/images/sales-funnel-in-healthcare-1.jpg "An example of a sales funnel for doctors")
+![An example of a sales funnel for doctors](/assets/images/sales-funnel-in-healthcare-1.webp "An example of a sales funnel for doctors")
 
 ### Advantages of Creating a sales funnel
 
@@ -168,7 +168,7 @@ If you’d like to see another example of this strategy in action, [jump to this
 
 ## Online marketing for doctors (inbound marketing)
 
-![An illustration that shows online marketing for doctors](/assets/images/inbound-marketing-for-doctors.jpg "Online marketing strategy")
+![An illustration that shows online marketing for doctors](/assets/images/inbound-marketing-for-doctors.webp "Online marketing strategy")
 
 Inbound marketing is a strategy for drawing patients to your services via content marketing, social media, and search traffic. The goal of this strategy is to educate your patients through your online content and build rapport from the get-go.
 
@@ -193,11 +193,11 @@ The great news is that you only have to pick one and stick to it. Staying consis
 
 If you’re wondering which one is best for you, here’s a diagram that categorizes all strategies depending on impact/difficulty
 
-![](/assets/images/marketing-strategy-diagram-1.jpg)
+![](/assets/images/marketing-strategy-diagram-1.webp)
 
 ## Doctor office advertising (outbound marketing)
 
-![Illustration that shows advertising strategy](/assets/images/outbound-marketing.jpg "Office advertising strategy")
+![Illustration that shows advertising strategy](/assets/images/outbound-marketing.webp "Office advertising strategy")
 
 Outbound marketing is any effort that aims to market your medical office using paid advertising and promotional ads. Unlike the previous strategy, this one is more geared towards paid ads.
 
@@ -217,11 +217,11 @@ The following is a list of advertising methods you can choose to promote your of
 
 Again, we’ve made a diagram for you to make it easy to choose between all these options:
 
-![](/assets/images/marketing-strategy-diagram-2.jpg)
+![](/assets/images/marketing-strategy-diagram-2.webp)
 
 ## Creating an email autoresponder strategy
 
-![illustration that shows email marketing strategy for doctors](/assets/images/email-marketing-for-doctors.jpg "Email Autoresponder Strategy in healthcare")
+![illustration that shows email marketing strategy for doctors](/assets/images/email-marketing-for-doctors.webp "Email Autoresponder Strategy in healthcare")
 
 This strategy revolves around creating an email course by sending a premade sequence of emails to your email subscribers as a form of lessons.
 
@@ -235,7 +235,7 @@ At this point, you helped them with useful information and built trust with them
 
 The following is an illustration that shows how your potential patients move through this mini-sales funnel:
 
-![](/assets/images/email-marketing-chiropractors.jpg)
+![](/assets/images/email-marketing-chiropractors.webp)
 
 ### Advantages of the email autoresponder strategy
 
@@ -251,7 +251,7 @@ If you want to start applying this strategy, here’s a great video to start:
 
 ## Positioning strategy for doctors
 
-![Illustration that shows positioning for doctors](/assets/images/positioning-strategy.jpg "Positioning for doctors")
+![Illustration that shows positioning for doctors](/assets/images/positioning-strategy.webp "Positioning for doctors")
 
 Positioning strategy aims to single your practice out of the sea of sameness. It’s a strategy based on differentiation and breaking through the clutter.
 
@@ -263,7 +263,7 @@ If you’d like to get the step-by-step process for positioning in healthcare, c
 
 ## Generate patients with published articles
 
-![Illustration shows generating patients with blogging for doctors](/assets/images/guest-posting-for-doctors.jpg "Generating patients with published articles")
+![Illustration shows generating patients with blogging for doctors](/assets/images/guest-posting-for-doctors.webp "Generating patients with published articles")
 
 This strategy focuses on writing health-related articles in your field and publishing them in high traffic healthcare digital magazines. After your article is published on these websites, the goal is to redirect their readers (would-be patients) to your website where they can book an appointment with you. With just one article, you’ve managed to drive thousands of potential patients to your websites.
 
@@ -278,11 +278,11 @@ A simple step-by-step process goes like this:
 
 Examples of this strategy come from Dr. Marchbanks and his published article on The Blogging Doctors.
 
-![Picture of guest blogging for doctors](/assets/images/published-articles-1.jpg "Example of generating patients with articles")
+![Picture of guest blogging for doctors](/assets/images/published-articles-1.webp "Example of generating patients with articles")
 
 That links lead to a page where readers can book an appointment
 
-![Picture of a booking page](/assets/images/published-articles-2.jpg "Picture of a booking page")
+![Picture of a booking page](/assets/images/published-articles-2.webp "Picture of a booking page")
 
 ### **#\~Advantages of publishing articles in digital magazines**
 

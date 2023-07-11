@@ -1,17 +1,17 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
 downloads = "https://drive.google.com/drive/folders/15dSZ2tscYman0XKtwArY3Egblpnw9M6t?usp=sharing"
-featImg = "/assets/images/0-2.jpg"
-featImgThumb = "/assets/images/0-2.jpg"
+featImg = "/assets/images/0-2.webp"
+featImgThumb = "/assets/images/0-2.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
 slug = "brand-persona"
-socialThumbnail = "/assets/images/0-2.jpg"
+socialThumbnail = "/assets/images/0-2.webp"
 table_of_content = ["do-patients-identify-with-you", "how-humane-is-your-medical-brand", "brand-persona-workshop", "1-brand-archetypal-mix-exercise--15-25-minute", "2-brand-commitment-matrix-exercise--15-25-minute", "3-brand-voice-exercise--15-25-minute", "4-brand-tone-projection-exercise--15-25-minute", "5-brand-interview-exercise--15-25-minute", "end-the-brand-persona-workshop--5-8-minute"]
 title = "Lesson 3) Brand Persona Workshop: Humanizing Your Medical Brand"
 twitterHandle = "/@SlimanBaghouri"
@@ -101,11 +101,11 @@ To create a match between your brand’s traits and your target audience’s bel
 
 An archetype is a typical character that represents universal patterns of human nature. These characters represent our core desires and aspirations. According to Jung, there are twelve archetypes:
 
-_![](/assets/images/1.jpg)_
+_![](/assets/images/1.webp)_
 
 Archetypes, Jung suggested, were inborn tendencies that play a role in influencing human behavior. Archetypes are widely used in books, movies, and branding. For example, Yoda is the **Sage** in Star Wars. Indiana Jones is the **Explorer**, and Maximus is the **Hero** in the Gladiator.
 
-![](/assets/images/2.jpg)
+![](/assets/images/2.webp)
 
 As you can see, each one of us has core desires and an archetype that represents them.
 
@@ -127,7 +127,7 @@ We’ll go over some examples to further illustrate these concepts, but now let�
 
 ### 🔴 Action Step: Define your archetypal mix:
 
-![](/assets/images/3.png)
+![](/assets/images/3.webp)
 
 On the brand archetype wheel, identify the core desires of your target audience, and based on that, think about what role your brand plays in their lives.
 
@@ -140,7 +140,7 @@ To define your brand archetype, follow the next steps:
 
 When you are deciding on an archetype try to ask yourself “What’s the ulterior motive for our patient to visit us?” Try to dig deeper to pinpoint the reason for patients to get treated by you. For example, if you're a cosmetic dental practice, don’t settle for answers like “to fix their crooked teeth”. Crooked teeth are the surface-level cause. What the patient desires are to eradicate self-consciousness and be more confident in their dental appearance.
 
-![](/assets/images/4-1.png)
+![](/assets/images/4-1.webp)
 
 Once you know the desire, pick an archetype that fits it.
 
@@ -158,7 +158,7 @@ For the brand, the statements will describe its PURPOSE (why we exist), its ONLY
 
 The statements in each column should line up horizontally: patient's identity and your brand’s purpose should align; patient aims and your services “onlyness” (differentiator) should support each other, and mores and brand values should be in sync.
 
-![](/assets/images/5-1.png)
+![](/assets/images/5-1.webp)
 
 ### 🔴 Action Step: Fill in the Brand Commitment Matrix
 
@@ -175,7 +175,7 @@ After that move on to the next steps:
    * For the **ONLYNESS**: Here you write down your onliness statement that you’ve created in the second lesson Brand Differentiation Worksop
    * For the **VALUES**: Here you write down your brand’s pillar and how they correlate with your audience's mores.
 
-![](/assets/images/6-1.png)
+![](/assets/images/6-1.webp)
 
 Once you’re done, move on to the next exercise where we dive into part 2 of this workshop and that’s the Brand Persona.
 
@@ -193,43 +193,43 @@ Let’s see some good examples of brand voices so you have an idea of what a dis
 
 **#\~The Joint Chiropractic**: Their voice in social media is **laid-back**, **casual**, and **uplifting.**
 
-![](/assets/images/7-1.jpg)
+![](/assets/images/7-1.webp)
 
-![](/assets/images/8-1.jpg)
+![](/assets/images/8-1.webp)
 
 **Here’s a non-medical example of a brand’s voice.**
 
 A tongue-in-cheek billboard advert for The Economist in 1990 that sympathizes with their target audience: CEOs and company executives.
 
-![](/assets/images/9-1.jpg)
+![](/assets/images/9-1.webp)
 
 Strip away the huge salary and the executive jet, and you find much solitary misery. Even chief executives are human.
 
 The economist’s tone of voice and the message connects deeply with their audience, creating stronger bonds and loyalty for the brand.
 
-![](/assets/images/10.png)
+![](/assets/images/10.webp)
 
-![](/assets/images/12.jpg)
+![](/assets/images/12.webp)
 
 Here’s an example of the unique voice of a mobile app from The Desk Magazine. Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
 
-![](/assets/images/13-2.png)
+![](/assets/images/13-2.webp)
 
-![](/assets/images/15-1.jpg)
+![](/assets/images/15-1.webp)
 
 **#One medical,** membership-based primary care practice on a mission to make getting quality care more accessible, and enjoyable.
 
 Their voice in social media is **caring**, **warm**, and **thoughtful**
 
-![](/assets/images/17.png)
+![](/assets/images/17.webp)
 
-![](/assets/images/18.png)
+![](/assets/images/18.webp)
 
 ### 🔴 Action Step: Define your brand’s communication style
 
 Using the Brand Voice Sliders (BVS) Exercise, let’s decide on what voice your brand will claim. The BVS aims to gauge to which extent your brand is humorous, formal, respectful, enthusiastic and what attitude it has.
 
-![](/assets/images/19.png)
+![](/assets/images/19.webp)
 
 * **First**: Discuss with your team how your target patients and audience communicate and what sort of behavior they have. (you can check previous exercises for help).
 * **Second**: using the slider dots, drag each one to the left or the right depending on what manner your brand will maintain.
@@ -237,7 +237,7 @@ Using the Brand Voice Sliders (BVS) Exercise, let’s decide on what voice your 
 
 After you finish, your result will look something like this:
 
-![](/assets/images/20.png)
+![](/assets/images/20.webp)
 
 Once your brand’s voice is decided, let’s define its tones.
 
@@ -258,7 +258,7 @@ The goal is to answer the following questions:
 
 ### 🔴 Action Step: Define your brand’s tones
 
-![](/assets/images/21.png)
+![](/assets/images/21.webp)
 
 Let’s use the Tone Projections Exercise to start defining the brand’s tone of voice. After you explain to the participant the goal of the exercise move on to the action steps:
 
@@ -268,13 +268,13 @@ Let’s use the Tone Projections Exercise to start defining the brand’s tone o
 
 Here’s an example of the final result:
 
-![](/assets/images/22.png)
+![](/assets/images/22.webp)
 
 Once you’re done, it’s time to solidify your brand’s voice and get a clear picture of how your brand communicates.
 
 ## 5) Brand Interview Exercise ⏰ \[15-25 minute\]
 
-![](/assets/images/23.png)
+![](/assets/images/23.webp)
 
 This is the final exercise of this workshop. The brand Interview Exercise aims to test out the voice we’ve developed until now. It's great to flesh out the way the brand speaks.
 
@@ -292,7 +292,7 @@ Let’s see how it works.
 
 After you’re done, the final result will look something like this:
 
-![](/assets/images/24-1.jpg)
+![](/assets/images/24-1.webp)
 
 ## End the Brand Persona workshop ⏰ \[5-8 minute\]
 

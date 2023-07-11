@@ -1,18 +1,18 @@
 +++
 author = "Sara Seirawan"
-authorAvatarBottom = "/assets/images/avatar/ss.jpg"
-authorAvatarTop = "/assets/images/avatar/s.jpg"
+authorAvatarBottom = "/assets/images/avatar/ss.webp"
+authorAvatarTop = "/assets/images/avatar/s.webp"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-statistics"
 date = 2021-06-15T23:00:00Z
 description = "You’ll learn of jaw-dropping figures and facts regarding dentistry 2021 in this guide. "
-featImg = "/assets/images/dental-stat-feature.jpg"
-featImgThumb = "/assets/images/dental-stat-feature.jpg"
+featImg = "/assets/images/dental-stat-feature.webp"
+featImgThumb = "/assets/images/dental-stat-feature.webp"
 linkedinHandle = "#"
 page = "medical/single.html"
 readingTime = "9"
 slug = "/dental-facts-statistics"
-socialThumbnail = "/assets/images/dental-stat-feature.jpg"
+socialThumbnail = "/assets/images/dental-stat-feature.webp"
 table_of_content = ["weird-dental-facts", "dental-statistics-and-facts-by-demographics--ethnicity", "pediatric-dental-facts", "dental-statistics-related-to-covid-19", "dental-industry-statistics", "dental-patients-facts", "dental-profession-facts-and-statistics", "statistics-about-dental-conditions", "footnotes"]
 title = "95 Dental Facts And Statistics For 2023 [+ Visuals]"
 twitterHandle = "#"
@@ -40,7 +40,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **5)** Colgate first aromatic toothpaste was inside a jar in 1873.  \[1\] {{% /stat %}}
 
-![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.png)
+![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -55,7 +55,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **10)** On average, the woman smiles 68 times in a day. While men smile 8 times a day. \[2\] {{% /stat %}}
 
-![Picture of dental fact that shows women smiling more than men](/assets/images/dental-facts-and-statistics-2.png)
+![Picture of dental fact that shows women smiling more than men](/assets/images/dental-facts-and-statistics-2.webp)
 
 {{% stat %}} **11)** Americans buy more than 224 million cups (14 million gallons) of toothpaste annually. \[3\] {{% /stat %}}
 
@@ -72,17 +72,17 @@ These are some of the weirdest dental facts we think you should know.
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
-![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.png)
+![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.webp)
 
 ## Dental Statistics And Facts By Demographics & Ethnicity
 
 {{% stat %}} **17)** 93% of Americans plan to visit the dentist in 2021. \[4\] {{% /stat %}}
 
-![Illustrations shows dental fact that 93% of americans plan to visit dentist in 2021](/assets/images/dental-facts-and-statistics-4.png)
+![Illustrations shows dental fact that 93% of americans plan to visit dentist in 2021](/assets/images/dental-facts-and-statistics-4.webp)
 
 {{% stat %}} **18)** For all age groups, Hispanics and Blacks are most likely to face cost barriers to dental care. \[5\] {{% /stat %}}
 
-![A Graph shows dental stats illustrating how blacks and hispanics are most likely to face dental cost issues](/assets/images/dental-facts-and-statistics-5.png)
+![A Graph shows dental stats illustrating how blacks and hispanics are most likely to face dental cost issues](/assets/images/dental-facts-and-statistics-5.webp)
 
 {{% stat %}} **19)** Roughly 25% of American adults have no teeth \[3\]. {{% /stat %}}
 
@@ -112,7 +112,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **31)** Kids miss 51 million school hours a year due to dental-related illnesses. \[3\] {{% /stat %}}
 
-![A Graph shows dental fact about kids losing school hours](/assets/images/dental-facts-and-statistics-6.png)
+![A Graph shows dental fact about kids losing school hours](/assets/images/dental-facts-and-statistics-6.webp)
 
 {{% stat %}} **32)** About 74%-75% of school kids have dental cavities. \[3\] {{% /stat %}}
 
@@ -120,7 +120,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **34)** Pediatric dentists form the 3rd biggest specialty area and account for 3.3% of overall dentists. \[5\] {{% /stat %}}
 
-![A Graph shows dental fact about pediatric speciality](/assets/images/dental-facts-and-statistics-7.png)
+![A Graph shows dental fact about pediatric speciality](/assets/images/dental-facts-and-statistics-7.webp)
 
 {{% stat %}} **35)** mothers-to-be with poor oral hygiene are 7X more likely to deliver premature babies. \[3\] {{% /stat %}}
 
@@ -143,7 +143,7 @@ These are some of the weirdest dental facts we think you should know.
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
-![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.png)
+![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.webp)
 
 {{% stat %}} **43)** Despite circulating myths from news outlets that mask-wearing may impact oral health and cause “mask mouth,” a recent survey by ADA found no meaningful change in the for conditions such as bad breath and dry mouth compared to pre-Covid-19.  \[7\] {{% /stat %}}
 
@@ -177,7 +177,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **58)** Nearly 99% of patients reported that they were very satisfied with all the telehealth attributes. \[11\] {{% /stat %}}
 
-![A pie chart that shows patient satasfaction using telehealth solutions](/assets/images/dental-facts-and-statistics-9.png)
+![A pie chart that shows patient satasfaction using telehealth solutions](/assets/images/dental-facts-and-statistics-9.webp)
 
 ## Dental Industry Statistics
 
@@ -185,7 +185,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **60)** 77% of dentists choose websites as their first marketing channel, followed by  68% that preferred social media, 48% who used emails marketing, 34% print ads,  21% used digital advertising platforms, and 18% for direct mails. \[12\] {{% /stat %}}
 
-![A bar graph that shows statistic related to dentists using marketing channels ](/assets/images/dental-facts-and-statistics-10.png)
+![A bar graph that shows statistic related to dentists using marketing channels ](/assets/images/dental-facts-and-statistics-10.webp)
 
 {{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024  \[13\] {{% /stat %}}
 
@@ -204,13 +204,13 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **67)** 3/4 of patients use web reviews to choose new dentist. \[17\] {{% /stat %}}
 
-![An illustration that shows dental statistics about patients using online reviews to choose their dentists](/assets/images/dental-facts-and-statistics-12.png)
+![An illustration that shows dental statistics about patients using online reviews to choose their dentists](/assets/images/dental-facts-and-statistics-12.webp)
 
 {{% stat %}} **68)** More than half of patients will switch medical providers for better online service. \[18\] {{% /stat %}}
 
 {{% stat %}} **69)** 57% of patients anticipate medical professionals to make appointments, reminders, and follow-ups via text automation, voice or email. \[19\] {{% /stat %}}
 
-![Illustration that shows dental statistics about patient expectation when it comes to digital service](/assets/images/dental-facts-and-statistics-11.png)
+![Illustration that shows dental statistics about patient expectation when it comes to digital service](/assets/images/dental-facts-and-statistics-11.webp)
 
 {{% stat %}} **70)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than [uninsured ](https://www.insurancily.com/)patients and accept twice the amount of treatment. \[12\] {{% /stat %}}
 
@@ -240,7 +240,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **82)** The percentage of female dentists in the workforce increased from 24% to 35%. This increase is expected to continue for several more years, as is evident in the growth of the proportion of female dental school graduates. \[5\] {{% /stat %}}
 
-![Illustration that shows dental statistics regarding the increase of female workforce ](/assets/images/dental-facts-and-statistics-13-1.png)
+![Illustration that shows dental statistics regarding the increase of female workforce ](/assets/images/dental-facts-and-statistics-13-1.webp)
 
 {{% stat %}} **83)** 50% of private practice dentists work solo. \[5\] {{% /stat %}}
 
@@ -256,13 +256,13 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **89)** 10.4% of the U.S. dentists were affiliated with dental service organizations (DSOs) in 2019. \[5\] {{% /stat %}}
 
-![An illustration that shows dental statisticaboutng percentage of dentist working for DSOs](/assets/images/dental-facts-and-statistics-14.png)
+![An illustration that shows dental statisticaboutng percentage of dentist working for DSOs](/assets/images/dental-facts-and-statistics-14.webp)
 
 ## Statistics About Dental Conditions
 
 {{% stat %}} **90)** On average, every 15 seconds, someone visits a hospital emergency department for dental conditions in the U.S.  \[5\] {{% /stat %}}
 
-![An illustration that shows dental fact about the frequency of dental condition in U.S](/assets/images/dental-facts-and-statistics-15.png)
+![An illustration that shows dental fact about the frequency of dental condition in U.S](/assets/images/dental-facts-and-statistics-15.webp)
 
 {{% stat %}} **91)** 2.1 Million is the total number of hospital emergency department visits for dental conditions in the United States.  \[5\] {{% /stat %}}
 

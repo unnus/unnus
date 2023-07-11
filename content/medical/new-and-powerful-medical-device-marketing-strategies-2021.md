@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnus magazine and regular contributor in the healthcare marketing industry."
 category = "healthcare-marketing"
 date = 2021-01-05T23:00:00Z
 description = "Current medical device marketing is out of sync with the changing MedTech industry. This article outlines a new and effective approach along with examples"
-featImg = "/assets/images/featured-1.jpg"
-featImgThumb = "/assets/images/featured-1.jpg"
+featImg = "/assets/images/featured-1.webp"
+featImgThumb = "/assets/images/featured-1.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "8"
 slug = "/medical-device-marketing"
-socialThumbnail = "/assets/images/featured-1.jpg"
+socialThumbnail = "/assets/images/featured-1.webp"
 table_of_content = ["brand-storytelling-strategy-the-new-way-of-marketing-your-medical-device-firm-and-products", "the-science-behind-storytelling-strategy-and-why-it-works", "the-4-stages-of-a-medical-device-brand-storytelling", "examples-of-medical-device-marketing-using-storytelling", "the-truth-about-medical-device-marketing"]
 title = "New (And Powerful) Medical Device Marketing Strategies (2023)"
 twitterHandle = "/@SlimanBaghouri"
@@ -85,20 +85,20 @@ The closing techniques that worked well on small purchases backfired with custom
 
 Here’s a graph that illustrates how trust relates to decision making.
 
-![Graph shows trust as it relates to buying decision when marketing medical devices](/assets/images/trust-of-buying-decision.jpg "Graph shows trust as it relates to buying decision when marketing medical devices")  
+![Graph shows trust as it relates to buying decision when marketing medical devices](/assets/images/trust-of-buying-decision.webp "Graph shows trust as it relates to buying decision when marketing medical devices")  
 Medical professionals must trust your brand and the product it sells. If you can’t create trust, it’ll be hard to navigate product launches. This is where storytelling comes into play. It creates trust-inducing stories and builds familiarity with physicians and other medical professionals.
 
 ## The 4 stages of a medical device brand storytelling
 
 Now that you have a good idea of what this strategy is about, let’s see its four components. Brand DNA Development, Core Messages, Secondary Messages, Communication Framework.
 
-![Brand Storytelling Strategy Diagram](/assets/images/1-storytelling-diagram.jpg "Brand Storytelling Strategy Diagram")
+![Brand Storytelling Strategy Diagram](/assets/images/1-storytelling-diagram.webp "Brand Storytelling Strategy Diagram")
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
 ### Stage 1: Cultivating a Brand DNA
 
-![Brand Storytelling Strategy - Brand DNA Phase](/assets/images/1-storytelling-diagram-brand-dna.jpg "Brand Storytelling Strategy - Brand DNA Phase")  
+![Brand Storytelling Strategy - Brand DNA Phase](/assets/images/1-storytelling-diagram-brand-dna.webp "Brand Storytelling Strategy - Brand DNA Phase")  
 Brand DNA refers to the core aspects of your business. The credo of your firm and the values that glues it together. To have a proper brand DNA, your company needs to have an answer to the three following questions:
 
 1. **What** is it that the company does?
@@ -118,7 +118,7 @@ As much as we like to stress the features and the benefits of the **what/how** m
 
 To further illustrate the effectiveness of **Why Messages,** Here’s an illustration that shows what part of [the brain light up ](https://link.springer.com/article/10.1007/s12115-010-9408-1)depending on what kind of [marketing messages](https://unnus.com/medical/healthcare-marketing/) we receive:
 
-![Marketing Messages as they relate to our brain ](/assets/images/why-messaging-and-limbic-system.png "Marketing Messages as they relate to our brain ")
+![Marketing Messages as they relate to our brain ](/assets/images/why-messaging-and-limbic-system.webp "Marketing Messages as they relate to our brain ")
 
 {{% blockquote "Simon Sinek" %}}People don’t buy what you do; they buy **why** you do it{{% /blockquote %}}
 
@@ -128,7 +128,7 @@ In his book, Simon Sinek proposes that people don’t buy what you do but **they
 
 ### Stage 2: Developing Core Messages
 
-![Diagram shows the Brand DNA Phase](/assets/images/1-storytelling-diagram-brand-core-messages.jpg "Diagram shows the Brand DNA Phase")
+![Diagram shows the Brand DNA Phase](/assets/images/1-storytelling-diagram-brand-core-messages.webp "Diagram shows the Brand DNA Phase")
 
 Core messages are all you need your audience to know about your brand, how it can benefit providers, and what makes it different. These messages will not focus on your brand per se but **on what it can do for your audience and how they can benefit from it.**
 
@@ -143,17 +143,17 @@ In particular, core messages should contain the following:
 4. **Pain-Points**
    * What challenges they are facing your products can solve? How these obstacles are hindering their progress?
 
-![Diagram that shows Core Messages Components](/assets/images/3-storytelling-diagram-core-messages.jpg "Diagram that shows Core Messages Components")
+![Diagram that shows Core Messages Components](/assets/images/3-storytelling-diagram-core-messages.webp "Diagram that shows Core Messages Components")
 
 These messages will shift your brand from the “me too” imitative products and provide physicians a razor-sharp picture of how you’re different.
 
 In addition, these messages will act as the theme of your storytelling campaign and will direct every touchpoint your audience has with your brand.
 
-![Illustrations that shows Core Messages acting as theme for all marketing aspects ](/assets/images/3-storytelling-diagram-core-messages-theme.jpg "Illustrations that shows Core Messages acting as theme for all marketing aspects ")
+![Illustrations that shows Core Messages acting as theme for all marketing aspects ](/assets/images/3-storytelling-diagram-core-messages-theme.webp "Illustrations that shows Core Messages acting as theme for all marketing aspects ")
 
 ### Stage 3: Developing Secondary Messages
 
-![Diagram shows the secondary messages phase](/assets/images/4-storytelling-diagram-secondary-messages.jpg "Diagram shows the secondary messages phase")
+![Diagram shows the secondary messages phase](/assets/images/4-storytelling-diagram-secondary-messages.webp "Diagram shows the secondary messages phase")
 
 Secondary messages are more centered around your brand, its purpose, and mission. In this stage, we’ll hone in the true north that guides your firm and the values it upholds. These messages are secondary to the campaign but are crucial for brand awareness.
 
@@ -168,11 +168,11 @@ The components will include:
 4. **Brand Pillars**
    * What are the key principles that direct the company? Are there any guidelines that help the brand navigate the uncertainty of market change?
 
-![Diagram that shows Secondary Messages Components](/assets/images/4-storytelling-diagram-secondary-messages-components.jpg "Diagram that shows Secondary Messages Components")
+![Diagram that shows Secondary Messages Components](/assets/images/4-storytelling-diagram-secondary-messages-components.webp "Diagram that shows Secondary Messages Components")
 
 ### Stage 4: Communication Framework Development
 
-![Diagram shows the communication framework phase](/assets/images/5-storytelling-diagram-communication-framework.jpg "Diagram shows the communication framework phase")
+![Diagram shows the communication framework phase](/assets/images/5-storytelling-diagram-communication-framework.webp "Diagram shows the communication framework phase")
 
 If you’re in the MedTech industry, your customers are probably busy doctors or physicians and won’t have the time to hear your “story about x”.
 
@@ -210,13 +210,13 @@ There are 7 critical story blocks any storytelling campaign must have:
 7. **The New State**
    * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is after your product/brand solved all of the audience’s issues.
 
-![Diagram that shows Secondary Messages Components](/assets/images/5-storytelling-diagram-communication-framework-components.jpg "Diagram that shows Secondary Messages Components")
+![Diagram that shows Secondary Messages Components](/assets/images/5-storytelling-diagram-communication-framework-components.webp "Diagram that shows Secondary Messages Components")
 
 ## Examples of medical device marketing using storytelling
 
 Now that we have our Message Blocks and Story Blocks, we can use the Communication Framework to form marketing assets and deploy our messages.
 
-![Diagram that shows the marketing messages block and the story blocks](/assets/images/5-storytelling-diagram-communication-framework-components-1.jpg "Diagram that shows the marketing messages block and the story blocks")
+![Diagram that shows the marketing messages block and the story blocks](/assets/images/5-storytelling-diagram-communication-framework-components-1.webp "Diagram that shows the marketing messages block and the story blocks")
 
 To launch the campaign, we need to select what part of the story we need to market.
 
@@ -224,19 +224,19 @@ Let’s say that your audiences are dentists and your firm sells CEREC Machines.
 
 Here’s an example of the selection process:
 
-![Example of medical device marketing using storytelling strategy](/assets/images/6-examples-of-medical-device-marketing.jpg "Example of medical device marketing using storytelling strategy")  
+![Example of medical device marketing using storytelling strategy](/assets/images/6-examples-of-medical-device-marketing.webp "Example of medical device marketing using storytelling strategy")  
 The beauty of this framework lies in your ability to narrate your core messages in a way that speaks directly to your customers and creates [brand preference](https://unnus.com/medical/healthcare-branding/) towards your brand.
 
 This way of marketing your medical device company will transform its brand equity (perceived value) and creates a bias towards your firm in the sea of sameness.
 
 Now, all that is left is selecting what part of the story we’re going to tell next and in what medium or platform the story will be distributed.
 
-![Illustration that shows the selection process of the marketing assets](/assets/images/6-examples-of-medical-device-marketing-template.jpg "Illustration that shows the selection process of the marketing assets")  
+![Illustration that shows the selection process of the marketing assets](/assets/images/6-examples-of-medical-device-marketing-template.webp "Illustration that shows the selection process of the marketing assets")  
 Another example of a storytelling strategy executed well is [Getinge](http://getinge.com/us/life-defining-moments/)’s recent campaign highlighting their groundbreaking ventilator technology.
 
 In the video, we follow a neonatologist (their target audience) delivering a baby at a hospital. In a series of clips, going backward in time, we see the doctor as she gets younger.
 
-![Another example of medical device marketing by Getinge](/assets/images/6-examples-of-medical-device-marketing-template-2.jpg "Another example of medical device marketing by Getinge")  
+![Another example of medical device marketing by Getinge](/assets/images/6-examples-of-medical-device-marketing-template-2.webp "Another example of medical device marketing by Getinge")  
 Here's Getinge's video story:
 
 {{< vimeo 463750873>}}

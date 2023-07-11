@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-branding"
 date = 2020-10-19T23:00:00Z
 description = "You want your patients to fall head-over-heels in love with your practice? This guide is for you, We'll explore how dental branding transform your practice"
-featImg = "/assets/images/dental-branding.jpg"
-featImgThumb = "/assets/images/dental-branding.jpg"
+featImg = "/assets/images/dental-branding.webp"
+featImgThumb = "/assets/images/dental-branding.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "11"
 slug = "dental-branding"
-socialThumbnail = "/assets/images/dental-branding.jpg"
+socialThumbnail = "/assets/images/dental-branding.webp"
 table_of_content = ["common-misconceptions-about-dental-branding", "so-what-is-dental-branding", "pitfalls-that-makes-your-dental-brand-bland", "what-makes-a-charismatic-dental-brand", "advantages-of-building-a-charismatic-dental-brand", "the-charismatic-brand-test", "the-truth-about-charismatic-dental-brands"]
 title = "Dental Branding: The Anatomy Of A Mouth-Watering Dental Practice"
 twitterHandle = "SlimanBaghouri"
@@ -413,7 +413,7 @@ This exercise will force you to think through some of the key elements that make
 
 Here’s an example of this technique from our client Confidental™
 
-![Healthcare Branding exercise ](/assets/images/persona-obituary.jpg "Healthcare Branding exercise  ")
+![Healthcare Branding exercise ](/assets/images/persona-obituary.webp "Healthcare Branding exercise  ")
 
 ### II) Onliness statement test
 
@@ -423,7 +423,7 @@ It’s simple but surprisingly hard to get right.
 
 Finish the next sentence:
 
-![Healthcare positioning statement](/assets/images/positioning-onliness-statement.jpg "Healthcare positioning statement")
+![Healthcare positioning statement](/assets/images/positioning-onliness-statement.webp "Healthcare positioning statement")
 
 In the first blank you fill in the category you’re in (Orthodontist, cosmetic, general, etc...)
 
@@ -433,7 +433,7 @@ A differentiator is a competitive advantage that you own, it's unique value prop
 
 Example of Confidental™'s onliness statement :
 
-![Healthcare branding example](/assets/images/positioning-onliness-statement-ex.jpg "Healthcare branding example")
+![Healthcare branding example](/assets/images/positioning-onliness-statement-ex.webp "Healthcare branding example")
 
 This positioning statement solidifies what you’re being perceived by the patients and how you’re different from others.
 

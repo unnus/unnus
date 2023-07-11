@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/slimanbaghouri-s.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/slimanbaghouri-s.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2020-11-20T23:00:00Z
 description = "If you're looking for examples and guides on healthcare SWOT Analysis? Look no further. This article shares with you a battle-proven way to implement SWOT "
-featImg = "/assets/images/healthcare-swot-analysis.jpg"
-featImgThumb = "/assets/images/healthcare-swot-analysis.jpg"
+featImg = "/assets/images/healthcare-swot-analysis.webp"
+featImgThumb = "/assets/images/healthcare-swot-analysis.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "8"
 slug = "/healthcare-swot-analysis"
-socialThumbnail = "/assets/images/healthcare-swot-analysis.jpg"
+socialThumbnail = "/assets/images/healthcare-swot-analysis.webp"
 table_of_content = ["what-is-swot-analysis-in-healthcare", "benefits-of-swot-analysis-in-healthcare", "the-4-swot-analysis-process", "how-to-conduct-swot-analysis-in-healthcare", "introducing-the-swot-strategy-canvas-a-visual-representation-to-measure-your-success", "examples-of-swot-analysis-in-healthcare", "hospital-swot-analysis-example", "swot-analysis-for-nurses-example", "the-secret-to-a-battle-proven-healthcare-swot-analysis"]
 title = "A Step-By-Step Guide To SWOT Analysis In Healthcare [2023]"
 twitterHandle = "/@SlimanBaghouri"
@@ -43,7 +43,7 @@ It is used to define your healthcare organization’s (or practice’s) **Streng
 
 SWOT Analysis arms you with a clear overview of critical metrics that are key for your performance and the overall success of your medical business.
 
-![swot-analysis-in-healthcare](/assets/images/swot-analysis-in-healthcare.png "swot-analysis-in-healthcare")
+![swot-analysis-in-healthcare](/assets/images/swot-analysis-in-healthcare.webp "swot-analysis-in-healthcare")
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -83,13 +83,13 @@ We know that SWOT stands for Strengths, Weaknesses, Opportunities, and Threats �
 
 ### **1) Strengths**
 
-![Strengths in healthcare swot analysis](/assets/images/swot-strengths.png "Strengths in healthcare swot analysis")
+![Strengths in healthcare swot analysis](/assets/images/swot-strengths.webp "Strengths in healthcare swot analysis")
 
 This element is focused on the strong attribute of your business. Be it a great service line portfolio, unique medical skills, or a convenient location. It is worth noting that your strengths can be intangibles like brand loyalty or an established brand name in the market.
 
 ### **2) Weaknesses**
 
-![swot weaknesses examples in healthcare](/assets/images/swot-weaknesses.png "swot weaknesses examples in healthcare")
+![swot weaknesses examples in healthcare](/assets/images/swot-weaknesses.webp "swot weaknesses examples in healthcare")
 
 From our work with our clients, we noticed a common pattern when dealing with CEOs and medical business owners. Medical business owners are somewhat aware of the weak parts of their business lack, **but the problem is that the assessment of _how weak_ those parts are is most often inaccurate**.
 
@@ -97,7 +97,7 @@ An example would be when we ask founders about their brand, they think that just
 
 ### **3) Opportunities**
 
-![opportunities examples in healthcare swot analysis](/assets/images/swot-opportunities.png "opportunities examples in healthcare swot analysis")
+![opportunities examples in healthcare swot analysis](/assets/images/swot-opportunities.webp "opportunities examples in healthcare swot analysis")
 
 In this part of the process, we dig deep to find the unmet needs of your patients. Needs that if you manage to fulfill, you gain their trust and skyrocket your patient retention. Looking for [market gaps](https://unnus.com/medical/healthcare-marketing/) in your respective field is a gold mine for business success.
 
@@ -105,7 +105,7 @@ You’d be surprised by how beneficial yet-easy-turn-a-blind-eye on opportunitie
 
 ### **4) Threats**
 
-![Threats examples in healthcare swot analysis](/assets/images/swot-threats.png "Threats examples in healthcare swot analysis")
+![Threats examples in healthcare swot analysis](/assets/images/swot-threats.webp "Threats examples in healthcare swot analysis")
 
 Threats are everything that poses a risk to either your brand itself or its likelihood of success or growth. This could include things like emerging competitors, changes in healthcare regulations, financial pressures, and all else that could jeopardize the future of your medical business.
 
@@ -121,7 +121,7 @@ Each quadrant represents each element of the SWOT Analysis. This provides you wi
 
 A simple example of a SWOT grid should be like this:
 
-![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.jpg "Healthcare SWOT Analysis template")
+![Healthcare SWOT Analysis template](/assets/images/healthcare-swot-analysis-template.webp "Healthcare SWOT Analysis template")
 
 You can use our free [healthcare SWOT Analysis Template](https://drive.google.com/file/d/1LgZj5L5N3rI13n21JRdP1Nyb3qgn2tTh/view?usp=sharing)
 
@@ -180,7 +180,7 @@ Some possible questions you could ask to identify potential opportunities might 
 
 ## **Introducing the SWOT Strategy Canvas™, a visual representation to measure your success**
 
-![](/assets/images/swot-strategy-canvas-graph.jpg)
+![](/assets/images/swot-strategy-canvas-graph.webp)
 
 SWOT Analysis is insufficient alone to measure the success of your efforts or represent them visually.
 
@@ -202,7 +202,7 @@ After that, you start drawing the x-axis and putting all of the data gathered fr
 
 The x-axis will look like this:
 
-![Strategt Canvas X-axies order](/assets/images/strategt-canvas-x-axies-order.jpg "Strategt Canvas X-axies order")  
+![Strategt Canvas X-axies order](/assets/images/strategt-canvas-x-axies-order.webp "Strategt Canvas X-axies order")  
 **#\~Second**, on the y-axis, is the Impact Rate. it ranges from zero to one, 0.5 being medium impact, 1 being high impact and 0 is none.
 
 Here’s a good objective you should focus on:
@@ -213,7 +213,7 @@ Here’s a good objective you should focus on:
 
 After you finish drawing your graph, your SSC graph should look like this:
 
-![SWOT STRATEGY CANVAS CHART](/assets/images/swot-strategy-canvas-chart.jpg "SWOT STRATEGY CANVAS CHART")  
+![SWOT STRATEGY CANVAS CHART](/assets/images/swot-strategy-canvas-chart.webp "SWOT STRATEGY CANVAS CHART")  
 **#\~Third**, let’s assume that you just finished conducting SWOT Analysis and you want to plot the current state of your company on SSC.
 
 Before you use the SSC, you need to understand why we split elements into two lines (Weaknesses-Strengths and Opportunities-Threats) and why we gave each line a different color.
@@ -237,14 +237,14 @@ You don’t need an exact number, just rough estimates to help you gauge the cur
 
 **Here’s an example of the SCC graph _just_ after conducting a SWOT Analysis.**
 
-![SWOT Strategy Canvas Initial State](/assets/images/swot-strategy-canvas-initial-state.jpg "SWOT Strategy Canvas Initial State")  
+![SWOT Strategy Canvas Initial State](/assets/images/swot-strategy-canvas-initial-state.webp "SWOT Strategy Canvas Initial State")  
 As you can see, Weaknesses and Strengths have a high impact by default since they are the **current** state of your business.
 
 Opportunities-Threats are there but the impact of the threats should be lowered and the opportunities impact (or the potential impact in the case) should be higher.
 
 **And here’s an example of the SCC graph _after_ acting out on the SWOT analysis (1 year after):**
 
-![SWOT Strategy Canvas After State](/assets/images/swot-strategy-canvas-after-state.jpg "SWOT Strategy Canvas After State")  
+![SWOT Strategy Canvas After State](/assets/images/swot-strategy-canvas-after-state.webp "SWOT Strategy Canvas After State")  
 You can see that the lines are diverged signifying lower weaknesses and higher strengths, at the same time, reduced threats, and higher opportunities.
 
 This is the power of the SSC, it gives a clear overview of the current SWOT effort and helps you see whether or not you’re on the right track.
@@ -259,11 +259,11 @@ For the privacy’s sake of our clients, we won’t be sharing the names of thei
 
 An example of a SWOT analysis for a hospital will look like this:
 
-![Hospital SWOT Analysis example](/assets/images/hospital-swot-analysis-example.jpg "Hospital SWOT Analysis example")
+![Hospital SWOT Analysis example](/assets/images/hospital-swot-analysis-example.webp "Hospital SWOT Analysis example")
 
 Another example from one of our client:
 
-![Hospital SWOT ANALYSIS EXAMPLE ](/assets/images/hospital-swot-analysis-example.jpg "Hospital SWOT ANALYSIS EXAMPLE ")
+![Hospital SWOT ANALYSIS EXAMPLE ](/assets/images/hospital-swot-analysis-example.webp "Hospital SWOT ANALYSIS EXAMPLE ")
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -272,7 +272,7 @@ Another example from one of our client:
 
 The following S.W.O.T Analysis was conducted for a nurse-led clinic, an outpatient clinic that is managed by registered nurses.
 
-![SWOT Analysis for nurses](/assets/images/swot-analysis-for-nurses.jpg "SWOT Analysis for nurses")
+![SWOT Analysis for nurses](/assets/images/swot-analysis-for-nurses.webp "SWOT Analysis for nurses")
 
 ## **The ‘secret’ to a battle-proven healthcare SWOT analysis**
 

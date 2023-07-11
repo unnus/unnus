@@ -1,18 +1,18 @@
 +++
 author = "Sara Seirawan"
-authorAvatarBottom = "/assets/images/ss-1.jpg"
-authorAvatarTop = "/assets/images/s.jpg"
+authorAvatarBottom = "/assets/images/ss-1.webp"
+authorAvatarTop = "/assets/images/s.webp"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-marketing"
 date = 2021-04-29T23:00:00Z
 description = "If you're looking to attract more patients, expand your medical practice, this article is for you. I'll share with you 10 tips to grow your clinic out of the plateau phase"
-featImg = "/assets/images/featured-0-0.jpg"
-featImgThumb = "/assets/images/featured-0-0.jpg"
+featImg = "/assets/images/featured-0-0.webp"
+featImgThumb = "/assets/images/featured-0-0.webp"
 linkedinHandle = "#"
 page = "medical/single.html"
 readingTime = "8"
 slug = "/how-to-grow-medical-practice"
-socialThumbnail = "/assets/images/featured-0-0.jpg"
+socialThumbnail = "/assets/images/featured-0-0.webp"
 table_of_content = ["1-streamline-your-appointments-and-reduce-unnecessary-administrative-tasks", "2-use-patient-journey-mapping-to-enhance-the-patient-experience", "3-integrate-an-email-marketing-funnel", "4-building-a-strong-brand-name-for-your-clinic", "5-implement-an-seo-strategy", "6-leverage-google-adwords", "7-attract-your-ideal-patients-with-social-media-ads", "8-host-educational-patient-webinars", "9-increase-your-referrals-using-this-podcast-strategy", "10-cross-promotion-strategy"]
 title = "How To Grow Your Medical Practice (And Patient Volume) 2023"
 twitterHandle = "#"
@@ -30,7 +30,7 @@ Without wasting too much time, let’s dive right ahead.
 
 ## 1) Streamline your appointments and reduce unnecessary administrative tasks.
 
-![](/assets/images/1-streamline-your-medical-processes.png)
+![](/assets/images/1-streamline-your-medical-processes.webp)
 
 Growing your clinic isn’t a matter of increasing patient volume alone. One of the best tips to [grow your practice ](https://unnus.com/medical/healthcare-marketing/)is to enhance its internal processes and remove unnecessary workloads. And a great way to do this is to increase the ease of use and convenience in your clinic.
 
@@ -49,19 +49,19 @@ If your clinic is not using online booking appointments, it’s time to integrat
 
 ## 2) Use Patient Journey Mapping to enhance the patient experience.
 
-![](/assets/images/3-patient-journey-map-illustration.jpg)
+![](/assets/images/3-patient-journey-map-illustration.webp)
 
 Another great way to enhance the internal processes of your medical clinic is to implement [Patient Journey Maps](https://unnus.com/medical/patient-journey-mapping/) (PJM). A Patient Journey Map (also known as a customer journey map) is a visual map that outlines a series of events the patient goes through from her/his first interaction with your clinic until after-treatment.
 
 Each contact point your patients have with your clinic is considered part of their journey. The goal of this strategy is to optimize, track and enhance these touchpoints to overhaul the patient experience.
 
-PJMs allows you to “reverse engineer” the whole patient experience and uncover hidden issues that are hindering your clinic’s growth. By doubling down on each step of the patient journey, you’ll have a zoomed-in picture of what’s happening during each event. This simple yet potent strategy is the cause of [54% greater ROI](https://blog.adobe.com/en/publish/2017/02/22/the-eyepopping-roi-of-customer-journey-mapping.html) and exceptional growth for thousands of businesses year after year.
+PJMs allows you to “reverse engineer” the whole patient experience and uncover hidden issues that are hindering your clinic’s growth. By doubling down on each step of the patient journey, you’ll have a zoomed-in picture of what’s happening during each event. This simple yet potent strategy is the cause of [54% greater ROI](https://www.mcorpcx.com/resource-center/articles/the-eye-popping-roi-benefits-of-customer-journey-mapping) and exceptional growth for thousands of businesses year after year.
 
 But one advantage this strategy offers that can’t be found elsewhere is the ability to personalize each step of the experience the way _you_ want it.
 
 Because the PJM focuses on optimizing each part of the patient journey, you can easily sketch the perfect patient experience and tailor it to your ideal patient. This is a huge opportunity for you to increase your patient retention rate and increase their engagement.
 
-![](/assets/images/1-patient-journey-example-illustration.png)
+![](/assets/images/1-patient-journey-example-illustration.webp)
 
 ## 3) Integrate an Email Marketing Funnel
 
@@ -80,7 +80,7 @@ It’s divided into 4 main stages:
 4. **Purchase Stage**
    * When prospects become patients after booking an appointment with you.
 
-![](/assets/images/26-sales-funnel-in-healthcare.jpg)
+![](/assets/images/26-sales-funnel-in-healthcare.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -99,7 +99,7 @@ Each email in this automated email sequence will provide value to your would-be 
 
 The following illustration is an example of how email subscribers convert to loyal-patient:
 
-![](/assets/images/healthcare-email-marketing-example.jpg)
+![](/assets/images/healthcare-email-marketing-example.webp)
 
 The great thing about this strategy is it’s an automated process. It works 24/7 and generates patients for your clinic on autopilot.
 
@@ -125,7 +125,7 @@ SEO is a strategy that aims at ranking your clinic’s website high in the searc
 
 One of the best examples of medical businesses using this strategy is Orthodontics Limited. They help people with orthodontic-related issues solve these problems and have a better dental appearance through their blog. And as a result, they rank for popular searches like “Causes of bad breath” and “how to use rubber bands for braces”. This alone gained them huge amounts of traffic each month.
 
-![](/assets/images/2-seo-example-to-grow-medical-practice.jpg)
+![](/assets/images/2-seo-example-to-grow-medical-practice.webp)
 
 That’s about 112,000+ monthly website visitors and potential patients.
 
@@ -135,11 +135,11 @@ Online advertising gets a lot of criticism for being intrusive, annoying, and hi
 
 For example, if you’re a dental clinic in New York, and someone searches “Dentist near NYC”, your website’s booking page along with office direction will appear on the first page:
 
-![](/assets/images/ax.jpg)
+![](/assets/images/ax.webp)
 
 And when someone clicks on your ad, you get charged a certain amount of dollars for that click depending on how valuable the keyword is. You pay per click.
 
-![](/assets/images/3-google-adwords.png)![](/assets/images/xgoogle-adwords.jpg)
+![](/assets/images/3-google-adwords.webp)![](/assets/images/xgoogle-adwords.webp)
 
 Unlike SEO, Google Adwords is a much faster avenue for patient acquisition and comparatively cheaper than traditional TV/Print advertising.
 
@@ -149,7 +149,7 @@ Unlike Google Adwords, where patients find you in Google search, Social Media ad
 
 And the great thing about social ads is their ease of use. For example, you can create a normal Facebook post and then promote it through the Facebook Ads Platform. Your post can be a video or a link to your website booking page where patients can book appointments with you.
 
-![](/assets/images/dentist-facebook-ad-example-1.png)
+![](/assets/images/dentist-facebook-ad-example-1.webp)
 
 ## 8) Host educational patient webinars
 
@@ -167,7 +167,7 @@ The great thing about webinars is that they can be conducted from the leisure of
 
 With the booming of podcasts in the last 5 years, one out of every five adults in the USA is listening to podcasts regularly, according to Pew Research Center.
 
-![](/assets/images/podcast-stats-1.jpg)
+![](/assets/images/podcast-stats-1.webp)
 
 This huge boost in popularity made podcasting one of the best marketing channels to reach audiences from a variety of genres. Not only that, but it’s by far the easiest medium to consume. You can listen to an episode while jogging, washing the dishes, or on your way to work. This consumable trait shapes a huge opportunity for businesses to reach their audience with relative ease.
 
@@ -178,7 +178,7 @@ But podcasting is especially suitable for medical brands and here’s why:
 * It’s cost-effective and cheap to host
 * Podcasting is easier for patients to consume and interact with your brand.
 
-![](/assets/images/35-dental-podcasts-examples-2.PNG)
+![](/assets/images/35-dental-podcasts-examples-2.webp)
 
 ## 10) Cross-promotion strategy
 

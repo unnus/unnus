@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/blog/authors/SlimanM.Baghouri.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies.\n"
 category = "healthcare-branding"
 date = 2020-10-24T23:00:00Z
 description = "Looking for a unique healthcare mission statement? Look no further. this is the most comprehensive guide to creating mission statements. + we added templates, examples of inspiring mission statements for you to check out."
-featImg = "/assets/images/healthcare-mission-statement.jpg"
-featImgThumb = "/assets/images/healthcare-mission-statement.jpg"
+featImg = "/assets/images/healthcare-mission-statement.webp"
+featImgThumb = "/assets/images/healthcare-mission-statement.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "12"
 slug = "/healthcare-mission-statement"
-socialThumbnail = "/assets/images/healthcare-mission-statement.jpg"
+socialThumbnail = "/assets/images/healthcare-mission-statement.webp"
 table_of_content = ["healthcare-mission-statement-examples", "hospital-mission-statement", "dental-mission-statement", "chiropractic-mission-statement", "pharmacy-mission-statement", "nursing-home-mission-statement", "hospice-mission-statement", "what-is-a-mission-statement-in-healthcare", "why-would-you-need-a-mission-statement", "deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "anatomy-of-a-great-healthcare-mission-statement-and-brand-dna", "the-unmatched-advantage-of-a-purpose-statement", "brand-dna-creating-a-mission-and-a-purpose-statement", "creating-a-healthcare-vision-statement-for-your-practice", "the-truth-about-mission-statements-in-healthcare"]
 title = "15 Unique Healthcare Mission Statements: 2023 [Examples]"
 twitterHandle = "/@SlimanBaghouri"
@@ -43,7 +43,7 @@ Healthier, community hospital, Orlando
 
 **How We Do It (Mission Statement):** In an age where malpractice threatens the lives of our community, we aim to create a safe environment by emphasizing precautions, safety, and welfare of our patients. We do that by striving to lower medical errors, reduce readmission rates, and educate our patients on how to live a healthy lifestyle.
 
-![Picture of hospital mission statement](/assets/images/hospital-mission-statement-1.jpg)
+![Picture of hospital mission statement](/assets/images/hospital-mission-statement-1.webp)
 
 ***
 
@@ -53,7 +53,7 @@ Caresect, Psychiatric Hospital
 
 **How We Do It (Mission Statement):** Because not all wounds are visible, we, are dedicated to healing the unseen. We do that by helping our patients overcome mental health challenges. We’re committed to being confidential, sympathetic, and approachable in our communications and treatment.
 
-![Picture of hospital mission statement](/assets/images/hospital-mission-statement-2.jpg)
+![Picture of hospital mission statement](/assets/images/hospital-mission-statement-2.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -63,7 +63,7 @@ Future’s Youth, Pediatric Hospital (ex)
 
 **How We Do It (Mission Statement):** They inspire us to be better, push us to fight harder, and drive us to bring our best. We treat your kids like our own. We do that by being family-focused in our treatment and assuring that they’re in a friendly and protected environment.
 
-![Picture of hospital mission statement](/assets/images/hospital-mission-statement-3.jpg)
+![Picture of hospital mission statement](/assets/images/hospital-mission-statement-3.webp)
 
 ## Dental mission statement
 
@@ -73,7 +73,7 @@ Confidental™, Dental practice
 
 **How We Do It (Mission Statement):** What good is a smile if you’re nervous about it? Our practice was founded to help patients lead a stress-free lifestyle. The more confident you are, the less stressed your life is. There are many ways to fight anxiety; one is to be confident in your dental appearance. That’s where we come in. We make you confident in your smile.
 
-![Picture of dental mission statement](/assets/images/dental-mission-statement-1.jpg)
+![Picture of dental mission statement](/assets/images/dental-mission-statement-1.webp)
 
 ***
 
@@ -83,7 +83,7 @@ Odentia, Dental practice
 
 **How We Do It (Mission Statement):** Forget the dental horror show and step into a fantasy world of seamless dentistry. Odentia is committed to providing a painless patient experience. We do that by gently delivering our care service, seamless shots, and a magic touch.
 
-![Picture of dental mission statement](/assets/images/dental-mission-statement-2.jpg)
+![Picture of dental mission statement](/assets/images/dental-mission-statement-2.webp)
 
 ***
 
@@ -96,7 +96,7 @@ Utile Teeth, Dental practice (ex)
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
-![Picture of dental mission statement](/assets/images/dental-mission-statement-3.jpg)
+![Picture of dental mission statement](/assets/images/dental-mission-statement-3.webp)
 
 ## Chiropractic mission statement
 
@@ -106,7 +106,7 @@ Naturalis, Chiropractic practice (ex)
 
 **How We Do It (Mission Statement):** When your life is stifled by discomfort; We come to the rescue. We peel off the layers of physical restriction through a natural approach to healthcare and healthy lifestyle modifications.
 
-![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-1.jpg)
+![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-1.webp)
 
 ***
 
@@ -116,7 +116,7 @@ The Joint Chiropractic
 
 **How We Do It (Mission Statement):** Our mission is to improve the quality of life through routine and affordable chiropractic care. We’re committed to our no-appointment policy, convenient hours and locations to make care more accessible.
 
-![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-2.jpg)
+![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-2.webp)
 
 ***
 
@@ -126,7 +126,7 @@ Complete Wellness Chiropractic
 
 **How We Do It (Mission Statement):** To educate and adjust as many families as possible back toward optimal health through natural chiropractic care.
 
-![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-3.jpg)
+![Picture of chiropractic mission statement](/assets/images/chiropractic-mission-statement-3.webp)
 
 ## Pharmacy mission statement
 
@@ -134,7 +134,7 @@ PharmaPlus (ex)
 
 **How We Do It (Mission Statement):** To improve everyone's comfort and well-being by providing the most convenient pharmaceutical services for patients.
 
-![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-1.jpg)
+![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-1.webp)
 
 ***
 
@@ -142,7 +142,7 @@ FFA Drugs (ex)
 
 **How We Do It (Mission Statement):** To increase patients accessibility to pharmaceutical drugs by providing quality products at affordable prices.
 
-![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-2.jpg)
+![Picture of pharmacy mission statement](/assets/images/pharmacy-mission-statement-2.webp)
 
 ## Nursing home mission statement
 
@@ -150,7 +150,7 @@ Lively Clam (ex)
 
 **How We Do It (Mission Statement):** To leave a legacy of excellence by helping seniors lead comfortable lives and achieve independence.
 
-![Picture of nursing home mission statement](/assets/images/nursing-home-mission-statement-1.jpg)
+![Picture of nursing home mission statement](/assets/images/nursing-home-mission-statement-1.webp)
 
 ***
 
@@ -158,7 +158,7 @@ Nostalgic Homes (ex)
 
 **How We Do It (Mission Statement):** We're here to create authentic atmosphere where residents feel right at home.
 
-![Picture of nursing home mission statement](/assets/images/nursing-home-mission-statement-2.jpg)
+![Picture of nursing home mission statement](/assets/images/nursing-home-mission-statement-2.webp)
 
 ## Hospice mission statement
 
@@ -166,7 +166,7 @@ Light Places Hospice (ex)
 
 **How We Do It (Mission Statement):** We don’t know if there is life after death. But we know there is life before death. And this is where we come in. We provide patients seamless experience in their ending journey. We aim to honor the patients' dignity and empower them in their hardest time.
 
-![Picture of hospice mission statement](/assets/images/hospice-mission-statement-1.jpg)
+![Picture of hospice mission statement](/assets/images/hospice-mission-statement-1.webp)
 
 ***
 
@@ -174,7 +174,7 @@ Right Moments Hospice (ex)
 
 **How We Do It (Mission Statement):** It was never about the end, it's about the current moment. We're here to enable patients live their life to its fullest, experience love and what it means to be understood during hardships.
 
-![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.jpg)
+![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.webp)
 
 ## What is a mission statement in healthcare?
 
@@ -380,15 +380,15 @@ _“What good is a healthcare service if it’s not safe? Our hospital was found
 
 Do you see how different the two pitches are? That’s the power of having a purpose or a “why”.
 
-![Visual represantation of healthcare mission statement ](/assets/images/why-messaging-and-limbic-system.png "Visual represantation of healthcare mission statement")
+![Visual represantation of healthcare mission statement ](/assets/images/why-messaging-and-limbic-system.webp "Visual represantation of healthcare mission statement")
 
 ## Brand DNA: Creating a Mission and a Purpose Statement
 
 To craft a purpose and a mission statement, we’ll use the Golden Circle Model.
 
-![Healthcare mission statement exercise](/assets/images/xgolden-circle.jpg "Healthcare mission statement exercise")
+![Healthcare mission statement exercise](/assets/images/xgolden-circle.webp "Healthcare mission statement exercise")
 
-[You can access the free pdf version here](https://drive.google.com/file/d/1n1LFoqO0Vbtwkf-f96lHe8XCHxV-D1OV/view?usp=sharing "Healthcare mission statement exercise link")
+[You can download the free pdf version here](https://drive.google.com/file/d/1fOBWQT7UpMoq7wTtE1YpP5pvqUszpo_l/view?usp=sharing "Healthcare mission statement exercise link")
 
 {{% ad-unit %}} {{% /ad-unit %}}
    
@@ -441,9 +441,9 @@ To form a concrete vision for your practice, we’ll use Future Brand Model™ a
 
 **# First Exercise, the Future Brand Model™**
 
-![Healthcare vision statement](/assets/images/future-brand.jpg "Healthcare vision statement")
+![Healthcare vision statement](/assets/images/future-brand.webp "Healthcare vision statement")
 
-[You can access the free pdf version here](https://drive.google.com/file/d/1bO-U_t6Cb7N4JDZAMd4_kpLe24FHHY-E/view?usp=sharing "Healthcare Brand Vision Exercise ")
+[You can download the free pdf version here](https://drive.google.com/file/d/1l05HA2QljsQgX91dxF5KxcUYQ3YC0rcs/view?usp=sharing "Healthcare Brand Vision Exercise ")
 
 
 **EXERCISE STEPS:**
@@ -460,9 +460,9 @@ Share and discuss the notes and the writing with your team and move on to the ne
 
 **# Second Exercise, The Brand Vision Statement**
 
-![Healthcare vision statement example](/assets/images/healthcare-brand-vision.jpg "Healthcare vision statement example")
+![Healthcare vision statement example](/assets/images/healthcare-brand-vision.webp "Healthcare vision statement example")
 
-[You can access the free pdf version here](https://drive.google.com/file/d/1MhNB7JPoWumuH8awgygLK0SFPKOciBQ-/view?usp=sharing "Healthcare brand vision exercise")
+[You can download the free pdf version here](https://drive.google.com/file/d/1ZGWfFZcpa3bUFKmTMIk3KMq8YfGWLt4R/view?usp=sharing "Healthcare brand vision exercise")
 
 ## The truth about mission statements in healthcare
 

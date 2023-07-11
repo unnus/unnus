@@ -19,10 +19,10 @@ window.onload = function(){
 	}
 
 	/*FIXED FORM*/
-	let elements = $('.fixed-form')[0];
-	if(elements){
-		Stickyfill.add(elements);
-	}
+	// let elements = $('.fixed-form')[0];
+	// if(elements){
+	// 	Stickyfill.add(elements);
+	// }
 
 
 	/* #EFFECTS */

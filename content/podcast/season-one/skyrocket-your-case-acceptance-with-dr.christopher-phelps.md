@@ -4,7 +4,7 @@ description = "In this episode Dr. Phelps discusses how you can increase your ca
 episodeIframe = "https://open.spotify.com/embed-podcast/episode/3jGG0fiW2qnrSC76zPmm12"
 guest = "Dr. Christopher Phelps"
 guestContact = ["Shoot him an email at chris@drphelpshelps.com", "Connect with him on Instagram=www.instagram.com/dr.christopherphelps/", "Connect with him on Linkedin=www.linkedin.com/in/dr-christopher-phelps-2b48b718/"]
-guestPicture = "/assets/images/phelps-headshot.jpg"
+guestPicture = "/assets/images/phelps-headshot.webp"
 guestResources = ["Check his programs on his website=www.drphelpshelps.com", "Check Golden Goose Scheduling=goldengoosescheduling.com", "Grab a copy of his book=www.amazon.com/Grow-Your-Dental-Membership-Plan/dp/0692788093", "Visit Call Tracker ROI=calltrackerroi.com"]
 page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/3jGG0fiW2qnrSC76zPmm12?si=3KUA-o5DS_qpBcir69gLwg", "https://podcasts.apple.com/dz/podcast/how-to-skyrocket-your-case-acceptance-dr-christopher/id1545378762?i=1000510898457", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/OWYxMzNiMmEtMGY1OC00OTc1LThhNzktYjIyMzY5YzdmZDcx?sa=X&ved=0CAUQkfYCahcKEwjY0KyA5pbvAhUAAAAAHQAAAAAQAg"]

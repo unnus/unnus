@@ -4,7 +4,7 @@ description = "In this episode Dr. Moffet discusses how you can overhaul your pr
 episodeIframe = "https://open.spotify.com/embed-podcast/episode/3FbphLQIN5T0wE52T4KwC4"
 guest = "Dr. David Moffet"
 guestContact = ["Email him at david@theupe.com", "Connect With him on linkedin=www.linkedin.com/in/dental-practice-consultant-australia/"]
-guestPicture = "/assets/images/dr-david-moffet.jpg"
+guestPicture = "/assets/images/dr-david-moffet.webp"
 guestResources = ["Visit The Ultimate Patient Experience =www.theultimatepatientexperience.com", "Grab a copy of his book=www.amazon.com/Build-Dental-Practice-Your-Dreams-ebook/dp/B0108Z4ICM"]
 page = "podcast/single.html"
 platforms = ["https://open.spotify.com/episode/3FbphLQIN5T0wE52T4KwC4?si=AGH7QxlOS9-uDwsJydqKXw", "https://podcasts.apple.com/dz/podcast/building-unforgettable-patient-experience-dr-david/id1545378762?i=1000510898458", "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWQ2MjZiOC9wb2RjYXN0L3Jzcw/episode/NjI2ODBiZjYtYWVmMy00NzJmLWFlZDAtYmI0YmJmMzI3NzA4?sa=X&ved=0CA0QkfYCahcKEwiI5pvAs4zvAhUAAAAAHQAAAAAQAQ"]

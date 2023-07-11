@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he's the co-author of unnus magazine and regular contributor in the healthcare marketing industry."
 category = "healthcare-marketing"
 date = 2021-02-02T23:00:00Z
 description = "You might find it hard to attract patients due to the commoditization of hearing aids. This article shares potent marketing strategies for audiologists. "
-featImg = "/assets/images/audio-featured.jpg"
-featImgThumb = "/assets/images/audio-featured.jpg"
+featImg = "/assets/images/audio-featured.webp"
+featImgThumb = "/assets/images/audio-featured.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "7"
 slug = "audiology-marketing"
-socialThumbnail = "/assets/images/audio-featured.jpg"
+socialThumbnail = "/assets/images/audio-featured.webp"
 table_of_content = ["what-to-do-before-marketing-your-audiology-practice", "hone-in-on-the-service-and-separate-yourself-from-the-device", "differentiate-differentiate-differentiate", "build-your-brand", "audiology-marketing-ideas", "generate-patients-using-google-adwords", "using-video-advertising-to-raise-awareness", "attract-patient-using-social-media-targeting-ads", "launch-your-audiology-podcast-and-use-it-as-a-referral-source", "be-a-guest-on-other-healthcare-related-podcasts", "establish-referral-programs", "expand-your-network-with-pcp-and-family-doctors", "go-beyond-age-related-hearing-loss-cases", "the-secret-to-a-fruitful-audiology-marketing"]
 title = "Audiology Marketing: Powerful ways to Market Your Practice 2023"
 twitterHandle = "/@SlimanBaghouri"
@@ -108,9 +108,9 @@ That’s exactly what Google Adwords is for. It’s an auction-based platform th
 
 Showing up on the first page of Google for these terms are ridiculously cheaper than traditional media. For example, if you offer a hearing aid for $2500 per patient. And you spend $550 a month on Google Adwords to get 2 patients, your profit will be $4450, that’s 809% ROI.
 
-![Example of Google Adwords For audiologist ](/assets/images/googleadwords-for-audiologists.png "Example of Google Adwords For audiologist ")
+![Example of Google Adwords For audiologist ](/assets/images/googleadwords-for-audiologists.webp "Example of Google Adwords For audiologist ")
 
-![](/assets/images/google-adwords-for-audiologists.jpg)
+![](/assets/images/google-adwords-for-audiologists.webp)
 
 ## Using video advertising to raise awareness
 
@@ -139,11 +139,11 @@ Not only that but these audiences are highly targeted, meaning you can be in fro
 
 Here’s an example of audiology Facebook ads:
 
-![Picture of facebook ads for audiologists](/assets/images/facebook-ads-for-audiologists.jpg "Picture of facebook ads for audiologists")
+![Picture of facebook ads for audiologists](/assets/images/facebook-ads-for-audiologists.webp "Picture of facebook ads for audiologists")
 
 ## Launch your audiology podcast and use it as a referral source
 
-![Example of podcasting as a marketing tool for audiologists ](/assets/images/podcasting-for-audiologists.png "Podcasting as a marketing tool for audiologists ")
+![Example of podcasting as a marketing tool for audiologists ](/assets/images/podcasting-for-audiologists.webp "Podcasting as a marketing tool for audiologists ")
 
 [50% of all US](https://www.nielsen.com/us/en/insights/article/2020/podcast-content-is-growing-audio-engagement/) homes are podcast fans. This rapid increase in popularity for podcasting makes it a potent way to reach your patients directly using audio.
 

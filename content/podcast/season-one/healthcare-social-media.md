@@ -3,7 +3,7 @@ page: podcast/single.html
 title: Social media marketing in dentistry with Dr. Tiffani Long
 which: episode-cover
 guest: Dr. Tiffani Long
-guestPicture: "/assets/images/podcast/guests/Dr-long.jpg"
+guestPicture: "/assets/images/podcast/guests/Dr-long.webp"
 season: season-one
 slug: "/healthcare-social-media"
 guestContact:

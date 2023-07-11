@@ -1,17 +1,17 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
 downloads = "https://drive.google.com/drive/folders/1hKob7BE_Qcj487NS2EL0AYyxVMYOwKMq?usp=sharing"
-featImg = "/assets/images/0-1.jpg"
-featImgThumb = "/assets/images/0-1.jpg"
+featImg = "/assets/images/0-1.webp"
+featImgThumb = "/assets/images/0-1.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
 slug = "brand-positioning"
-socialThumbnail = "/assets/images/0-1.jpg"
+socialThumbnail = "/assets/images/0-1.webp"
 table_of_content = ["is-the-man-listening-privacy-sold-here", "to-focus-or-to-defocus-is-your-practice-focused-enough", "brand-differentiation-workshop", "1-audience-persona-exercise--15-25-minute", "2-brand-differentiator-graph-exercise--15-25-minute", "3-onliness-onlyness-statement-exercise--15-25-minute", "end-the-workshop--5-10-minute"]
 title = "Lesson 2) Brand Positioning Workshop: Differentiating your medical brand"
 twitterHandle = "/@SlimanBaghouri"
@@ -23,7 +23,7 @@ twitterHandle = "/@SlimanBaghouri"
 
 For the first time in history, competition does not come from your direct competitors, indeed, but from the market clutter.
 
-![](/assets/images/clear-the-clutter.png)
+![](/assets/images/clear-the-clutter.webp)
 
 According to research done by the Red Crown Marketing agency, It is estimated that the average person encounters between 6,000 to 10,000 ads daily. All from the same sounding brands, providing the same sounding offers with the same sounding voice.
 
@@ -57,7 +57,7 @@ Fed up with this, one day, James painted on the store’s frontend the following
 
 **_“Is The Man Listening? Privacy Sold Here”_**
 
-![](/assets/images/positioning-in-healthcare.jpg)
+![](/assets/images/positioning-in-healthcare.webp)
 
 While you can buy the same phone somewhere else, James sells you **privacy**.
 
@@ -75,7 +75,7 @@ But before we dive into the “how”, I want to drive home a concept many might
 
 {{% blockquote "Marty Neumeier" %}}An unfocused brand is one that’s so broad that it doesn’t stand for anything. A focused brand, by contrast, knows exactly what it is, why it’s different, and why people want it{{% /blockquote %}}
 
-![](/assets/images/brand-focus.jpg)
+![](/assets/images/brand-focus.webp)
 
 In his book, The Win Without Pitching Manifesto, author Blair Enns calls positioning “The Difficult Business Decision”.
 
@@ -125,7 +125,7 @@ Once you find who you like and want to serve, move on to the next step.
 
 ### #\~ Plotting your audience characteristics:
 
-![](/assets/images/4.png)  
+![](/assets/images/4.webp)  
 The audience persona diagram consists of 4 quadrants:
 
 1. **Goals:**
@@ -150,7 +150,7 @@ Once you’ve done that, use a different color sticky note on the middle circle 
 
 The result should look like this:
 
-![](/assets/images/5.jpg)
+![](/assets/images/5.webp)
 
 Once you’re done, discuss the finding with your team and move on to the next step.
 
@@ -164,7 +164,7 @@ The BDG helps you achieve the following:
 2. Evaluate your possible differentiators based on how important they are to your patients and;
 3. To check whether or not the competition is using the same differentiators.
 
-![](/assets/images/6.png)
+![](/assets/images/6.webp)
 
 Furthermore, the graph is split into four sections:
 
@@ -195,7 +195,7 @@ Write all of the possible ideas and start plotting them on the BDG.
 
 The graph will look something like this
 
-![](/assets/images/7.jpg)
+![](/assets/images/7.webp)
 
 After you have filled out all of the quadrants of the BDG, it’s time to hone in on ONE differentiator and highlight that as your ONLY thing your brand can do and others can’t.
 
@@ -205,7 +205,7 @@ Onliness Statement is a positioning statement that radically differentiates your
 
 The onliness statement declares the only thing that your medical brand does uniquely and no other competitor can claim.
 
-_![](/assets/images/8.png)_
+_![](/assets/images/8.webp)_
 
 The template of the statement is as follows:
 
@@ -213,15 +213,15 @@ Our \[Offering/Brand\] Is the only \[Category\] That \[Differentiator\].
 
 Here are examples from our clients to take inspiration from:
 
-![](/assets/images/9.jpg)
+![](/assets/images/9.webp)
 
-![](/assets/images/10-1.jpg)
+![](/assets/images/10-1.webp)
 
-![](/assets/images/positioning.jpg)
+![](/assets/images/positioning.webp)
 
-![](/assets/images/12-1.png)
+![](/assets/images/12-1.webp)
 
-![](/assets/images/13-1.png)
+![](/assets/images/13-1.webp)
 
 ### **#\~ Plotting your onliness statement:**
 

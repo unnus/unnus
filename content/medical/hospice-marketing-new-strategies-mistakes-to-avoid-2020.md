@@ -1,18 +1,18 @@
 +++
 author = "Sara Seirawan"
-authorAvatarBottom = "/assets/images/ss-1.jpg"
-authorAvatarTop = "/assets/images/s.jpg"
+authorAvatarBottom = "/assets/images/ss-1.webp"
+authorAvatarTop = "/assets/images/s.webp"
 authorBio = "Sara Seirawan, Head of content, manages unnus's content distribution and marketing efforts. She's also a chief author at unnus Magazine."
 category = "healthcare-marketing"
 date = 2020-11-27T23:00:00Z
 description = "Looking to increase your referral rates for your agency? Or a new marketing strategy for your hospice? This article is for you. "
-featImg = "/assets/images/hospice-marketing-1.jpg"
-featImgThumb = "/assets/images/hospice-marketing-1.jpg"
+featImg = "/assets/images/hospice-marketing-1.webp"
+featImgThumb = "/assets/images/hospice-marketing-1.webp"
 linkedinHandle = "/SaraSeirawan"
 page = "medical/single.html"
 readingTime = "10"
 slug = "/hospice-marketing"
-socialThumbnail = "/assets/images/hospice-marketing-1.jpg"
+socialThumbnail = "/assets/images/hospice-marketing-1.webp"
 table_of_content = ["mistakes-to-avoid-in-hospice-marketing", "before-marketing-your-hospice-do-this", "hospice-marketing-ideas", "the-secret-to-a-successful-hospice-marketing-campaign"]
 title = "Hospice Marketing: New Strategies (+ Mistakes To Avoid) 2023"
 twitterHandle = "/@SaraSeirawan"
@@ -72,7 +72,7 @@ The closing techniques that worked well on small purchases backfired with custom
 
 Here’s a graph that illustrates how trust relates to decision making
 
-![Graph shows trust level as it relates to decision making](/assets/images/trust-of-buying-decision.jpg "Graph shows trust level as it relates to decision making")
+![Graph shows trust level as it relates to decision making](/assets/images/trust-of-buying-decision.webp "Graph shows trust level as it relates to decision making")
 
 The same applies when marketing your hospice. Deciding on an end-of-life partner is not an easy decision. And no matter how much better equipped your agency is, if your referral source or patient doesn't trust your brand, they won’t be willing to choose you.
 
@@ -133,7 +133,7 @@ This means you will be **less reliant** on the endless marketing efforts to acqu
 
 {{% blockquote "Marty Neumeier" %}}Trust is the ultimate shortcut to a buying decision and the bedrock of modern branding {{% /blockquote %}}
 
-![neuromarketing in healthcare](/assets/images/neuromarketing.jpg "neuromarketing in healthcare")
+![neuromarketing in healthcare](/assets/images/neuromarketing.webp "neuromarketing in healthcare")
 
 Earlier I hinted at the importance of trust when marketing your hospice. Let’s dig deep and see **why** trust plays a significant role in increasing your referral rate.
 
@@ -163,7 +163,7 @@ Being vocal about the **Why** in the second pitch does one thing that gains you 
 
 When you use a purposeful message, your communication is perceived by the limbic system, the part of the brain that is responsible for emotions and decision-making.
 
-![why messaging and limbic system](/assets/images/why-messaging-and-limbic-system.png "why messaging and limbic system")
+![why messaging and limbic system](/assets/images/why-messaging-and-limbic-system.webp "why messaging and limbic system")
 
 This kind of communication sends trust signals and soars your referral rates from your referral partners.
 
@@ -171,7 +171,7 @@ This kind of communication sends trust signals and soars your referral rates fro
 
 For the first time in history, competition does not come from competitors but from the extreme market clutter (large volume of advertising messages). And our brains deal with this clutter the best way we know how—by blocking most of it out.
 
-![Market clutter ](/assets/images/clear-the-clutter.png "Market clutter")  
+![Market clutter ](/assets/images/clear-the-clutter.webp "Market clutter")  
 In the ever-increasing era of brands, physicians and referral sources are bombarded by marketing messages almost every 3 seconds. This overabundance of “me too” brands will make it hard for your hospice agency to stand out. Every brand is fighting for your audience’s attention.
 
 **And in a hyper-competitive arena, not standing out is the same as being invisible**. So, for your hospice to thrive, it needs to be differentiated, flavored, and sprinkled with a dash of personality.
@@ -192,14 +192,14 @@ Patients visit Healthier because it’s a risk-free choice. In their ads, visual
 
 **Healthier’s positioning statement**
 
-![Hospital positioning statement](/assets/images/positioning.jpg "Hospital positioning statement")  
+![Hospital positioning statement](/assets/images/positioning.webp "Hospital positioning statement")  
 Another positioning example comes from Odontia, a dental practice based in Pasadena, CA. Odentia is positioned as the pain-free dental experience. They understand how patients are reluctant to visit the dentists because of the looming fear of a bad dental experience.
 
 Odentia is the only dentistry service that puts painless dental experience as its #1 Priority.
 
 **Odentia’s Positioning Statement:**
 
-![dentist positioning statement ](/assets/images/statement-1.jpg "dentist positioning statement ")
+![dentist positioning statement ](/assets/images/statement-1.webp "dentist positioning statement ")
 
 ## Hospice Marketing Ideas
 
@@ -230,7 +230,7 @@ The steps are straightforward:
 
 Here’s a visual representation of how a core message might be distributed across your marketing channels.
 
-![Visual representation of brand storytelling in healthcare](/assets/images/hospice-marketing-strategy-storytelling.jpg "Visual representation of brand storytelling in healthcare")
+![Visual representation of brand storytelling in healthcare](/assets/images/hospice-marketing-strategy-storytelling.webp "Visual representation of brand storytelling in healthcare")
 
 ### 2) Run educational programs
 

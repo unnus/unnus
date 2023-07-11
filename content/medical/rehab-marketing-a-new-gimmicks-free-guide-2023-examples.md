@@ -1,18 +1,18 @@
 +++
 author = "Sliman M Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-1.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-1.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2023-03-02T23:00:00Z
 description = "Discover the secrets to result-driven rehab marketing in our guide. Learn how to build a strong brand, develop a messaging strategy, and provide personalized care. Avoid common marketing pitfalls and reach your target audience with a multi-channel approach. Read now for expert tips and insights"
-featImg = "/assets/images/rehab-marketing-2.png"
-featImgThumb = "/assets/images/rehab-marketing-2-1.png"
+featImg = "/assets/images/rehab-marketing-2.webp"
+featImgThumb = "/assets/images/rehab-marketing-2-1.webp"
 linkedinHandle = "SlimanBaghouri"
 page = "medical/single.html"
 readingTime = "8"
 slug = "rehab-marketing"
-socialThumbnail = "/assets/images/rehab-marketing-2-1.png"
+socialThumbnail = "/assets/images/rehab-marketing-2-1.webp"
 table_of_content = ["the-issue-with-the-current-marketing-of-rehab", "focus-on-building-your-brand-instead", "example-of-how-to-apply-branding-to-your-rehab-business", "focus-on-messaging-strategy", "unique-marketing-strategies-for-rehab-centers", "the-donts-of-marketing-your-rehab", "heres-the-secret-to-a-great-marketing-campaign-for-your-rehab"]
 title = "Rehab Marketing: A New Gimmicks-Free Guide [2023]+ Examples"
 twitterHandle = "SlimanBaghouri"
@@ -53,7 +53,7 @@ Lastly, there is a risk that marketing tactics can contribute to the stigma surr
 
 ## Focus on building your brand instead
 
-![rehab marketing](/assets/images/1-brand-strategy.png)
+![rehab marketing](/assets/images/1-brand-strategy.webp)
 
 Rehab businesses should focus on building a brand instead of relying solely on marketing tactics because a strong brand can establish credibility, foster trust, and create a connection with clients that can last long after their treatment has ended.
 
@@ -73,7 +73,7 @@ Here are a few examples of how a rehab businesses can focus on building a brand 
 
 * **Develop a strong mission statement and core values**: your business can establish a clear and compelling [mission statement](https://unnus.com/medical/healthcare-mission-statement/) that communicates its purpose and values to potential clients. For example, it may prioritize holistic and person-centered approaches to addiction treatment and make this a core part of their brand identity.
 
-![Mission statement](/assets/images/2-hospital-mission-statement.jpg)
+![Mission statement](/assets/images/2-hospital-mission-statement.webp)
 
 * **Invest in high-quality branding and design**: A strong brand identity can create a lasting impression on clients and help establish credibility and trust. For example, you may invest in [high-quality branding](healthcare branding) and design, such as developing a distinct logo, color scheme, and messaging that reflects business’ values and mission.
 * **Develop a strong online presence**: A rehab business can create a strong online presence by developing a user-friendly website, creating engaging social media content, and establishing a positive reputation through online reviews and testimonials. This can help establish credibility and encourage more patients to reach you out in case they stumble upon your rehab brand online.
@@ -84,7 +84,7 @@ Overall, building a strong brand involves establishing a clear and compelling id
 
 ## Focus on messaging strategy
 
-![Brand Messaging Strategy ](/assets/images/3-brand-voice.png)
+![Brand Messaging Strategy ](/assets/images/3-brand-voice.webp)
 
 Building a correct messaging strategy for your rehab center involves understanding your target audience, developing a clear and compelling message that reflects your values and mission, and using effective communication channels to reach potential clients.
 
@@ -110,7 +110,7 @@ As we discussed above, [traditional marketing](https://unnus.com/medical/healthc
 * **Incorporate art and creativity into therapy:** Incorporating art and creativity into therapy sessions can help to engage clients and provide a unique and effective approach to addiction treatment. By highlighting the benefits of creative expression in recovery, you can differentiate your rehab center from others and appeal to clients who are looking for a more holistic and personalized approach to treatment.
 * **Develop a mobile app:** Developing a mobile app that provides helpful resources and support for clients and their loved ones can help to differentiate your rehab center from others. The app could include features such as a sober tracker, daily inspiration and motivation, and access to support groups and aftercare resources.
 
-![Rehab Mobile App Marketing](/assets/images/4-rehab-mobile-app.png)
+![Rehab Mobile App Marketing](/assets/images/4-rehab-mobile-app.webp)
 
 * **Offer alternative therapies**: Offering alternative therapies such as acupuncture, yoga, and meditation can help to appeal to clients who are looking for a more holistic and integrated approach to addiction treatment. By highlighting the benefits of these therapies and incorporating them into treatment plans, you can differentiate your rehab center and appeal to clients who are looking for a more personalized and comprehensive approach.
 

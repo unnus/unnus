@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, co-founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2021-03-24T23:00:00Z
 description = "If you're looking to market your medical business, you're in luck. this is the most comprehensive guide to help you generate an endless stream of patients/customers."
-featImg = "/assets/images/healthcare-marketing-featured.jpg"
-featImgThumb = "/assets/images/healthcare-marketing-featured.jpg"
+featImg = "/assets/images/healthcare-marketing-featured.webp"
+featImgThumb = "/assets/images/healthcare-marketing-featured.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "23"
 slug = "/healthcare-marketing"
-socialThumbnail = "/assets/images/healthcare-marketing-featured.jpg"
+socialThumbnail = "/assets/images/healthcare-marketing-featured.webp"
 table_of_content = [" what-is-healthcare-marketing", "why-is-healthcare-marketing-important", "top-healthcare-marketing-strategies", "1-branding-your-marketing-is-as-good-as-the-brand-behind-it", "2-positioning-to-blend-in-or-to-differentiate", "3-storytelling-how-can-your-healthcare-marketing-tell-stories", "4-brand-persona-does-your-marketing-communications-have-a-unique-voice", "5-develop-a-healthcare-marketing-plan", "6-healthcare-seo-strategy", "7-local-seo", "8-google-adwords", "9-video-content-marketing", "10-healthcare-email-marketing", "11-healthcare-social-media-marketing", "12-attract-patients-with-social-media-targeted-ads", "13-video-ads", "14-podcasting-converting-your-podcast-listener-to-patients", "15-podcasting-guest-tour-strategy", "16-expand-your-referral-sources-using-these-strategies", "17-event-marketing", "18-hosting-patient-webinars", "19-cross-promotion-marketing-strategy", "20-multi-channel-marketing", "21-digital-healthcare-public-relations", "22-print-advertising", "23-television-advertising-tv-ads", "24-direct-mail", "heres-the-secret-to-a-result-driven-healthcare-marketing"]
 title = "Healthcare Marketing: The Definitive Guide (2023) "
 twitterHandle = "/@SlimanBaghouri"
@@ -41,7 +41,7 @@ Let’s not waste time and dive right ahead.
 
 ## What is healthcare marketing?
 
-![healthcare marketing illustration](/assets/images/1-what-is-healthcare-marketing.jpg "What is healthcare marketing")
+![healthcare marketing illustration](/assets/images/1-what-is-healthcare-marketing.webp "What is healthcare marketing")
 
 Healthcare marketing is the discipline of implementing promotional strategies to engage and attract a steady stream of patient flow to your medical facility. The main goal of marketing in the healthcare industry is to generate patients while building a strong [medical brand name ](https://unnus.com/medical/clinic-names/)for your business.
 
@@ -62,7 +62,7 @@ Now we know the importance of marketing, let’s dive into some of the strategie
 
 ## 1) Branding: Your marketing is as good as the brand behind it
 
-![illustration of branding in healthcare](/assets/images/2-healthcare-branding.jpg "branding in healthcare")
+![illustration of branding in healthcare](/assets/images/2-healthcare-branding.webp "branding in healthcare")
 
 An easy mistake to make is going straight into marketing without building the foundation for it, your **brand**.
 
@@ -80,13 +80,13 @@ If you’d like to know the actionable step-by-step process to building a health
 
 ## 2) Positioning: To blend in or to differentiate
 
-![healthcare positioning illustration](/assets/images/positioning-strategy.jpg "healthcare positioning ")
+![healthcare positioning illustration](/assets/images/positioning-strategy.webp "healthcare positioning ")
 
 In an age where the patient choice is expanding rapidly, where people are time-poor and information-rich; Where everyone is fist-fighting for your patient’s short attention, not differentiating your medical business is the same as being invisible.
 
 For the first time in history, competition does not come from your direct competitors, indeed, but from the market clutter.
 
-![picture of market clutter](/assets/images/clear-the-clutter.png "market clutter")
+![picture of market clutter](/assets/images/clear-the-clutter.webp "market clutter")
 
 According to research done by Red Crown Marketing agency, It is estimated that the average person encounters between 6,000 to 10,000 ads daily. **All from the same sounding brands, providing the same sounding offers with the same sounding voice**.
 
@@ -106,7 +106,7 @@ A good exercise to know if your medical business is differentiated enough is the
 
 Finish the following sentence: Our \[brand/offering\] Is The Only \[Category\] That \[Benefit/differentiator\]
 
-![positioning statement exercise](/assets/images/onliness-statement.jpg "positioning statement")
+![positioning statement exercise](/assets/images/onliness-statement.webp "positioning statement")
 
 In the first column is your brand or offer. In the second one, you put your category e.g.: cosmetic service, care-center. And in the last one, you put your key differentiator or benefit.
 
@@ -115,17 +115,17 @@ In the first column is your brand or offer. In the second one, you put your cate
 
 Here’s an example of well-positioned medical brands:
 
-![healthcare positioning example](/assets/images/positioning-1.jpg "healthcare positioning example")
+![healthcare positioning example](/assets/images/positioning-1.webp "healthcare positioning example")
 
-![healthcare positioning example](/assets/images/chiropractic-positioning-statement.jpg "healthcare positioning example")
+![healthcare positioning example](/assets/images/chiropractic-positioning-statement.webp "healthcare positioning example")
 
-![healthcare positioning example](/assets/images/8-healthcare-positioning-statement.jpg "healthcare positioning example")
+![healthcare positioning example](/assets/images/8-healthcare-positioning-statement.webp "healthcare positioning example")
 
 If you’d like to know more about the step-by-step process of building a differentiation strategy, check our free [chiropractic marketing ](https://unnus.com/medical/chiropractic-marketing/)guide where we implemented a **positioning** exercise on chiropractic practice. It should be the same process for any medical business.
 
 ## 3) Storytelling: How can your healthcare marketing tell stories?
 
-![healthcare storytelling illustration](/assets/images/9-storytelling-in-healthcare.jpg "storytelling in healthcare")
+![healthcare storytelling illustration](/assets/images/9-storytelling-in-healthcare.webp "storytelling in healthcare")
 
 According to the research done by Headstream agency, great stories created purchase intent in 55 % of surveyed consumers. Furthermore, Cognitive psychologist Jerome Bruner suggests that messages delivered as stories can be up to 22 times more memorable than just facts.
 
@@ -157,13 +157,13 @@ On the other hand, the second kind of message is called Why Messages (WYM). whic
 
 These messages are more effective because they’re emotionally-infused and build trust between your brand and the patient-base
 
-![effective messaging in healthcare](/assets/images/why-messaging-and-limbic-system.png "effective messaging in healthcare")
+![effective messaging in healthcare](/assets/images/why-messaging-and-limbic-system.webp "effective messaging in healthcare")
 
 If you’d like to know exactly the step-by-step process of how brand storytelling marketing works, check our guide where we demonstrate a practical example of [storytelling marketing](https://unnus.com/medical/medical-device-marketing/) for a medical device company.
 
 ## 4) Brand Persona: does your marketing communications have a unique voice?
 
-![healthcare brand persona illustration](/assets/images/10-brand-persona.jpg "brand persona in healthcare")
+![healthcare brand persona illustration](/assets/images/10-brand-persona.webp "brand persona in healthcare")
 
 When was the last time you were excited about a healthcare marketing ad? I’ll assume it’s been a while. That’s because most marketing nowadays is derivative of each other. The same “best in class care” pitch is repeated endlessly.
 
@@ -183,13 +183,13 @@ A good example of brand voice is one of our clients, [Healthier](https://unnus.c
 
 Healthier wanted to break the stereotype of strict and rigid hospital communication with a fun, humorous voice. Their marketing voice is soft-spoken, clever, and spirited:
 
-![brand voice example in healthcare](/assets/images/11-brand-voice-in-healthcare.jpg "brand voice")
+![brand voice example in healthcare](/assets/images/11-brand-voice-in-healthcare.webp "brand voice")
 
-![brand voice example in healthcare](/assets/images/12-brand-voice-in-healthcare.jpg "brand voice example in healthcare")
+![brand voice example in healthcare](/assets/images/12-brand-voice-in-healthcare.webp "brand voice example in healthcare")
 
-![brand voice example in healthcare](/assets/images/13-brand-voice-in-healthcare.png "brand voice example in healthcare")
+![brand voice example in healthcare](/assets/images/13-brand-voice-in-healthcare.webp "brand voice example in healthcare")
 
-![brand voice example in healthcare](/assets/images/14-brand-voice-in-healthcare.png "brand voice example in healthcare")
+![brand voice example in healthcare](/assets/images/14-brand-voice-in-healthcare.webp "brand voice example in healthcare")
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -197,7 +197,7 @@ What differentiates Healthier’s marketing was its unique way of communicating.
 
 ## 5) Develop a healthcare marketing plan
 
-![illustration of healthcare marketing plan](/assets/images/15-healthcare-marketing-plan.jpg "healthcare marketing plan")
+![illustration of healthcare marketing plan](/assets/images/15-healthcare-marketing-plan.webp "healthcare marketing plan")
 
 Without a concrete plan, your marketing efforts run the risk of being inconsistent, ad hoc, or inefficient. To combat that, a [strategic marketing plan](https://unnus.com/medical/healthcare-strategic-planning/) should be a priority before marketing.
 
@@ -205,20 +205,20 @@ I’ll share with you two strategies we’ve successfully used with our clients 
 
 ### #\~Utilize Patient Journey Maps
 
-![patient journey map illustration](/assets/images/3-patient-journey-map-illustration.jpg "patient journey map illustration")
+![patient journey map illustration](/assets/images/3-patient-journey-map-illustration.webp "patient journey map illustration")
 
 A Patient Journey Mapping (PJM) is the act of tracking, optimizing, and enhancing all of the events that happen during the patient experience. Think of it as creating a map to the whole patient journey and proactively looking for hidden issues across all of your touchpoints.
 
 The power of this strategy is that it lets you overhaul all of your marketing channels and ensure consistency in your messaging. Moreover, it lets you spot the hard-to-pinpoint shortcomings of your marketing and resolve these issues before it’s too late.
 
 Patient Journey Maps also provide you with a bird's eye view of every aspect of your medical business, allowing you to personalize your marketing each step of the way.  
-![patient journey map example](/assets/images/1-patient-journey-example-illustration.png "patient journey map example")
+![patient journey map example](/assets/images/1-patient-journey-example-illustration.webp "patient journey map example")
 
 If you’d like to know the exact process of implementing this plan, visit our guide to [patient journey mapping](https://unnus.com/medical/patient-journey-mapping/).
 
 ### #\~Use SWOT Analysis Planning
 
-![Picture that describes components of SWOT Analysis in healthcare](/assets/images/swot-analysis-in-healthcare.png "Healthcare SWOT")
+![Picture that describes components of SWOT Analysis in healthcare](/assets/images/swot-analysis-in-healthcare.webp "Healthcare SWOT")
 
 Being short-sighted when it comes to future decisions is the fast lane to a crumbling marketing strategy. It is critical to assess important aspects of your business before you start marketing it.
 
@@ -230,7 +230,7 @@ For more examples and a detailed explanation of this planning technique, check o
 
 ## 6) Healthcare SEO Strategy
 
-![Illustration of SEO in healthcare ](/assets/images/19-healthcare-seo.jpg "SEO ")
+![Illustration of SEO in healthcare ](/assets/images/19-healthcare-seo.webp "SEO ")
 
 According to Pew Research Center, [83% of adult](https://www.pewresearch.org/internet/2013/01/15/health-online-2013/) internet users look online for health information before visiting the care facility.
 
@@ -240,13 +240,13 @@ Search Engine Optimization (SEO) is a marketing strategy that aims at ranking yo
 
 A great example of this strategy is Orthodontics Limited. They are ranking high on Google search for queries like “Causes of bad breath and "how to use rubber bands for braces". And As a result, their practice website gains massive amounts of traffic each month.
 
-![Picture of a popular orthodontic practice ](/assets/images/orthodontic-marketing-seo.jpg "SEO example")
+![Picture of a popular orthodontic practice ](/assets/images/orthodontic-marketing-seo.webp "SEO example")
 
 That’s roughly 113,000 monthly visitors and potential patients.
 
 ## 7) Local SEO
 
-![illustration of local SEO in healthcare](/assets/images/21-location-base-seo.jpg "Local SEO ")
+![illustration of local SEO in healthcare](/assets/images/21-location-base-seo.webp "Local SEO ")
 
 While traditional SEO focuses on improving your site's visibility in search results on a global scale, local SEO focuses on local search territory to connect with searchers in your area. It’s about optimizing your website to be seen by your community.
 
@@ -256,7 +256,7 @@ If you’d like to be on top of mind in your community online, local SEO is a mu
 
 ## 8) Google Adwords
 
-![Illustration of Google Adwords](/assets/images/22-google-adwords-in-healthcare.jpg "Google Adwords")
+![Illustration of Google Adwords](/assets/images/22-google-adwords-in-healthcare.webp "Google Adwords")
 
 Imagine someone searching for “Family doctor near me” or a similar search, and your website booking page appears on the top results along with directions to your office?
 
@@ -266,13 +266,13 @@ It’s an auction-based platform where advertisers bid on their website to appea
 
 Here's an example of [orthodontic advertising](https://unnus.com/medical/orthodontic-marketing/) campaign:
 
-![Google Adwords example in healthcare](/assets/images/22-google-adwords-example.png "Google adwords")
+![Google Adwords example in healthcare](/assets/images/22-google-adwords-example.webp "Google adwords")
 
 The great news about this strategy is that it’s ridiculously cheaper than other forms of advertising such as TV/Print. And unlike SEO, which might take some time to yield the results, Google Adwords is a significantly faster strategy.
 
 ## 9) Video content marketing
 
-![Illustration of healthcare video marketing](/assets/images/23-video-marketing.jpg "Video Marketing")
+![Illustration of healthcare video marketing](/assets/images/23-video-marketing.webp "Video Marketing")
 
 According to research done by insivia consulting agency, people retain 95% of a message when they watch it in a video, compared to 10% when reading it in text. These stats show huge advantages when it comes to marketing your medical business using video content rather than written text.
 
@@ -284,7 +284,7 @@ A great example of video marketing comes from [Orlando health](https://www.youtu
 
 ## 10) Healthcare email marketing
 
-![illustration of healthcare email marketing](/assets/images/24-healthcare-email-marketing.jpg "healthcare email marketing")
+![illustration of healthcare email marketing](/assets/images/24-healthcare-email-marketing.webp "healthcare email marketing")
 
 The average ROI for email marketing was **$42** for every **dollar** spent, based on recent research by the DMA organization. That’s a staggering **4100%** return on investment. This alone makes email hands-down one of the best channels to attract consistent patient flow to your practice/hospital.
 
@@ -292,7 +292,7 @@ Let’s see how email can skyrocket patient volume and bring your ideal patients
 
 ### #\~First, establishing Sales Funnel Strategy
 
-![Illustration of a sales funnel](/assets/images/25-healthcare-sales-funnel.jpg "sales funnel")
+![Illustration of a sales funnel](/assets/images/25-healthcare-sales-funnel.webp "sales funnel")
 
 Sales funnels are a marketing model that tracks down the purchase journey patients go through from the first time they are aware of your brand (awareness stage) up until they convert as a patient (purchase stage).
 
@@ -307,7 +307,7 @@ This model has 4 stages
 4. **Purchase Stage**
    * When prospects become regular patients after booking an appointment
 
-![healthcare sales funnel example](/assets/images/26-sales-funnel-in-healthcare.jpg "healthcare sales funnel ")
+![healthcare sales funnel example](/assets/images/26-sales-funnel-in-healthcare.webp "healthcare sales funnel ")
 
 Now that we know how the sales funnel works, let’s see it in action with email marketing.
 
@@ -325,13 +325,13 @@ At this point, you helped them with useful information and built trust with them
 
 Here’s an illustration that shows how would-be patients go through this email funnel stage by stage:
 
-_![example of sales funnel in healthcare](/assets/images/27-healthcare-sales-funnel-example.jpg "example of sales funnel in healthcare")_
+_![example of sales funnel in healthcare](/assets/images/27-healthcare-sales-funnel-example.webp "example of sales funnel in healthcare")_
 
 The advantage of this model lies within its automation aspect. This email funnel will work for your business 24/7 and passively [acquire patients](https://unnus.com/medical/marketing-for-doctors/) on autopilot.
 
 ## 11) Healthcare Social Media Marketing
 
-![Illustration of Healthcare Social Media Marketing](/assets/images/28-healthcare-social-media-marketing.jpg "Healthcare Social Media Marketing")
+![Illustration of Healthcare Social Media Marketing](/assets/images/28-healthcare-social-media-marketing.webp "Healthcare Social Media Marketing")
 
 According to research by the demi cooper agency, **41%** of people said social media would affect their choice of a specific doctor, hospital, or medical facility. And **60%** of social media users are most likely to trust social media posts and activity by doctors over any other group.
 
@@ -346,11 +346,11 @@ Being on social media for medical brands carries with it competitive advantages 
 * It keeps your brand on top of mind and provides your patients with constant reminders of your services
 * Being on social media helps retain more of your existing patient base and nurture the relationship between them and your brand.
 
-![example of social media in healthcare sector](/assets/images/29-social-media-in-healthcare-example.jpg "healthcare social media")
+![example of social media in healthcare sector](/assets/images/29-social-media-in-healthcare-example.webp "healthcare social media")
 
 ## 12) Attract patients With Social Media Targeted Ads
 
-![Illustration of Social Media Targeted Ads](/assets/images/29-healthcare-social-media-targeted-ads.jpg "Social Media Targeted Ads")
+![Illustration of Social Media Targeted Ads](/assets/images/29-healthcare-social-media-targeted-ads.webp "Social Media Targeted Ads")
 
 Imagine having the ability to reach your ideal patient, that needs the _exact_ care service your facility provides? This is exactly what social media ads are for. They provide you with unmatched features to reach your ideal cases and convert them into patients.
 
@@ -360,11 +360,11 @@ A great platform for this is Facebook Ads. It allows you to run ad campaigns tar
 
 A good example of this is Englewood Dental Practice based in New Jersey. They were able to get **43X** ROI on their ad spend with **70** new implant cases just in **1** month.
 
-![Example of Healthcare Facebook ads](/assets/images/30-social-media-targeted-ads-examples.png "Healthcare Facebook ads")
+![Example of Healthcare Facebook ads](/assets/images/30-social-media-targeted-ads-examples.webp "Healthcare Facebook ads")
 
 ## 13) Video Ads
 
-![Illustration of video advertising in healthcare](/assets/images/31-healthcare-video-ads.jpg "Video Advertising")
+![Illustration of video advertising in healthcare](/assets/images/31-healthcare-video-ads.webp "Video Advertising")
 
 I would be remiss if I talked about text-based ads without mentioning their counterpart, video ads.
 
@@ -378,10 +378,10 @@ A great example of this is SickKids Hospital’s video ad titled “SickKids goe
 
 ## 14) Podcasting: Converting your podcast listener to patients
 
-![Illustration of podcasting in healthcare](/assets/images/32-healthcare-podcasting.jpg "podcasting in healthcare")
+![Illustration of podcasting in healthcare](/assets/images/32-healthcare-podcasting.webp "podcasting in healthcare")
 
 With the rapid surge of podcasts over the years, podcasting is booming right now. People are constantly listening to their favorite shows while on the bike, driving a car, or in their leisure time. With 1 out of every 5 adults in the USA listening to podcasts regularly.  
-![graph that shows podcast statistics ](/assets/images/podcast-stats-1.jpg "podcast statistics ")
+![graph that shows podcast statistics ](/assets/images/podcast-stats-1.webp "podcast statistics ")
 
 And according to an interview we did with Dr. Ernesto Gutierrez, podcasts are the most effortless medium to consume. This is exactly what makes it perfect for practice owners and healthcare brands to get in the ear of their audience.
 
@@ -396,13 +396,13 @@ Here’s why:
 5. It’s time-saving and requires only 20-minute to 1 hour a day from the host.
 6. It makes it easy for patients to consume your content and interact with your brand.
 
-![](/assets/images/34-healthcare-podcasting-examples-2.PNG)
+![](/assets/images/34-healthcare-podcasting-examples-2.webp)
 
-![](/assets/images/35-dental-podcasts-examples-2.PNG)
+![](/assets/images/35-dental-podcasts-examples-2.webp)
 
 ## 15) Podcasting: Guest Tour Strategy
 
-![Podcast Strategy Tour Illustration](/assets/images/36-podcast-tour-strategy.jpg "Podcast Tour Strategy")
+![Podcast Strategy Tour Illustration](/assets/images/36-podcast-tour-strategy.webp "Podcast Tour Strategy")
 
 {{% important %}} This strategy works well for small practice owners - if you're a hospital executive or you own a multi-location clinic, you can skip this part {{% /important %}}
 
@@ -416,7 +416,7 @@ The one thing to keep in mind is that you should always pick a show where the au
 
 ## 16) Expand your referral sources using these strategies
 
-![Illustration of referral strategy for medical practice](/assets/images/37-healthcare-practice-referrals.jpg "Referral Program ")
+![Illustration of referral strategy for medical practice](/assets/images/37-healthcare-practice-referrals.webp "Referral Program ")
 
 Referrals still are one of the cornerstones of a thriving medical business. After all, [1 out of every 3 patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160594/) is referred to another doctor each year. And to get the most out of your network, establishing a referral program is a must.
 
@@ -450,7 +450,7 @@ Providing people with unexpected gifts will promote rapport and send trust signa
 
 ## 17) Event Marketing
 
-![Healthcare Event Marketing](/assets/images/38-event-marketing-in-healthcare.jpg "Event Marketing")
+![Healthcare Event Marketing](/assets/images/38-event-marketing-in-healthcare.webp "Event Marketing")
 
 Event marketing is the promotion of your healthcare brand through in-person interaction. There are many forms of this strategy so let’s dive into some of them.
 
@@ -471,7 +471,7 @@ Seminars also build credibility and establish your healthcare brand as an author
 
 ## 18) Hosting patient webinars
 
-![Illustration of Patient Webinars ](/assets/images/39-patient-webinars.jpg "Patient Webinars ")
+![Illustration of Patient Webinars ](/assets/images/39-patient-webinars.webp "Patient Webinars ")
 
 Given the current situation with Covid-19, hosting a seminar and local community events might not be viable options as of yet. However, there’s a powerful alternative to the physical events: Webinars.
 
@@ -479,7 +479,7 @@ Webinars are online seminars conducted virtually and from the leisure of your ho
 
 ## 19) Cross-Promotion Marketing Strategy
 
-![Illustration of Cross Promotion Marketing ](/assets/images/40-cross-promotion-marketing-in-healthcare.jpg "Cross Promotion Marketing ")
+![Illustration of Cross Promotion Marketing ](/assets/images/40-cross-promotion-marketing-in-healthcare.webp "Cross Promotion Marketing ")
 
 Cross-promotion strategy is about teaming up with a non-competing medical brand to better serve the same patient. For example, if you’re a hospital that has certain patients that are better suited for [hospice](https://unnus.com/medical/hospice-marketing/), you might recommend referring them to your hospice agency partner. Or if you’re a plastic surgeon you might partner with a cosmetic dental doctor etc.
 
@@ -498,7 +498,7 @@ Let’s go over the tactics of a cross-promotion strategy
 
 ## 20) Multi-Channel Marketing
 
-_![Illustration of Multi-Channel Marketing](/assets/images/41-multi-channel-marketing-in-healthcare.jpg "Multi-Channel Marketing")_
+_![Illustration of Multi-Channel Marketing](/assets/images/41-multi-channel-marketing-in-healthcare.webp "Multi-Channel Marketing")_
 
 According to a recent study by Linkedin, 86% of senior-level marketers think that it’s important to create a cohesive customer journey across all touchpoints and channels. And for this reason, multi-channel marketing is a great way to add a holistic experience for your patients.
 
@@ -510,7 +510,7 @@ Which in turn, lets your medical brand have a foot at many doors and your busine
 
 ## 21) Digital Healthcare Public Relations
 
-![Illustration of Healthcare Public Relation](/assets/images/42-healthcare-public-relation.jpg "Public Relations")
+![Illustration of Healthcare Public Relation](/assets/images/42-healthcare-public-relation.webp "Public Relations")
 
 Digital PR is an underutilized marketing strategy, particularly in healthcare. Exposing your medical business online in front of a massive audience can skyrocket your annual revenue and drum up big interest in your care service. I’ll share with you some of the strategies you can implement for your brand.
 
@@ -520,11 +520,11 @@ As a medical professional or healthcare brand, getting featured in healthcare-sp
 
 A great example of this strategy is Dr. Marchbanks. He regularly publishes articles in magazines such as The Blogging Doctors while at the same time promoting his clinic.
 
-![Illustration of Getting Public Press](/assets/images/43-healthcare-public-relation-examples.jpg "Getting Public Press")
+![Illustration of Getting Public Press](/assets/images/43-healthcare-public-relation-examples.webp "Getting Public Press")
 
 That links lead to a page where readers can book an appointment.
 
-![Screenshot of dental website](/assets/images/44-healthcare-public-relation-examples.jpg "Dental Website")
+![Screenshot of dental website](/assets/images/44-healthcare-public-relation-examples.webp "Dental Website")
 
 ### #\~ Sponsor an influencer
 
@@ -542,7 +542,7 @@ Make sure you have news your audience (and the media's audience) will care about
 
 ## 22) Print Advertising
 
-![Illustration of Print Advertising in healthcare](/assets/images/45-healthcare-print-advertising-for.jpg "Print Advertising in healthcare")
+![Illustration of Print Advertising in healthcare](/assets/images/45-healthcare-print-advertising-for.webp "Print Advertising in healthcare")
 
 Despite the myths that print is dead, it’s still the biggest contributor to customer engagement according to Nielsen research firm. Not only that but the MNI Media study showed that baby boomers and GenXers read about 9.2 magazines per month.
 
@@ -558,7 +558,7 @@ This alone makes print advertising a bottomless source of marketing opportunitie
 
 ## 23) Television Advertising (TV Ads)
 
-![Illustrations of healthcare TV ads ](/assets/images/46-healthcare-tv-advertising.jpg "TV Ads")
+![Illustrations of healthcare TV ads ](/assets/images/46-healthcare-tv-advertising.webp "TV Ads")
 
 While digital advertising agencies tend to overstate the death of TV and other traditional media marketing, television is still one of the biggest marketing channels healthcare organizations use.
 
@@ -576,7 +576,7 @@ Much like any art, TV ads must be well-crafted and backed by a creative powerhou
 
 ## 24) Direct Mail
 
-![Illustration of direct mail in the healthcare industry](/assets/images/47-healthcare-direct-mail.jpg "Healthcare Direct Mail")
+![Illustration of direct mail in the healthcare industry](/assets/images/47-healthcare-direct-mail.webp "Healthcare Direct Mail")
 
 There’s a lot less mail in the inbox today. It’s no longer filled with brochures and fliers from newspapers and thanks to online billings, we’re receiving fewer billing papers.
 
@@ -586,7 +586,7 @@ Direct Mail is still one of the best tactile marketing strategies healthcare bus
 
 Not only that, but Direct Mail is a highly personalized experience. You can send physical objects to potential patients that work as a reminder of your medical business. And in the overly-saturated digital world, people now are more than ever, appreciating the tangible aspect of Mail.
 
-![Screenshot of Direct Mail Campaign](/assets/images/48-healthcare-direct-mail-examples-2.png "Direct Mail Campaign Example")
+![Screenshot of Direct Mail Campaign](/assets/images/48-healthcare-direct-mail-examples-2.webp "Direct Mail Campaign Example")
 
 ## Here’s the “secret” to a result-driven healthcare marketing
 
@@ -594,7 +594,7 @@ Not only that, but Direct Mail is a highly personalized experience. You can send
 
 Marketing without building your brand is the same as leveraging temporary tactics that come with an expiration date.
 
-![Illustration that explains different between healthcare marketing and branding](/assets/images/49-healthcare-marketing-vs-healthcare-branding.png "Marketing Vs Branding")
+![Illustration that explains different between healthcare marketing and branding](/assets/images/49-healthcare-marketing-vs-healthcare-branding.webp "Marketing Vs Branding")
 
 Marketing your healthcare business should build strong brand recognition to a point where your business no longer needs heavy ad expenses.
 

@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, co-founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-statistics"
 date = 2021-05-10T23:00:00Z
 description = "You’ll learn about spine-chilling figures and facts regarding chiropractic care in 2021 in this guide"
-featImg = "/assets/images/stat-feature.jpg"
-featImgThumb = "/assets/images/stat-feature-2.jpg"
+featImg = "/assets/images/stat-feature.webp"
+featImgThumb = "/assets/images/stat-feature-2.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "7"
 slug = "/chiropractic-facts-statistics"
-socialThumbnail = "/assets/images/stat-feature-1.jpg"
+socialThumbnail = "/assets/images/stat-feature-1.webp"
 table_of_content = ["top-chiropractic-statistic", "chiropractic-patients-statistic", "the-chiropractic-profession-facts-and-statistics", "interesting-and-fun-chiropractic-facts", "stats-about-disorders-chiropractors-treat", "stats-that-compare-chiropractic-care-to-medical-care", "chiropractic-statistics-by-demographic", "footnotes"]
 title = "65 Chiropractic Facts And Statistics For 2023 [NEW]"
 twitterHandle = "/@SlimanBaghouri"
@@ -40,7 +40,7 @@ These are the most interesting Chiropractic stats we think you should know.
 
 {{% stat %}} **4)** visiting a chiropractor regularly reduces your pharmaceutical costs by 85%.  \[9\] {{% /stat %}}
 
-![Picture of chiropractic Statistics and facts ](/assets/images/1-1.png)
+![Picture of chiropractic Statistics and facts ](/assets/images/1-1.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -57,7 +57,7 @@ These are the most interesting Chiropractic stats we think you should know.
 
 {{% stat %}} **10)** The US chiropractic market is estimated to worth $15+ billion. \[10\] {{% /stat %}}
 
-![Screenshot of chiropractic facts ](/assets/images/2-1.png)
+![Screenshot of chiropractic facts ](/assets/images/2-1.webp)
 
 {{% stat %}} **11)** 35% of the survey respondents said they didn't visit a chiropractor in the last year because the chiropractic care they received earlier was effective and they no longer need it. \[11\]{{% /stat %}}
 
@@ -73,7 +73,7 @@ Now, let’s go through some of the interesting stats when it comes to chiroprac
 
 {{% stat %}} **15)** Treatment for low-back pain by a chiropractor costs 40% less than that of a medical doctor \[15\]{{% /stat %}}
 
-![Picture of chiropractic Statistics that shows how much DC costs less than MD ](/assets/images/3-2.png)
+![Picture of chiropractic Statistics that shows how much DC costs less than MD ](/assets/images/3-2.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -90,7 +90,7 @@ Now, let’s go through some of the interesting stats when it comes to chiroprac
 
 {{% stat %}} **21)** 60% of people who receive chiropractic care have [insurance coverage](https://www.insurancily.com/see-how-easily-you-can-understand-legal-and-general-life-insurance-2022-updates/). \[21\] {{% /stat %}}
 
-![screenshot of a chiropractic fact that says 60% of people receive insured chiropractic care ](/assets/images/4-3.png)
+![screenshot of a chiropractic fact that says 60% of people receive insured chiropractic care ](/assets/images/4-3.webp)
 
 {{% stat %}} **22)** About 20% of chiropractic patients are receiving treatment for neck pain. \[22\] {{% /stat %}}
 
@@ -104,11 +104,11 @@ Now, let’s go through some of the interesting stats when it comes to the chiro
 
 {{% stat %}} **25)** More than 22 million United States citizens visit a chiropractor annually. \[25\] {{% /stat %}}
 
-![Picture of chiropractic Statistics that says 20+ million chiropractic visit yearly](/assets/images/6-chiropractic-facts.png)
+![Picture of chiropractic Statistics that says 20+ million chiropractic visit yearly](/assets/images/6-chiropractic-facts.webp)
 
 {{% stat %}} **26)** Medicare spends $400 million to $500 million on chiropractic care each year. \[26\] {{% /stat %}}
 
-![Picture of chiropractic fact that says medicare spends $500M on chiropractic care](/assets/images/5-chiropractic-statistic.png)
+![Picture of chiropractic fact that says medicare spends $500M on chiropractic care](/assets/images/5-chiropractic-statistic.webp)
 
 {{% stat %}} **27)** there are roughly 95,438 chiropractic business licenses in the U.S. \[27\] {{% /stat %}}
 
@@ -140,7 +140,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **39)** Chiropractic care is the fastest-growing primary health care profession. \[39\]  {{% /stat %}}
 
-![screenshot of graph that shows statistics about chiropractic care festest chiropractic ](/assets/images/7-chiropractic-facts.jpg)
+![screenshot of graph that shows statistics about chiropractic care festest chiropractic ](/assets/images/7-chiropractic-facts.webp)
 
 {{% stat %}} **40)** Research has proven that chiropractors help with weight loss. \[40\] {{% /stat %}}
 
@@ -154,7 +154,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **44)** Back pain accounts for more than 264 million lost workdays each year. \[44\] {{% /stat %}}
 
-![Picture of chiropractic Statistics and facts ](/assets/images/9-chiropractic-facts.png)
+![Picture of chiropractic Statistics and facts ](/assets/images/9-chiropractic-facts.webp)
 
 {{% stat %}} **45)** After the common cold, back injuries are the biggest reason for absenteeism from work. \[45\] {{% /stat %}}
 
@@ -162,7 +162,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **47)** The lifetime prevalence of low-back pain is reported to be as high as 85%. \[47\] {{% /stat %}}
 
-![screenshot of chiropractic facts that says the prevelence of back pain is 85%](/assets/images/8-chiropractic-facts.png)
+![screenshot of chiropractic facts that says the prevelence of back pain is 85%](/assets/images/8-chiropractic-facts.webp)
 
 {{% stat %}} **48)** Around 41% of the survey respondents said that chiropractic care greatly helps deal with neck and back pain. \[48\]  {{% /stat %}}
 
@@ -190,11 +190,11 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **58)** 56% of patients were satisfied with the chiropractor, compared to just 13% who were satisfied with the family physician. \[58\]  {{% /stat %}}
 
-![picture of chiropractic stat](/assets/images/10-chiropractic-statistics.png)
+![picture of chiropractic stat](/assets/images/10-chiropractic-statistics.webp)
 
 {{% stat %}} **59)** 40% of Americans with lower back pain will see a chiropractor rather than a medical doctor. \[59\] {{% /stat %}}
 
-![fact that says 40% americans prefer chiropractor](/assets/images/11-chiropractic-statistics.png)
+![fact that says 40% americans prefer chiropractor](/assets/images/11-chiropractic-statistics.webp)
 
 ## Chiropractic Statistics By Demographic
 
@@ -206,11 +206,11 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **63)** 58% of all chiropractic patients believe it is a critical consideration when choosing an insurance provider. \[63\]  {{% /stat %}}
 
-![Picture of chiropractic Statistics and facts fact](/assets/images/12-chiropractic-facts.png)
+![Picture of chiropractic Statistics and facts fact](/assets/images/12-chiropractic-facts.webp)
 
 {{% stat %}} **64)** There are more than 100 million visits for spine conditions each year. \[64\]  {{% /stat %}}
 
-![Picture of chiropractic Statistics and facts ](/assets/images/13-chiropractic-facts.png)
+![Picture of chiropractic Statistics and facts ](/assets/images/13-chiropractic-facts.webp)
 
 {{% stat %}} **65)** 31 million Americans suffer from low back pain. \[65\] {{% /stat %}}
 

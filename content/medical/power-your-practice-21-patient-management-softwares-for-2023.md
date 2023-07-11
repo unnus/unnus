@@ -1,18 +1,18 @@
 +++
 author = "Sliman M Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-1.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-1.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2023-02-24T23:00:00Z
 description = "Discover the top patient management software solutions for various medical specialties including psychiatry, dental, cardiology, and more. Learn about their unique features, benefits, and pricing to find the perfect fit for your practice."
-featImg = "/assets/images/featured-softwares-2.png"
-featImgThumb = "/assets/images/featured-softwares-2.png"
+featImg = "/assets/images/featured-softwares-2.webp"
+featImgThumb = "/assets/images/featured-softwares-2.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "12"
 slug = "patient-software-management"
-socialThumbnail = "/assets/images/featured-softwares-2.png"
+socialThumbnail = "/assets/images/featured-softwares-2.webp"
 table_of_content = ["patient-mangments-softwares-for-general-practices", "patient-mangments-softwares-for-dentists", "patient-mangments-softwares-for-chiropractors", "patient-mangments-softwares-for-cardiologists", "patient-mangments-softwares-for-dermatologists", "patient-mangments-softwares-for-mental-health-practitioners", "patient-mangments-softwares-for-ophthalmologists"]
 title = "Power Your Practice: 25 Patient Management Softwares [2023] "
 twitterHandle = "SlimanBaghouri"
@@ -44,7 +44,7 @@ It is used by a wide range of healthcare providers, including doctors, dentists,
 
 ### 1) DrChrono
 
-![DrChrono Interface](/assets/images/1-drchrono.png)
+![DrChrono Interface](/assets/images/1-drchrono.webp)
 
 DrChrono is a cloud-based EHR software designed for general practices. It features customizable templates, appointment scheduling, e-prescriptions, and a patient portal. One unique feature of DrChrono is its speech-to-text capability, which allows physicians to dictate notes using a mobile device. This software also includes revenue cycle management, which helps practices streamline billing and payment processes.
 
@@ -66,7 +66,7 @@ DrChrono offers four pricing plans for their EHR and practice management softwar
 
 ### 2) Athenahealth
 
-![Athenahealth interface](/assets/images/2-athenahealth.jpg "Athenahealth interface")
+![Athenahealth interface](/assets/images/2-athenahealth.webp "Athenahealth interface")
 
 Athenahealth is a cloud-based EHR software designed for small to medium-sized practices. It includes features such as appointment scheduling, e-prescriptions, and patient communication tools. athenahealth also includes population health management tools to help practices track patient populations and improve outcomes.
 
@@ -88,7 +88,7 @@ Athenahealth offers a flexible pricing model based on the size and needs of your
 
 ### 3) AdvancedMD
 
-![AdvancedMD interface](/assets/images/3-advancedmd.jpg)
+![AdvancedMD interface](/assets/images/3-advancedmd.webp)
 
 AdvancedMD is a cloud-based EHR software designed for general practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of AdvancedMD is its telemedicine capabilities, which allow practices to offer virtual consultations to patients. This software also includes a patient kiosk feature, which allows patients to check-in and complete forms electronically.
 
@@ -110,7 +110,7 @@ AdvancedMD offers three pricing plans for their EHR and practice management soft
 
 ### 4) Kareo
 
-![Kareo interface](/assets/images/4-kareo.png)
+![Kareo interface](/assets/images/4-kareo.webp)
 
 Kareo is a cloud-based EHR software designed for small to medium-sized practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of Kareo is its patient engagement tools, which help practices stay connected with patients between visits. This software also includes billing and revenue cycle management tools to help practices manage finances.
 
@@ -132,7 +132,7 @@ Kareo offers three pricing plans for their EHR and practice management software,
 
 ### 5) NextGen Healthcare
 
-![NextGen-Healthcare interface](/assets/images/5-nextgen-healthcare.jpg)
+![NextGen-Healthcare interface](/assets/images/5-nextgen-healthcare.webp)
 
 NextGen Healthcare is a cloud-based EHR software designed for general practices. It includes features such as appointment scheduling, e-prescriptions, and patient portals. One unique feature of NextGen Healthcare is its patient intake management tools, which allow practices to manage patient registration and check-in processes. This software also includes revenue cycle management features to help practices manage finances.
 
@@ -156,7 +156,7 @@ NextGen Healthcare offers customized pricing based on the size and needs of your
 
 ### 6) Dentrix
 
-![Dentrix interface](/assets/images/6-dentrix.png)
+![Dentrix interface](/assets/images/6-dentrix.webp)
 
 Dentrix is a popular dental practice management software that offers a comprehensive range of features, from appointment scheduling to patient communication.
 
@@ -174,7 +174,7 @@ Dentrix offers a range of pricing options depending on the specific needs of you
 
 ### 7) Open Dental
 
-![Open Dental interface](/assets/images/7-open-dental.png)
+![Open Dental interface](/assets/images/7-open-dental.webp)
 
 Open Dental is another popular dental practice management software that offers a robust set of features.
 
@@ -209,7 +209,7 @@ Curve Dental offers a cloud-based software solution with pricing starting at $49
 
 ### 9) Eaglesoft
 
-![Eaglesoft interface](/assets/images/9-eaglesoft.jpg)
+![Eaglesoft interface](/assets/images/9-eaglesoft.webp)
 
 Eaglesoft is a dental practice management software that offers a wide range of features designed to help dental practices streamline their operations.
 
@@ -227,7 +227,7 @@ Eaglesoft offers a range of pricing options depending on the specific needs of y
 
 ### 10) Practice-Web Dental
 
-![Practice-Web Dental interface](/assets/images/10-practice-web-dental.jpg)
+![Practice-Web Dental interface](/assets/images/10-practice-web-dental.webp)
 
 Practice-Web Dental is a cloud-based dental practice management software that offers a wide range of features and benefits. Here are some of the key
 
@@ -247,7 +247,7 @@ They do not disclose pricing on their website, but you can contact their sales t
 
 ### 11) ChiroTouch
 
-![ChiroTouch interface](/assets/images/11-chirotouch.jpeg)
+![ChiroTouch interface](/assets/images/11-chirotouch.webp)
 
 ChiroTouch is a comprehensive chiropractic software that is designed to help chiropractors improve their workflow, automate patient care, and simplify billing processes. Here are some of the
 
@@ -267,7 +267,7 @@ ChiroTouch offers a cloud-based software solution with pricing starting at $129 
 
 ### 12) ECLIPSE
 
-![ECLIPSE interface](/assets/images/12-eclipse.png)
+![ECLIPSE interface](/assets/images/12-eclipse.webp)
 
 ECLIPSE is a chiropractic software that offers a wide range of features to help you manage your practice. From patient scheduling to billing and collections, ECLIPSE has got you covered. Here are
 
@@ -286,7 +286,7 @@ Again, the only way to get their pricing is by contacting their sales team.
 
 ### 13) ChiroFusion
 
-![ChiroFusion interface](/assets/images/13-chirofusion.png)
+![ChiroFusion interface](/assets/images/13-chirofusion.webp)
 
 ChiroFusion is an all-in-one chiropractic software that helps chiropractors manage their patients, automate their workflow, and simplify billing processes.
 
@@ -304,7 +304,7 @@ ChiroFusion offers a cloud-based software solution with pricing starting at $99 
 
 ### 14) Atlas
 
-![Atlas chiropractic interface](/assets/images/14-atlas.png)
+![Atlas chiropractic interface](/assets/images/14-atlas.webp)
 
 Atlas is a cloud-based chiropractic software that is designed to help chiropractors manage their practices from anywhere. With Atlas, you can access your patient data and practice information from any device with an internet connection.
 
@@ -358,7 +358,7 @@ Again, you can contact their sales team for more information on the pricing.
 
 ### 17) DocSpera
 
-![DocSpera interface](/assets/images/17-docspera.png)
+![DocSpera interface](/assets/images/17-docspera.webp)
 
 DocSpera is a patient management software that focuses on collaboration between healthcare providers. In addition to managing patient data and medical records, DocSpera includes features for communication and collaboration between Cardiologists, nurses, and other healthcare professionals.
 
@@ -378,7 +378,7 @@ DocSpera is a patient management software that focuses on collaboration between 
 
 ### 18) Modernizing Medicine
 
-![Modernizing Medicine interface](/assets/images/18-modernizing-medicine.jpg)
+![Modernizing Medicine interface](/assets/images/18-modernizing-medicine.webp)
 
 Modernizing Medicine is a comprehensive patient management software designed specifically for dermatology practices. It includes features such as electronic medical records, e-prescribing, appointment scheduling, and billing. The software also comes with a built-in patient portal, which allows patients to securely access their medical records and communicate with their doctor.
 
@@ -423,7 +423,7 @@ Nextech is a cloud-based patient management software that includes features such
 
 ### 20) Compulink
 
-![Compulink interface](/assets/images/20-compulink.jpeg)
+![Compulink interface](/assets/images/20-compulink.webp)
 
 Compulink is an all-in-one patient management software solution that includes electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
 
@@ -446,7 +446,7 @@ You need to contact sales team.
 
 ### 21) CureMD
 
-![CureMD interface](/assets/images/21-curemd.jpg)
+![CureMD interface](/assets/images/21-curemd.webp)
 
 CureMD is a cloud-based patient management software that includes features such as electronic medical records, appointment scheduling, billing, and a patient portal. It also includes a dermatology-specific module, which includes templates for exam documentation, dermatology-specific billing codes, and more.
 
@@ -493,7 +493,7 @@ Valant is a patient management software designed specifically for mental health 
 
 ### 23) Luminello
 
-![Luminello interface](/assets/images/23-luminello.jpg)
+![Luminello interface](/assets/images/23-luminello.webp)
 
 Luminello is a cloud-based patient management software designed for mental health providers, including psychiatrists. Luminello offers features such as appointment scheduling, billing and invoicing, and clinical documentation. It also offers telehealth capabilities, allowing psychiatrists to conduct virtual appointments with their patients. One of the unique features of Luminello is its treatment [planning ](https://unnus.com/medical/healthcare-strategic-planning/)tool, which can help psychiatrists create customized treatment plans for their patients.
 
@@ -521,7 +521,7 @@ Luminello is a cloud-based patient management software designed for mental healt
 
 ### 24) EyeMD Healthcare Systems
 
-![EyeMD interface](/assets/images/24-eyemd.jpeg)
+![EyeMD interface](/assets/images/24-eyemd.webp)
 
 EyeMD EMR Healthcare Systems is a comprehensive software solution that allows ophthalmologists to manage their patient records, prescriptions, and appointments with ease. The software also includes a range of features such as e-prescriptions, insurance verification, and an integrated billing system. EyeMD EMR Healthcare Systems is cloud-based, ensuring that your data is secure and accessible from anywhere.
 
@@ -546,7 +546,7 @@ Contact their sales team for pricing details
 
 ### 25) Eyefinity EHR
 
-![Eyefinity interface](/assets/images/25-eyefinity.png)
+![Eyefinity interface](/assets/images/25-eyefinity.webp)
 
 Eyefinity EHR is a cloud-based EHR system that offers a range of features designed specifically for eye care professionals. The software includes modules for patient management, e-prescribing, and inventory management. Eyefinity EHR is user-friendly and customizable, allowing you to create templates that fit your workflow.
 

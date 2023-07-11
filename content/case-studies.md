@@ -12,7 +12,7 @@ weight: 4
 <div class="container">
 <div class="work-holder reveal-image-container">
 <div class="media-row reveal-image">
-	<img class="skew"  src="/assets/images/work/caresect-thumbnail.jpg" alt="Caresect Psychotherapy clinic">
+	<img class="skew"  src="/assets/images/work/caresect-thumbnail.webp" alt="Caresect Psychotherapy clinic">
 </div>
 <div class="text-row split-parent">
 		<h2 class="client-name split-child reveal-text">Caresect, Psychotherapy clinic </h2>
@@ -42,12 +42,12 @@ weight: 4
 			</a>															
 	</div>					
 	<div class="media-row reveal-image">
-		<img class="skew"  src="/assets/images/work/rodbell-thumbnail.jpg" alt="Rodbell pharmaceutical clinic">
+		<img class="skew"  src="/assets/images/work/rodbell-thumbnail.webp" alt="Rodbell pharmaceutical clinic">
 	</div>					
 </div>
 <div class="work-holder reveal-image-container">
 	<div class="media-row reveal-image">
-		<img class="skew"  src="/assets/images/work/healthier-thumbnail.jpg" alt="Community Hospital">
+		<img class="skew"  src="/assets/images/work/healthier-thumbnail.webp" alt="Community Hospital">
 	</div>
 	<div class="text-row">
 			<h2 class="client-name reveal-text">Healthier, Community Hospital </h2>

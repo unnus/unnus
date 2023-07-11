@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-branding"
 date = 2020-11-01T23:00:00Z
 description = "With the cutthroat competition, pharmaceutical company need to differentiate in order survive. In this article we'll discuss how you can cut through \"me too\" competition using proven pharma branding strategies"
-featImg = "/assets/images/pharma-branding.jpg"
-featImgThumb = "/assets/images/pharma-branding.jpg"
+featImg = "/assets/images/pharma-branding.webp"
+featImgThumb = "/assets/images/pharma-branding.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "12"
 slug = "pharma-branding"
-socialThumbnail = "/assets/images/pharma-branding.jpg"
+socialThumbnail = "/assets/images/pharma-branding.webp"
 table_of_content = ["threats-the-pharmaceutical-industry-is-facing", "what-is-pharmaceutical-branding", "advantages-of-branding-in-the-pharmaceutical-industry", "the-5-stages-of-brand-strategy ", "the-truth-about-building-a-future-proof-pharmaceutical-brand"]
 title = "Pharma Branding: Create A Market-Leading Company (2023)"
 twitterHandle = "/@SlimanBaghouri"
@@ -139,7 +139,7 @@ Your corporate brand can also build momentum for the product, trigger sales, and
 
 We see this in action when Pfizer used its logo on Caduet's pre-launch materials to create a relationship between the company, the therapeutic area, and the product.
 
-![Pharma Branding Example](/assets/images/pfizer-s-caduet.jpg "Pharma Branding Example")
+![Pharma Branding Example](/assets/images/pfizer-s-caduet.webp "Pharma Branding Example")
 
 ### II) Branding creates an unbreachable wall against the competition
 
@@ -209,7 +209,7 @@ We also go into developing a purpose-driven approach to the company’s communic
 
 This stage will be the central point from which everything else will branch.
 
-![Branding In pharmaceutical Industry](/assets/images/brand-dna.jpg "Branding In pharmaceutical Industry")
+![Branding In pharmaceutical Industry](/assets/images/brand-dna.webp "Branding In pharmaceutical Industry")
 
 ### Stage 2: Brand Positioning
 
@@ -227,7 +227,7 @@ Viagra’s positioning was meant to empower man with impotence issues. The folk 
 
 VIAGRA - the name is a suggestion of vitality, virility, and vigor and because it rhymes with Niagara, hinting at force and endurance. The name also was inspired by the Sanskrit word "vyaghra" which means tiger.
 
-![Viagra Brand Positioning Example](/assets/images/viagra.jpg "Viagra Brand Positioning Example")
+![Viagra Brand Positioning Example](/assets/images/viagra.webp "Viagra Brand Positioning Example")
 
 Cialis on the other hand needed to steal the market share from its competitor. To do so, the need for effective positioning is irreplaceable.
 
@@ -237,7 +237,7 @@ Cialis stripped the sense of “rush” Viagra had with its short timespan. And 
 
 The name Cialis comes from the root word “Ciel,” which is French and means “sky” and “heaven”. You can see already that the naming is intended to be more sentimental and fanciful.
 
-![Cialis Brand Positioning Example](/assets/images/cialis.jpg "Cialis Brand Positioning Example")  
+![Cialis Brand Positioning Example](/assets/images/cialis.webp "Cialis Brand Positioning Example")  
 In summary, although both Viagra and Cialis target the same audience, the same audience **perceived** them differently, thanks to positioning.
 
 ### Stage 3: Brand Persona

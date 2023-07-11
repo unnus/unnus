@@ -1,18 +1,18 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 category = "healthcare-marketing"
 date = 2020-12-05T23:00:00Z
 description = "Looking for unique and new chiropractic marketing strategies? This article covers little-known and ridiculously powerful strategies for your medical business."
-featImg = "/assets/images/chiropractic-marketing-thumbnail.jpg"
-featImgThumb = "/assets/images/chiropractic-marketing-thumbnail.jpg"
+featImg = "/assets/images/chiropractic-marketing-thumbnail.webp"
+featImgThumb = "/assets/images/chiropractic-marketing-thumbnail.webp"
 linkedinHandle = "/slimaneBaghouri"
 page = "medical/single.html"
 readingTime = "19"
 slug = "/chiropractic-marketing"
-socialThumbnail = "/assets/images/chiropractic-marketing-thumbnail.jpg"
+socialThumbnail = "/assets/images/chiropractic-marketing-thumbnail.webp"
 table_of_content = ["why-most-chiropractic-marketing-campaigns-fail", "chiropractic-marketing-strategies", "1-developing-a-brand-dna", "2-developing-a-brand-positioning-strategy", "3-optical-communication-strategy", "4-using-brand-voice-strategy-with-social-media", "5-brand-storytelling-strategy", "6-email-autoresponder-course-strategy", "7-podcast-tours", "8-speaking-at-healthcare-conferences", "9-honorable-mentions", "the-secret-to-an-effective-chiropractic-marketing"]
 title = "Little-Known Chiropractic Marketing Ideas 2023 [+Examples]"
 twitterHandle = "/@SlimanBaghouri"
@@ -78,7 +78,7 @@ With the flooding wellspring of brands, businesses are popping up by the second,
 
 Your competition does not come from other offices, indeed, but from the clutter.
 
-![Healthcare Marketing Clutter](/assets/images/clear-the-clutter.png "Market Clutter")
+![Healthcare Marketing Clutter](/assets/images/clear-the-clutter.webp "Market Clutter")
 
 The average person encounters between[ 6,000 to 10,000 ads](https://www.forbes.com/sites/forbesagencycouncil/2017/08/25/finding-brand-success-in-the-digital-world/?sh=5c62d645626e) daily. **All from the same sounding brands, providing the same sounding offers with the same sounding voice**.
 
@@ -92,7 +92,7 @@ Being radically different is the only way to cut through this clutter. It is you
 
 So, before marketing, ask yourself, does our marketing messages look the same as everyone else’s? Are we adding to the clutter?
 
-![how brands occupy brain space](/assets/images/healthcare-branding-1.jpg "healthcare branding")
+![how brands occupy brain space](/assets/images/healthcare-branding-1.webp "healthcare branding")
 
 ### **3) Embarking on a vision-blind marketing campaign**
 
@@ -111,7 +111,7 @@ To learn more about future-proof metrics, check this [guide](https://unnus.com/m
 
 ### **4) Misalignment between the marketing and the patient experience**
 
-![consistent chiropractic marketing vs out of sync chiropractic marketing](/assets/images/consistant-chiropractic-marketing.jpg "consistent chiropractic marketing vs out of sync chiropractic marketing")
+![consistent chiropractic marketing vs out of sync chiropractic marketing](/assets/images/consistant-chiropractic-marketing.webp "consistent chiropractic marketing vs out of sync chiropractic marketing")
 
 A common trap Marketers fall into, is that the marketing is not in sync with the patient experience. Marketers get caught in increasing the patient volume and outright disregard the consistency of the campaign.
 
@@ -125,7 +125,7 @@ Let’s check some interesting marketing strategies.
 
 ## **1) Developing a Brand DNA**
 
-![illustration of brand DNA in healthcare](/assets/images/brand-dna.PNG "illustration of brand DNA in healthcare")
+![illustration of brand DNA in healthcare](/assets/images/brand-dna.webp "illustration of brand DNA in healthcare")
 
 Brand DNA is the credo of your chiropractic brand. It is the true north that directs your practice. Brand DNA consists of three elements: your **why**, **how, and what**. The “What and how” is what you do and how you do it. And the “Why” is the reason for the practice to exist.
 
@@ -157,7 +157,7 @@ _What good is a lifestyle if it's restricted, stifled by discomfort, and not liv
 
 The second pitch doesn't sell you what they do. They’re selling you **why** they’re doing it. This tightens the relationship and loyalty for the business and transforms its perceived value (a.k.a brand equity).
 
-![healthcare purposeful messages and how they are perceived](/assets/images/why-messaging-and-limbic-system.png "healthcare purposeful messages and how they are perceived")
+![healthcare purposeful messages and how they are perceived](/assets/images/why-messaging-and-limbic-system.webp "healthcare purposeful messages and how they are perceived")
 
 If you’d like to know how you develop a DNA and integrate it into your marketing communication, Here's a [free guide ](https://unnus.com/medical/healthcare-mission-statement/#brand-dna-creating-a-mission-and-a-purpose-statement)to implement it within your business.
 
@@ -179,7 +179,7 @@ Fed up with this, one day, James painted on the store’s frontend the following
 
 **_“Is The Man Listening? Privacy Sold Here”_**
 
-![positioning example in healthcare](/assets/images/positioning-in-healthcare.jpg "positioning example in healthcare")  
+![positioning example in healthcare](/assets/images/positioning-in-healthcare.webp "positioning example in healthcare")  
 While you can buy the same phone somewhere else, James sells **privacy**. He differentiated the store to be **the only store that sells privacy to its customer**.
 
 He knows that his surrounding area is full of drug dealers and smugglers. So The statement “Privacy sold here” resonates with people that want to keep a low profile.
@@ -192,7 +192,7 @@ But before we dive into the “how”, I want to drive home a concept many might
 
 {{% blockquote "Marty Neumeier" %}}An unfocused brand is one that’s so broad that it doesn’t stand for anything. A focused brand, by contrast, knows exactly what it is, why it’s different, and why people want it.{{% /blockquote %}}
 
-![focused chiropractic brand vs defocused chiropractic brand](/assets/images/brand-focus.jpg "focused chiropractic brand vs defocused chiropractic brand")  
+![focused chiropractic brand vs defocused chiropractic brand](/assets/images/brand-focus.webp "focused chiropractic brand vs defocused chiropractic brand")  
 In his book, The Win Without Pitching Manifesto, author Blair Enns calls positioning “The Difficult Business Decision”.
 
 And it makes sense.
@@ -229,7 +229,7 @@ In this stage, we stress your ideal patients and their characteristics. Knowing 
 
 To get a firm understanding of your target audience we’ll use Audience Persona Exercises™.
 
-![Audience Persona Exercise  ](/assets/images/target-audience.jpg "Audience Persona Exercise")
+![Audience Persona Exercise  ](/assets/images/target-audience.webp "Audience Persona Exercise")
 
 You can download PDF or print this exercise [for free here](https://drive.google.com/file/d/1wf-g82pWAIhgsWup8KUZxoOhJ6qaWh6E/view?usp=sharing).
 
@@ -250,7 +250,7 @@ Once you’ve done that, circle the important findings to describe your target a
 
 For Athletim™ the result will look something like this:
 
-![Audience Persona Exercise](/assets/images/target-audience-filled.jpg "Audience Persona Exercise")
+![Audience Persona Exercise](/assets/images/target-audience-filled.webp "Audience Persona Exercise")
 
 ### **2) Differentiator Development**
 
@@ -262,7 +262,7 @@ The BDG helps you achieve the following:
 2. Evaluate your possible differentiators based on how important they are to your patients and;
 3. To check whether or not the competition is using the same differentiators.
 
-![Brand Differentiator Graph Exercise](/assets/images/brand-differentiator-graph.jpg "Brand Differentiator Graph Exercise")
+![Brand Differentiator Graph Exercise](/assets/images/brand-differentiator-graph.webp "Brand Differentiator Graph Exercise")
 
 You can access this template [for free here](https://drive.google.com/file/d/1dMtUN9NPPtx2Bj-km5M-26VM6lNHKkf8/view?usp=sharing).
 
@@ -291,7 +291,7 @@ Write all of the possible ideas and start plotting them on the BDG.
 
 Athletim™’s graph will look something like this:
 
-![Brand Differentiator Graph Exercise](/assets/images/differentiator-graph.jpg "Brand Differentiator Graph Exercise")
+![Brand Differentiator Graph Exercise](/assets/images/differentiator-graph.webp "Brand Differentiator Graph Exercise")
 
 ### **3) Onliness Statement Development**
 
@@ -301,7 +301,7 @@ The onliness statement declares the only thing that your practice does uniquely 
 
 We’re going to use Onliness Statement Exercise™ and sticky notes to finish this strategy.
 
-![Onliness Statement Exercise Healthcare](/assets/images/onliness-statement.jpg "Onliness Statement Exercise Healthcare")
+![Onliness Statement Exercise Healthcare](/assets/images/onliness-statement.webp "Onliness Statement Exercise Healthcare")
 
 You can access this [free exercise here](https://drive.google.com/file/d/1IHvdXLWaJreI0xWlAoZjvAor1GZiJSj_/view?usp=sharing).
 
@@ -313,10 +313,10 @@ And here are examples from our clients to take inspiration from:
 
 **Odentia, Pasadena-based dental practice slashes the dental horror show that patients are afraid of with their onliness statement.**
 
-![](/assets/images/statement-3.jpg)  
+![](/assets/images/statement-3.webp)  
 **In the age of malpractice, Healthier, an Orlando-based hospital, took a stance by positioning their hospital as the risk-free care center.**
 
-![Healthcare Positioning statement ](/assets/images/positioning-1.jpg "Healthcare Positioning statement ")  
+![Healthcare Positioning statement ](/assets/images/positioning-1.webp "Healthcare Positioning statement ")  
 Let’s see how this will turn out with our chiropractic example, Athletim™.
 
 First, take inspiration from the **Brand Differentiator Graph™**, to finish the onliness statement. It is better to take primary differentiators from the graph because they are already unique to your business.
@@ -325,7 +325,7 @@ On the right side of the Onliness Statement Exercise template, there are four qu
 
 **Athletim’s Onliness Statement:**
 
-![chiropractic unique selling proposition ](/assets/images/chiropractic-positioning-statement.jpg "chiropractic unique selling proposition ")
+![chiropractic unique selling proposition ](/assets/images/chiropractic-positioning-statement.webp "chiropractic unique selling proposition ")
 
 ## 3) Optical Communication Strategy
 
@@ -379,7 +379,7 @@ In this stage, you gather up all the keywords that are related to your brand and
 
 In the case of Confidental™ Brand keywords will look like this:
 
-![Brand Keyword Disbandment Exercise](/assets/images/brand-essence-keywords.png "Brand Keyword Disbandment Exercise")
+![Brand Keyword Disbandment Exercise](/assets/images/brand-essence-keywords.webp "Brand Keyword Disbandment Exercise")
 
 Each column represents a different element of their brand and the keywords that are related to that element.
 
@@ -405,7 +405,7 @@ For example, the visual aspect of the word “class” will be as follows:
 
 We then apply this technique for each keyword we chose:
 
-![Visualization Exercise ](/assets/images/visualization.jpg "Visualization Exercise ")
+![Visualization Exercise ](/assets/images/visualization.webp "Visualization Exercise ")
 
 ### **3) Creative Process**
 
@@ -421,7 +421,7 @@ We’ll take the visual aspects of your brand's most representative keywords (wh
 
 Confidental™ outlook theme will look something like:
 
-![Creative Process Exercise ](/assets/images/creative-process.jpg "Creative Process Exercise ")  
+![Creative Process Exercise ](/assets/images/creative-process.webp "Creative Process Exercise ")  
 After that, you can hand this art direction to your designer and your visual identity will be tailored to your practice.
 
 And best of all, your identity carries with it **meaning**. It’s not a “yet-another-chiro-brand” kind of work.
@@ -446,36 +446,36 @@ Before we get into the strategy that checks all of the above, let’s see some g
 
 **#\~The Joint Chiropractic**: Their voice in social media is **laid-back**, **casual**, and **uplifting.**
 
-![chiropractic brand voice in social media ](/assets/images/chiropractic-marketing-social-media.jpg "chiropractic brand voice in social media ")  
-![chiropractic brand voice in social media ](/assets/images/chiropractic-marketing-social-media-2.jpg "chiropractic brand voice in social media ")
+![chiropractic brand voice in social media ](/assets/images/chiropractic-marketing-social-media.webp "chiropractic brand voice in social media ")  
+![chiropractic brand voice in social media ](/assets/images/chiropractic-marketing-social-media-2.webp "chiropractic brand voice in social media ")
 
 Their Brand Voice is consistent in their Facebook page
 
-![chiropractic brand voice in social media ](/assets/images/medical-brand-voice-1.jpg "chiropractic brand voice in social media ")  
-![chiropractic brand voice in social media ](/assets/images/medical-brand-voice-2.jpg "chiropractic brand voice in social media ")
+![chiropractic brand voice in social media ](/assets/images/medical-brand-voice-1.webp "chiropractic brand voice in social media ")  
+![chiropractic brand voice in social media ](/assets/images/medical-brand-voice-2.webp "chiropractic brand voice in social media ")
 
-![chiropractic brand voice in social media ](/assets/images/medical-brand-voice.jpg "chiropractic brand voice in social media ")
+![chiropractic brand voice in social media ](/assets/images/medical-brand-voice.webp "chiropractic brand voice in social media ")
 
 **#\~Fridababy**, Their voice in social media is **frisky**, **humorous**, and **unsolicited.**
 
-![brand voice example in healthcare](/assets/images/orthodontic-marketing-examples.png "brand voice example in healthcare")  
+![brand voice example in healthcare](/assets/images/orthodontic-marketing-examples.webp "brand voice example in healthcare")  
 **#\~The Economist (non-medical example)**, a weekly newspaper that focuses on current affairs, international business.
 
 The Economist's audience is mainly C-suite executives and founders. Notice how relatable communication is to their audience.
 
-![brand voice example ](/assets/images/voice-min-1.jpg "brand voice example ")  
-![brand voice example ](/assets/images/image-asset.jpg "brand voice example ")
+![brand voice example ](/assets/images/voice-min-1.webp "brand voice example ")  
+![brand voice example ](/assets/images/image-asset.webp "brand voice example ")
 
-![brand voice example ](/assets/images/money-talks.png "brand voice example ")
+![brand voice example ](/assets/images/money-talks.webp "brand voice example ")
 
 Brand voice is not only used in social media, it can be used across all of your touch-points with your patients.
 
 Here’s an example of the unique voice of a mobile app from the Desk Magazine. Although the weather app market is saturated, AuthenticWeather tries to slice through the “me too” apps by their witty communication.
 
-![brand voice example](/assets/images/authentic_3-1.jpg "brand voice example")  
-![brand voice example](/assets/images/54201455161361-56096cf803b37.png "brand voice example")
+![brand voice example](/assets/images/authentic_3-1.webp "brand voice example")  
+![brand voice example](/assets/images/54201455161361-56096cf803b37.webp "brand voice example")
 
-![brand voice example](/assets/images/authentic_2.jpg "brand voice example")
+![brand voice example](/assets/images/authentic_2.webp "brand voice example")
 
 Now we’ve seen unique examples of social media communication, let’s tackle the strategy behind it.
 
@@ -492,7 +492,7 @@ Let’s start with the first one.
 
 ### **1) Brand Voice Slider Exercise**
 
-![Brand Voice Slider Exercise](/assets/images/chiropractic-brand-voice-template.jpg "Brand Voice Slider Exercise")  
+![Brand Voice Slider Exercise](/assets/images/chiropractic-brand-voice-template.webp "Brand Voice Slider Exercise")  
 You can download PDF or print this exercise [for free here](https://drive.google.com/file/d/1aLt2RU7thCXC6O_v7kVxR412a8BGTSbp/view).
 
 This exercise helps you find a general manner of speech to your communication on social media. Does your brand come across as authoritative (Mayo Clinic) or serious-sounding (CNN)? Is it enthusiastic or humorous?
@@ -501,7 +501,7 @@ On the Brand Voice Exercise Slider, use voting dots to decide the voice of your 
 
 Here’s Athletim™’s general brand voice:
 
-![ Brand Voice Slider Exercise](/assets/images/chiropractic-brand-voice.jpg " Brand Voice Slider Exercise")
+![ Brand Voice Slider Exercise](/assets/images/chiropractic-brand-voice.webp " Brand Voice Slider Exercise")
 
 {{% important %}}There are good reasons to be on the left or right of any of these lines, and it’s even okay if some of your sliders end up in the middle. But it’s helpful to be strongly opinionated on at least one or two ranges.{{% /important %}}
 
@@ -522,7 +522,7 @@ The formula for this exercise is as follows:
 
 We’re _______ But We’re Not ________.
 
-![Brand Tone Projection Exercise](/assets/images/chiropractic-tone-projection.jpg "Brand Tone Projection Exercise")  
+![Brand Tone Projection Exercise](/assets/images/chiropractic-tone-projection.webp "Brand Tone Projection Exercise")  
 To download PDF or print this exercise [for free click here](https://drive.google.com/file/d/1gdpQe2URo4I2IPpUu_SIYKDIJGTUmNDh/view).
 
 You can also use sticky notes to write examples of how your brand voice can be applied across the 4 dimensions on the left side.
@@ -550,7 +550,7 @@ Think of the Core Message as the theme of your marketing campaign and the Second
 
 Let’s continue with our example Athletim™’s. their audience is athletes. So the Core Message and Secondary Messages will look like this:
 
-![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare.jpg "brand storytelling in healthcare")
+![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare.webp "brand storytelling in healthcare")
 
 ### 2) Story Distribution Channels
 
@@ -558,10 +558,10 @@ The secondary messages will be distributed in the form of media posts, articles,
 
 The following diagram represents how you will distribute these secondary messages to your patients:
 
-![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare-examples-2.jpg "brand storytelling in healthcare")  
+![brand storytelling in healthcare](/assets/images/storytelling-in-healthcare-examples-2.webp "brand storytelling in healthcare")  
 To decide which marketing channels work best for your promotional efforts, you can use our Channel Distribution Exercise™. It helps you see which ones benefit you more based on their impact and level of difficulty.
 
-![Chiropractic Marketing Channel Distribution Exercise](/assets/images/storytelling-in-healthcare-brand-distribution.jpg "Chiropractic Marketing Channel Distribution Exercise")
+![Chiropractic Marketing Channel Distribution Exercise](/assets/images/storytelling-in-healthcare-brand-distribution.webp "Chiropractic Marketing Channel Distribution Exercise")
 
 To download PDF or print this exercise [for free click here](https://drive.google.com/file/d/1cdzmljN5ksDHK7G2Va8_GWfkmir6CTQ_/view?usp=sharing).
 
@@ -577,7 +577,7 @@ At this point, you helped them with useful content and built trust. So they will
 
 Here’s a diagram of the path your potential patient takes until they book an appointment :
 
-![Email Marketing for chiropractors](/assets/images/email-marketing-chiropractors.jpg "Email Marketing for chiropractors")  
+![Email Marketing for chiropractors](/assets/images/email-marketing-chiropractors.webp "Email Marketing for chiropractors")  
 The goal of these lessons are manifold:
 
 1. To educate patients about the value of chiropractic care
@@ -593,7 +593,7 @@ If you want to start applying this strategy, this video will be of great help:
 
 [One out of every five adults ](https://assets.pewresearch.org/wp-content/uploads/sites/13/2016/06/30143308/state-of-the-news-media-report-2016-final.pdf) in the United States listens to a podcast regularly:
 
-![podcast popularity statistics ](/assets/images/podcast-stats-1.jpg "podcast popularity statistics ")  
+![podcast popularity statistics ](/assets/images/podcast-stats-1.webp "podcast popularity statistics ")  
 Compared to other ways of marketing your chiropractic business, guest podcasting is quicker and easier. A bit of prep time, 20 to 50-minute interview, and you’re done.
 
 All you have to do is have a conversation and record it. It’s way less effort than having to make your video or audio. It’s also less stressful than going on live radio, as any mess-ups can be cut out in the edit.
@@ -619,15 +619,15 @@ Log in to your iTunes. if you don’t have it, download it from [here](https://w
 
 After you sign up, on the top-right search bar, type “Chiropractic Podcasts”. You’ll be faced with the following result:
 
-![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast.jpg "Finding chiropractic podcast through iTunes")
+![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast.webp "Finding chiropractic podcast through iTunes")
 
 Click on one of the podcasts. In the podcast homepage on the left side, you’ll find the link section where you find the website link.
 
-![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast-guests.jpg "Finding chiropractic podcast through iTunes")
+![Finding chiropractic podcast through iTunes](/assets/images/chiropractic-podcast-guests.webp "Finding chiropractic podcast through iTunes")
 
 Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information:
 
-![Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information: ](/assets/images/chiropractic-podcast-guests-finding.jpg "Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information: ")  
+![Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information: ](/assets/images/chiropractic-podcast-guests-finding.webp "Click on the “website” label and it’ll direct you to the show’s site where you can find their contact information: ")  
 You might not always find an “email” icon so try to search for a contact form or “apply for our podcast” links.
 
 You can also try to use services like [Hunter](https://hunter.io/) to find emails from any particular website. Just enter the URL and it’ll find you the contacts.

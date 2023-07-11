@@ -1,17 +1,17 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
 downloads = "https://drive.google.com/drive/folders/1C1HRN4iFANi32xfaDndez4bY7OWoW0n0?usp=sharing"
-featImg = "/assets/images/0-3.jpg"
-featImgThumb = "/assets/images/0-3.jpg"
+featImg = "/assets/images/0-3.webp"
+featImgThumb = "/assets/images/0-3.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "23"
 slug = "brand-storytelling"
-socialThumbnail = "/assets/images/0-3.jpg"
+socialThumbnail = "/assets/images/0-3.webp"
 table_of_content = ["how-stories-influence-preference-based-judgments", "brand-storytelling-strategy-the-unmatched-way-of-marketing-your-medical-business", "the-4-components-of-brand-storytelling", "examples-of-medical-brand-storytelling", "brand-storytelling-workshop", "1-brand-messages-exercise--15-25-minute", "2-brand-story-framework-exercise--15-25-minute", "3-brand-communication-framework", "whats-next"]
 title = "Lesson 4) Brand Storytelling: A Framework to Attract And Captivate your audience's hearts"
 twitterHandle = "/@SlimanBaghouri"
@@ -58,17 +58,17 @@ There are 4 key components of this strategy, let’s tackle each.
 
 ## The 4 components of brand storytelling
 
-![](/assets/images/1-1.jpg)
+![](/assets/images/1-1.webp)
 
 ### 1) Brand DNA
 
-![](/assets/images/2-1.jpg)
+![](/assets/images/2-1.webp)
 
 This refers to the core aspects of your brand. The credo of your medical business and the values that glue it together. We discussed how to cultivate brand DNA in lesson 1.
 
 ### 2) Core Messages
 
-_![](/assets/images/3-1.jpg)_
+_![](/assets/images/3-1.webp)_
 
 Core Messages are all you need your patient to know about your brand, how it can benefit them, and what makes it **different**. These messages will not focus on your brand per se but on what it can do for your audience.
 
@@ -83,24 +83,24 @@ In particular, core messages contain the following:
 4. **Pain-Points**
    * What challenges they are facing your services can solve? How these obstacles are hindering their progress?
 
-![](/assets/images/4-1.jpg)  
+![](/assets/images/4-1.webp)  
 These messages will act as the “theme” of your storytelling campaign and will direct every touchpoint (point of contact) your patient has with your brand.
 
-![](/assets/images/5-1.jpg)
+![](/assets/images/5-1.webp)
 
 ### 3) Secondary Messages
 
-![](/assets/images/6-1.jpg)
+![](/assets/images/6-1.webp)
 
 Unlike the Core Messages, Secondary messages are more centered around your brand, its purpose, and mission. In this stage, you’ll hone in on the true north that guides your firm and the values it upholds. These messages are secondary to the campaign but are crucial for brand awareness.
 
 Secondary Messages will stem from your brand’s Pillars, Credo, and Future Brand. The aspects which we discussed in lesson 1.
 
-![](/assets/images/7-2.jpg)
+![](/assets/images/7-2.webp)
 
 ### 4) Communication Framework
 
-![](/assets/images/8-2.jpg)
+![](/assets/images/8-2.webp)
 
 Your audience is probably busy people who won't have the time to hear your “story about x”. Your audience’s attention span is limited. And to convey your brand’s messages you’ll need a new way of communication. This is where the communication framework comes in.
 
@@ -108,7 +108,7 @@ At this stage, we’re going to develop a framework from which you can easily di
 
 The Communication Framework (CF) Contains two main components: **1)** The message blocks (these are your Core and Secondary Messages). And **2)** Story Blocks.
 
-![](/assets/images/9-2.jpg)
+![](/assets/images/9-2.webp)
 
 Story blocks are what will allow you to communicate with your audience in a novel way. Let’s see how they work.
 
@@ -118,7 +118,7 @@ Story blocks are the formula we’re going to use to launch the campaign as a fo
 
 This formula follows a dramatic arc in which a character (your audience) struggles and eventually finds heretofore unknown abilities (your brand) and uses these to triumph over adversity; many [studies ](https://hbr.org/2014/03/the-irresistible-power-of-storytelling-as-a-strategic-business-tool)show that the brain is highly attracted to this story style.
 
-![](/assets/images/9-5.jpg)
+![](/assets/images/9-5.webp)
 
 This formula contains 7 blocks:
 
@@ -137,7 +137,7 @@ This formula contains 7 blocks:
 7. **The New State (The New World)**
    * Marketing in this stage will be on how your audience’s life without the problems they faced before. Unlike the first story block, messages here will focus on how life is _after_ your brand solved all of its issues.
 
-![](/assets/images/10-2.jpg)
+![](/assets/images/10-2.webp)
 
 {{% note "Note" %}}It is important to remember that in the storytelling campaign, the “hero” is your target audience. Your brand will play the role of the “guide” or the brand that helps them solve their issues and accelerates their progress.{{% /note %}}
 
@@ -151,21 +151,21 @@ Let’s say that your hospital brand is all about safety and your target audienc
 
 Here’s an example of a campaign that stresses your audience’s **challenges** (being safe whilst in an insecure place) while speaking to them at a deep level.
 
-![](/assets/images/11-11.jpg)
+![](/assets/images/11-11.webp)
 
 You could then take this idea of how to be safe during uncertain times and make a series of marketing messages around the audience’s challenges and how your brand (the guide) helps them overcome such issues.
 
 Another example: Let’s say that your audiences are dentists and your brand sells CEREC Machines. A good way to start the storytelling campaign would be to form a combination between dentists’ pain points and their obstacles.
 
-![](/assets/images/12-1.jpg)
+![](/assets/images/12-1.webp)
 
 Or if your brand is a maternity hospital and your target audience are mothers-to-be:
 
-![](/assets/images/13.jpg)
+![](/assets/images/13.webp)
 
 Now, all that is left is selecting what part of the story we’re going to tell next and in what medium or platform the story will be distributed.
 
-![](/assets/images/14.jpg)
+![](/assets/images/14.webp)
 
 ## Brand Storytelling Workshop
 
@@ -177,7 +177,7 @@ This workshop is the practical step-by-step process to what we’ve been discuss
 
 ## 1) Brand Messages Exercise ⏰ \[15-25 minute\]
 
-![](/assets/images/15.png)
+![](/assets/images/15.webp)
 
 In this exercise, we’re going to craft your brand’s Core Messages (CM) and Secondary Messages (SM). These messages will be then used in the communication framework to convey your brand’s characteristics and its differentiators.
 
@@ -202,7 +202,7 @@ To start the exercise, explain to the team the goal of the Brand Messages and fo
 
 Once you’re done, you’ll end up with a result like this:
 
-![](/assets/images/16.png)
+![](/assets/images/16.webp)
 
 These elaborate answers will form your Brand Messages and you’ll be able to inject them later with your brand’s marketing.
 
@@ -216,7 +216,7 @@ This way your marketing will be directed by a story framework and will provide y
 
 ### 🔴 Action Step: Fill in the Story Blocks
 
-![](/assets/images/17-1.png)
+![](/assets/images/17-1.webp)
 
 Begin by stating the objectives of this exercise to the participants. There are 7 sub-exercises in this section but they all follow the same instruction. If you have a big team you might want to divide your team to separate group and each group will be responsible for each sub-exercise
 
@@ -233,13 +233,13 @@ After that, follow the next steps:
 
 Here are some examples:
 
-![](/assets/images/18-1.png)
+![](/assets/images/18-1.webp)
 
 Once you’re done, it’s time to use these story blocks and your brand Messages to market your medical business.
 
 ## 3) Brand Communication Framework
 
-![](/assets/images/19-1.png)
+![](/assets/images/19-1.webp)
 
 This is less of an exercise and more of a framework for you to deploy your content from. Think of this framework as the portal from which you produce marketing content/assets. Now all is left is the selection process and what part of the story you want to market to your patient.
 
@@ -249,7 +249,7 @@ After that, go back to the Brand Messages Exercise and pick what part of your br
 
 After selecting the story and the messages you want to market, pin them to their respective column in the Communication framework.
 
-![](/assets/images/20-1.png)
+![](/assets/images/20-1.webp)
 
 What’s left now is to turn these stories into marketing assets. You can do this yourself or you can hand this framework to your marketing team or outsource them easily.
 

@@ -3,16 +3,14 @@ page: podcast/single.html
 title: Advantages of business coaching in healthcare with Dr. Janice Hughes
 which: episode-cover
 guest: Dr. Janice Hughes
-guestPicture: "/assets/images/podcast/guests/dr-janice.jpg"
+guestPicture: "/assets/images/podcast/guests/dr-janice.webp"
 season: season-one
 slug: "/healthcare-business-coaching"
 guestContact:
 - On facebook=www.facebook.com/drjanicehughes
 - Her personal website=www.drjanicehughes.com
 guestResources:
-- Dr Janice's money mindset course=www.drshaelynosborn.com/money-mindset
 - Grab her books on amazon=www.amazon.com/Janice-Hughes/e/B08GZPKXNQ?ref_=dbs_p_ebk_r00_abau_000000
-- 2inspire women=www.2inspirewomen.com
 description: In this episode we discuss business coaching in healthcare and how that
   can transform your practice
 episodeIframe: https://open.spotify.com/embed-podcast/episode/6MezAJQrKr9Mz6ePwgppnF

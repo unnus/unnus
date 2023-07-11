@@ -1,17 +1,17 @@
 +++
 author = "Sliman M. Baghouri"
-authorAvatarBottom = "/assets/images/blog/authors/cc.png"
-authorAvatarTop = "/assets/images/cc-4.jpg"
+authorAvatarBottom = "/assets/images/blog/authors/cc.webp"
+authorAvatarTop = "/assets/images/cc-4.webp"
 authorBio = "Sliman M. Baghouri, Founder of unnus™, he coordinates branding strategies for healthcare clients, ranging from practices and hospitals to pharmaceutical companies."
 date = 2021-04-24T23:00:00Z
 downloads = "https://drive.google.com/drive/folders/139dBt-tHa9Tgnb7_GrDBus5MBt7PXkto?usp=sharing"
-featImg = "/assets/images/0-5.jpg"
-featImgThumb = "/assets/images/0-5.jpg"
+featImg = "/assets/images/0-5.webp"
+featImgThumb = "/assets/images/0-5.webp"
 linkedinHandle = "slimaneBaghouri"
 page = "email/single.html"
 readingTime = "12"
 slug = "brand-roi"
-socialThumbnail = "/assets/images/0-5.jpg"
+socialThumbnail = "/assets/images/0-5.webp"
 table_of_content = ["your-revenue-might-not-be-the-best-metric-to-keep-an-eye-on", "enters-the-brand-ladder", "measuring-branding-with-the-brand-commitment-scale-bcs", "whats-next"]
 title = "Lesson 6) How to Measure Your Branding ROI"
 twitterHandle = "/@SlimanBaghouri"
@@ -29,7 +29,7 @@ And to accomplish this, they use a model called the purchase funnel.
 
 This model tracks sales by tracking customers as they move from awareness (being aware of your business) to interest to consideration to intent to evaluation and, finally, to purchase your service.
 
-![](/assets/images/1-2.jpg)
+![](/assets/images/1-2.webp)
 
 This model is only helpful if:
 
@@ -53,7 +53,7 @@ Unlike the purchase funnel model, the Brand Ladder model aims to measure the suc
 
 Each rung of the ladder represents a satisfactory state of your patient with your brand. From patient satisfaction to delight, to engagement, and finally to empowerment. The object is to get as many customers as possible up the ladder to the top.
 
-![](/assets/images/2-2.jpg)
+![](/assets/images/2-2.webp)
 
 ### Here’s how it works:
 
@@ -81,7 +81,7 @@ The Brand Commitment Scale is an easy-to-use survey that yields a single number 
 
 If conducted annually, the BCS can highlight your gains (or losses), suggesting where you need more investment. It can also let you compare the scores at each rung of the ladder, and for each of the eight questions.
 
-![](/assets/images/3-2.jpg)
+![](/assets/images/3-2.webp)
 
 The power of this survey lies in its simplicity. All it takes is a service like SurveyMonkey or Typeform and a little of your patient’s time. A sample of 1,000 surveys should be enough for most medical businesses to get a useful reading.
 
