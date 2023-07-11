@@ -448,7 +448,7 @@ To form a concrete vision for your practice, we’ll use Future Brand Model™ a
 
 **EXERCISE STEPS:**
 
-1. Take 15 minutes to move on through the timeline: (use sticky notes and pin your writings on the timeline [or use an assignment calendar](https://studycrumb.com/assignment-calendar "an assignment calendar "). You can do this also online using [Miro’s ](https://miro.com/ "Virtual whiteboard")virtual whiteboard
+1. Take 15 minutes to move on through the timeline: (use sticky notes and pin your writings on the timeline or [use an assignment calendar](https://studycrumb.com/assignment-calendar "an assignment calendar "). You can do this also online using [Miro’s ](https://miro.com/ "Virtual whiteboard")virtual whiteboard
    * **(Now)** where are you now? In terms of business metrics — what’s your practice size, patient base, lifetime value, and so on
    * **(5 years)** Where do you see your healthcare brand in 5 years in terms of growth?
    * **(10 years)** If you achieve all your goals in 5 years, then What will your practice look like in 10 years? How big will it be? and what other care services could you offer? Will you expand to other locations or add other service lines?
