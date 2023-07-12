@@ -104,7 +104,6 @@
 {{ $style := $sass | resources.ToCSS | resources.Minify | resources.Fingerprint}}
 
 <link rel="stylesheet" href="{{ $style.Permalink}}">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v2.8.0/dist/cookieconsent.css">
 
 <!--noptimize-->
 <script type="text/javascript">
