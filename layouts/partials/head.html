@@ -104,6 +104,7 @@
 {{ $sass := resources.Get "sass/main.scss" }}
 {{ $style := $sass | resources.ToCSS | resources.Minify | resources.Fingerprint}}
 
+
 <link rel="stylesheet preload" href="{{ $style.Permalink}}" as="style">
 <link as="script" rel="preload"  href="{{.Site.BaseURL}}/assets/js/main.js">
 
