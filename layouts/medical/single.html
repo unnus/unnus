@@ -157,7 +157,7 @@ var lazyanalisis=!1;window.addEventListener("scroll",function(){(0!=document.doc
 		        type="image/webp" 
 		        srcset="{{.Params.featImg}}">
 	    	</source>
-			<img  loading="eager"  style="object-fit: cover; width: 100%; height: 100%; position: absolute; top: 0;" src="{{.Params.featImg}}" alt="featured image">
+			<img fetchpriority="high" loading="eager"  style="object-fit: cover; width: 100%; height: 100%; position: absolute; top: 0;" src="{{.Params.featImg}}" alt="featured image">
  		</picture>
     </div>
 
