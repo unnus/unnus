@@ -236,14 +236,9 @@
 
 @media (max-width: 576px){
 	// hero
-	.header-image{
-		text-align:center;
-	}
+	#header-image{}
 	#headerFeature{
-	display:none;
-		margin-top:10vh;
 
-		border-radius:5%;
 	}
 
 	.post-body p {
