@@ -238,7 +238,9 @@
 	// hero
 	#header-image{}
 	#headerFeature{
-	display:none;
+		object-fit: cover; width: 60%; height: 60%; position: static;
+		margin-top:12%;
+		border-radius:5%;
 	}
 
 	.post-body p {
