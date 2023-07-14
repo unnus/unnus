@@ -236,6 +236,15 @@
 
 @media (max-width: 576px){
 	// hero
+	.header-image{
+		text-align:center;
+	}
+	#headerFeature{
+		width: 60%; height: 60%; position: static;
+		margin-top:10vh;
+		border-radius:5%;
+	}
+
 	.post-body p {
     font-size: 1.2em;
 	}
@@ -243,6 +252,9 @@
 	.post-body h2 {
 	    font-size: 1.8em;
     	font-family: lato,sans-serif;
+	}
+	.post-body .hook p{
+	font-size:1.2em;
 	}
 	.header-home .header-content {
     width: 300px;
