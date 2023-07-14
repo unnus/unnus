@@ -236,9 +236,10 @@
 
 @media (max-width: 576px){
 	// hero
-	#header-image{
+	.header-image{
 	    text-align: center;
 	}
+
 	#headerFeature{
 		object-fit: cover; width: 50%; height: 50%; position: static;
 		margin-top:16%;
