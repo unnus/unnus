@@ -236,6 +236,14 @@
 
 @media (max-width: 576px){
 	// hero
+	.post-body p {
+    font-size: 1.2em;
+	}
+
+	.post-body h2 {
+	    font-size: 1.8em;
+    	font-family: lato,sans-serif;
+	}
 	.header-home .header-content {
     width: 300px;
 	}
