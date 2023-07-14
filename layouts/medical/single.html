@@ -107,12 +107,13 @@
 
 <!-- <link  rel="preload" as="image" href="{{.Params.featImg}}" type="image/webp" imagesizes="100%"> -->
 
-<!-- <link fetchpriority="high" rel="preload" href="{{.Params.featImg}}" as="image"> -->
+<link fetchpriority="high" rel="preload" href="{{.Params.featImg}}" as="image">
+<link  rel="stylesheet preload" href="{{ $style.Permalink}}" as="style">
 <link as="style" href="https://use.typekit.net/nia0lya.css"  rel="stylesheet preload prefetch" >
 <link  rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link  rel="stylesheet preload prefetch"  href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" as="style">
- <link  rel="stylesheet preload" href="{{ $style.Permalink}}" as="style">
+ 
 
 <link  as="script" rel="preload"  href="{{.Site.BaseURL}}/assets/js/main.js">
 
