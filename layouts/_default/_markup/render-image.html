@@ -1,9 +1,9 @@
 {{ $img := imageConfig (add "/static" (.Destination | safeURL)) }}
 
 <img
-  src="{{ .Destination | safeURL }}"
+  data-src="{{ .Destination | safeURL }}"
   alt="{{ .Text }}"
   title="{{ .Text }}"
-  class="zoomable"
+  class="zoomable lazy"
   loading="lazy"
 />
