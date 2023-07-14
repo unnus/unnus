@@ -173,7 +173,7 @@ var lazyanalisis=!1;window.addEventListener("scroll",function(){(0!=document.doc
 						<h1>{{.Params.title}}</h1>
 						<div class="post-details">
 								<div class="author">
-									 <img class="lazy" data-src="{{.Params.authorAvatarTop}}" alt="{{.Params.author}}">
+									 <img src="{{.Params.authorAvatarTop}}" alt="{{.Params.author}}">
 			    					<h5 class="author-name">{{.Params.author}}</h5>
 										<a class="author-top-twitter" target="_blank" rel="noreferrer" href="https://twitter.com/{{.Params.twitterHandle}}">
 												<img alt="twitter-icon" src="/assets/images/icons/top-twitter-icon.webp">
@@ -294,7 +294,7 @@ var lazyanalisis=!1;window.addEventListener("scroll",function(){(0!=document.doc
 					<div class="author-decor">
 						<svg  width="144" height="144" viewBox="0 0 144 144"><path fill-rule="evenodd" clip-rule="evenodd" d="M72 1.7c-27.28 0-50.93 16.1-62.47 39.61L8 40.56C19.8 16.51 44.02 0 72 0c27.98 0 52.2 16.5 64 40.56l-1.53.75C122.93 17.8 99.27 1.71 72 1.71zM9.53 102.7c11.54 23.51 35.2 39.6 62.47 39.6 27.28 0 50.93-16.09 62.47-39.6l1.53.75C124.2 127.49 99.98 144 72 144c-27.98 0-52.2-16.5-64-40.56l1.53-.75z"></path></svg>
 						<div class="author-picture">
-							<img src="{{.Params.authorAvatarBottom}}" alt="{{.Params.author}}">							
+							<img class="lazy" data-src="{{.Params.authorAvatarBottom}}" alt="{{.Params.author}}">							
 						</div>			
 							<div class="author-social-links">
 								<a rel="noreferrer" target="_blank" href="https://twitter.com/{{.Params.twitterHandle}}">
