@@ -108,7 +108,8 @@
 <!-- <link  rel="preload" as="image" href="{{.Params.featImg}}" type="image/webp" imagesizes="100%"> -->
 
 <!-- <link fetchpriority="high" rel="preload" href="{{.Params.featImg}}" as="image"> -->
-<link  rel="stylesheet preload" href="{{ $style.Permalink}}" as="style">
+<link rel="preload" href="{{ $style.Permalink}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="styles.css"></noscript>
 <link as="style" href="https://use.typekit.net/nia0lya.css"  rel="stylesheet preload prefetch" >
 <link  rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
