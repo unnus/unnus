@@ -45,19 +45,59 @@ Let’s start.
 
 ## Hospital adverts examples
 
-### 1) “You’re freaking us out” by One Medical
+### 1) The Plunge by One Medical
 
-![healthcare-commercial-examples-1](/assets/images/medical-advert-1.webp "healthcare-commercial-examples-1")**What’s great about it:** Instead of the usual advice “Masks are good for your safety”, One Medical took a different approach to raise the importance of wearing masks against Covid-19. This depicts a “seemingly menacing” lumberjack chasing the “seemingly normal” person. The plot twist is that the lumberjack was the one who was running _from_ the normal person. It is a brilliant idea that conveys even the scariest people are afraid of the unintentional harm a person without a mask can cause.
+![healthcare-commercial-examples-1](/assets/images/medical-advert-1.webp "
+healthcare-commercial-examples-1") **What’s great about it:** The ad taps into the collective experience of the pandemic, reminding viewers of the profound impact it had on their lives. By acknowledging the changes people have gone through, it evokes an emotional response and establishes a connection with the audience. 
+
+By posing the question, "Who will you be after the pandemic?" the ad prompts viewers to reflect on their post-pandemic aspirations. It positions One Medical as a partner in their journey towards a better future, implying that the hospital understands the transformative effect of the pandemic and is there to provide support and care.
 
 **The video:**
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
-{{< youtube TmQnuuqqZN4 >}}
+<!-- {{< youtube m8zvY3_RtnU >}} -->
+
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/m8zvY3_RtnU?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/m8zvY3_RtnU.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
-**Its Brand Voice:** Playful, Clever, and truthful.
+**Its Brand Voice:** Sympathetic, subtle, and encouraging.
 
 ### 2) “Redefining Possible” by UCSF Medical Center
 
@@ -65,7 +105,36 @@ Let’s start.
 
 **The video:**
 
-{{< vimeo 287330392 >}}
+<!-- {{< vimeo 287330392 >}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/287330392'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/287330392.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -81,7 +150,36 @@ In a series of clips, going backward in time, we see the doctor as she gets youn
 
 **The video:**
 
-{{< vimeo 463750873>}}
+<!-- {{< vimeo 463750873>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/463750873'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/463750873.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -102,7 +200,44 @@ Taking it to the streets, with larger-than-life murals of patients rallying thei
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
-{{< youtube c4Jzb99Bpd0>}}
+<!-- {{< youtube c4Jzb99Bpd0>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/c4Jzb99Bpd0?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/c4Jzb99Bpd0.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -120,7 +255,34 @@ The centerpiece of the campaign is a long-form film that tells the story of one 
 
 **The video:**
 
-{{< vimeo 477177912>}}
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/477177912'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/477177912.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -136,7 +298,44 @@ The commercial depicts Baylor Scott & White Health’s better solution for invas
 
 **The video:**
 
-{{< youtube M1YKpB2vsKk>}}
+<!-- {{< youtube M1YKpB2vsKk>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/M1YKpB2vsKk?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/M1YKpB2vsKk.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -153,8 +352,36 @@ During her walk, she suddenly pauses when she discovers a golden crown shining b
 The hospital nurse is then shown, bringing a warm, inviting, and much needed comforting presence. She places a paper crown on the young girl’s head and they embrace each other.
 
 **The video:**
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/375479524'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/375479524.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
-{{< vimeo 375479524>}}
+
+<!-- {{< vimeo 375479524>}} -->
 
 ***
 
@@ -170,7 +397,35 @@ The doctors and nurses who work there are fighting a daily battle on the frontli
 
 **The video:**
 
-{{< vimeo 440941412>}}
+<!-- {{< vimeo 440941412>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/440941412'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/440941412.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -185,7 +440,43 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 **The video:**
 
-{{< youtube mzZFW_tsRxo>}}
+<!-- {{< youtube mzZFW_tsRxo>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/mzZFW_tsRxo?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/mzZFW_tsRxo.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -199,7 +490,35 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 **The video:**
 
-{{< vimeo 176343319>}}
+<!-- {{< vimeo 176343319>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/176343319'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/176343319.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -214,7 +533,35 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 **The video:**
 
-{{< vimeo 291500959>}}
+<!-- {{< vimeo 291500959>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/291500959'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/291500959.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -227,7 +574,36 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 **The video:**
 
-{{< vimeo 270111044>}}
+<!-- {{< vimeo 270111044>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/270111044'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/270111044.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -241,7 +617,43 @@ The ad features patient Mia and her sister Amy. Both were treated at hospital ye
 
 **The video:**
 
-{{< youtube 1RiAqaziAiI>}}
+<!-- {{< youtube 1RiAqaziAiI>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/1RiAqaziAiI?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/1RiAqaziAiI.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -256,7 +668,35 @@ S&P tries to convey its effective solution to slash nightmares through funny and
 
 **The video:**
 
-{{< vimeo 410222770>}}
+<!-- {{< vimeo 410222770>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/410222770'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/410222770.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -274,7 +714,35 @@ As a leading healthcare provider, for over 70 years, they’ve helped and suppor
 
 **The video:**
 
-{{< vimeo 384487247>}}
+<!-- {{< vimeo 384487247>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/384487247'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/384487247.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -297,7 +765,43 @@ This ad presents them as more approachable than typical Health Plans.
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
-{{< youtube qSp0yIyj6Hc>}}
+<!-- {{< youtube qSp0yIyj6Hc>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/qSp0yIyj6Hc?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/qSp0yIyj6Hc.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -310,7 +814,35 @@ This ad presents them as more approachable than typical Health Plans.
 
 **The video:**
 
-{{< vimeo 277210116>}}
+<!-- {{< vimeo 277210116>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/277210116'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/277210116.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -328,7 +860,35 @@ What if technology could help solve these problems? This ad shows how we can hel
 
 **The video:**
 
-{{< vimeo 332686146>}}
+<!-- {{< vimeo 332686146>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/332686146'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/332686146.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -344,7 +904,36 @@ Almost half of all Czech women don’t visit the OBGYN, although regular visits 
 
 **The video:**
 
-{{< vimeo 425487226>}}
+<!-- {{< vimeo 425487226>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/425487226'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/425487226.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -358,7 +947,36 @@ Almost half of all Czech women don’t visit the OBGYN, although regular visits 
 
 **The video:**
 
-{{< vimeo 476749889>}}
+<!-- {{< vimeo 476749889>}} -->
+
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/476749889'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/476749889.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -376,7 +994,44 @@ Each evening at 7 p.m. New Yorkers gather on streets (at a safe distance, of cou
 
 **The video:**
 
-{{< youtube 67GmubcG4Kc>}}
+<!-- {{< youtube 67GmubcG4Kc>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/67GmubcG4Kc?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/67GmubcG4Kc.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
@@ -392,7 +1047,43 @@ These initiatives include donations of protective equipment, distribution of mas
 
 **The video:**
 
-{{< youtube lGuG72zL4QI>}}
+<!-- {{< youtube lGuG72zL4QI>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/lGuG72zL4QI?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/lGuG72zL4QI.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -407,7 +1098,34 @@ Thanks to a decade of public spending, sectors like healthcare, local government
 
 **The video:**
 
-{{< vimeo 458133251>}}
+<!-- {{< vimeo 458133251>}} -->
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/458133251'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/458133251.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -420,7 +1138,43 @@ Thanks to a decade of public spending, sectors like healthcare, local government
 
 **The video:**
 
-{{< youtube aTZGfe2Q_6c>}}
+<!-- {{< youtube aTZGfe2Q_6c>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/aTZGfe2Q_6c?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/aTZGfe2Q_6c.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
@@ -434,7 +1188,44 @@ The centerpiece of the ‘Real Life Heroes’ campaign is a film featuring real 
 
 The video:
 
-{{< youtube 9ZAwmEtS_6I>}}
+<!-- {{< youtube 9ZAwmEtS_6I>}} -->
+
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/9ZAwmEtS_6I?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/9ZAwmEtS_6I.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ***
 
