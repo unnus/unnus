@@ -204,7 +204,6 @@ Here is [Healthier™](https://www.unnus.com/case-studies/healthier/)’s PJM, a
 
 For full screen [click here](https://miro.com/app/board/o9J_laHx8CE=/) or click on see board
 
-{{< iframe "https://miro.com/app/live-embed/o9J_laHx8CE=/?moveToViewport=-1263,-586,3603,2161" >}}
 
 The results of performing PJM
 
