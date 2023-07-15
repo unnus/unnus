@@ -239,7 +239,34 @@ In the video, we follow a neonatologist (their target audience) delivering a bab
 ![Another example of medical device marketing by Getinge](/assets/images/6-examples-of-medical-device-marketing-template-2.webp "Another example of medical device marketing by Getinge")  
 Here's Getinge's video story:
 
-{{< vimeo 463750873>}}
+<!-- {{< vimeo 463750873>}} -->
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/463750873'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/463750873.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
 
 ## The truth about medical device marketing
 
