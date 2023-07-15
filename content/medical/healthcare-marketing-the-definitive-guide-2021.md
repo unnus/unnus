@@ -374,7 +374,44 @@ While video ads take more time to produce than text-based ads, they offer higher
 
 A great example of this is SickKids Hospital’s video ad titled “SickKids goes All In”. This ad campaign managed to result in a **21%** increase in online donations and the hospital hit its best fundraising year in history with $145M raised. It's the best example of great [healthcare advertising](https://unnus.com/medical/healthcare-advertising/).
 
-{{< youtube c4Jzb99Bpd0>}}
+<!-- {{< youtube c4Jzb99Bpd0>}}
+ -->
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/c4Jzb99Bpd0?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/c4Jzb99Bpd0.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ## 14) Podcasting: Converting your podcast listener to patients
 
@@ -572,7 +609,37 @@ However, the effectiveness of TV advertising doesn't lie in the medium itself bu
 
 Much like any art, TV ads must be well-crafted and backed by a creative powerhouse for it to be truly fruitful. An example of such powerful work is UCSF Medical Center’s ad “Redefining Possible”
 
-{{< vimeo 287330392 >}}
+<!-- {{< vimeo 287330392 >}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://player.vimeo.com/video/287330392'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/287330392.jpg'
+                class='full'
+            />
+           <svg style='position:relative;' width='68px' viewBox='0 0 68 48' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' aria-hidden='true' role='img' class='iconify iconify--emojione' preserveAspectRatio='xMidYMid meet'><circle cx='32' cy='32' r='30' fill='#4fd1d9'></circle><path fill='#ffffff' d='M25 12l20 20l-20 20z'></path></svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
+
 
 ## 24) Direct Mail
 
