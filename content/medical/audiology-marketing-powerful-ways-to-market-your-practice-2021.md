@@ -114,7 +114,7 @@ Showing up on the first page of Google for these terms are ridiculously cheaper 
 
 ## Using video advertising to raise awareness
 
-According to recent research, viewers [retain 95% of a message ](https://www.insivia.com/50-must-know-stats-about-video-animation-marketing-2013/)when they watch it in a video, compared to 10% when reading it in text.
+According to recent 2023 research, viewers [retain 95% of a message ](https://www.insivia.com/2023-saas-marketing-report/)when they watch it in a video, compared to 10% when reading it in text.
 
 So, although, making a video is a little more expensive than a normal ad, the results are well worth it. Since you’re guaranteed a high retention rate for your video ad (if it’s well made), that means you’re more likely to get higher ROI on your advertisement spend on video marketing platforms like Youtube than a text-based one.
 
@@ -123,13 +123,88 @@ Here’s a heart-stirring ad from Bay Audiology:
 {{% ad-unit %}} {{% /ad-unit %}}
 
 
-{{< youtube iUPTOWST-6M>}}
+<!-- {{< youtube iUPTOWST-6M>}}
+ -->
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/iUPTOWST-6M?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/iUPTOWST-6M.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
 
 ***
 
 Another great example of audiology that invites patients to take action comes from Specsavers:
 
-{{< youtube E_oTBvy5UPU>}}
+<!-- {{< youtube E_oTBvy5UPU>}} -->
+
+<iframe
+    srcdoc="
+        <style>
+            body, .full {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                object-fit: cover;
+            }
+        </style>
+        <a
+            href='https://www.youtube.com/embed/E_oTBvy5UPU?autoplay=1'
+            class='full'
+        >
+            <img
+                src='https://vumbnail.com/E_oTBvy5UPU.jpg'
+                class='full'
+            />
+            <svg
+                version='1.1'
+                viewBox='0 0 68 48'
+                width='68px'
+                style='position: relative;'
+            >
+                <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+            </svg>
+        </a>
+    "
+    style="max-width: 640px; width: 100%; aspect-ratio: 16/9;"
+    frameborder="0"
+></iframe>
+
+
 
 ## Attract patient using social media targeting ads
 
