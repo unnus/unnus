@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "12"
 slug = "/healthcare-mission-statement"
 socialThumbnail = "/assets/images/healthcare-mission-statement.webp"
-table_of_content = ["healthcare-mission-statement-examples", "hospital-mission-statement", "dental-mission-statement", "chiropractic-mission-statement", "pharmacy-mission-statement", "nursing-home-mission-statement", "hospice-mission-statement", "what-is-a-mission-statement-in-healthcare", "why-would-you-need-a-mission-statement", "deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "anatomy-of-a-great-healthcare-mission-statement-and-brand-dna", "the-unmatched-advantage-of-a-purpose-statement", "brand-dna-creating-a-mission-and-a-purpose-statement", "creating-a-healthcare-vision-statement-for-your-practice", "the-truth-about-mission-statements-in-healthcare"]
+table_of_content = ["healthcare-mission-statement-examples", "hospital-mission-statement", "dental-mission-statement", "chiropractic-mission-statement", "pharmacy-mission-statement", "nursing-home-mission-statement", "hospice-mission-statement","physical-therapy-mission-statement","massage-therapy-mission-statement","mental-health-mission-statement","medical-spa-mission-statement","pediatric-mission-statement-examples","urgent-care-mission-statement","psychologist-mission-statement","primary-care-mission-statement", "what-is-a-mission-statement-in-healthcare", "why-would-you-need-a-mission-statement", "deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "anatomy-of-a-great-healthcare-mission-statement-and-brand-dna", "the-unmatched-advantage-of-a-purpose-statement", "brand-dna-creating-a-mission-and-a-purpose-statement", "creating-a-healthcare-vision-statement-for-your-practice", "the-truth-about-mission-statements-in-healthcare"]
 title = "15 Unique Healthcare Mission Statements: 2023 [Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
@@ -180,12 +180,130 @@ Right Moments Hospice (ex)
 
 ## Physical therapy mission statement
 
-
-Theraputic (ex)
+MotionUnleash Health (ex)
 
 **How We Do It (Mission Statement):** To restore freedom and embrace motion for a life unleashed. we're dedicated to guide you towards a life of pain-free movement and limitless potential.
 
-![Picture of hospice mission statement](/assets/images/1-physical-therapy-mission-statement.webp)
+![Picture of Physical therapy mission statement](/assets/images/1-physical-therapy-mission-statement.webp)
+
+***
+
+PowerSteps (ex)
+
+**How We Do It (Mission Statement):** We’re here to transform your pain into power. With every step, we stand alongside you, breaking barriers and leading you to a life of renewed strength, resilience, and endless possibilities.
+
+![Picture of Physical therapy mission statement](/assets/images/2-physical-therapy-mission-statement.webp)
+
+
+***
+
+PotentialForge (ex)
+
+**How We Do It (Mission Statement):** To shatter boundaries, sculpting strength from discomfort. Step with us into a realm of renewal, where pain is merely a stepping stone to your full potential.
+
+![Picture of hospice mission statement](/assets/images/3-physical-therapy-mission-statement.webp)
+
+***
+
+## Massage therapy mission statement
+
+Symphony of Relief Wellness (ex)
+
+**How We Do It (Mission Statement):** Step into a realm where hands dance on tired skin. We’re not just rubbin' backs, we're conjuring symphonies of relief. Let your knots be banished, as we paint your body's canvas with sweet liberation.
+
+![Picture of Massage therapy mission statement](/assets/images/4-massage-therapy-mission-statement.webp)
+
+
+MuscleVerse (ex)
+
+**How We Do It (Mission Statement):** To compose verses of relief, an ode to tired muscles and weary spirits. Unravel, unfold, let the tensions be your forgotten stanzas.
+
+![Picture of Massage therapy mission statement](/assets/images/5-massage-therapy-mission-statement.webp)
+
+## Mental health mission statement
+
+MindUnwind (ex)
+
+**How We Do It (Mission Statement):** To untangle the mind's mess. Our words are lifelines, pulling minds from chaos, weaving calm in the noise.
+
+![Picture of Mental health mission statement](/assets/images/6-mental-health-mission-statement.webp)
+
+***
+
+SoulSong (ex)
+
+**How We Do It (Mission Statement):** Amidst Life's Song, we shape strength. Hearts hurt, souls ache, we guide the tune of recovery, crafting melodies of survival.
+
+![Picture of Mental health mission statement](/assets/images/7-mental-health-mission-statement.webp)
+
+
+## Medical spa mission statement
+
+Tranquil Haven Spa (ex)
+
+**How We Do It (Mission Statement):** To moments of peace in life's chaos, we are Tranquil Haven Spa – shaping serenity for your tired soul.
+
+![Picture of Medical spa mission statement](/assets/images/8-medical-spa-mission-statement.webp)
+
+***
+
+Reflections Spa (ex)
+
+**How We Do It (Mission Statement):** Reflections Spa, where layers fade and whispers of renewal dance, revealing your natural beauty anew.
+
+![Picture of Medical spa mission statement](/assets/images/9-medical-spa-mission-statement.webp)
+
+## Pediatric mission statement examples 
+
+Fanning Flames (ex)
+
+**How We Do It (Mission Statement):** Fanning Flames of Potential: We tends to sprouting souls, igniting sparks that light lifelong paths of strength.
+
+![Picture of Pediatric mission statement](/assets/images/10-pediatric-mission-statement-examples.webp)
+
+***
+
+Rainbow Pediatrics (ex)
+
+**How We Do It (Mission Statement):** Crafting Strong Beginnings: At Rainbow Pediatrics, we plant seeds of health and nurture dreams, painting the canvas of each child's journey with care.
+
+![Picture of Pediatric mission statement ](/assets/images/11-pediatric-mission-statement-examples.webp)
+
+
+## Urgent care mission statement
+
+Healing Breeze (ex)
+
+**How We Do It (Mission Statement):** To cradle moments of need, weaving quick healing and gentle respite into life's hurried rhythm.
+
+![Picture of Urgent care mission statement](/assets/images/12-urgent-care-mission-statement.webp)
+
+
+***
+
+Bloom Now (ex)
+
+**How We Do It (Mission Statement):** Where ailing moments find solace and health blooms anew in the urgency of now.
+
+![Picture of Urgent care mission statement](/assets/images/13-urgent-care-mission-statement.webp)
+
+
+## Psychologist Mission Statement
+
+MindSculpt (ex)
+
+**How We Do It (Mission Statement):** To navigate the labyrinth within, mending fractured souls and sculpting strength from chaos.
+
+![Picture of Psychologist Mission Statement](/assets/images/14-psychologist-Mission-Statement.webp)
+
+
+## Primary care mission statement
+
+EternalEmbers primary care (ex)
+
+**How We Do It (Mission Statement):** where flames of well-being are tended, and the embers of health glow eternal.
+
+![Picture of Primary care mission statement](/assets/images/15-primary-care-mission-statement.webp)
 
 
 ## What is a mission statement in healthcare?
