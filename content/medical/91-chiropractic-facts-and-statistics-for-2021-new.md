@@ -40,7 +40,6 @@ These are the most interesting Chiropractic stats we think you should know.
 
 {{% stat %}} **4)** visiting a chiropractor regularly reduces your pharmaceutical costs by 85%.  \[9\] {{% /stat %}}
 
-![Picture of chiropractic Statistics and facts ](/assets/images/1-1.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
@@ -57,7 +56,6 @@ These are the most interesting Chiropractic stats we think you should know.
 
 {{% stat %}} **10)** The US chiropractic market is estimated to worth $15+ billion. \[10\] {{% /stat %}}
 
-![Screenshot of chiropractic facts ](/assets/images/2-1.webp)
 
 {{% stat %}} **11)** 35% of the survey respondents said they didn't visit a chiropractor in the last year because the chiropractic care they received earlier was effective and they no longer need it. \[11\]{{% /stat %}}
 
@@ -73,7 +71,6 @@ Now, let’s go through some of the interesting stats when it comes to chiroprac
 
 {{% stat %}} **15)** Treatment for low-back pain by a chiropractor costs 40% less than that of a medical doctor \[15\]{{% /stat %}}
 
-![Picture of chiropractic Statistics that shows how much DC costs less than MD ](/assets/images/3-2.webp)
 
 {{% ad-unit %}} {{% /ad-unit %}}
 
