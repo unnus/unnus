@@ -176,6 +176,19 @@ Right Moments Hospice (ex)
 
 ![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.webp)
 
+
+***
+
+## Physical therapy mission statement
+
+
+Theraputic (ex)
+
+**How We Do It (Mission Statement):** To restore freedom and embrace motion for a life unleashed. we're dedicated to guide you towards a life of pain-free movement and limitless potential.
+
+![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.webp)
+
+
 ## What is a mission statement in healthcare?
 
 A mission statement in healthcare is a short statement that summarizes the commitments of your hospital or practice to achieve a higher vision.
