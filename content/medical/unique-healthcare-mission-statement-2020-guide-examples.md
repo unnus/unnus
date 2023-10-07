@@ -174,7 +174,6 @@ Right Moments Hospice (ex)
 
 **How We Do It (Mission Statement):** It was never about the end, it's about the current moment. We're here to enable patients live their life to its fullest, experience love and what it means to be understood during hardships.
 
-![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.webp)
 
 
 ***
