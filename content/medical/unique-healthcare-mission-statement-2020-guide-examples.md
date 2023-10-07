@@ -185,7 +185,7 @@ Theraputic (ex)
 
 **How We Do It (Mission Statement):** To restore freedom and embrace motion for a life unleashed. we're dedicated to guide you towards a life of pain-free movement and limitless potential.
 
-![Picture of hospice mission statement](/assets/images/hospice-mission-statement-2.webp)
+![Picture of hospice mission statement](/assets/images/1-physical-therapy-mission-statement.webp)
 
 
 ## What is a mission statement in healthcare?
