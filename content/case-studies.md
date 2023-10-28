@@ -8,7 +8,7 @@ menu: main
 weight: 4
 ---
 
-<section class="work-section">
+<!-- <section class="work-section">
 <div class="container">
 <div class="work-holder reveal-image-container">
 <div class="media-row reveal-image">
@@ -64,4 +64,4 @@ weight: 4
 </div>
 
 </div>
-</section>
+</section> -->
