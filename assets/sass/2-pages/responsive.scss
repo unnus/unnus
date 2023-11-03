@@ -1556,14 +1556,17 @@
 	}
 }
 @media (max-width:500px){
+	.header-blog nav a img{
+		width: 117px;
+	}
 	.header-blog #menu{
 		width:52%;
 	}
 	.header-blog #logo{
-		width:42%;
+		width:35%;
 	}
 	.header-blog .pop-btn{
-		width:127px;
+		width:112px;
 		svg{
 			display: none;
 		}
