@@ -136,19 +136,22 @@ var lazyanalisis=!1;window.addEventListener("scroll",function(){(0!=document.doc
 </script>
 
 
- 
-<style>
-	
-		nav{
-			margin-top:0 !important;
-		}
-	</style>
+
 <body>
 
 <header class="header-blog">
-	<div class="container">
-		{{ partial "navbar.html" . }}
-	</div>
+		<nav style="margin-top:2%">
+			<div class="container-nav">
+					<div id="logo">
+						<a href="/"><img src="/assets/images/unnus-logo.webp" alt="unnus logo"></a>
+					</div> 
+					<div id="menu" style="display: block">
+						<button style="padding-left: 0;font-size: 1.2em;" id="openModel" class="btn-s pop-btn"><a href="/" style="color: white;">Free Consult</a><svg viewBox="0 0 59 58" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g fill="none" stroke="#fff" stroke-width="9.38"><path  d="M2.688 28.863h50.054M31.231 2.688l24.576 26.175-24.576 26.175"></path></g></svg></button>
+
+						<svg id="msvg" viewBox="0 0 152 85" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><g stroke="#fff" stroke-width="12.5"><path d="M6.25 6.25h139.456M6.25 42.459h139.456" fill="none"/><path d="M6.25 78.669h139.456" fill="#fff"/></g></svg>	
+					</div>
+			</div>
+		</nav>
 
 	<div style="position: relative;" class="header-image">
     	<picture>
@@ -483,5 +486,7 @@ lazyadsense2 = true;
 }, true);
 //]]>
 </script>
+
+
   </body>
 </html>

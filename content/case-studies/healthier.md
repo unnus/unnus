@@ -7,25 +7,25 @@ description: case studies healthier
 
 
 <section class="company-intro">
-		<div class="container">
-			<div class="company-intro-holder">
-				<div class="headline-row">
-					<h2 class="light reveal-text">New Start, <br> New Identity</h2>
-				</div>
-				<div class="text-row reveal-text">
-					<p>After countless resources healthier spent on its visual identity, faced the underlining problem: their external branding doesn't reflect their internal brand.</p>
-					<p>We took a different route to healthier's identity by implementing a strategic branding process to create a more representative visuals</p> 
-			
-					<h3 class="light-headline underline">Work done</h3>
-					<ul>
-						<li>Identity Re-brand</li>
-						<li>Brand guidelines</li>
-						<li>Website</li>
-					</ul>
-				</div>
-			</div>
-		</div>
+<div class="container">
+<div class="company-intro-holder">
+<div class="headline-row">
+<h2 class="light reveal-text">New Start, <br> New Identity</h2>
+</div>
+<div class="text-row reveal-text">
+<p>After countless resources healthier spent on its visual identity, faced the underlining problem: their visuals doesn't reflect their internal brand.</p>
+<p>I took a different route to healthier's identity by implementing a strategic design process to create a more representative aesthetics</p> 
+<h3 class="light-headline underline">Work done</h3>
+<ul>
+<li>Identity Re-brand</li>
+<li>New UI Design</li>
+<li>New Website Design</li>
+</ul>
+</div>
+</div>
+</div>
 </section>
+
 
 <section class="healthier logo-showcase">
 	<div class="showboard">
