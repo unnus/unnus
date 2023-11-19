@@ -13,7 +13,7 @@ page = "medical/single.html"
 readingTime = "8"
 slug = "patient-engagement"
 socialThumbnail = "/assets/images/patient-engagment.webp"
-table_of_content = ["the-not-so-boring-blueprint-for-engagement-metrics", "patient-engagement-gauge-tool-your-clinics-crystal-ball","engagement-printable-planners-keeping-patients-engaged-without-popcorn","lets-wrap-this-with-a-bow-shall-we"]
+table_of_content = ["the-not-so-boring-blueprint-for-engagement-metrics", "patient-engagement-gauge-tool-your-clinics-crystal-ball","engagement-printable-planners-keeping-patients-engaged-without-popcorn","added-delights-the-juiciest-patient-engagement-softwares","lets-wrap-this-with-a-bow-shall-we"]
 title = "Patient Engagement: A Practical Guide (Free Tool + Planners)"
 twitterHandle = "SlimanBaghouri"
 +++
