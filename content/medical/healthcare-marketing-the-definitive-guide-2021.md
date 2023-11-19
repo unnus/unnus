@@ -238,6 +238,8 @@ This is an unmissed opportunity for your medical brand to have a strong online p
 
 Search Engine Optimization (SEO) is a marketing strategy that aims at ranking your website **#1** on Google for patients’ queries. Ranking high on the search result will attract a passive stream of patients to your website where they can book an appointment with you.
 
+This strategy is like having a top-tier employee constantly working the [job](https://jooble.org/) of drawing in potential patients through your virtual door.
+
 A great example of this strategy is Orthodontics Limited. They are ranking high on Google search for queries like “Causes of bad breath and "how to use rubber bands for braces". And As a result, their practice website gains massive amounts of traffic each month.
 
 ![Picture of a popular orthodontic practice ](/assets/images/orthodontic-marketing-seo.webp "SEO example")
