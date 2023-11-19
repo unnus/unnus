@@ -658,6 +658,43 @@ It's a hub loaded with actionable plans, engagement tools, branding insights, an
 
 ![patient engagement planners](/assets/images/Page-12-Resources.webp "patient engagement planners")
 
+## Added Delights: The Juiciest Patient Engagement Softwares
+
+**1) patient portals**: 
+
+Patient portals allows patients to look at their health records like they're snooping through a neighbor's curtains. It makes the patients life easier when trying to book appointments or check on their health record.
+
+1) [greenwayhealth](https://www.greenwayhealth.com/)
+2) [mychart](https://www.mychart.org/)
+3) [athenahealth](https://www.athenahealth.com/)
+
+**2) Telemedicine Platforms**: 
+
+The futuristic delight of having a virtual consultation. Your patients now can sometimes skip the waiting room and face-time their health back on track.
+
+1) [Teladoc](https://www.teladoc.com/)
+2) [Sesame](https://sesamecare.com/)
+3) [Plushcare](https://plushcare.com/)
+
+**3) Clinic mangement softwares**: 
+
+Imagine a multitasking assistant, but in digital form. It's the conductor orchestrating the healthcare orchestra, handling scheduling, billing, and patient records with the finesse of a seasoned project manager.
+
+1) [Medesk](https://www.medesk.net/en/)
+2) [mclinicapp](https://www.mclinicapp.com/)
+
+
+**4) Health Tracking Apps**: 
+
+advocating health tracking apps for patients boosts patient involvement in the recovery. 
+
+These apps will be their cheerleaders in the pocket, constantly reminding them to drink water, hit those step goals, and even nagging gently about getting enough shut-eye. They make healthy living feel like a game.
+
+
+1) [MyFitnessPal](https://www.myfitnesspal.com/)
+2) [Google Fit](https://www.google.com/fit/)
+3) [Apple Health app](https://www.apple.com/ios/health/)
+
 ## Let’s wrap this with a bow, shall we?
 
 These tools if implemented right, they're like magic wands, transforming the ordinary into the extraordinary, from meh to memorable.
