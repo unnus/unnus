@@ -55,7 +55,7 @@ Caresect, Psychiatric Hospital
 
 ![Picture of hospital mission statement](/assets/images/hospital-mission-statement-2.webp)
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 Future’s Youth, Pediatric Hospital (ex)
 
@@ -93,7 +93,7 @@ Utile Teeth, Dental practice (ex)
 
 **How We Do It (Mission Statement):** Most practices claim convenience, we live by it. We strive to make oral care as convenient as a light switch. We do that by improving our availability, increasing patient choice, and lowering wait time. We’re committed to investing in the latest technology for faster dentistry and same-day care for our patients.
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 ![Picture of dental mission statement](/assets/images/dental-mission-statement-3.webp)
@@ -520,7 +520,7 @@ To craft a purpose and a mission statement, we’ll use the Golden Circle Model.
 
 [You can download the free pdf version here](https://drive.google.com/file/d/1fOBWQT7UpMoq7wTtE1YpP5pvqUszpo_l/view?usp=sharing "Healthcare mission statement exercise link")
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
    
 The **why** will be considered as a **Purpose Statement**.
 

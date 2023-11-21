@@ -41,7 +41,7 @@ These are the most interesting Chiropractic stats we think you should know.
 {{% stat %}} **4)** visiting a chiropractor regularly reduces your pharmaceutical costs by 85%.  \[9\] {{% /stat %}}
 
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 {{% stat %}} **5)** You need to complete a min of 4,200 hours of classroom, lab, and clinical internships during a 4-year doctoral program to become a chiropractor. \[5\] {{% /stat %}}
@@ -72,7 +72,7 @@ Now, let’s go through some of the interesting stats when it comes to chiroprac
 {{% stat %}} **15)** Treatment for low-back pain by a chiropractor costs 40% less than that of a medical doctor \[15\]{{% /stat %}}
 
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 {{% stat %}} **16)** 10% of the world’s population suffers from lower back pain. \[16\]{{% /stat %}}
@@ -177,7 +177,7 @@ let’s go through some of the fun anecdotes and trivia about chiropractic care:
 
 {{% stat %}} **54)** 56% of patients who went to a doctor saw a 30% reduction in low back pain. But 94% of patients who went through manual-thrust manipulation seen a 30% reduction in low back pain 4 weeks later. \[54\] {{% /stat %}}
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 {{% stat %}} **55)** A clinical comparative trial conducted at 3 military medical centers found that chiropractic care combined with usual medical care for low back pain provides greater pain relief than medical care alone. \[55\] {{% /stat %}}
 

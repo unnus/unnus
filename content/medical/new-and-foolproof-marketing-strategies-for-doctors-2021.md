@@ -47,7 +47,7 @@ This article covers:
 
 The below strategies consist of little different but effective ways to market your practice.
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 ## Personal Brand Strategy for doctors
@@ -113,7 +113,7 @@ Launching your medical show will take your medical business to the next level. A
 * Podcasting will work as a flywheel that attracts new patient consistently
 * Establish you as an authority in the field
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 ## Podcast Tours Strategy
 

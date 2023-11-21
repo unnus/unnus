@@ -60,7 +60,7 @@ The right name can be a brand’s most valuable property, driving differentiatio
 {{% blockquote "Marty Neumeier" %}}An example of a great name is Carl Zeiss, the maker of optical lenses. Does Zeiss make great lenses? Who knows? But the name makes the lenses “sound” great. The word “Zeiss” has hints of “glass” and “precise,” and evokes thoughts of German technological superiority{{% /blockquote %}}
 
 Another good example is Smuckers, The jam manufacturer company. The name benefits strongly from onomatopoeia. “Smuckers” sounds like smacking lips, a preverbal testament to a yummy jam. The name is also unique, short, spellable, pronounceable, likable, portable, and legally-defensible.
-<ins class="adsbygoogle in-article-ad"
+<!-- <ins class="adsbygoogle in-article-ad"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
@@ -68,7 +68,7 @@ Another good example is Smuckers, The jam manufacturer company. The name benefit
      data-ad-slot="7890855276"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 As we can see, a great name radically increases the memorability of your medical business in the minds of patients. It can provide a vivid picture of everything you stand for and the values you hold.
 
@@ -174,7 +174,7 @@ Use a ranking score of 1 or 0 (yes or no). Try also giving this to friends/famil
 
 After you finish, you’ll have a total score for each name. The highest scored name wins.
 
-<ins class="adsbygoogle in-article-ad"
+<!-- <ins class="adsbygoogle in-article-ad"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
@@ -182,7 +182,7 @@ After you finish, you’ll have a total score for each name. The highest scored 
      data-ad-slot="7890855276"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Medical brand name examples
 

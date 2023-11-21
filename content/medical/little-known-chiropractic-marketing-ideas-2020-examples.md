@@ -38,7 +38,7 @@ This article covers:
 
 Without wasting too much time, let’s start.
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 ## **Why Most Chiropractic Marketing Campaigns Fail**
@@ -106,7 +106,7 @@ We shouldn’t be slaves to the growth curves. Instead of focusing on the short-
 
 To learn more about future-proof metrics, check this [guide](https://unnus.com/medical/healthcare-branding/#how-to-measure-branding-success).
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 ### **4) Misalignment between the marketing and the patient experience**
@@ -162,7 +162,7 @@ The second pitch doesn't sell you what they do. They’re selling you **why** th
 If you’d like to know how you develop a DNA and integrate it into your marketing communication, Here's a [free guide ](https://unnus.com/medical/healthcare-mission-statement/#brand-dna-creating-a-mission-and-a-purpose-statement)to implement it within your business.
 
 
-{{% ad-unit %}} {{% /ad-unit %}}
+<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
 
 ## **2) Developing a Brand Positioning Strategy**

@@ -38,7 +38,6 @@ twitterHandle = "/@SlimanBaghouri"
 
 <!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
-
 <div class="free-course">
 <h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Hospital Brand With Free Course</h2>
 <div class="text-container">		
