@@ -53,7 +53,7 @@ Marketing your medical business comes with endless benefits. Many of which are s
 
 The importance of marketing in healthcare can’t be overstated. It is the lifeblood of your brand that allows it to grow and achieve more people. The stronger your marketing, the larger your patient-base and the higher the number of people you’ll impact and heal.
 
-[Careers in healthcare](https://jooble.org/) beckon for more than just clinical mastery; they crave a blend of sharp strategy and proactive thinking. It's about more than healing hands; it's cultivating a steady stream of patients, nurturing a robust and enduring practice. 
+[Careers in healthcare](https://jooble.org/jobs-health-care/Sweden/) beckon for more than just clinical mastery; they crave a blend of sharp strategy and proactive thinking. It's about more than healing hands; it's cultivating a steady stream of patients, nurturing a robust and enduring practice. 
 
 ## Top healthcare marketing strategies
 
