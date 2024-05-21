@@ -18,11 +18,12 @@ title = "95 Dental Facts And Statistics For 2023 [+ Visuals]"
 twitterHandle = "#"
 
 +++
+
 {{% hook %}} Are you looking for “jaw-dropping” facts and statistics regarding dentistry in 2021? Look no further. {{% /hook %}}
 
 <!--more-->
 
-***
+---
 
 We’ve categorized and illustrated a list of up-to-date dental facts & stats below. Navigate using the content table on your right to jump to a category.
 
@@ -32,18 +33,17 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **1)** Jaw muscles can contract with a force of 55 up to 200 pounds of pressure \[1\]. {{% /stat %}}
 
-{{% stat %}} **2)** In a lifetime,  humans produce over 100,000 gallons of saliva \[2\]. {{% /stat %}}
+{{% stat %}} **2)** In a lifetime, humans produce over 100,000 gallons of saliva \[2\]. {{% /stat %}}
 
 {{% stat %}} **3)** Ape and human teeth have the same shape. \[1\]. {{% /stat %}}
 
 {{% stat %}} **4)** The American Dental Association was formed In 1859 at Niagra Falls by 26 dentists \[1\]. {{% /stat %}}
 
-{{% stat %}} **5)** Colgate first aromatic toothpaste was inside a jar in 1873.  \[1\] {{% /stat %}}
+{{% stat %}} **5)** Colgate first aromatic toothpaste was inside a jar in 1873. \[1\] {{% /stat %}}
 
 ![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.webp)
 
 <!-- {{% ad-unit %}} {{% /ad-unit %}} -->
-
 
 {{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth. \[2\] {{% /stat %}}
 
@@ -71,7 +71,6 @@ These are some of the weirdest dental facts we think you should know.
 
 <!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
-
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.webp)
 
 ## Dental Statistics And Facts By Demographics & Ethnicity
@@ -96,7 +95,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **24)** Cost barriers to dental care have fallen significantly for children while increasing for adults and seniors. \[5\] {{% /stat %}}
 
-{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health.  \[4\] {{% /stat %}}
+{{% stat %}} **25)** Due to the pandemic, 90% of Americans think that maintaining oral hygiene is critical to their health. \[4\] {{% /stat %}}
 
 {{% stat %}} **26)** Nearly one-quarter of dental students are Asian, compared to 18% of dentists overall and 6% of the U.S. population. \[5\] {{% /stat %}}
 
@@ -104,11 +103,11 @@ These are some of the weirdest dental facts we think you should know.
 
 ## Pediatric Dental Facts
 
-{{% stat %}} **28)** Children begin to develop their teeth in the womb — just 6 weeks after conception. \[1\]  {{% /stat %}}
+{{% stat %}} **28)** Children begin to develop their teeth in the womb — just 6 weeks after conception. \[1\] {{% /stat %}}
 
 {{% stat %}} **29)** An adult tooth that has been knocked out of your child’s mouth starts to die within 15 minutes, but if you put it in milk or hold it in your mouth under the tongue it will survive longer. \[1\] {{% /stat %}}
 
-{{% stat %}} **30)** Prehistoric children rarely have cavities because they don't eat sugar. \[1\]  {{% /stat %}}
+{{% stat %}} **30)** Prehistoric children rarely have cavities because they don't eat sugar. \[1\] {{% /stat %}}
 
 {{% stat %}} **31)** Kids miss 51 million school hours a year due to dental-related illnesses. \[3\] {{% /stat %}}
 
@@ -128,28 +127,27 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **36)** Patient volume was estimated at 81% of pre-COVID-19 levels on average. \[7\] {{% /stat %}}
 
-{{% stat %}} **37)** Staffing in dental offices was at 99% of pre-COVID-19 levels.  \[7\] {{% /stat %}}
+{{% stat %}} **37)** Staffing in dental offices was at 99% of pre-COVID-19 levels. \[7\] {{% /stat %}}
 
 {{% stat %}} **38)** Over the past month, the most common measure taken by dentists to maintain financial sustainability was raising fees. Others responded to the financial challenges of practice ownership by taking out loans. \[7\] {{% /stat %}}
 
 {{% stat %}} **39)** Dentists in large group practices have had to take fewer measures to maintain financial sustainability compared to those practicing solo. \[7\] {{% /stat %}}
 
-{{% stat %}} **40)** More than a third of dentists are practicing some form of teledentistry, most commonly to triage emergencies, do post-ops and follow-up care and for consults.  \[7\] {{% /stat %}}
+{{% stat %}} **40)** More than a third of dentists are practicing some form of teledentistry, most commonly to triage emergencies, do post-ops and follow-up care and for consults. \[7\] {{% /stat %}}
 
-{{% stat %}} **41)** Approximately 10% of dentists who were enrolled as Medicaid providers prior to the COVID-19 pandemic have since disenrolled.  \[7\] {{% /stat %}}
+{{% stat %}} **41)** Approximately 10% of dentists who were enrolled as Medicaid providers prior to the COVID-19 pandemic have since disenrolled. \[7\] {{% /stat %}}
 
-{{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go.  \[7\] {{% /stat %}}
+{{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go. \[7\] {{% /stat %}}
 
 <!-- {{% ad-unit %}} {{% /ad-unit %}} -->
 
-
 ![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.webp)
 
-{{% stat %}} **43)** Despite circulating myths from news outlets that mask-wearing may impact oral health and cause “mask mouth,” a recent survey by ADA found no meaningful change in the for conditions such as bad breath and dry mouth compared to pre-Covid-19.  \[7\] {{% /stat %}}
+{{% stat %}} **43)** Despite circulating myths from news outlets that mask-wearing may impact oral health and cause “mask mouth,” a recent survey by ADA found no meaningful change in the for conditions such as bad breath and dry mouth compared to pre-Covid-19. \[7\] {{% /stat %}}
 
-{{% stat %}} **44)** Dentists see more stress-related conditions during the pandemic.  \[7\] {{% /stat %}}
+{{% stat %}} **44)** Dentists see more stress-related conditions during the pandemic. \[7\] {{% /stat %}}
 
-{{% stat %}} **45)** 40% of dentists think that cost/income will be the biggest challenge facing their practice.  \[7\] {{% /stat %}}
+{{% stat %}} **45)** 40% of dentists think that cost/income will be the biggest challenge facing their practice. \[7\] {{% /stat %}}
 
 {{% stat %}} **46)** Nearly half of the dentists agree a drop in revenue has been the number #1 impact of the pandemic on their practice. \[8\] {{% /stat %}}
 
@@ -183,11 +181,11 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **59)** 72% of dentists choose referrals as a potent method to generate patients. \[12\] {{% /stat %}}
 
-{{% stat %}} **60)** 77% of dentists choose websites as their first marketing channel, followed by  68% that preferred social media, 48% who used emails marketing, 34% print ads,  21% used digital advertising platforms, and 18% for direct mails. \[12\] {{% /stat %}}
+{{% stat %}} **60)** 77% of dentists choose websites as their first marketing channel, followed by 68% that preferred social media, 48% who used emails marketing, 34% print ads, 21% used digital advertising platforms, and 18% for direct mails. \[12\] {{% /stat %}}
 
 ![A bar graph that shows statistic related to dentists using marketing channels ](/assets/images/dental-facts-and-statistics-10.webp)
 
-{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024  \[13\] {{% /stat %}}
+{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024 \[13\] {{% /stat %}}
 
 {{% stat %}} **62)** Dental implants have a 97% success rate \[14\] {{% /stat %}}
 
@@ -214,7 +212,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **70)** Patients who have membership plans are likely to visit the dentist two to three times more frequently than [uninsured ](https://www.insurancily.com/)patients and accept twice the amount of treatment. \[12\] {{% /stat %}}
 
-{{% stat %}} **71)** In a survey of 1005 adults, most Americans said that they used a multiple ways of methods of getting rid of the food in their teeth: fingernails (61%), cards (40%), cutlery (21%), pins (14%), and strands of hair (7%).  \[20\] {{% /stat %}}
+{{% stat %}} **71)** In a survey of 1005 adults, most Americans said that they used a multiple ways of methods of getting rid of the food in their teeth: fingernails (61%), cards (40%), cutlery (21%), pins (14%), and strands of hair (7%). \[20\] {{% /stat %}}
 
 {{% stat %}} **72)** In adults, 16% said that they flossed at least 1 time a day, 20% said they flossed when they needed to and 8% said that they never did floss. The reasons for not flossing was that it takes a lot of time (55%), 16% said it was pain-inducing and 9% said they find it repulsive. \[20\] {{% /stat %}}
 
@@ -224,7 +222,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **75)** People who drink \~4 cups of soda daily are 62% likely to suffer from tooth loss. \[2\] {{% /stat %}}
 
-{{% stat %}} **76)** The average person brushes 44-70 seconds/day while the recommended time is 2-4 minutes.  \[22\] {{% /stat %}}
+{{% stat %}} **76)** The average person brushes 44-70 seconds/day while the recommended time is 2-4 minutes. \[22\] {{% /stat %}}
 
 {{% stat %}} **77)** People who smoke are 2.7 times more likely to develop periodontal disease. \[3\] {{% /stat %}}
 
@@ -260,11 +258,11 @@ These are some of the weirdest dental facts we think you should know.
 
 ## Statistics About Dental Conditions
 
-{{% stat %}} **90)** On average, every 15 seconds, someone visits a hospital emergency department for dental conditions in the U.S.  \[5\] {{% /stat %}}
+{{% stat %}} **90)** On average, every 15 seconds, someone visits a hospital emergency department for dental conditions in the U.S. \[5\] {{% /stat %}}
 
 ![An illustration that shows dental fact about the frequency of dental condition in U.S](/assets/images/dental-facts-and-statistics-15.webp)
 
-{{% stat %}} **91)** 2.1 Million is the total number of hospital emergency department visits for dental conditions in the United States.  \[5\] {{% /stat %}}
+{{% stat %}} **91)** 2.1 Million is the total number of hospital emergency department visits for dental conditions in the United States. \[5\] {{% /stat %}}
 
 {{% stat %}} **92)** 70% of hospital emergency department visits for dental conditions occurring outside of normal business hours. \[5\] {{% /stat %}}
 
@@ -274,8 +272,9 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **95)** 69% of hospital emergency department visits for dental conditions among children in the United States are paid for by Medicaid. \[5\] {{% /stat %}}
 
-***
-<!-- 
+---
+
+<!--
 ## Footnotes
 
 **\[1\]** **→**  warrpda.org/fun-facts-dentistry/
