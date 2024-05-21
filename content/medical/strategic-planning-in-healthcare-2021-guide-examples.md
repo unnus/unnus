@@ -32,7 +32,7 @@ Here’s a brief outline of what I’ll cover:
 * The best 8 healthcare planning strategies
 * ‘Secret’ to a fruitful healthcare planning campaigns
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## What is strategic planning in healthcare?
@@ -69,7 +69,7 @@ The next graph illustrates how business growth rate correlates with operational 
 
 ![Growth rate as it relates to your operational performance](/assets/images/2-2-healthcare-strategic-planning-importance.webp "Growth rate as it relates to your operational performance")
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ### 3) It creates a cohesive workplace for your medical business
@@ -146,7 +146,7 @@ Let’s see some examples of SWOT Diagrams in healthcare.
 
 ![](/assets/images/swot-analysis-for-nurses.webp)
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ### 2) S.W.O.T Strategy Canvas™
 

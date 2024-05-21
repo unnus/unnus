@@ -54,7 +54,7 @@ By posing the question, "Who will you be after the pandemic?" the ad prompts vie
 
 **The video:**
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 <!-- {{< youtube m8zvY3_RtnU >}} -->
 
@@ -197,7 +197,7 @@ Taking it to the streets, with larger-than-life murals of patients rallying thei
 
 **The video:**
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 <!-- {{< youtube c4Jzb99Bpd0>}} -->
@@ -762,7 +762,7 @@ This ad presents them as more approachable than typical Health Plans.
 
 **The video:**
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 <!-- {{< youtube qSp0yIyj6Hc>}} -->

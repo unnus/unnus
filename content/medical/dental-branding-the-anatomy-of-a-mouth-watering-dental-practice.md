@@ -64,7 +64,7 @@ Again, That’s NOT what a brand is.
 
 The above definition is a more literal meaning.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## So, what is dental branding?
@@ -172,7 +172,7 @@ They went there to get confident.
 
 {{% /note %}}
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ### IV) They are not strategic in communicating with patients.

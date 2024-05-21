@@ -54,7 +54,7 @@ The refutation in this competitive environment lies within the **service** you p
 
 Focusing on the care service instead of the device is the first step to singling yourself out from the sea of sameness. This will give patients new reasons as to **why** they should come to you.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## Differentiate, Differentiate, Differentiate
 
@@ -120,7 +120,7 @@ So, although, making a video is a little more expensive than a normal ad, the re
 
 Here’s a heart-stirring ad from Bay Audiology:
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 <!-- {{< youtube iUPTOWST-6M>}}

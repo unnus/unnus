@@ -37,7 +37,7 @@ Here’s a brief outline of what to expect:
 * What to avoid when marketing your rehab center
 * The secret to result-driven rehab marketing
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## The issue with the current “marketing” of rehab
 
@@ -96,7 +96,7 @@ Building a correct messaging strategy for your rehab center involves understandi
 
 By following these steps, you can build a messaging strategy for your rehab center that is effective, authentic, and resonates with your [target patients](https://unnus.com/medical/patient-software-management).
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## Unique marketing strategies for rehab centers
 
@@ -130,7 +130,7 @@ As we established earlier, marketing this kind of business is a little bit trick
 
 By avoiding these common mistakes, you can establish your rehab center as an ethical and trustworthy resource for individuals seeking addiction treatment and recovery support.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## Here’s the “secret” to a great marketing campaign for your rehab
 

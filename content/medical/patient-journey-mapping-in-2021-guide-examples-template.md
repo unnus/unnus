@@ -40,7 +40,7 @@ Other topics I will discuss are:
 
 Let us dive in.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 
@@ -88,7 +88,7 @@ These unmatched growth results are the outcome of a great journey mapping. Enhan
 
 Patient journey mapping is a collaborative strategy by nature. Key stakeholders need to attend the workshop to see the bigger picture of the patient experience. This collaborative environment will align all of your team under one umbrella, ensuring that everyone is on the same page and vibrating at the same frequency. This will create consistency and harmony between all of your team which will result in a seamless experience for your patients.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## Step-By-Step Process: how to create a patient journey map:

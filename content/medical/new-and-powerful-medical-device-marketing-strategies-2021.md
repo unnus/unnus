@@ -41,7 +41,7 @@ This article contains:
 8. How to build a brand preference for your firm?
 9. The truth about medical device marketing
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## Brand Storytelling Strategy: The New way of marketing your medical device firm and products
 
@@ -94,7 +94,7 @@ Now that you have a good idea of what this strategy is about, let’s see its fo
 
 ![Brand Storytelling Strategy Diagram](/assets/images/1-storytelling-diagram.webp "Brand Storytelling Strategy Diagram")
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ### Stage 1: Cultivating a Brand DNA
 

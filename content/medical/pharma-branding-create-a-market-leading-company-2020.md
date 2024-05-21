@@ -34,7 +34,7 @@ By the end of this article, you’ll have a clear understanding of
 
 Without wasting time, let’s dive in.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## Threats the pharmaceutical industry is facing
@@ -116,7 +116,7 @@ Positioning is the way your audience perceives your product **_in relation to _*
 
 We’ll go into the stages of building an authentic brand. But for now, let’s explore the advantages of an established pharma brand.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## Advantages of branding in the pharmaceutical industry

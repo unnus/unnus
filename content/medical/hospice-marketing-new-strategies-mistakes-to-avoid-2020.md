@@ -41,7 +41,7 @@ without further ado, let’s start.
 
 ## Mistakes to Avoid in hospice marketing
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 Before we dig into the marketing ideas, let’s see common pitfalls so you can avoid them.
@@ -108,7 +108,7 @@ This is a huge advantage for your agency to differentiate itself from the compet
 
 Another way that this could benefit you, is that the online experience is a great channel to have conversations with potential patients. This could be your chance to educate, debunk the myths, and lure customers into your hospice.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## Before Marketing your Hospice, Do This

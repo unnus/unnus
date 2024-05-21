@@ -43,7 +43,7 @@ These are some of the weirdest dental facts we think you should know.
 
 ![Picture of dental fact about colgate's first aromatic toothpaste](/assets/images/1-2.webp)
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 {{% stat %}} **6)** In a lifetime, the average American spends \~38.5 days in teeth brushing. About one month of brushing teeth. \[2\] {{% /stat %}}
 
@@ -69,7 +69,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **16)** Americans spend an average of $2.5 Billion yearly on candy. After a peak in 2010 where candy consumption grossed $25 billion. \[3\] {{% /stat %}}
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ![Graph shows dental statistic which illustrates how americans spend money on candy ](/assets/images/dental-facts-and-statistics-3.webp)
 
@@ -139,7 +139,7 @@ These are some of the weirdest dental facts we think you should know.
 
 {{% stat %}} **42)** Patient confidence in returning to the dental office hit a new high, with 90% reporting to have already been back or are ready to go. \[7\] {{% /stat %}}
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ![A pie chart that shows how patients are confidence in returning to the dental office](/assets/images/dental-facts-and-statistics-8.webp)
 

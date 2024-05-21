@@ -36,7 +36,7 @@ twitterHandle = "/@SlimanBaghouri"
 <li>Pivoting your hospital during this pandemic</li>
 </ul>
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 <div class="free-course">
 <h2>Attract Loyal Patients And <span class="stroked-brush">Differentiate</span> Your Hospital Brand With Free Course</h2>
@@ -209,7 +209,7 @@ Brand culture is the culture that a company cultivates in order to powerfully an
 <p><cite>—Mark Di Somma</cite>
 </blockquote>
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 <p>Medical businesses routinely separate functions or hierarchical levels to achieve efficiencies, However...</p>

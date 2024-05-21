@@ -133,7 +133,7 @@ This article covers:
 
 Before we go into the details of marketing your nursing home, let’s first tackle the pitfalls you need to take precautions against.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ### 1) Jumping into the "Social media" bandwagon
@@ -194,7 +194,7 @@ Here’s a graph that illustrates how trust correlates with buying decisions:
 
 ![illustration of how trust plays bigger role as the decision size gets more important](/assets/images/trust-of-buying-decision.webp "illustration of how trust plays bigger role as the decision size gets more important")
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## Cross-Promotion Marketing Strategy
 

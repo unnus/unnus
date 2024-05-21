@@ -37,7 +37,7 @@ This article covers:
 
 Let’s not waste time and dive right ahead.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 ## What is healthcare marketing?
 
@@ -57,7 +57,7 @@ The importance of marketing in healthcare can’t be overstated. It is the lifeb
 
 ## Top healthcare marketing strategies
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 Now we know the importance of marketing, let’s dive into some of the strategies to market your healthcare brand.
 
@@ -111,7 +111,7 @@ Finish the following sentence: Our \[brand/offering\] Is The Only \[Category\] T
 
 In the first column is your brand or offer. In the second one, you put your category e.g.: cosmetic service, care-center. And in the last one, you put your key differentiator or benefit.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 Here’s an example of well-positioned medical brands:
@@ -192,7 +192,7 @@ Healthier wanted to break the stereotype of strict and rigid hospital communicat
 
 ![brand voice example in healthcare](/assets/images/14-brand-voice-in-healthcare.webp "brand voice example in healthcare")
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 What differentiates Healthier’s marketing was its unique way of communicating. It’s effective because it claims a voice that resonates deeply with the safety-minded people and its target community.
 

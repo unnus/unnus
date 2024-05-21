@@ -35,7 +35,7 @@ This article covers:
 6. Ridiculously cheap digital advertising platforms.
 7. The secret to marketing your orthodontic practice.
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## **The risk of not being seen in the dental industry**
@@ -76,7 +76,7 @@ Branding your dental practice is all about sending trust signals to your patient
 
 If you want a deep dive into the unmatched advantages of building your medical brand, check our article on [branding in healthcare](https://www.unnus.com/medical/healthcare-branding/)
 
-<!-- {{% ad-unit %}} {{% /ad-unit %}} -->
+{{% ad-unit %}} {{% /ad-unit %}}
 
 
 ## **Orthodontic marketing ideas**
