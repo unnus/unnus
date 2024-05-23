@@ -14,7 +14,7 @@ readingTime = "9"
 slug = "/dental-facts-statistics"
 socialThumbnail = "/assets/images/dental-stat-feature.webp"
 table_of_content = ["weird-dental-facts", "dental-statistics-and-facts-by-demographics--ethnicity", "pediatric-dental-facts", "dental-statistics-related-to-covid-19", "dental-industry-statistics", "dental-patients-facts", "dental-profession-facts-and-statistics", "statistics-about-dental-conditions", "footnotes"]
-title = "95 Dental Facts And Statistics For 2023 [+ Visuals]"
+title = "95 Dental Facts And Statistics For 2024 [+ Visuals]"
 twitterHandle = "#"
 
 +++

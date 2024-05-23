@@ -14,7 +14,7 @@ readingTime = "12"
 slug = "/healthcare-mission-statement"
 socialThumbnail = "/assets/images/healthcare-mission-statement.webp"
 table_of_content = ["healthcare-mission-statement-examples", "hospital-mission-statement", "dental-mission-statement", "chiropractic-mission-statement", "pharmacy-mission-statement", "nursing-home-mission-statement", "hospice-mission-statement","physical-therapy-mission-statement","massage-therapy-mission-statement","mental-health-mission-statement","medical-spa-mission-statement","pediatric-mission-statement-examples","urgent-care-mission-statement","psychologist-mission-statement","primary-care-mission-statement", "what-is-a-mission-statement-in-healthcare", "why-would-you-need-a-mission-statement", "deadly-pitfalls-of-being-inauthentic-in-your-mission-statement", "anatomy-of-a-great-healthcare-mission-statement-and-brand-dna", "the-unmatched-advantage-of-a-purpose-statement", "brand-dna-creating-a-mission-and-a-purpose-statement", "creating-a-healthcare-vision-statement-for-your-practice", "the-truth-about-mission-statements-in-healthcare"]
-title = "29 Unique Healthcare Mission Statements: 2023 [Examples]"
+title = "29 Unique Healthcare Mission Statements: 2024 [Examples]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++

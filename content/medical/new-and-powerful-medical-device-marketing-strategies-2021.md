@@ -14,7 +14,7 @@ readingTime = "8"
 slug = "/medical-device-marketing"
 socialThumbnail = "/assets/images/featured-1.webp"
 table_of_content = ["brand-storytelling-strategy-the-new-way-of-marketing-your-medical-device-firm-and-products", "the-science-behind-storytelling-strategy-and-why-it-works", "the-4-stages-of-a-medical-device-brand-storytelling", "examples-of-medical-device-marketing-using-storytelling", "the-truth-about-medical-device-marketing"]
-title = "New (And Powerful) Medical Device Marketing Strategies (2023)"
+title = "New (And Powerful) Medical Device Marketing Strategies (2024)"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
