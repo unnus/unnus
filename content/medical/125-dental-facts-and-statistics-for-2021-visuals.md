@@ -14,7 +14,7 @@ readingTime = "9"
 slug = "/dental-facts-statistics"
 socialThumbnail = "/assets/images/dental-stat-feature.webp"
 table_of_content = ["weird-dental-facts", "dental-statistics-and-facts-by-demographics--ethnicity", "pediatric-dental-facts", "dental-statistics-related-to-covid-19", "dental-industry-statistics", "dental-patients-facts", "dental-profession-facts-and-statistics", "statistics-about-dental-conditions", "footnotes"]
-title = "95 Dental Facts And Statistics For 2024 [+ Visuals]"
+title = "95 Dental Facts And Statistics For 2025 [+ Visuals]"
 twitterHandle = "#"
 
 +++
@@ -185,7 +185,7 @@ These are some of the weirdest dental facts we think you should know.
 
 ![A bar graph that shows statistic related to dentists using marketing channels ](/assets/images/dental-facts-and-statistics-10.webp)
 
-{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2024 \[13\] {{% /stat %}}
+{{% stat %}} **61)** Dental implant market is estimated to be $5.1 billion and is expected to shoot up to a $7.97 billion by 2025 \[13\] {{% /stat %}}
 
 {{% stat %}} **62)** Dental implants have a 97% success rate \[14\] {{% /stat %}}
 

@@ -14,7 +14,7 @@ readingTime = "8"
 slug = "rehab-marketing"
 socialThumbnail = "/assets/images/rehab-marketing-2-1.webp"
 table_of_content = ["the-issue-with-the-current-marketing-of-rehab", "focus-on-building-your-brand-instead", "example-of-how-to-apply-branding-to-your-rehab-business", "focus-on-messaging-strategy", "unique-marketing-strategies-for-rehab-centers", "the-donts-of-marketing-your-rehab", "heres-the-secret-to-a-great-marketing-campaign-for-your-rehab"]
-title = "Rehab Marketing: A New Gimmicks-Free Guide [2024]+ Examples"
+title = "Rehab Marketing: A New Gimmicks-Free Guide [2025]+ Examples"
 twitterHandle = "SlimanBaghouri"
 
 +++

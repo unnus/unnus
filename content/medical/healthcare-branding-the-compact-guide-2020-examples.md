@@ -14,7 +14,7 @@ readingTime = "19"
 slug = "/healthcare-branding"
 socialThumbnail = "/assets/images/healthcare-branding.webp"
 table_of_content = ["what-is-healthcare-branding", "patient-cognitive-bias-and-why-we-favor-a-medical-brand-over-another", "the-danger-of-not-branding-your-healthcare-business", "the-difference-between-healthcare-branding-and-marketing", "the-unmatched-advantages-of-branding-your-healthcare-business", "the-5-processes-of-branding-strategies", "how-to-measure-branding-success", "examples-of-branding-in-the-healthcare-industry", "the-truth-about-healthcare-branding"]
-title = "Healthcare Branding: The Definitive Guide [2024] "
+title = "Healthcare Branding: The Definitive Guide [2025] "
 twitterHandle = "@SlimanBaghouri"
 
 +++
