@@ -14,7 +14,7 @@ readingTime = "7"
 slug = "/nursing-home-marketing"
 socialThumbnail = "/assets/images/nursing-home-featured.webp"
 table_of_content = ["mistakes-to-avoid-when-marketing-your-nursing-home", "nursing-home-marketing-ideas", "multi-channel-marketing", "targeting-the-decision-makers-with-trust-creation-messaging", "cross-promotion-marketing-strategy", "video-storytelling", "print-advertising", "local-seo", "pay-per-click-advertising", "sponsor-a-community-event", "youtube-advertising", "the-secret-to-a-result-driven-nursing-home-marketing"]
-title = "Proven Nursing Home Marketing Ideas + (Traps to Avoid) [2025]"
+title = "Proven Nursing Home Marketing Ideas + (Traps to Avoid) [2026]"
 twitterHandle = "/@SlimanBaghouri"
 
 +++

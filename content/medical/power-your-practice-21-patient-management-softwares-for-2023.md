@@ -14,7 +14,7 @@ readingTime = "12"
 slug = "patient-software-management"
 socialThumbnail = "/assets/images/featured-softwares-2.webp"
 table_of_content = ["patient-mangments-softwares-for-general-practices", "patient-mangments-softwares-for-dentists", "patient-mangments-softwares-for-chiropractors", "patient-mangments-softwares-for-cardiologists", "patient-mangments-softwares-for-dermatologists", "patient-mangments-softwares-for-mental-health-practitioners", "patient-mangments-softwares-for-ophthalmologists"]
-title = "Power Your Practice: 25 Patient Management Softwares [2025] "
+title = "Power Your Practice: 25 Patient Management Softwares [2026] "
 twitterHandle = "SlimanBaghouri"
 
 +++

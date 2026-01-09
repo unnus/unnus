@@ -14,7 +14,7 @@ readingTime = "8"
 slug = "/healthcare-strategic-planning"
 socialThumbnail = "/assets/images/feautre-2.webp"
 table_of_content = ["what-is-strategic-planning-in-healthcare", "the-benefit-of-strategic-planning-in-healthcare", "3-common-mistakes-when-implementing-healthcare-strategic-planning", "best-healthcare-planning-strategies-with-examples", "the-secret-to-a-fruitful-healthcare-strategic-plan"]
-title = "Strategic Planning In Healthcare: 2025 Guide + Examples"
+title = "Strategic Planning In Healthcare: 2026 Guide + Examples"
 twitterHandle = "/@SlimanBaghouri"
 
 +++
